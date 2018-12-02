@@ -2,7 +2,7 @@
 layout: page
 title: Newsletter #1
 permalink: "newsletter_1"
-subtitle: Title of the newsletter
+subtitle: Title of the newsletter 1 
 ---
 
 I'm the big newsletter
