@@ -71,10 +71,11 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: false
+  # rss: false
+  youtube: user/unswlolsoc
   email: "unswlolsoc@gmail.com"
   facebook: UNSWLoLSociety
-  github: daattali
+# github: daattali
   twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
@@ -82,8 +83,8 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
+  instagram: UNSWLoLSoc
+ 
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -96,11 +97,11 @@ share-links-active:
   facebook: true
   email: true
   google: false
-  linkedin: false
+ # linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-#url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+# url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
