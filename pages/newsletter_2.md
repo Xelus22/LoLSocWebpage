@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Newsletter #2
+title: Newsletter 2
 permalink: "newsletter_2"
 subtitle: Title of the newsletter 2
 ---
