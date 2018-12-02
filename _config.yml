@@ -50,7 +50,7 @@ link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#000000"
 footer-text-col: "#FFFFFF"
-footer-link-col: "#F2F2F2"
+footer-link-col: "#D9D9D9"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
