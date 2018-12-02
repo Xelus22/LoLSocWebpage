@@ -25,7 +25,7 @@ description: UNSW League of Legends Society
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Newsletter #1: "_pages/newsletter_1"
+    - Newsletter #1: "_pages"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
   Author's home: "http://deanattali.com"
