@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Newsletter #1
+permalink: "newsletter_1"
 subtitle: Title of the newsletter
 ---
 
