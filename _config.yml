@@ -24,7 +24,7 @@ description: UNSW League of Legends Society
 # List of links in the navigation bar
 navbar-links:
   About Us: "aboutus"
-  Discord: "http://www.discord.com/"
+  Discord: "https://discord.gg/unswlolsoc"
   Resources:
     - Newsletters: "blog"
     - Events: "http://www.markdowntutorial.com/"
