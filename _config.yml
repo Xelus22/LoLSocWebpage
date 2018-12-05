@@ -27,9 +27,10 @@ navbar-links:
   Discord: "http://www.discord.com/"
   Resources:
     - Newsletters: "blog"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+    - Events: "http://www.markdowntutorial.com/"
+    - Esports Corner: "https://pages.github.com/"
   Sign Up: "http://google.com/"
+  Contact Us: "test"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
