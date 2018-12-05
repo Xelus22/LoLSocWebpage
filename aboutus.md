@@ -1,10 +1,13 @@
 ---
 layout: page
-title: About me
+title: About Us
+permalink: "aboutus"
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+We are UNSW League of Legends.
+
+We have the following qualities:
 
 - I rock a great mustache
 - I'm extremely loyal to my family
