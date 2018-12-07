@@ -3,15 +3,19 @@ layout: page
 title: UNSW League of Legends Society
 subtitle: UNSWLoLSoc
 use-site-title: true
+
 ---
+# WELCOME TO UNSW LOLSOC
 
-My name is Inigo Montoya. I have the following qualities:
+We're home to enthusiasts, casual and competitive players of one of the most popular PC games in the world - League of Legends.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+If you love League of Legends, join our community today for a world of fun!
 
-What else do you need?
+* Competitive Events
+* Casual Events
+* Coaching/Learning
+* Active, Friendly Community
+* Giveaways & Competitions
+* Infinite Amounts of Fun
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Sign up today at [http://www.unswlolsoc.com/signup/](http://www.unswlolsoc.com/signup/ "http://www.unswlolsoc.com/signup/") !
