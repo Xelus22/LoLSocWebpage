@@ -1,7 +1,7 @@
 ---
 layout: post
 title: eoy newsletter v3
-subtitle: x
+subtitle: xq
 
 ---
 <style>
