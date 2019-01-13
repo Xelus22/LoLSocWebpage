@@ -4,22 +4,6 @@ title: eoy newsletter v3
 subtitle: qq
 
 ---
-<style>
-div.transbox {
-  margin: 30px;
-  background-color: #ffffff;
-  border: 1px solid black;
-  opacity: 0.6;
-  filter: alpha(opacity=60); 
-}
-
-div.transbox p {
-  margin: 15%;
-  font-weight: bold;
-  color: black;
-}
-</style>  
-
 Year in Review: 2018
 
 http://www.unswlolsoc.com/ Website (http://www.unswlolsoc.com/)
@@ -62,11 +46,7 @@ Tune in 2019 O-week.
 <br>
 <br>
 
-<div class="background">
- <div class="transbox">
-  <p> ## THE JOURNEY </p>
-</div>
-  </div>
+## THE JOURNEY
   
 ### _SOCIAL EVENTS: LAN, TRIVIA, KARAOKE_
 
