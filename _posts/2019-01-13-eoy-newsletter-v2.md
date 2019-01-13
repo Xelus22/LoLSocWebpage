@@ -7,7 +7,8 @@ subtitle: A trip down memory lane
 Hi everyone, on behalf of both the outgoing and current executive team, we would like to wish all UNSW LoLSoc members a happy new year! Thank you for being a part of our 2018 and creating amazing memories with us!
 
 NEEKO-suto! Let's take a look at the snapshots of our fun times together and let those be the support for us to  RISE to greater heights both on the Rift and in life next year.  Sending kindest regards from China,  
-Wendy Zhang President 2017-18
+Wendy Zhang   
+President 2017-18
 
 ![](https://xelus22.github.io/LoLSocWebpage/uploads/5ee7a2c2-1452-4e29-97b0-11b7d01a4f17.jpg)
 <br>
