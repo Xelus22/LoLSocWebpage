@@ -4,13 +4,7 @@ title: eoy newsletter v3
 subtitle: qq
 
 ---
-![](https://xelus22.github.io/LoLSocWebpage/uploads/5ee7a2c2-1452-4e29-97b0-11b7d01a4f17.jpg)Year in Review: 2018
-
-http://www.unswlolsoc.com/ Website (http://www.unswlolsoc.com/)
-https://www.facebook.com/UNSWLoLSociety/ Facebook (https://www.facebook.com/UNSWLoLSociety/)
-https://twitter.com/UNSWLoLSoc Twitter (https://twitter.com/UNSWLoLSoc)
-https://www.youtube.com/user/unswlolsoc YouTube (https://www.youtube.com/user/unswlolsoc)
-mailto:execs@unswlolsoc.com Email (mailto:execs@unswlolsoc.com)
+![](https://xelus22.github.io/LoLSocWebpage/uploads/5ee7a2c2-1452-4e29-97b0-11b7d01a4f17.jpg)
 
 Hi everyone, On behalf of both the outgoing and current executive team, we would like to wish all UNSW LoLSoc members a happy new year! Thank you for being a part of our 2018 and creating amazing memories with us!
 
