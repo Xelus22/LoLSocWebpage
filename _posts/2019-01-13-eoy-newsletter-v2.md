@@ -1,9 +1,25 @@
 ---
 layout: post
 title: eoy newsletter v3
-subtitle: x
+subtitle: qq
 
 ---
+<style>
+div.transbox {
+  margin: 30px;
+  background-color: #ffffff;
+  border: 1px solid black;
+  opacity: 0.6;
+  filter: alpha(opacity=60); 
+}
+
+div.transbox p {
+  margin: 15%;
+  font-weight: bold;
+  color: black;
+}
+</style>  
+
 Year in Review: 2018
 
 http://www.unswlolsoc.com/ Website (http://www.unswlolsoc.com/)
@@ -46,9 +62,13 @@ Tune in 2019 O-week.
 <br>
 <br>
 
-## THE JOURNEY
-
-> ### SOCIAL EVENTS: LAN, TRIVIA, KARAOKE
+<div class="background">
+ <div class="transbox">
+  <p> ## THE JOURNEY </p>
+</div>
+  </div>
+  
+### _SOCIAL EVENTS: LAN, TRIVIA, KARAOKE_
 
 Hands up if you've made a friend through LoLSoc this year! If you went to our Social LAN where we played some casual League and Tandem tournament or Trivia Night where we enjoyed pizza together and got some of our League knowledge spinning; or last but not least, our lit Karaoke Night where hidden talents were discovered after a satisfying KBBQ dinner, then we hope you had a great time and met some cool people there! For a further trip down memory lane, you can find our event recaps [here](http://www.unswlolsoc.com/events/ "Event Recaps Page").
 <br>
