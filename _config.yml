@@ -158,9 +158,17 @@ timezone: "Australia/Sydney"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 7
-paginate_path: "/newsletters/page:num/"
-paginate_path: "/events/page:num/"
+#paginate: 7
+#paginate_path: "/newsletters/page:num/"
+#paginate_path: "/events/page:num/"
+paginate_multiple:
+  - paginate: 10
+    paginate_path: '/newsletters/page:num/'
+    sub_dir: '/newsletters'
+  - paginate: 10
+    paginate_path: '/events/page:num/'
+    sub_dir: '/events'
+
 
 kramdown:
   input: GFM
@@ -252,6 +260,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-menus
+  - jekyll-paginate-multiple
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
