@@ -68,7 +68,9 @@ Our Rumble tournament is an initiative alongside RiotGames to cater for lower di
 
 The above showcases just a few of our many amazing subcommittee members who have contributed to making LoLSoc events fun and engaging. If you really enjoyed our BBQs, Rumble tournament and Worlds viewing party, or gained ELO after being coached at our social LAN, these events wouldn't have been amazing without the help of our subcoms! Similarly the comprehensive articles, eye-catching posts and banners, and event photos -if you remember a guy always pointing a camera your way at the events to capture each precious moment-, these are also our marketing subcoms working behind-the-scenes (or hiding behind).  Thank you for joining us this year and using your kindness and passion to help LoLSoc grow! 
 
-ANNUAL GENERAL MEETING In September, we encountered our Annual General Meeting where we said goodbye to the past and welcomed in our newly formed executive team. Those who went to the meeting would have heard their testimonials and experienced the intense live-action election at play.  Get to know your 2018-19 executives here ↓ Exec Profiles (http://www.unswlolsoc.com/executive/) 
+### ANNUAL GENERAL MEETING 
+
+In September, we encountered our Annual General Meeting where we said goodbye to the past and welcomed in our newly formed executive team. Those who went to the meeting would have heard their testimonials and experienced the intense live-action election at play.  Get to know your 2018-19 executives here ↓ Exec Profiles (http://www.unswlolsoc.com/executive/) 
 
 ## THE END OF 2018 
 
