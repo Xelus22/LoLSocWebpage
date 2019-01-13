@@ -4,7 +4,7 @@ title: 2019 O-Week Volunteer Callout
 subtitle: ''
 
 ---
-![](/uploads/Autehntication UNSW signup.JPG)
+![](https://xelus22.github.io/LoLSocWebpage/uploads/Autehntication UNSW signup.JPG)
 
 ## **2019 O-Week Volunteer Callout**
 
