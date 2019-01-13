@@ -104,7 +104,7 @@ var main = {
   			getNextImg();
 		  }, 1000);
   		  //});
-  		}, 6000);
+  		}, 3000);
   	  };
 
 	  // If there are multiple images, cycle through them
