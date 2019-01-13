@@ -4,8 +4,7 @@ title: End of Year Newsletter 2018 vvv
 subtitle: ''
 
 ---
-<!doctype html>
-<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+<html>
     <head>
         <!-- NAME: RIGHT SIDEBAR -->
         <!--[if gte mso 15]>
