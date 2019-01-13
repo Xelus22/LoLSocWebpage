@@ -29,11 +29,13 @@ Wendy Zhang President 2017-18
 ☆ Introduced the HR director role  
 ☆ New initiatives like the E-sports corner and monthly plays
 <br>
-<br>![](https://xelus22.github.io/LoLSocWebpage/uploads/da4e292e-8e2e-470a-b06c-c2464cd4bc2e.jpg)
+<br>
 
 ## THE BEGINNING
 
 ### OWEEK & MEGALAN 3.0
+
+![](https://xelus22.github.io/LoLSocWebpage/uploads/d1345f1a-8a37-494f-b163-61d912821fbe.jpg)
 
 We were delighted to see many happy faces from both old and new members come visit our O-week stall this year. Hope everyone enjoyed the small gifts we prepared, including our classic goodie bags, membership card (2018 design) and the lucky five who received a RiotGames champion figurine!
 
