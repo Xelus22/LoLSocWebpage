@@ -54,7 +54,9 @@ BBQs and our online Friendly Fridays have been a constant on the LoLSoc events l
 
 The Worlds finals is definitely an event everyone looks forward to in November every year. Although we saw some disappointed RNG fans walking in, the battle between Invictus Gaming and Fnatic was nevertheless a good showdown (3-0 saved a lot of people from a late night out).  Hope everyone enjoyed our mini pick-em competition during Worlds as well!  
 
-### THE MILESTONES EASTERN UNI GAMES & SYDNEY BATTLEGROUNDS  
+## THE MILESTONES 
+
+### EASTERN UNI GAMES & SYDNEY BATTLEGROUNDS  
 
 This year, we were fortunate to witness the UNSW Unigames League of Legends team become OUC champions and stepping into an even greater, international stage in China. Congratulations and thank you to all who supported them along the way.  Moreover, the UNSW LoLSoc team came 1st in the Sydney battlegrounds tournament which was hosted alongside 6 other universities and with over 30 teams participating. Proud achievements! 
 
