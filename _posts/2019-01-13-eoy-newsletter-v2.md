@@ -1,7 +1,7 @@
 ---
 layout: post
 title: eoy newsletter v3
-subtitle: 2.1
+subtitle: 2.1.1
 
 ---
 Year in Review: 2018
@@ -58,11 +58,12 @@ The Worlds finals is definitely an event everyone looks forward to in November e
 
 This year, we were fortunate to witness the UNSW Unigames League of Legends team become OUC champions and stepping into an even greater, international stage in China. Congratulations and thank you to all who supported them along the way.  Moreover, the UNSW LoLSoc team came 1st in the Sydney battlegrounds tournament which was hosted alongside 6 other universities and with over 30 teams participating. Proud achievements! 
 
+
 ### RUMBLE TOURNAMENT 
 
 Our Rumble tournament is an initiative alongside Riot Games to cater for lower division players, providing them with a competitive gaming experience. This year we opened the tournament to gold and below with an allowance of 2 platinum players per team. More friends to play with YAY!  Congratulations to team "front-line-adc-desmond-1v9s-and-throws" for taking 1st place against 7 other teams and winning the Logitech sponsored mouse set and 20000 RP. Hope it was a memorable tournament for everyone and we sure had very creative team-namers this year too.  
-
 <br>
+
 ## THE CHECKPOINTS 
 
 ### SUB-COMMITTEE DRIVE
