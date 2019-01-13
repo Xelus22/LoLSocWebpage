@@ -1,7 +1,7 @@
 ---
 layout: post
 title: eoy newsletter v3
-subtitle: Best sport ever!
+subtitle: ''
 
 ---
 Year in Review: 2018
