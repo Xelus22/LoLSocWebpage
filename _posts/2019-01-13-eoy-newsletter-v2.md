@@ -4,7 +4,7 @@ title: eoy newsletter v3
 subtitle: qq
 
 ---
-Year in Review: 2018
+![](https://xelus22.github.io/LoLSocWebpage/uploads/5ee7a2c2-1452-4e29-97b0-11b7d01a4f17.jpg)Year in Review: 2018
 
 http://www.unswlolsoc.com/ Website (http://www.unswlolsoc.com/)
 https://www.facebook.com/UNSWLoLSociety/ Facebook (https://www.facebook.com/UNSWLoLSociety/)
@@ -47,7 +47,7 @@ Tune in 2019 O-week.
 <br>
 
 ## THE JOURNEY
-  
+
 ### _SOCIAL EVENTS: LAN, TRIVIA, KARAOKE_
 
 Hands up if you've made a friend through LoLSoc this year! If you went to our Social LAN where we played some casual League and Tandem tournament or Trivia Night where we enjoyed pizza together and got some of our League knowledge spinning; or last but not least, our lit Karaoke Night where hidden talents were discovered after a satisfying KBBQ dinner, then we hope you had a great time and met some cool people there! For a further trip down memory lane, you can find our event recaps [here](http://www.unswlolsoc.com/events/ "Event Recaps Page").
