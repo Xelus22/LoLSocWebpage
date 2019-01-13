@@ -20,13 +20,12 @@ Wendy Zhang President 2017-18
 ## OVERVIEW
 
 **In 2018, UNSW LoLSoc:**  
-
-☆ Had 390 registered members.
-☆ Ran over 20 online and offline events
-☆ Welcomed Logitech G as a sponsor on board
-☆ Collaborated with 6 other universities
-☆ Introduced the HR director role
-☆ New initiatives like the E-sports corner and monthly plays
+☆ Had 390 registered members.  
+☆ Ran over 20 online and offline events   
+☆ Welcomed Logitech G as a sponsor on board   
+☆ Collaborated with 6 other universities   
+☆ Introduced the HR director role   
+☆ New initiatives like the E-sports corner and monthly plays 
 
 ## THE BEGINNING
 
