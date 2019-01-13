@@ -1,7 +1,7 @@
 ---
 layout: post
 title: End of Year Newsletter 2018
-subtitle: The trip down memory lane
+subtitle: A trip down memory lane
 
 ---
 Hi everyone, on behalf of both the outgoing and current executive team, we would like to wish all UNSW LoLSoc members a happy new year! Thank you for being a part of our 2018 and creating amazing memories with us!
