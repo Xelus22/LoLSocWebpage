@@ -1,7 +1,7 @@
 ---
 layout: post
 title: eoy newsletter v3
-subtitle: xqqq
+subtitle: q
 
 ---
 <style>
@@ -63,7 +63,7 @@ Tune in 2019 O-week.
 <br>
 
  <div class="transbox">
-## THE JOURNEY
+  <p> ## THE JOURNEY </p>
 </div>
   
 ### _SOCIAL EVENTS: LAN, TRIVIA, KARAOKE_
