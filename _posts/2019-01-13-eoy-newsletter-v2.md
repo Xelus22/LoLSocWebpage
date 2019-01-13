@@ -60,8 +60,9 @@ This year, we were fortunate to witness the UNSW Unigames League of Legends team
 
 ### RUMBLE TOURNAMENT 
 
-Our Rumble tournament is an initiative alongside RiotGames to cater for lower division players, providing them with a competitive gaming experience. This year we opened the tournament to gold and below with an allowance of 2 platinum players per team. More friends to play with YAY!  Congratulations to team "front-line-adc-desmond-1v9s-and-throws" for taking 1st place against 7 other teams and winning the Logitech sponsored mouse set and 20000 RP. Hope it was a memorable tournament for everyone and we sure had very creative team-namers this year too.  
+Our Rumble tournament is an initiative alongside Riot Games to cater for lower division players, providing them with a competitive gaming experience. This year we opened the tournament to gold and below with an allowance of 2 platinum players per team. More friends to play with YAY!  Congratulations to team "front-line-adc-desmond-1v9s-and-throws" for taking 1st place against 7 other teams and winning the Logitech sponsored mouse set and 20000 RP. Hope it was a memorable tournament for everyone and we sure had very creative team-namers this year too.  
 
+<br>
 ## THE CHECKPOINTS 
 
 ### SUB-COMMITTEE DRIVE
@@ -92,4 +93,3 @@ You can ** update your preferences (*|UPDATE_PROFILE|*)
 or ** unsubscribe f_rom this list (*|UNSUB|*)
 
 \*|IF:REWARDS|* *|REWARDS_TEXT|* *|END:IF|*
-
