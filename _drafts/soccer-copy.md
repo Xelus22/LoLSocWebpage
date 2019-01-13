@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Soccer-(copy)
-subtitle: Best sport ever!
+title: End of Year Newsletter 2018
+subtitle: ''
 
 ---
 <!doctype html>
