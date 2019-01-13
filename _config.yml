@@ -31,7 +31,7 @@ navbar-links:
   Pages:
     - 2019 OWeek Callout: "2019O-WeekCallout"
   Resources:
-    - Newsletters: "newsletters"
+    - Newsletters: "newsletters/index.html"
     - Events: "events/index.html"
     - Esports Corner: "https://pages.github.com/"
   Sign Up: "signup"
