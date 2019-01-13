@@ -12,16 +12,10 @@ https://twitter.com/UNSWLoLSoc Twitter (https://twitter.com/UNSWLoLSoc)
 https://www.youtube.com/user/unswlolsoc YouTube (https://www.youtube.com/user/unswlolsoc)
 mailto:execs@unswlolsoc.com Email (mailto:execs@unswlolsoc.com)
 
-Hi everyone,
-On behalf of both the outgoing and current executive team, we would like to wish all UNSW LoLSoc members a happy new year! Thank you for being a part of our 2018 and creating amazing memories with us!
-
-NEEKO-suto! Let's take a look at the snapshots of our fun times together and let those be the support for us to  RISE to greater heights both on the Rift and in life next year.
-
-Sending kindest regards from China,
-Wendy Zhang
-President 2017-18
-OVERVIEW
-In 2018, UNSW LoLSoc:
+Hi everyone, On behalf of both the outgoing and current executive team, we would like to wish all UNSW LoLSoc members a happy new year! Thank you for being a part of our 2018 and creating amazing memories with us!  
+  
+NEEKO-suto! Let's take a look at the snapshots of our fun times together and let those be the support for us to  RISE to greater heights both on the Rift and in life next year.  Sending kindest regards from China,  
+Wendy Zhang President 2017-18 
 
 ## OVERVIEW
 
@@ -38,13 +32,13 @@ In 2018, UNSW LoLSoc:
 
 ### OWEEK & MEGALAN 3.0
 
+ We were delighted to see many happy faces from both old and new members come visit our O-week stall this year. Hope everyone enjoyed the small gifts we prepared, including our classic goodie bags, membership card (2018 design) and the lucky five who received a RiotGames champion figurine!  
 
-We were delighted to see many happy faces from both old and new members come visit our O-week stall this year. Hope everyone enjoyed the small gifts we prepared, including our classic goodie bags, membership card (2018 design) and the lucky five who received a RiotGames champion figurine!
+During the weekend, we had our megaLAN 3.0 in collaboration with Pcsoc, Blizzsoc and other gaming societies on campus to extend the O-week fun and bring tournament experiences to passionate gamers. David "ozo1329" Li once again took crown to the 1v1 League of Legends tournament.  
 
-On the weekend, we had our megaLAN 3.0 in collaboration with Pcsoc, Blizzsoc and other gaming societies on campus to extend the O-week fun and bring tournament experiences to passionate gamers. David "ozo1329" Li once again took crown to the 1v1 League of Legends tournament.
+Will we see a return of the champion or a new challenger taking him down?  
+Tune in 2019 O-week. 
 
-Will we see a return of the champion or a new challenger taking him down?
-Tune in 2019 O-week.
 THE JOURNEY
 SOCIAL EVENTS: LAN | TRIVIA | KARAOKE
 
