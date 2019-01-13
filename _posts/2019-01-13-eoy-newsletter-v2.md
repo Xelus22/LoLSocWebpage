@@ -1,7 +1,7 @@
 ---
 layout: post
 title: eoy newsletter v3
-subtitle: xx
+subtitle: xxx
 
 ---
 Year in Review: 2018
@@ -40,20 +40,28 @@ During the weekend, we had our megaLAN 3.0 in collaboration with Pcsoc, Blizzsoc
 
 Will we see a return of the champion or a new challenger taking him down?  
 Tune in 2019 O-week. 
+<br>
+<br>
 
 ## THE JOURNEY 
 
 ### SOCIAL EVENTS: LAN, TRIVIA, KARAOKE
 
 Hands up if you've made a friend through LoLSoc this year! If you went to our Social LAN where we played some casual League and Tandem tournament or Trivia Night where we enjoyed pizza together and got some of our League knowledge spinning; or last but not least, our lit Karaoke Night where hidden talents were discovered after a satisfying KBBQ dinner, then we hope you had a great time and met some cool people there! For a further trip down memory lane, you can find our event recaps [here](http://www.unswlolsoc.com/events/ "Event Recaps Page"). 
+<br>
+<br>
 
 ### BBQs  
 
 BBQs and our online Friendly Fridays have been a constant on the LoLSoc events list for years - both which involve feeding. This year we continued to sharpen our cooking skills to bring you the best quality sausages and saucy bants to brighten up your uni day. :D 
+<br>
+<br>
 
 ### WORLD'S FINALS VIEWING PARTY 
 
 The Worlds finals is definitely an event everyone looks forward to in November every year. Although we saw some disappointed RNG fans walking in, the battle between Invictus Gaming and Fnatic was nevertheless a good showdown (3-0 saved a lot of people from a late night out).  Hope everyone enjoyed our mini pick-em competition during Worlds as well!  
+<br>
+<br>
 
 ## THE MILESTONES 
 
