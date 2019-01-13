@@ -5,9 +5,8 @@ subtitle: UNSWLoLSoc
 use-site-title: true
 css: "/css/index.css"
 bigimg:
-  - "https://xelus22.github.io/LoLSocWebpage/uploads/Autehntication%20UNSW%20signup.JPG" : "Arizona, 2017"
-  - "http://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg" : "Arizona, 2017"
-  - "https://xelus22.github.io/LoLSocWebpage/uploads/f23dc2ac-4582-421a-852a-790d14103072.jpg" : "Winter Sunset, Muskeg, 2017"
+  - "/uploads/Autehntication%20UNSW%20signup.JPG" : "Arizona, 2017"
+  - "/uploads/f23dc2ac-4582-421a-852a-790d14103072.jpg" : "Winter Sunset, Muskeg, 2017"
 ---
 # WELCOME TO UNSW LOLSOC
 
