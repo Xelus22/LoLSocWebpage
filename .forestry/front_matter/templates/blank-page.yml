@@ -2,4 +2,13 @@
 label: Blank Page
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: select
+  config:
+    source:
+      type: documents
+      section: jekyll-pages
+    required: true
+  description: Permalink
+  label: permalink
+  name: permalink
