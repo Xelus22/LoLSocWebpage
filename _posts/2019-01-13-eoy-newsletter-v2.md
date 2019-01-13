@@ -28,6 +28,8 @@ Wendy Zhang President 2017-18
 
 ## THE BEGINNING
 
+{: .box-note}
+
 ### OWEEK & MEGALAN 3.0
 
 ![](https://xelus22.github.io/LoLSocWebpage/uploads/d1345f1a-8a37-494f-b163-61d912821fbe.jpg)
@@ -75,6 +77,8 @@ The Worlds finals is definitely an event everyone looks forward to in November e
 
 ## THE MILESTONES
 
+{: .box-note}
+
 ### EASTERN UNI GAMES & SYDNEY BATTLEGROUNDS
 
 ![](https://xelus22.github.io/LoLSocWebpage/uploads/4c45ded6-6f7b-4b36-89c7-4fde48760467.png)
@@ -82,6 +86,8 @@ The Worlds finals is definitely an event everyone looks forward to in November e
 This year, we were fortunate to witness the UNSW Unigames League of Legends team become OUC champions and stepping into an even greater, international stage in China. Congratulations and thank you to all who supported them along the way.  Moreover, the UNSW LoLSoc team came 1st in the Sydney battlegrounds tournament which was hosted alongside 6 other universities and with over 30 teams participating. Proud achievements!
 <br>
 <br>
+
+{: .box-note}
 
 ### RUMBLE TOURNAMENT
 
@@ -93,6 +99,8 @@ Our Rumble tournament is an initiative alongside Riot Games to cater for lower d
 
 ## THE CHECKPOINTS
 
+{: .box-note}
+
 ### SUB-COMMITTEE DRIVE
 
 ![](https://xelus22.github.io/LoLSocWebpage/uploads/862892f3-5e38-44a2-84d1-344975122219.jpg)
@@ -100,6 +108,8 @@ Our Rumble tournament is an initiative alongside Riot Games to cater for lower d
 The above showcases just a few of our many amazing subcommittee members who have contributed to making LoLSoc events fun and engaging. If you really enjoyed our BBQs, Rumble tournament and Worlds viewing party, or gained ELO after being coached at our social LAN, these events wouldn't have been amazing without the help of our subcoms! Similarly the comprehensive articles, eye-catching posts and banners, and event photos -if you remember a guy always pointing a camera your way at the events to capture each precious moment-, these are also our marketing subcoms working behind-the-scenes (or hiding behind).  Thank you for joining us this year and using your kindness and passion to help LoLSoc grow!
 <br>
 <br>
+
+{: .box-note}
 
 ### ANNUAL GENERAL MEETING
 
@@ -110,6 +120,8 @@ In September, we encountered our Annual General Meeting where we said goodbye to
 <br>
 
 ## THE END OF 2018
+
+{: .box-note}
 
 ### EOY LAN: 5v5 CLASH
 
