@@ -1,6 +1,6 @@
 ---
 layout: post
-title: eoy newsletter v2
+title: eoy newsletter v3
 subtitle: Best sport ever!
 
 ---
