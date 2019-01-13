@@ -59,7 +59,11 @@ THE CHECKPOINTS SUB-COMMITTEE DRIVE  The above showcases just a few of our many 
 
 ANNUAL GENERAL MEETING In September, we encountered our Annual General Meeting where we said goodbye to the past and welcomed in our newly formed executive team. Those who went to the meeting would have heard their testimonials and experienced the intense live-action election at play.  Get to know your 2018-19 executives here ↓ Exec Profiles (http://www.unswlolsoc.com/executive/) 
 
-THE END OF 2018 EOY LAN: 5v5 CLASH  The journey with LoLSoc in 2018 ended once again with a LAN at WangYu. This time we saw intense clashes between 7 skillful teams and many familiar faces. Congratulations to team "no na me" for taking the win and may League continue to be a fulfilling part of our lives as we move on to a new chapter called "2019". Thanks for reading and credits to Kenzo Jeanson (Marketing Publications Director) for helping me put this newsletter together!  Also, a massive shout out to all our sponsors this year for their continuous support and enrichment to our events. We look forward to an even better upcoming year with you!  ==============_=============================================
+THE END OF 2018 EOY LAN: 5v5 CLASH  The journey with LoLSoc in 2018 ended once again with a LAN at WangYu. This time we saw intense clashes between 7 skillful teams and many familiar faces. Congratulations to team "no na me" for taking the win and may League continue to be a fulfilling part of our lives as we move on to a new chapter called "2019". 
+
+Thanks for reading and credits to Kenzo Jeanson (Marketing Publications Director) for helping me put this newsletter together!  
+
+Also, a massive shout out to all our sponsors this year for their continuous support and enrichment to our events. We look forward to an even better upcoming year with you!  ==============_=============================================
 Copyright © *|CURRENT_YEAR|* *|LIST:COMPANY|*, All rights reserved.
 \*|IFNOT:ARCHIVE_PAGE|* *|LIST:DESCRIPTION|*
 
