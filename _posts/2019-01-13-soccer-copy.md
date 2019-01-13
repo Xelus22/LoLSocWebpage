@@ -1,6 +1,6 @@
 ---
 layout: post
-title: End of Year Newsletter 2018
+title: End of Year Newsletter 2018 vvv
 subtitle: ''
 
 ---
@@ -447,7 +447,7 @@ subtitle: ''
                         <![endif]-->
                         <table border="0" cellpadding="0" cellspacing="0" width="100%" class="templateContainer" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;border: 1px none;max-width: 600px !important;">
                             <tr>
-                                <td valign="top" id="templatePreheader" style="background:#1c1a1f none no-repeat center/cover;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;background-color: #1c1a1f;background-image: none;background-repeat: no-repeat;background-position: center;background-size: cover;border-top: 0;border-bottom: 0;padding-top: px;padding-bottom: px;"><table width="100%" class="mcnTextBlock" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" border="0" cellspacing="0" cellpadding="0">
+                                <td valign="top" id="templatePreheader" style="background: #1c1a1f none no-repeat center/cover;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;background-color: #1c1a1f;background-image: none;background-repeat: no-repeat;background-position: center;background-size: cover;border-top: 0;border-bottom: 0;padding-top: px;padding-bottom: px;"><table width="100%" class="mcnTextBlock" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" border="0" cellspacing="0" cellpadding="0">
     <tbody class="mcnTextBlockOuter">
         <tr>
             <td class="mcnTextBlockInner" valign="top" style="padding-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
@@ -465,7 +465,7 @@ subtitle: ''
                         <td class="mcnTextContent" valign="top" style="padding-top: 0;padding-left: 18px;padding-bottom: 9px;padding-right: 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: #ffffff;font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;font-size: 12px;line-height: 150%;text-align: left;">
                         
                             <br>
-<strong><span style="font-size:14px"><img width="187" height="100" align="none" style="width: 187px;height: 100px;margin: 0px;border: 0;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" src="https://gallery.mailchimp.com/4fdf48408f7f82905ec7082ca/images/76fe6ce1-57ba-44f3-8560-b9648af79358.png">  </span></strong>
+<strong><span style="font-size:14px"><img width="187" height="100" align="none" style="width: 187px;height: 100px;margin: 0px;border: 0;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" src="https://gallery.mailchimp.com/4fdf48408f7f82905ec7082ca/images/76fe6ce1-57ba-44f3-8560-b9648af79358.png">  </span></strong>
                         </td>
                     </tr>
                 </tbody></table>
@@ -484,9 +484,9 @@ subtitle: ''
                             <div style="text-align: right;"><br>
 <br>
 <br>
-<strong> Year in Review: 2018</strong><br>
+<strong> Year in Review: 2018</strong><br>
 <span style="font-size:12px"><a href="*|ARCHIVE|*" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #ffffff;font-weight: normal;text-decoration: underline;">View this email in your browser</a></span><br>
- </div>
+ </div>
 
                         </td>
                     </tr>
@@ -505,7 +505,7 @@ subtitle: ''
 </table></td>
                             </tr>
                             <tr>
-                                <td valign="top" id="templateHeader" style="background:#ffffff none no-repeat center/cover;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;background-color: #ffffff;background-image: none;background-repeat: no-repeat;background-position: center;background-size: cover;border-top: 0;border-bottom: 0;padding-top: 0;padding-bottom: 0;"><table width="100%" class="mcnFollowBlock" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" border="0" cellspacing="0" cellpadding="0">
+                                <td valign="top" id="templateHeader" style="background: #ffffff none no-repeat center/cover;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;background-color: #ffffff;background-image: none;background-repeat: no-repeat;background-position: center;background-size: cover;border-top: 0;border-bottom: 0;padding-top: 0;padding-bottom: 0;"><table width="100%" class="mcnFollowBlock" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" border="0" cellspacing="0" cellpadding="0">
     <tbody class="mcnFollowBlockOuter">
         <tr>
             <td align="center" class="mcnFollowBlockInner" valign="top" style="padding: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
@@ -776,7 +776,7 @@ subtitle: ''
                             <div style="text-align: justify;">Hi everyone,<br>
 On behalf of both the outgoing and current executive team, we would like to wish all UNSW LoLSoc members a happy new year! Thank you for being a part of our 2018 and creating amazing memories with us!<br>
 <br>
-NEEKO-suto! Let's take a look at the snapshots of our fun times together and let those be the support for us to  RISE to greater heights both on the Rift and in life next year. <br>
+NEEKO-suto! Let's take a look at the snapshots of our fun times together and let those be the support for us to  RISE to greater heights both on the Rift and in life next year. <br>
 <br>
 Sending kindest regards from China,<br>
 Wendy Zhang<br>
@@ -869,12 +869,12 @@ President 2017-18</div>
                         <td class="mcnTextContent" valign="top" style="padding-top: 0;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: #202020;font-family: Helvetica;font-size: 16px;line-height: 150%;text-align: left;">
                         
                             <u>In 2018, UNSW LoLSoc</u>:<br>
-             <br>
+             <br>
 ☆ Had<strong> 390 registered members</strong>.<br>
-☆ Ran<strong> over 20 online and offline events </strong><br>
+☆ Ran<strong> over 20 online and offline events </strong><br>
 ☆ Welcomed <strong>Logitech G as a sponsor on board</strong><br>
-☆ Collaborated with<strong> 6 other universities </strong><br>
-☆ Introduced the <strong>HR director role </strong><br>
+☆ Collaborated with<strong> 6 other universities </strong><br>
+☆ Introduced the <strong>HR director role </strong><br>
 <span style="-webkit-text-stroke-width: 0px;background-color: transparent;color: #333333;cursor: text;display: inline !important;float: none;font-family: sans-serif,arial,verdana,trebuchet ms;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;line-height: 20.8px;orphans: 2;text-align: left;text-decoration: none;text-indent: 0px;text-transform: none;white-space: normal;word-spacing: 0px;">☆</span><span style="font-size:Default Size"><span style="-webkit-text-stroke-width: 0px;background-color: transparent;color: #333333;cursor: text;display: inline !important;float: none;font-family: sans-serif,arial,verdana,trebuchet ms;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;line-height: 20.8px;orphans: 2;text-align: left;text-decoration: none;text-indent: 0px;text-transform: none;white-space: normal;word-spacing: 0px;"> New initiatives like the <strong>E-sports corner and monthly plays</strong></span></span>
                         </td>
                     </tr>
@@ -1513,7 +1513,7 @@ Tune in 2019 O-week.</span></div>
 <span style="font-size:14px">The Worlds finals is definitely an event everyone looks forward to in November every year. Although we saw some disappointed RNG fans walking in, the battle between Invictus Gaming and Fnatic was nevertheless a good showdown (3-0 saved a lot of people from a late night out).<br>
 <br>
 Hope everyone enjoyed our mini pick-em competition during Worlds as well!</span><br>
- </div>
+ </div>
 
         </td>
     </tr>
@@ -1640,7 +1640,7 @@ Hope everyone enjoyed our mini pick-em competition during Worlds as well!</span>
 <span style="font-size:14px">This year, we were fortunate to witness the UNSW Unigames League of Legends team become OUC champions and stepping into an even greater, international stage in China. <span style="color:#ff6600">Congr</span><span style="color:#ff6633">at</span><span style="color:#ff6600">ulations </span>and thank you to all who supported them along the way.</span><br>
 <br>
 Moreover, the UNSW LoLSoc team came 1st in the Sydney battlegrounds tournament which was hosted alongside 6 other universities and with over 30 teams participating. Proud achievements!</div>
-<span style="font-family:verdana,geneva,sans-serif"><span style="font-size:14px"> </span></span></div>
+<span style="font-family:verdana,geneva,sans-serif"><span style="font-size:14px"> </span></span></div>
 
         </td>
     </tr>
@@ -1730,7 +1730,7 @@ Moreover, the UNSW LoLSoc team came 1st in the Sydney battlegrounds tournament w
 Our Rumble tournament is an initiative alongside RiotGames to cater for lower division players, providing them with a competitive gaming experience. This year we opened the tournament to gold and below with an allowance of 2 platinum players per team. More friends to play with YAY!<br>
 <br>
 <span style="color:#ff6633">Congratulations</span><span style="color:#FF8C00"> </span>to team "front-line-adc-desmond-1v9s-and-throws" for taking 1st place against 7 other teams and winning the Logitech sponsored mouse set and 20000 RP. Hope it was a memorable tournament for everyone and we sure had very creative team-namers this year too.<br>
- </div>
+ </div>
 </div>
 
         </td>
@@ -1936,7 +1936,7 @@ Our Rumble tournament is an initiative alongside RiotGames to cater for lower di
                             <table width="100%" class="mcnTextContentContainer" style="min-width: 100% !important;background-color: #E6E6E6;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" border="0" cellspacing="0">
                                 <tbody><tr>
                                     <td class="mcnTextContent" valign="top" style="padding: 18px;text-align: center;color: #222222;font-family: Helvetica;font-size: 14px;font-weight: normal;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;line-height: 150%;">
-                                        <div style="text-align: left;"><span style="font-size:14px">The above showcases just a few of our many amazing subcommittee members who have contributed to making LoLSoc events fun and engaging. If you really enjoyed our BBQs, Rumble tournament and Worlds viewing party, or gained ELO after being coached at our social LAN, these events wouldn't have been amazing without the help of our subcoms! Similarly the comprehensive articles, eye-catching posts and banners, and event photos -if you remember a guy always pointing a camera your way at the events to capture each precious moment-, these are also our marketing subcoms working behind-the-scenes (or hiding behind). </span><br>
+                                        <div style="text-align: left;"><span style="font-size:14px">The above showcases just a few of our many amazing subcommittee members who have contributed to making LoLSoc events fun and engaging. If you really enjoyed our BBQs, Rumble tournament and Worlds viewing party, or gained ELO after being coached at our social LAN, these events wouldn't have been amazing without the help of our subcoms! Similarly the comprehensive articles, eye-catching posts and banners, and event photos -if you remember a guy always pointing a camera your way at the events to capture each precious moment-, these are also our marketing subcoms working behind-the-scenes (or hiding behind). </span><br>
 <br>
 Thank you for joining us this year and using your kindness and passion to help LoLSoc grow!</div>
 
@@ -2032,7 +2032,7 @@ Thank you for joining us this year and using your kindness and passion to help L
         <td width="546" class="mcnTextContent" valign="top" style="padding: 9px 18px;text-align: center;color: #050505;font-family: Helvetica;font-size: 14px;font-weight: normal;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;line-height: 150%;">
             <div style="text-align: justify;">
 <div style="text-align: left;"><br>
-In September, we encountered our Annual General Meeting where we said goodbye to the past and welcomed in our newly formed executive team. Those who went to the meeting would have heard their testimonials and experienced the intense live-action election at play. <br>
+In September, we encountered our Annual General Meeting where we said goodbye to the past and welcomed in our newly formed executive team. Those who went to the meeting would have heard their testimonials and experienced the intense live-action election at play. <br>
 <br>
 Get to know your 2018-19 executives here <span style="-webkit-text-stroke-width: 0px;background-color: transparent;color: #222222;display: inline !important;float: none;font-family: arial,sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;orphans: 2;text-align: left;text-decoration: none;text-indent: 0px;text-transform: none;white-space: normal;word-spacing: 0px;">↓</span></div>
 </div>
@@ -2398,7 +2398,7 @@ Also, a massive shout out to all our sponsors this year for their continuous sup
                                 </td>
                             </tr>
                             <tr>
-                                <td valign="top" id="templateFooter" style="background:#ffffff none no-repeat center/cover;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;background-color: #ffffff;background-image: none;background-repeat: no-repeat;background-position: center;background-size: cover;border-top: 2px solid #EAEAEA;border-bottom: 0;padding-top: 9px;padding-bottom: 9px;"><table width="100%" class="mcnImageBlock" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" border="0" cellspacing="0" cellpadding="0">
+                                <td valign="top" id="templateFooter" style="background: #ffffff none no-repeat center/cover;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;background-color: #ffffff;background-image: none;background-repeat: no-repeat;background-position: center;background-size: cover;border-top: 2px solid #EAEAEA;border-bottom: 0;padding-top: 9px;padding-bottom: 9px;"><table width="100%" class="mcnImageBlock" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" border="0" cellspacing="0" cellpadding="0">
     <tbody class="mcnImageBlockOuter">
             <tr>
                 <td class="mcnImageBlockInner" valign="top" style="padding: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
