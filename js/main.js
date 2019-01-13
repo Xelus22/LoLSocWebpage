@@ -102,7 +102,7 @@ var main = {
 		    main.setImg(src, desc);
 			img.remove();
   			getNextImg();
-		  }, 500);
+		  }, 1000);
   		  //});
   		}, 3000);
   	  };
