@@ -18,7 +18,6 @@ NEEKO-suto! Let's take a look at the snapshots of our fun times together and let
 Wendy Zhang President 2017-18 
 <br>
 <br>
-<br>
 
 ## OVERVIEW
 
@@ -29,7 +28,6 @@ Wendy Zhang President 2017-18
 ☆ Collaborated with 6 other universities   
 ☆ Introduced the HR director role   
 ☆ New initiatives like the E-sports corner and monthly plays 
-<br>
 <br>
 <br>
 
@@ -64,12 +62,10 @@ The Worlds finals is definitely an event everyone looks forward to in November e
 This year, we were fortunate to witness the UNSW Unigames League of Legends team become OUC champions and stepping into an even greater, international stage in China. Congratulations and thank you to all who supported them along the way.  Moreover, the UNSW LoLSoc team came 1st in the Sydney battlegrounds tournament which was hosted alongside 6 other universities and with over 30 teams participating. Proud achievements! 
 <br>
 <br>
-<br>
 
 ### RUMBLE TOURNAMENT 
 
 Our Rumble tournament is an initiative alongside Riot Games to cater for lower division players, providing them with a competitive gaming experience. This year we opened the tournament to gold and below with an allowance of 2 platinum players per team. More friends to play with YAY!  Congratulations to team "front-line-adc-desmond-1v9s-and-throws" for taking 1st place against 7 other teams and winning the Logitech sponsored mouse set and 20000 RP. Hope it was a memorable tournament for everyone and we sure had very creative team-namers this year too.  
-<br>
 <br>
 <br>
 
@@ -79,12 +75,10 @@ Our Rumble tournament is an initiative alongside Riot Games to cater for lower d
 The above showcases just a few of our many amazing subcommittee members who have contributed to making LoLSoc events fun and engaging. If you really enjoyed our BBQs, Rumble tournament and Worlds viewing party, or gained ELO after being coached at our social LAN, these events wouldn't have been amazing without the help of our subcoms! Similarly the comprehensive articles, eye-catching posts and banners, and event photos -if you remember a guy always pointing a camera your way at the events to capture each precious moment-, these are also our marketing subcoms working behind-the-scenes (or hiding behind).  Thank you for joining us this year and using your kindness and passion to help LoLSoc grow! 
 <br>
 <br>
-<br>
 
 ### ANNUAL GENERAL MEETING 
 
 In September, we encountered our Annual General Meeting where we said goodbye to the past and welcomed in our newly formed executive team. Those who went to the meeting would have heard their testimonials and experienced the intense live-action election at play.  Get to know your 2018-19 executives here ↓ Exec Profiles (http://www.unswlolsoc.com/executive/) 
-<br>
 <br>
 <br>
 
