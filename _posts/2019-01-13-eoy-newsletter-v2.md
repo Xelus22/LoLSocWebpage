@@ -1,7 +1,7 @@
 ---
 layout: post
 title: eoy newsletter v3
-subtitle: xq
+subtitle: xqq
 
 ---
 <style>
@@ -62,8 +62,10 @@ Tune in 2019 O-week.
 <br>
 <br>
 
+ <div class="transbox">
 ## THE JOURNEY
-
+</div>
+  
 ### _SOCIAL EVENTS: LAN, TRIVIA, KARAOKE_
 
 Hands up if you've made a friend through LoLSoc this year! If you went to our Social LAN where we played some casual League and Tandem tournament or Trivia Night where we enjoyed pizza together and got some of our League knowledge spinning; or last but not least, our lit Karaoke Night where hidden talents were discovered after a satisfying KBBQ dinner, then we hope you had a great time and met some cool people there! For a further trip down memory lane, you can find our event recaps [here](http://www.unswlolsoc.com/events/ "Event Recaps Page").
