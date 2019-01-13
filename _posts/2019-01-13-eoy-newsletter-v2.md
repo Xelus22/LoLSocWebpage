@@ -1,7 +1,7 @@
 ---
 layout: post
 title: eoy newsletter v3
-subtitle: 1
+subtitle: 2
 
 ---
 Year in Review: 2018
