@@ -1,6 +1,6 @@
 ---
 layout: post
-title: End of Year Newsletter 2018 v
+title: End of Year Newsletter 2018 vv
 subtitle: ''
 
 ---
