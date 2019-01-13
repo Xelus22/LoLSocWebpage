@@ -1,0 +1,18 @@
+---
+label: Blank
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: layout
+  label: LAYOUT
+- type: text
+  name: title
+  label: TITLE
+  description: title
+- type: text
+  name: subtitle
+  label: SUBTITLE
+- type: image_gallery
+  name: gallery
+  label: GALLERY
