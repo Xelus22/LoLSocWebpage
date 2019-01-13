@@ -3,6 +3,7 @@ layout: page
 title: UNSW League of Legends Society
 subtitle: UNSWLoLSoc
 use-site-title: true
+css: "/css/index.css"
 bigimg:
   - "https://xelus22.github.io/LoLSocWebpage/uploads/Autehntication%20UNSW%20signup.JPG" : "Arizona, 2017"
   - "http://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg" : "Arizona, 2017"
