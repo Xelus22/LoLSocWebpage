@@ -1,7 +1,7 @@
 ---
 layout: post
 title: eoy newsletter v3
-subtitle: 2.1.1.1x
+subtitle: 2.1.1.1xx
 
 ---
 Year in Review: 2018
@@ -74,7 +74,7 @@ The above showcases just a few of our many amazing subcommittee members who have
 ### ANNUAL GENERAL MEETING 
 
 In September, we encountered our Annual General Meeting where we said goodbye to the past and welcomed in our newly formed executive team. Those who went to the meeting would have heard their testimonials and experienced the intense live-action election at play.  Get to know your 2018-19 executives here ↓ Exec Profiles (http://www.unswlolsoc.com/executive/) 
-<br>
+<p></p>
 
 ## THE END OF 2018 
 ### EOY LAN: 5v5 CLASH
