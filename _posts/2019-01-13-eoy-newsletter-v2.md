@@ -1,7 +1,7 @@
 ---
 layout: post
 title: eoy newsletter v3
-subtitle: xqq
+subtitle: xqqq
 
 ---
 <style>
@@ -10,13 +10,13 @@ div.transbox {
   background-color: #ffffff;
   border: 1px solid black;
   opacity: 0.6;
-  filter: alpha(opacity=60); /* For IE8 and earlier */
+  filter: alpha(opacity=60); 
 }
 
 div.transbox p {
-  margin: 5%;
+  margin: 15%;
   font-weight: bold;
-  color: #000000;
+  color: black;
 }
 </style>  
 
