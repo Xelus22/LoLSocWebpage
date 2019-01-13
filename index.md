@@ -7,8 +7,10 @@ css: "/css/index.css"
 bigimg:
   - "/uploads/Autehntication%20UNSW%20signup.JPG" : "Arizona, 2017"
   - "/uploads/f23dc2ac-4582-421a-852a-790d14103072.jpg" : "Winter Sunset, Muskeg, 2017"
-  - "/uploads/3e18d146-b80c-4d26-8030-bc6e51817432.jpg" : "Minhcam is bad"
-  - "/uploads/DSCF1751_asdasda.jpg" : "Frontpage"
+  - "/uploads/DSCF1751_asdasda.jpg" : "Trivia Night, 2018"
+  - "/uploads/anothawebsitephoto.jpg" : "5V5 Clash LAN, 2018"
+  - "/uploads/ANOTHAWEBSITEPHOTOHI.jpg" : "5V5 Clash LAN, 2018"
+  
 ---
 # WELCOME TO UNSW LOLSOC
 
