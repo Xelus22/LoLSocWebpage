@@ -30,7 +30,7 @@ Wendy Zhang President 2017-18
 
 {: .box-note}
 
-### OWEEK & MEGALAN 3.0
+### O-WEEK & MEGALAN 3.0
 
 ![](https://xelus22.github.io/LoLSocWebpage/uploads/d1345f1a-8a37-494f-b163-61d912821fbe.jpg)
 
