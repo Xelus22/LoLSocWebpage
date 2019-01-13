@@ -1,15 +1,16 @@
 ---
 layout: post
 title: eoy newsletter v3
-subtitle: qq
+subtitle: fe
 
 ---
-![](https://xelus22.github.io/LoLSocWebpage/uploads/5ee7a2c2-1452-4e29-97b0-11b7d01a4f17.jpg)
 
 Hi everyone, On behalf of both the outgoing and current executive team, we would like to wish all UNSW LoLSoc members a happy new year! Thank you for being a part of our 2018 and creating amazing memories with us!
 
 NEEKO-suto! Let's take a look at the snapshots of our fun times together and let those be the support for us to  RISE to greater heights both on the Rift and in life next year.  Sending kindest regards from China,  
 Wendy Zhang President 2017-18
+
+![](https://xelus22.github.io/LoLSocWebpage/uploads/5ee7a2c2-1452-4e29-97b0-11b7d01a4f17.jpg)
 <br>
 <br>
 
@@ -42,6 +43,8 @@ Tune in 2019 O-week.
 
 ## THE JOURNEY
 
+{: .box-note}
+
 ### _SOCIAL EVENTS: LAN, TRIVIA, KARAOKE_
 
 ![](https://xelus22.github.io/LoLSocWebpage/uploads/adaa0109-2304-4192-b521-57926314b26e.jpg)
@@ -50,6 +53,8 @@ Hands up if you've made a friend through LoLSoc this year! If you went to our So
 <br>
 <br>
 
+{: .box-note}
+
 ### BBQs
 
 ![](https://xelus22.github.io/LoLSocWebpage/uploads/666d3110-2ee8-44b0-9f64-e3973216b10c.jpg)
@@ -57,6 +62,8 @@ Hands up if you've made a friend through LoLSoc this year! If you went to our So
 BBQs and our online Friendly Fridays have been a constant on the LoLSoc events list for years - both which involve feeding. This year we continued to sharpen our cooking skills to bring you the best quality sausages and saucy bants to brighten up your uni day. :D
 <br>
 <br>
+
+{: .box-note}
 
 ### WORLD'S FINALS VIEWING PARTY
 
