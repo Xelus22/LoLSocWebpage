@@ -1,7 +1,7 @@
 ---
 layout: post
 title: eoy newsletter v3
-subtitle: xxx
+subtitle: xxxx
 
 ---
 Year in Review: 2018
@@ -46,7 +46,7 @@ Tune in 2019 O-week.
 <br>
 <br>
 
-## THE JOURNEY
+> ## THE JOURNEY
 
 ### SOCIAL EVENTS: LAN, TRIVIA, KARAOKE
 
