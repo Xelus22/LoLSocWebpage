@@ -5,13 +5,13 @@ subtitle: Best sport ever!
 
 ---
 Year in Review: 2018
-View this email in your browser (*|ARCHIVE|*)
 
 http://www.unswlolsoc.com/ Website (http://www.unswlolsoc.com/)
 https://www.facebook.com/UNSWLoLSociety/ Facebook (https://www.facebook.com/UNSWLoLSociety/)
 https://twitter.com/UNSWLoLSoc Twitter (https://twitter.com/UNSWLoLSoc)
 https://www.youtube.com/user/unswlolsoc YouTube (https://www.youtube.com/user/unswlolsoc)
 mailto:execs@unswlolsoc.com Email (mailto:execs@unswlolsoc.com)
+
 Hi everyone,
 On behalf of both the outgoing and current executive team, we would like to wish all UNSW LoLSoc members a happy new year! Thank you for being a part of our 2018 and creating amazing memories with us!
 
@@ -23,14 +23,21 @@ President 2017-18
 OVERVIEW
 In 2018, UNSW LoLSoc:
 
+## OVERVIEW
+
+**In 2018, UNSW LoLSoc:**  
+
 ☆ Had 390 registered members.
 ☆ Ran over 20 online and offline events
 ☆ Welcomed Logitech G as a sponsor on board
 ☆ Collaborated with 6 other universities
 ☆ Introduced the HR director role
 ☆ New initiatives like the E-sports corner and monthly plays
-THE BEGINNING
-OWEEK & MEGALAN 3.0
+
+## THE BEGINNING
+
+### OWEEK & MEGALAN 3.0
+
 
 We were delighted to see many happy faces from both old and new members come visit our O-week stall this year. Hope everyone enjoyed the small gifts we prepared, including our classic goodie bags, membership card (2018 design) and the lucky five who received a RiotGames champion figurine!
 
@@ -84,7 +91,7 @@ Thanks for reading and credits to Kenzo Jeanson (Marketing Publications Director
 
 Also, a massive shout out to all our sponsors this year for their continuous support and enrichment to our events. We look forward to an even better upcoming year with you!
 
-============================================================
+==============_=============================================
 Copyright © *|CURRENT_YEAR|* *|LIST:COMPANY|*, All rights reserved.
 \*|IFNOT:ARCHIVE_PAGE|* *|LIST:DESCRIPTION|*
 
@@ -93,7 +100,7 @@ Our mailing address is:
 
 Want to change how you receive these emails?
 You can ** update your preferences (*|UPDATE_PROFILE|*)
-or ** unsubscribe from this list (*|UNSUB|*)
+or ** unsubscribe f_rom this list (*|UNSUB|*)
 
 \*|IF:REWARDS|* *|REWARDS_TEXT|* *|END:IF|*
 
