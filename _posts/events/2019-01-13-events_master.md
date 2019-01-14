@@ -2,7 +2,6 @@
 layout: post
 title: Events test
 subtitle: A trip down memory lane
-category: events
 
 ---
 Hi everyone, on behalf of both the outgoing and current executive team, we would like to wish all UNSW LoLSoc members a happy new year! Thank you for being a part of our 2018 and creating amazing memories with us!

@@ -1,7 +1,12 @@
 # project
+vendor
+.vendor
+bundle
+.bundle
 _site
 .sass-cache
 .vagrant
+
 
 # general
 .DS_Store
