@@ -6,12 +6,10 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, viewport-fit=cover">
 
-  <title>UNSW LoL Society - UNSW League of Legends Society</title>
+  <title>UNSW LoL Society</title>
 
   <meta name="author" content="UNSWLoLSoc" />
 
-  
-  <meta name="description" content="UNSWLoLSoc">
   
 
   <link rel="alternate" type="application/rss+xml" title="UNSW LoL Society - UNSW League of Legends Society" href="/LoLSocWebpage/feed.xml" />
@@ -50,10 +48,6 @@
   
 
   
-    
-      <link rel="stylesheet" href="/LoLSocWebpage/css/index.css" />
-    
-  
 
   
 
@@ -61,19 +55,19 @@
   
 
   
-  <meta property="og:title" content="UNSW League of Legends Society" />
+  <meta property="og:title" content="UNSW LoL Society" />
   
 
    
-  <meta property="og:description" content="UNSWLoLSoc">
+  <meta property="og:description" content="--- url: http://xelus22.github.io/LoLSocWebpage baseurl: &quot;/LoLSocWebpage&quot; title: UNSW LoL Society description: UNSW League of Legends Society navbar-links: About Us: - Our Society: aboutus - Our Executives: ourexecs - Our Sponsors: oursponsors Discord: https://discord.gg/unswlolsoc Pages: - 2019 OWeek Callout: 2019O-WeekCallout Resources: - Newsletters: newsletters/index.html - Events: events/index.html - Esports Corner: https://pages.github.com/ Sign...">
   
 
 
   <meta property="og:type" content="website" />
 
   
-  <meta property="og:url" content="http://xelus22.github.io/LoLSocWebpage/" />
-  <link rel="canonical" href="http://xelus22.github.io/LoLSocWebpage/" />
+  <meta property="og:url" content="http://xelus22.github.io/LoLSocWebpage/config-forestryio.yml" />
+  <link rel="canonical" href="http://xelus22.github.io/LoLSocWebpage/config-forestryio.yml" />
   
 
   
@@ -87,11 +81,11 @@
   <meta name="twitter:creator" content="@" />
 
   
-  <meta name="twitter:title" content="UNSW League of Legends Society" />
+  <meta name="twitter:title" content="UNSW LoL Society" />
   
 
   
-  <meta name="twitter:description" content="UNSWLoLSoc">
+  <meta name="twitter:description" content="--- url: http://xelus22.github.io/LoLSocWebpage baseurl: &quot;/LoLSocWebpage&quot; title: UNSW LoL Society description: UNSW League of Legends Society navbar-links: About Us: - Our Society: aboutus - Our Executives: ourexecs - Our Sponsors: oursponsors Discord: https://discord.gg/unswlolsoc Pages: - 2019 OWeek Callout: 2019O-WeekCallout Resources: - Newsletters: newsletters/index.html - Events: events/index.html - Esports Corner: https://pages.github.com/ Sign...">
   
 
   
@@ -297,119 +291,156 @@
     <!-- TODO this file has become a mess, refactor it -->
 
 
-
-
-  <div id="header-big-imgs" data-num-img=5
-    
-	  
-	  
-	    
-		  data-img-src-1="/LoLSocWebpage/uploads/Autehntication%20UNSW%20signup.JPG"
-		  data-img-desc-1="Arizona, 2017"
-		
-	  
-    
-	  
-	  
-	    
-		  data-img-src-2="/LoLSocWebpage/uploads/f23dc2ac-4582-421a-852a-790d14103072.jpg"
-		  data-img-desc-2="Winter Sunset, Muskeg, 2017"
-		
-	  
-    
-	  
-	  
-	    
-		  data-img-src-3="/LoLSocWebpage/uploads/DSCF1751_asdasda.jpg"
-		  data-img-desc-3="Trivia Night, 2018"
-		
-	  
-    
-	  
-	  
-	    
-		  data-img-src-4="/LoLSocWebpage/uploads/anothawebsitephoto.jpg"
-		  data-img-desc-4="5V5 Clash LAN, 2018"
-		
-	  
-    
-	  
-	  
-	    
-		  data-img-src-5="/LoLSocWebpage/uploads/ANOTHAWEBSITEPHOTOHI.jpg"
-		  data-img-desc-5="5V5 Clash LAN, 2018"
-		
-	  
-    
-  ></div>
-
-
-<header class="header-section has-img">
-
-<div class="big-img intro-header">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-        <div class="page-heading">
-          <h1>UNSW League of Legends Society</h1>
-		  
-		    
-            <hr class="small">
-            <span class="page-subheading">UNSWLoLSoc</span>
-			
-		  
-		  
-		  
-        </div>
-      </div>
-    </div>
-  </div>
-  <span class='img-desc'></span>
-</div>
-
-<div class="intro-header no-img">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-        <div class="page-heading">
-          <h1>UNSW League of Legends Society</h1>
-		  
-		    
-            <hr class="small">
-            <span class="page-subheading">UNSWLoLSoc</span>
-			
-		  
-		  
-		  
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-</header>
-
-
+<div class="intro-header"></div>
 
 
 <div class="container" role="main">
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-      <h1 id="welcome-to-unsw-lolsoc">WELCOME TO UNSW LOLSOC</h1>
-
-<p>We’re home to enthusiasts, casual and competitive players of one of the most popular PC games in the world - League of Legends.</p>
-
-<p>If you love League of Legends, join our community today for a world of fun!</p>
-
-<ul>
-  <li>Competitive Events</li>
-  <li>Casual Events</li>
-  <li>Coaching/Learning</li>
-  <li>Active, Friendly Community</li>
-  <li>Giveaways &amp; Competitions</li>
-  <li>Infinite Amounts of Fun</li>
-</ul>
-
-<p>Sign up today at <a href="http://www.unswlolsoc.com/signup/" title="http://www.unswlolsoc.com/signup/">http://www.unswlolsoc.com/signup/</a> !</p>
+      ---
+url: http://xelus22.github.io/LoLSocWebpage
+baseurl: "/LoLSocWebpage"
+title: UNSW LoL Society
+description: UNSW League of Legends Society
+navbar-links:
+  About Us:
+  - Our Society: aboutus
+  - Our Executives: ourexecs
+  - Our Sponsors: oursponsors
+  Discord: https://discord.gg/unswlolsoc
+  Pages:
+  - 2019 OWeek Callout: 2019O-WeekCallout
+  Resources:
+  - Newsletters: newsletters/index.html
+  - Events: events/index.html
+  - Esports Corner: https://pages.github.com/
+  Sign Up: signup
+  Contact Us: contactus
+avatar: "/img/lolsoc_dark.jpg"
+navbar-col: "#000000"
+navbar-text-col: "#FFFFFF"
+navbar-children-col: "#000000"
+page-col: "#FFFFFF"
+link-col: "#008AFF"
+hover-col: "#0085A1"
+footer-col: "#000000"
+footer-text-col: "#FFFFFF"
+footer-link-col: "#000000"
+author:
+  name: UNSWLoLSoc
+social-network-links:
+  youtube: user/unswlolsoc
+  email: unswlolsoc@gmail.com
+  facebook: UNSWLoLSociety
+  twitter: unswlolsoc
+  instagram: UNSWLoLSoc
+share-links-active:
+  twitter: true
+  facebook: true
+  email: true
+  google: false
+excerpt_length: 70
+title-separator: "-"
+timezone: Australia/Sydney
+markdown: kramdown
+highlighter: rouge
+permalink: "/:year-:month-:day-:title/"
+paginate_multiple:
+- paginate: 5
+  paginate_path: "/page:num"
+  sub_dir: "/general"
+- paginate: 10
+  paginate_path: "/newsletters/page:num"
+  sub_dir: "/newsletters"
+- paginate: 10
+  paginate_path: "/events/page:num"
+  sub_dir: "/events"
+kramdown:
+  input: GFM
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    comments: false
+    social-share: true
+- scope:
+    path: ''
+  values:
+    layout: page
+    show-avatar: true
+link-tags: true
+exclude:
+- CHANGELOG.md
+- CNAME
+- Dockerfile
+- Gemfile
+- Gemfile.lock
+- LICENSE
+- README.md
+- Vagrantfile
+- vendor/bundle/
+- vendor/cache/
+- vendor/gems/
+- vendor/ruby/
+prose:
+  rooturl: _posts
+  media: img
+  ignore:
+  - 404.html
+  - LICENSE
+  - feed.xml
+  - _config.yml
+  - "/_layouts"
+  - "/_includes"
+  - "/css"
+  - "/img"
+  - "/js"
+  - "/vendor"
+  - "/.bundle"
+  metadata:
+    _posts:
+    - name: layout
+      field:
+        element: hidden
+        value: post
+    - name: title
+      field:
+        element: text
+        label: Post title
+        placeholder: Title
+        alterable: true
+    - name: subtitle
+      field:
+        element: textarea
+        label: Subtitle
+        placeholder: A description of your post.
+        alterable: true
+    - name: date
+      field:
+        element: text
+        label: Date
+        help: Enter date of post.
+        placeholder: yyyy-mm-dd
+        alterable: true
+    - name: image
+      field:
+        element: text
+        label: Image
+        help: Add a thumbnail image to your post.
+        placeholder: Thumbnail
+        alterable: true
+    - name: published
+      field:
+        element: checkbox
+        label: Publish
+        help: Check to publish post, uncheck to hide.
+plugins:
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-menus
+- jekyll-paginate-multiple
 
 	    
     </div>
