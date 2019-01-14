@@ -6,8 +6,6 @@ subtitle: All the latest events
 
 <div class="posts-list">
   {% for post in paginator.posts %}
-  
-  {% if post.category == 'events' %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
 	  <h2 class="post-title">{{ post.title }}</h2>
@@ -54,7 +52,6 @@ subtitle: All the latest events
     {% endif %}
 
    </article>
-   {% endif %}
   {% endfor %}
 </div>
 
