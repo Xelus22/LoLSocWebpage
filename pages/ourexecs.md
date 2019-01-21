@@ -15,21 +15,10 @@ table { border-colour:red }
 
 
 
-|**VICE PRESIDENT (OPERATIONS):** <br>  <br> Name: Harrison “Xelus” Chan <br>  <br> Year: 2nd Year Electrical Engineering/Computer Science <br>  <br> Favourite Champion: Yi. He is a really fun champion because he's got a lot of outplay potential and has a few important mechanics to his kit. Also he is a great champion to snowball with in low elo <br>  <br> Personal Motto: **_Silence_** <br>  <br> Favourite League Memory: Playing with the legendary YoloSwagPimp420 | ![](https://xelus22.github.io/LoLSocWebpage/uploads/39883142_1954420631292404_3314576856761499648_o.jpg)
+| **VICE PRESIDENT (OPERATIONS):** <br>  <br> Name: Harrison “Xelus” Chan <br>  <br> Year: 2nd Year Electrical Engineering/Computer Science <br>  <br> Favourite Champion: Yi. He is a really fun champion because he's got a lot of outplay potential and has a few important mechanics to his kit. Also he is a great champion to snowball with in low elo <br>  <br> Personal Motto: **_Silence_** <br>  <br> Favourite League Memory: Playing with the legendary YoloSwagPimp420 | ![](https://xelus22.github.io/LoLSocWebpage/uploads/39883142_1954420631292404_3314576856761499648_o.jpg)
 
-**VICE PRESIDENT (ADMINISTRATION):**
 
-Name: Alex "Aldiko9" Wong
-
-Year: 4th Year Commerce/Law
-
-Favourite Champion: Trundle because ... TRAFFIC CONES!!!
-
-Personal Motto: When you are 0/6, just be a minion
-
-Favourite League Memory: I dedicate this to all those times minions became winions.
-
-![](https://xelus22.github.io/LoLSocWebpage/uploads/29512326_1439117879533993_7737485068508600296_n.jpg)
+| **VICE PRESIDENT (ADMINISTRATION):** <br>  <br> Name: Alex "Aldiko9" Wong <br>  <br> Year: 4th Year Commerce/Law <br>  <br> Favourite Champion: Trundle because ... TRAFFIC CONES!!! <br>  <br> Personal Motto: When you are 0/6, just be a minion <br>  <br> Favourite League Memory: I dedicate this to all those times minions became winions. | ![](https://xelus22.github.io/LoLSocWebpage/uploads/29512326_1439117879533993_7737485068508600296_n.jpg)
 
 **SECRETARY:**
 
