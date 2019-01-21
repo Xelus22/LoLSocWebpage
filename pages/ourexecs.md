@@ -5,6 +5,8 @@ permalink: ourexecs
 subtitle: Our execs!
 
 ---
+
+
 <table border="0">
 <tr>
 <td style="width: 60%"> <b> PRESIDENT:</b>
@@ -133,7 +135,7 @@ enemy one by one to win the game!
 <br> <br> <b>Favourite League Memory:</b> Legends never die 😓
 </td>
 <td>
-<img src="https://xelus22.github.io/LoLSocWebpage/uploads/09222CAF-9F37-4610-9D19-B3720E9A7063 - Brendan Kwan (1).jpg">
+<img src="https://xelus22.github.io/LoLSocWebpage/uploads/Picture6.jpg">
 </td>
 
 </tr>
