@@ -5,6 +5,8 @@ permalink: ourexecs
 subtitle: Our execs!
 
 ---
+
+
 <table border="11">
 <tr>
 <td style="width: 60%"> <b> PRESIDENT:</b>
@@ -114,7 +116,7 @@ enemy one by one to win the game!
 <br> <br> <b>Favourite League Memory:</b> My Pentakills :)
 </td>
 <td>
-<img src="https://xelus22.github.io/LoLSocWebpage/uploads/30714215_1912485005452178_5347908026449788928_n.jpg">
+<img src="https://xelus22.github.io/LoLSocWebpage/uploads/Picture2.jpg">
 </td>
 
 </tr>
