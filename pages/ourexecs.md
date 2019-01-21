@@ -163,7 +163,7 @@ subtitle: Our execs!
 
 <table border="11">
   <tr>
-    <td style="width: 63%; text-align: center;">
+    <td style="width: 60%; text-align: center;">
       <h2><b> EVENTS DIRECTOR #2:</b></h2>
       <b>Name:</b> Andy “Glup” Liu
       <br> <br> <b>Year:</b> 2nd Year Data Science
@@ -171,7 +171,7 @@ subtitle: Our execs!
       <br> <br> <b>Personal Motto:</b> Win
       <br> <br> <b>Favourite League Memory:</b> My glorious climb to Iron 4
     </td>
-    <td style="width: 100%; text-align: center;">
+    <td style="text-align: center;">
       <img src="https://xelus22.github.io/LoLSocWebpage/uploads/455067829150941205 - ANDY liu_waifu2x_photo_noise3_scale_tta_1.png">
     </td>
   </tr>
