@@ -27,7 +27,7 @@ subtitle: Our execs!
 <table border="11">
   <tr>
     <td style="width: 60%; ">
-      <h2><b> VICE PRESIDENT (OPERATIONS):</b></h2>
+      <h2><b> VICE PRESIDENT (OPS):</b></h2>
       <b>Name:</b> Harrison “Xelus” Chan
       <br> <br> <b>Year:</b> 2nd Year Electrical Engineering/Computer Science
       <br> <br> <b>Favourite Champion:</b> Yi. He is a really fun champion because he’s got a lot of outplay potential and has a few important mechanics to his kit. Also he is a great champion to snowball with in low elo
@@ -46,7 +46,7 @@ subtitle: Our execs!
 <table border="11">
   <tr>
     <td style="width: 60%; text-align: center;">
-      <h2><b> VICE PRESIDENT (ADMINISTRATION):</b></h2>
+      <h2><b> VICE PRESIDENT (ADMIN):</b></h2>
       <b>Name:</b> Alex “Aldiko9” Wong
       <br> <br> <b>Year:</b> 4th Year Commerce/Law
       <br> <br> <b>Favourite Champion:</b> Trundle because … TRAFFIC CONES!!!
