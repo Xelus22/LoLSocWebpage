@@ -5,8 +5,6 @@ permalink: ourexecs
 subtitle: Our execs!
 
 ---
-
-
 <table border="11">
 <tr>
 <td style="width: 60%; text-align: center;"> <b> PRESIDENT:</b>
@@ -16,7 +14,7 @@ subtitle: Our execs!
 <br> <br> <b>Personal Motto:</b> Teamwork makes the dream work
 <br> <br> <b>Favourite League Memory:</b> Winning Sydney Battlegrounds 2018
 </td>
-<td>
+<td style="text-align: center;">
 <img src="https://xelus22.github.io/LoLSocWebpage/uploads/30711799_2086764861350849_5821514581280817152_n.jpg">
 </td>
 
@@ -28,14 +26,14 @@ subtitle: Our execs!
 
 <table border="11">
 <tr>
-<td style="width: 60%; text-align: center;"> <b> VICE PRESIDENT (OPERATIONS): </b>
+<td style="width: 60%; "> <b> VICE PRESIDENT (OPERATIONS): </b>
 <br> <br> <b>Name:</b> Harrison “Xelus” Chan
 <br> <br> <b>Year:</b> 2nd Year Electrical Engineering/Computer Science
 <br> <br> <b>Favourite Champion:</b> Yi. He is a really fun champion because he’s got a lot of outplay potential and has a few important mechanics to his kit. Also he is a great champion to snowball with in low elo
 <br> <br> <b>Personal Motto:</b> Silence
 <br> <br> <b>Favourite League Memory:</b> Playing with the legendary YoloSwagPimp420
 </td>
-<td>
+<td style="text-align: center;">
 <img src="https://xelus22.github.io/LoLSocWebpage/uploads/Picture5.jpg">
 </td>
 
@@ -54,7 +52,7 @@ subtitle: Our execs!
 <br> <br> <b>Personal Motto:</b> When you are 0/6, just be a minion
 <br> <br> <b>Favourite League Memory:</b> I dedicate this to all those times minions became winions.
 </td>
-<td>
+<td style="text-align: center;">
 <img src="https://xelus22.github.io/LoLSocWebpage/uploads/Picture1.jpg">
 </td>
 
@@ -73,7 +71,7 @@ subtitle: Our execs!
 <br> <br> <b>Personal Motto:</b> Kill Secured!
 <br> <br> <b>Favourite League Memory:</b> Discovering just how far Rakan can travel in under a second (the entire distance between mid lane 1st tier turrets)
 </td>
-<td>
+<td style="text-align: center;">
 <img src="https://xelus22.github.io/LoLSocWebpage/uploads/b948d983-8ec3-4d9d-82b8-2a1f5f88d80e.png">
 </td>
 
@@ -96,7 +94,7 @@ to convince my friend to log back on to see the result of the game once we got t
 u for this teamfight” whilst I gestured to my friend’s kda of 4/18/2. As usual, my friend dove in first and pressed his ult, just to see the dreaded grey screen 1 second later. The smiles on our faces turned to shock as Yi managed to clean up the
 enemy one by one to win the game!
 </td>
-<td>
+<td style="text-align: center;">
 <img src="https://xelus22.github.io/LoLSocWebpage/uploads/Picture7.jpg">
 </td>
 
@@ -115,7 +113,7 @@ enemy one by one to win the game!
 <br> <br> <b>Personal Motto:</b> An amateur does practises to get it right, a master practises to never get it wrong
 <br> <br> <b>Favourite League Memory:</b> My Pentakills :)
 </td>
-<td>
+<td style="text-align: center;">
 <img src="https://xelus22.github.io/LoLSocWebpage/uploads/Picture2.jpg">
 </td>
 
@@ -134,7 +132,7 @@ enemy one by one to win the game!
 <br> <br> <b>Personal Motto:</b> Life stops for no one, grasp every opportunity or get left behind
 <br> <br> <b>Favourite League Memory:</b> Legends never die 😓
 </td>
-<td>
+<td style="text-align: center;">
 <img src="https://xelus22.github.io/LoLSocWebpage/uploads/Picture6.jpg">
 </td>
 
@@ -153,7 +151,7 @@ enemy one by one to win the game!
 <br> <br> <b>Personal Motto:</b> It’s only embarrassing if you’re embarrassed
 <br> <br> <b>Favourite League Memory:</b> Becoming Jesus and walking on water at roadtrip
 </td>
-<td>
+<td style="text-align: center;">
 <img src="https://xelus22.github.io/LoLSocWebpage/uploads/Picture8.jpg">
 </td>
 
@@ -172,7 +170,7 @@ enemy one by one to win the game!
 <br> <br> <b>Personal Motto:</b> Win
 <br> <br> <b>Favourite League Memory:</b> Iron 4
 </td>
-<td>
+<td style="text-align: center;">
 <img src="https://xelus22.github.io/LoLSocWebpage/uploads/455067829150941205 - ANDY liu_waifu2x_photo_noise3_scale_tta_1.png">
 </td>
 
@@ -191,7 +189,7 @@ enemy one by one to win the game!
 <br> <br> <b>Personal Motto:</b> Comebackable!
 <br> <br> <b>Favourite League Memory:</b> Late night ARAMs with friends when we couldn’t end on a loss. Also, clean climb to Diamond after being hardstuck Silver for too long. But mostly beating Stealthix in norms!
 </td>
-<td>
+<td style="text-align: center;">
 <img src="https://xelus22.github.io/LoLSocWebpage/uploads/Stephen Chan - UNSW LoLSoc.jpg">
 </td>
 
@@ -210,7 +208,7 @@ enemy one by one to win the game!
 <br> <br> <b>Personal Motto:</b> Supa Top with just a little jg diff
 <br> <br> <b>Favourite League Memory:</b> Boosting our past president to Gold!
 </td>
-<td>
+<td style="text-align: center;">
 <img src="https://xelus22.github.io/LoLSocWebpage/uploads/42352637_1269932149815395_6028015139993681920_n.jpg">
 </td>
 
