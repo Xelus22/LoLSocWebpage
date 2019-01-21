@@ -8,24 +8,16 @@ subtitle: Our execs!
 Executives might sound like a scary word, but in reality we stay up playing League just like you! Don't be afraid to talk and say hi to us at our next event!!!
 
 
+
 <table style="width:100%">
   <tr>
-    <th>PRESIDENT: <br>  <br> Name: Adrian "Morale" Guo <br> <br> Year: 3rd Year Medicinal Chemistry <br> <br>  Favourite Champion: Graves because he is very fun and satisfying to play <br> <br> Personal Motto: Teamwork makes the dream work <br> <br> Favourite League Memory: Winning Sydney Battlegrounds 2018</th>
-    <th>Lastname</th> 
-   </tr>
-  
-  </table>
-
-
-<table style="width:100%" border: 11px solid black;>
-  <tr>
-    <th> PRESIDENT:
+    <td> PRESIDENT:
       <br> <br> Name: Adrian "Morale" Guo
       <br> <br> Year: 3rd Year Medicinal Chemistry
       <br> <br> Favourite Champion: Graves because he is very fun and satisfying to play
       <br> <br> Personal Motto: Teamwork makes the dream work
       <br> <br> Favourite League Memory: Winning Sydney Battlegrounds 2018
-    </th>
+    </td>
     <th>Lastname</th>
   </tr>
 </table>
