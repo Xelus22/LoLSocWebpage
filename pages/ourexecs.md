@@ -20,19 +20,7 @@ table { border-colour:red }
 
 | **VICE PRESIDENT (ADMINISTRATION):** <br>  <br> Name: Alex "Aldiko9" Wong <br>  <br> Year: 4th Year Commerce/Law <br>  <br> Favourite Champion: Trundle because ... TRAFFIC CONES!!! <br>  <br> Personal Motto: When you are 0/6, just be a minion <br>  <br> Favourite League Memory: I dedicate this to all those times minions became winions. | ![](https://xelus22.github.io/LoLSocWebpage/uploads/29512326_1439117879533993_7737485068508600296_n.jpg)
 
-**SECRETARY:**
-
-Name: Helen “SwordSky” Xia
-
-Year: 4th Year Computer Science/Media Arts
-
-Favourite Champion: Zoe
-
-Personal Motto: Kill Secured!
-
-Favourite League Memory: Discovering just how far Rakan can travel in under a second (the entire distance between mid lane 1st tier turrets)
-
-![](https://xelus22.github.io/LoLSocWebpage/uploads/b948d983-8ec3-4d9d-82b8-2a1f5f88d80e.png)
+| **SECRETARY:** <br>  <br> Name: Helen “SwordSky” Xia <br>  <br> Year: 4th Year Computer Science/Media Arts <br>  <br> Favourite Champion: Zoe <br>  <br> Personal Motto: Kill Secured! <br>  <br> Favourite League Memory: Discovering just how far Rakan can travel in under a second (the entire distance between mid lane 1st tier turrets) | ![](https://xelus22.github.io/LoLSocWebpage/uploads/b948d983-8ec3-4d9d-82b8-2a1f5f88d80e.png)
 
 **TREASURER:**
 
