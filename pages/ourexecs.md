@@ -7,7 +7,7 @@ subtitle: Our execs!
 ---
 <table border="11">
   <tr>
-    <td style = "width: 100px" > <b>PRESIDENT:</b>
+    <td style = "width: 60%" > <b>PRESIDENT:</b>
       <br> <br> <b>Name:</b> Adrian "Morale" Guo
       <br> <br> <b>Year:</b> 3rd Year Medicinal Chemistry
       <br> <br> <b>Favourite Champion:</b> Graves because he is very fun and satisfying to play
