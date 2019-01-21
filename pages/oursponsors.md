@@ -47,13 +47,12 @@ and opportunities for our society.
 
 <table border="11">
   <tr>
-    <td style="width: 60%; text-align: center;">
+    <td style="width: 65%; text-align: center;">
       <h2><b> NVIDIA:</b></h2>
       <h3> TECHNOLOGY </h3>
-      For two decades, NVIDIA has pioneered visual computing, the art and science of computer graphics. NVIDIA’s work in visual computing — the art and science of computer graphics — has led to thousands of patented inventions, breakthrough technologies, deep
-      industry relationships and a globally recognised brand. For two decades, they have pioneered this uniquely powerful medium, which has transformed the PC from a tool for productivity into one for creativity and discovery. With their invention of
-      the GPU — the engine of modern visual computing — the field has expanded to encompass video games, movie production, product design, medical diagnosis and scientific research.
-      <br><br>Click here to check out their latest graphic hardware for the best gaming experience
+     NVIDIA’s work in visual computing — the art and science of computer graphics — has led to thousands of patented inventions, breakthrough technologies, deep
+      industry relationships and a globally recognised brand. For two decades, they have pioneered this uniquely powerful medium, which has transformed the PC from a tool for productivity into one for creativity and discovery.
+      <br><br> Click here to check out their latest graphic hardware for the best gaming experience
     </td>
     <td style="text-align: center;">
       <img src="https://xelus22.github.io/LoLSocWebpage/uploads/static1.squarespace.jpg">
