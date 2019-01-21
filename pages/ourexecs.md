@@ -7,26 +7,6 @@ subtitle: Our execs!
 ---
 Executives might sound like a scary word, but in reality we stay up playing League just like you! Don't be afraid to talk and say hi to us at our next event!!!
 
-<table style="width:100%">
-<tr>
-<th>
-**PRESIDENT:**
-<p></p>
-Name: Adrian "Morale" Guo
-<p></p>
-Year: 3rd Year Medicinal Chemistry
-<p></p>
-Favourite Champion: Graves because he is very fun and satisfying to play
-<p></p>
-Personal Motto: Teamwork makes the dream work
-<p></p>
-Favourite League Memory: Winning Sydney Battlegrounds 2018
-</th>
-
-<th> ![](https://xelus22.github.io/LoLSocWebpage/uploads/30711799_2086764861350849_5821514581280817152_n.jpg) </th>
-</tr>
-
-</table>
 
 
 | **PRESIDENT:** <br>  <br> Name: Adrian "Morale" Guo <br> <br> Year: 3rd Year Medicinal Chemistry <br> <br>  Favourite Champion: Graves because he is very fun and satisfying to play <br> <br> Personal Motto: Teamwork makes the dream work <br> <br> Favourite League Memory: Winning Sydney Battlegrounds 2018 | ![](https://xelus22.github.io/LoLSocWebpage/uploads/30711799_2086764861350849_5821514581280817152_n.jpg) |
