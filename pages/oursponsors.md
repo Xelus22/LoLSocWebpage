@@ -52,7 +52,7 @@ technology drives them to be a worldwide leader in ICT industry and achieve bril
 <h3> TECHNOLOGY </h3>
 NVIDIA’s work in visual computing — the art and science of computer graphics — has led to thousands of patented inventions, breakthrough technologies, deep
 industry relationships and a globally recognised brand. For two decades, they have pioneered this uniquely powerful medium, which has transformed the PC from a tool for productivity into one for creativity and discovery.
-<br><br> Click here to check out their latest graphic hardware for the best gaming experience
+<br><br> [Click here to check out their latest graphic hardware for the best gaming ](NVIDIA "https://www.nvidia.com/en-au/geforce/products/store/")experience
 </td>
 <td style="text-align: center;">
 <img src="https://xelus22.github.io/LoLSocWebpage/uploads/static1.squarespace.jpg">
@@ -71,7 +71,7 @@ industry relationships and a globally recognised brand. For two decades, they ha
 <h3> CONCEPT INTERNET CAFÉ </h3>
 Established in 1998, WangYu is striving relentlessly to a healthy, joyful e-entertainment, pushing cyber café to a positive healthy direction, and redefining cyber café an unique mixture of service and culture. 15 years of dedication, WangYu is well known
 by the community and loved by many! The WangYu team are keen to every effort in leading the Cyber Café industry.
-<br><br>Click here to find out more about their latest cyber café facilities
+<br><br>[Click here to find out more about their latest cyber café facilities](https://www.wangyu.com.au/ "WangYu Concept Cafe")
 </td>
 <td style="text-align: center;">
 <img src="https://xelus22.github.io/LoLSocWebpage/uploads/WangYu.png">
@@ -91,7 +91,7 @@ by the community and loved by many! The WangYu team are keen to every effort in 
 AOC is positioned to be one of the top global players in providing the best value display technology. With long-term dedicated research and development, AOC today offers a wide range of top performing LCD monitors. AOC provides businesses and individuals
 the opportunity to own the latest monitor displays that boast cutting edge performance and innovative styling. Through an extensive, award winning distribution network and competitive pricing, AOC offers our products to a broad range of consumers
 around the world.
-<br><br>Click here to check out their latest monitors on offer
+<br><br>[Click here to check out their latest monitors on offer](https://au.aoc.com/ "AOC")
 </td>
 <td style="text-align: center;">
 <img src="https://xelus22.github.io/LoLSocWebpage/uploads/logo-blue.png">
@@ -111,7 +111,7 @@ around the world.
 Logitech G is a leading player in offering a diverse range of computer and mobile accessories ranging from mice, keyboards, headsets, speakers and much more.
 
 Logitech G offers quality peripherals to provide a unique, immersive gaming experience. Starting from specially designed mice, keyboards and headsets for the standard PC gamers to new innovations such as gamepads that offer PC gamers the experience of console games, Logitech G continues to be at the forefront of PC and gaming technology.
-<br><br>Click here to check out their latest products
+<br><br>[Click here to check out their latest products](https://www.logitechg.com/en-au "Logitech G")
 </td>
 <td style="text-align: center;">
 <img src="https://xelus22.github.io/LoLSocWebpage/uploads/89yCgDMw.png">
