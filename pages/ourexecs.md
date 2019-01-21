@@ -22,13 +22,37 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
   </td>
   </tr>
 </table>
+-------------------------------
+<table border ="11">
+  <tr>
+    <td> <b> VICE PRESIDENT (OPERATIONS): </b>:
+      <br> <br> <b>Name:</b> Harrison “Xelus” Chan
+      <br> <br> <b>Year:</b> 2nd Year Electrical Engineering/Computer Science
+      <br> <br> <b>Favourite Champion:</b> Yi. He is a really fun champion because he’s got a lot of outplay potential and has a few important mechanics to his kit. Also he is a great champion to snowball with in low elo 
+      <br> <br> <b>Personal Motto:</b> Silence 
+      <br> <br> <b>Favourite League Memory:</b> Playing with the legendary YoloSwagPimp420
+    </td>
+    <td>
+      <img src="https://xelus22.github.io/LoLSocWebpage/uploads/30711799_2086764861350849_5821514581280817152_n.jpg" alt="" border=3 height=100 width=300></img>
+  </td>
+  </tr>
+</table>
+------------------------------
+<table border ="11">
+  <tr>
+    <td> <b> VICE PRESIDENT (ADMINISTRATION): </b>:
+      <br> <br> <b>Name:</b> Alex “Aldiko9” Wong 
+      <br> <br> <b>Year:</b> 4th Year Commerce/Law 
+      <br> <br> <b>Favourite Champion:</b> Trundle because … TRAFFIC CONES!!! 
+      <br> <br> <b>Personal Motto:</b> When you are 0/6, just be a minion  
+      <br> <br> <b>Favourite League Memory:</b> I dedicate this to all those times minions became winions.
+    </td>
+    <td>
+      <img src="https://xelus22.github.io/LoLSocWebpage/uploads/30711799_2086764861350849_5821514581280817152_n.jpg" alt="" border=3 height=100 width=300></img>
+  </td>
+  </tr>
+</table>
 
-
-
-table { border-color:red }
-
-| **PRESIDENT:** <br>  <br> Name: Adrian "Morale" Guo <br> <br> Year: 3rd Year Medicinal Chemistry <br> <br>  Favourite Champion: Graves because he is very fun and satisfying to play <br> <br> Personal Motto: Teamwork makes the dream work <br> <br> Favourite League Memory: Winning Sydney Battlegrounds 2018 | ![](https://xelus22.github.io/LoLSocWebpage/uploads/30711799_2086764861350849_5821514581280817152_n.jpg) |
-|        |
 
 | **VICE PRESIDENT (OPERATIONS):** <br>  <br> Name: Harrison “Xelus” Chan <br>  <br> Year: 2nd Year Electrical Engineering/Computer Science <br>  <br> Favourite Champion: Yi. He is a really fun champion because he's got a lot of outplay potential and has a few important mechanics to his kit. Also he is a great champion to snowball with in low elo <br>  <br> Personal Motto: **_Silence_** <br>  <br> Favourite League Memory: Playing with the legendary YoloSwagPimp420 | ![](https://xelus22.github.io/LoLSocWebpage/uploads/39883142_1954420631292404_3314576856761499648_o.jpg)
 
