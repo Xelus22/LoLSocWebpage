@@ -8,10 +8,10 @@ subtitle: Our execs!
 Executives might sound like a scary word, but in reality we stay up playing League just like you! Don't be afraid to talk and say hi to us at our next event!!!
 
 
-<table border ="1">
+<table border ="11">
   <tr>
     <td> <b>PRESIDENT</b>:
-      <br> <br> Name: Adrian "Morale" Guo
+      <br> <br> <b>Name:</b> Adrian "Morale" Guo
       <br> <br> Year: 3rd Year Medicinal Chemistry
       <br> <br> Favourite Champion: Graves because he is very fun and satisfying to play
       <br> <br> Personal Motto: Teamwork makes the dream work
