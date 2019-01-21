@@ -5,8 +5,6 @@ permalink: ourexecs
 subtitle: Our execs!
 
 ---
-
-
 <table border="11">
 <tr>
 <td style="width: 60%"> <b> PRESIDENT:</b>
@@ -36,7 +34,7 @@ subtitle: Our execs!
 <br> <br> <b>Favourite League Memory:</b> Playing with the legendary YoloSwagPimp420
 </td>
 <td>
-<img src="https://xelus22.github.io/LoLSocWebpage/uploads/39883142_1954420631292404_3314576856761499648_o.jpg">
+<img src="https://xelus22.github.io/LoLSocWebpage/uploads/Picture5.jpg">
 </td>
 
 </tr>
