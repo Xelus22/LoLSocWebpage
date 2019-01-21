@@ -155,7 +155,7 @@ subtitle: Our execs!
 
 <table border="11">
   <tr>
-    <td style="width: 62%; text-align: center;"> <b> EVENTS DIRECTOR #2: </b>
+    <td style="width: 63%; text-align: center;"> <b> EVENTS DIRECTOR #2: </b>
       <br> <br> <b>Name:</b> Andy “Glup” Liu
       <br> <br> <b>Year:</b> 2nd Year Data Science
       <br> <br> <b>Favourite Champion:</b> Pyke
