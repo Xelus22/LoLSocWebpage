@@ -14,7 +14,7 @@ and opportunities for our society.
       <h2><b> ARC UNSW:</b></h2>
       <h3> STUDENT ORGANISATION </h3>
       Arc is UNSW's student organisation that sponsors and oversees all UNSW student ARC-affiliated societies. All UNSW students are eligible to sign up to Arc membership for free.
-      <br><br>[Click here to find out more about Arc and sign up for an Arc membership](www.arc.unsw.edu.au/ "ARC UNSW")
+      <br><br> <a href="https://www.arc.unsw.edu.au/">Click here to find out more about Arc and sign up for an Arc membership</a>
     </td>
     <td style="text-align: center;">
       <img src="https://xelus22.github.io/LoLSocWebpage/uploads/Arc (Black on White).jpg">
