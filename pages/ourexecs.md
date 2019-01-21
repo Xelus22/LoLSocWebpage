@@ -5,7 +5,7 @@ permalink: ourexecs
 subtitle: Our execs!
 
 ---
-<table border="0">
+<table border="12">
 <tr>
 <td style="width: 60%" align="center"> <b> PRESIDENT:</b>
 <br> <br> <b>Name:</b> Adrian "Morale" Guo
@@ -24,7 +24,7 @@ subtitle: Our execs!
 <p></p>
 <p></p>
 
-<table border="0">
+<table border="13">
 <tr>
 <td style="width: 60%"align="center"> <b> VICE PRESIDENT (OPERATIONS): </b>
 <br> <br> <b>Name:</b> Harrison “Xelus” Chan
@@ -43,7 +43,7 @@ subtitle: Our execs!
 <p></p>
 <p></p>
 
-<table border="0">
+<table border="14">
 <tr>
 <td style="width: 60%"align="center"> <b> VICE PRESIDENT (ADMINISTRATION): </b>
 <br> <br> <b>Name:</b> Alex “Aldiko9” Wong
@@ -62,7 +62,7 @@ subtitle: Our execs!
 <p></p>
 <p></p>
 
-<table border="0">
+<table border="4">
 <tr>
 <td style="width: 60%"align="center"> <b> SECRETARY: </b>
 <br> <br> <b>Name:</b> Helen “SwordSky” Xia
