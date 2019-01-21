@@ -159,7 +159,7 @@ subtitle: Our execs!
       <br> <br> <b>Name:</b> Andy “Glup” Liu
       <br> <br> <b>Year:</b> 2nd Year Data Science
       <br> <br> <b>Favourite Champion:</b> Pyke
-      <br> <br> <b>Personal Motto:</b> Win              		
+      <br> <br> <b>Personal Motto:</b> Win           		
       <br> <br> <b>Favourite League Memory:</b> Iron 4
     </td>
     <td style="text-align: center;">
