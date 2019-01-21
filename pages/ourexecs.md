@@ -11,7 +11,7 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
 
 Name: Adrian "Morale" Guo
 
-Year: 2nd Year Medicinal Chemistry
+Year: 3rd Year Medicinal Chemistry
 
 Favourite Champion: Graves because he is very fun and satisfying to play
 
@@ -23,7 +23,7 @@ Favourite League Memory: Winning Sydney Battlegrounds 2018
 
 Name: Harrison “Xelus” Chan
 
-Year: 1st Year Electrical Engineering/Computer Science
+Year: 2nd Year Electrical Engineering/Computer Science
 
 Favourite Champion: Yi. He is a really fun champion because he's got a lot of outplay potential and has a few important mechanics to his kit. Also he is a great champion to snowball with in low elo  
 
@@ -35,7 +35,7 @@ Favourite League Memory: Playing with the legendary YoloSwagPimp420
 
 Name: Alex "Aldiko9" Wong
 
-Year: 3rd Year Commerce/Law
+Year: 4th Year Commerce/Law
 
 Favourite Champion: Trundle because ... TRAFFIC CONES!!!
 
@@ -59,7 +59,7 @@ Favourite League Memory: Discovering just how far Rakan can travel in under a se
 
 Name: Yilun "tigeryl" Zhou
 
-Year: 3rd Year, Commerce/Information Systems
+Year: 4th Year, Commerce/Information Systems
 
 Favourite Champion: Dr Mundo - He goes where he pleases!
 
@@ -71,12 +71,13 @@ Favourite League Memory: My friend and I had around 30 minutes before our tutori
 
 Name: Jacky “Sky” Dong
 
-Year: 3rd Year Commerce/Law
+Year: 4th Year Commerce/Law
 
 Favourite Champion: Zed! His versatile kit allows for flashy plays and bursting opponents with his ultimate is very satisfying. Also edgy ninjas are cool
 
-Personal Motto: An amateur does practises to get it right, a master practises to never get it wrong  
- Favourite League Memory: My Pentakills :)
+Personal Motto: An amateur does practises to get it right, a master practises to never get it wrong
+
+Favourite League Memory: My Pentakills :)
 
 **HUMAN RESOURCES DIRECTOR:**
 
@@ -94,7 +95,7 @@ Favourite League Memory: Legends never die 😓
 
 Name: Colby “Kobe Lu” Lu
 
-Year: 2nd Year Information Systems
+Year: 3rd Year Information Systems
 
 Favourite Champion: Vayne
 
@@ -106,7 +107,7 @@ Favourite League Memory: Becoming Jesus and walking on water at roadtrip
 
 Name: Andy “Glup” Liu
 
-Year: 1st Year Data Science
+Year: 2nd Year Data Science
 
 Favourite Champion: Pyke
 
