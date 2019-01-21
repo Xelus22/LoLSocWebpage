@@ -8,7 +8,7 @@ subtitle: Our execs!
 <table border="11">
   <tr>
     <td style="width: 60%; text-align: center;"> <h2><b> PRESIDENT:</b></h2>
-      <br> <br> <b>Name:</b> Adrian "Morale" Guo
+      <b>Name:</b> Adrian "Morale" Guo
       <br> <br> <b>Year:</b> 3rd Year Medicinal Chemistry
       <br> <br> <b>Favourite Champion:</b> Graves because he is very fun and satisfying to play
       <br> <br> <b>Personal Motto:</b> Teamwork makes the dream work
