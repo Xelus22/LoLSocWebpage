@@ -201,7 +201,7 @@ subtitle: Our execs!
 
 <table border="11">
   <tr>
-    <td style="width: 60%; text-align: center;"> <b> <h2><b> MARKETING DIRECTOR (PUBLICATIONS):</b></h2>
+    <td style="width: 60%; text-align: center;"> <h2><b> MARKETING DIRECTOR (PUBLICATIONS):</b></h2>
       <b>Name:</b> Kenzo “cso69” Jeanson
       <br> <br> <b>Year:</b> 2nd Year Information Systems
       <br> <br> <b>Favourite Champion:</b> One Champ One Lane Kled OTP for life
