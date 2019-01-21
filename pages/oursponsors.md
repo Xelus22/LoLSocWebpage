@@ -10,7 +10,7 @@ and opportunities for our society.
 
 <table border="11">
   <tr>
-    <td style="width: 65%; text-align: center;">
+    <td style="width: 65%;">
       <h2><b> ARC UNSW:</b></h2>
       <h3> STUDENT ORGANISATION </h3>
       Arc is UNSW's student organisation that sponsors and oversees all UNSW student ARC-affiliated societies. All UNSW students are eligible to sign up to Arc membership for free.
@@ -118,6 +118,3 @@ and opportunities for our society.
 
   </tr>
 </table>
-
-<p></p>
-<p></p>
