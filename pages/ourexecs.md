@@ -5,8 +5,6 @@ permalink: ourexecs
 subtitle: Our execs!
 
 ---
-
-
 <table border="11">
 <tr>
 <td style="width: 60%"> <b> PRESIDENT:</b>
@@ -154,7 +152,7 @@ enemy one by one to win the game!
 <br> <br> <b>Favourite League Memory:</b> Becoming Jesus and walking on water at roadtrip
 </td>
 <td>
-<img src="https://xelus22.github.io/LoLSocWebpage/uploads/D2371_1 - colby lu.jpg">
+<img src="https://xelus22.github.io/LoLSocWebpage/uploads/Picture3.jpg">
 </td>
 
 </tr>
