@@ -26,7 +26,7 @@ subtitle: Our execs!
 
 <table border="11">
   <tr>
-    <td> style="width: 60%"> <b> VICE PRESIDENT (OPERATIONS): </b>
+    <td style="width: 60%"> <b> VICE PRESIDENT (OPERATIONS): </b>
       <br> <br> <b>Name:</b> Harrison “Xelus” Chan
       <br> <br> <b>Year:</b> 2nd Year Electrical Engineering/Computer Science
       <br> <br> <b>Favourite Champion:</b> Yi. He is a really fun champion because he’s got a lot of outplay potential and has a few important mechanics to his kit. Also he is a great champion to snowball with in low elo
@@ -45,7 +45,7 @@ subtitle: Our execs!
 
 <table border="11">
   <tr>
-    <td> style="width: 60%"> <b> VICE PRESIDENT (ADMINISTRATION): </b>
+    <td style="width: 60%"> <b> VICE PRESIDENT (ADMINISTRATION): </b>
       <br> <br> <b>Name:</b> Alex “Aldiko9” Wong
       <br> <br> <b>Year:</b> 4th Year Commerce/Law
       <br> <br> <b>Favourite Champion:</b> Trundle because … TRAFFIC CONES!!!
@@ -64,7 +64,7 @@ subtitle: Our execs!
 
 <table border="11">
   <tr>
-    <td> style="width: 60%"> <b> SECRETARY: </b>
+    <td style="width: 60%"> <b> SECRETARY: </b>
       <br> <br> <b>Name:</b> Helen “SwordSky” Xia
       <br> <br> <b>Year:</b> 4th Year Computer Science/Media Arts
       <br> <br> <b>Favourite Champion:</b> Zoe
@@ -83,7 +83,7 @@ subtitle: Our execs!
 
 <table border="11">
   <tr>
-    <td> style="width: 60%"> <b> TREASURER: </b>
+    <td style="width: 60%"> <b> TREASURER: </b>
       <br> <br> <b>Name:</b> Yilun "tigeryl" Zhou
       <br> <br> <b>Year:</b> 4th Year Commerce/Information Systems
       <br> <br> <b>Favourite Champion:</b> Dr Mundo - He goes where he pleases!
@@ -106,7 +106,7 @@ subtitle: Our execs!
 
 <table border="11">
   <tr>
-    <td> style="width: 60%"> <b> ARC DELEGATE: </b>
+    <td style="width: 60%"> <b> ARC DELEGATE: </b>
       <br> <br> <b>Name:</b> Jacky “Sky” Dong
       <br> <br> <b>Year:</b> 4th Year Commerce/Law
       <br> <br> <b>Favourite Champion:</b> Zed! His versatile kit allows for flashy plays and bursting opponents with his ultimate is very satisfying. Also edgy ninjas are cool
@@ -125,7 +125,7 @@ subtitle: Our execs!
 
 <table border="11">
   <tr>
-    <td> style="width: 60%"> <b> HUMAN RESOURCES DIRECTOR: </b>
+    <td style="width: 60%"> <b> HUMAN RESOURCES DIRECTOR: </b>
       <br> <br> <b>Name:</b> Brendan “Terrosyth” Kwan
       <br> <br> <b>Year:</b> 3rd Year Science/Psychology
       <br> <br> <b>Favourite Champion:</b> Ahri
@@ -144,7 +144,7 @@ subtitle: Our execs!
 
 <table border="11">
   <tr>
-    <td> style="width: 60%"> <b> EVENTS DIRECTOR #1: </b>
+    <td style="width: 60%"> <b> EVENTS DIRECTOR #1: </b>
       <br> <br> <b>Name:</b> Colby “Kobe Lu” Lu
       <br> <br> <b>Year:</b> 3rd Year Information Systems
       <br> <br> <b>Favourite Champion:</b> Vayne
@@ -163,7 +163,7 @@ subtitle: Our execs!
 
 <table border="11">
   <tr>
-    <td> style="width: 60%"> <b> EVENTS DIRECTOR #2: </b>
+    <td style="width: 60%"> <b> EVENTS DIRECTOR #2: </b>
       <br> <br> <b>Name:</b> Andy “Glup” Liu
       <br> <br> <b>Year:</b> 2nd Year Data Science
       <br> <br> <b>Favourite Champion:</b> Pyke
@@ -182,7 +182,7 @@ subtitle: Our execs!
 
 <table border="11">
   <tr>
-    <td> style="width: 60%"> <b> MARKETING DIRECTOR (MEDIA): </b>:
+    <td style="width: 60%"> <b> MARKETING DIRECTOR (MEDIA): </b>:
       <br> <br> <b>Name:</b> Stephen “Phansceneth” Chan
       <br> <br> <b>Year:</b> 3rd Year Psychology
       <br> <br> <b>Favourite Champion:</b> I am the (second) greatest Lux in LoLSoc
@@ -201,7 +201,7 @@ subtitle: Our execs!
 
 <table border="11">
   <tr>
-    <td> style="width: 60%"> <b> MARKETING DIRECTOR (Publications): </b>:
+    <td style="width: 60%"> <b> MARKETING DIRECTOR (Publications): </b>:
       <br> <br> <b>Name:</b> Kenzo “cso69” Jeanson
       <br> <br> <b>Year:</b> 2nd Year Information Systems
       <br> <br> <b>Favourite Champion:</b> Kled otp - One Champ One Lane
