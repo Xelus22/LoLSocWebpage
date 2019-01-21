@@ -9,7 +9,7 @@ subtitle: Our execs!
 
 <table border="12">
 <tr>
-<td style="width: 60%" align="center"> <b> PRESIDENT:</b>
+<td style="width: 60%"; align="center"> <b> PRESIDENT:</b>
 <br> <br> <b>Name:</b> Adrian "Morale" Guo
 <br> <br> <b>Year:</b> 3rd Year Medicinal Chemistry
 <br> <br> <b>Favourite Champion:</b> Graves because he is very fun and satisfying to play
@@ -28,7 +28,7 @@ subtitle: Our execs!
 
 <table border="13">
 <tr>
-<td style="width: 60%"align="center"> <b> VICE PRESIDENT (OPERATIONS): </b>
+<td style="width: 60%"; align="center"> <b> VICE PRESIDENT (OPERATIONS): </b>
 <br> <br> <b>Name:</b> Harrison “Xelus” Chan
 <br> <br> <b>Year:</b> 2nd Year Electrical Engineering/Computer Science
 <br> <br> <b>Favourite Champion:</b> Yi. He is a really fun champion because he’s got a lot of outplay potential and has a few important mechanics to his kit. Also he is a great champion to snowball with in low elo
@@ -47,7 +47,7 @@ subtitle: Our execs!
 
 <table border="14">
 <tr>
-<td style="width: 60%"align="center"> <b> VICE PRESIDENT (ADMINISTRATION): </b>
+<td style="width: 60%"; align="center"> <b> VICE PRESIDENT (ADMINISTRATION): </b>
 <br> <br> <b>Name:</b> Alex “Aldiko9” Wong
 <br> <br> <b>Year:</b> 4th Year Commerce/Law
 <br> <br> <b>Favourite Champion:</b> Trundle because … TRAFFIC CONES!!!
@@ -66,7 +66,7 @@ subtitle: Our execs!
 
 <table border="4">
 <tr>
-<td style="width: 60%"align="center"> <b> SECRETARY: </b>
+<td style="width: 60%"; align="center"> <b> SECRETARY: </b>
 <br> <br> <b>Name:</b> Helen “SwordSky” Xia
 <br> <br> <b>Year:</b> 4th Year Computer Science/Media Arts
 <br> <br> <b>Favourite Champion:</b> Zoe
@@ -127,7 +127,7 @@ enemy one by one to win the game!
 
 <table border="11">
 <tr>
-<td style="width: 60%"align="center"> <b> HUMAN RESOURCES DIRECTOR: </b>
+<td style="width: 60%"; align="center"> <b> HUMAN RESOURCES DIRECTOR: </b>
 <br> <br> <b>Name:</b> Brendan “Terrosyth” Kwan
 <br> <br> <b>Year:</b> 3rd Year Science/Psychology
 <br> <br> <b>Favourite Champion:</b> Ahri
