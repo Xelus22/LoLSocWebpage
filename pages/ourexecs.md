@@ -7,6 +7,25 @@ subtitle: Our execs!
 ---
 Executives might sound like a scary word, but in reality we stay up playing League just like you! Don't be afraid to talk and say hi to us at our next event!!!
 
+
+<table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th> 
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td> 
+    <td>50</td>
+  </tr>
+ 
+</table>
+
+
+
+
+
 **PRESIDENT:**
 
 Name: Adrian "Morale" Guo
