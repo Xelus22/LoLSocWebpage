@@ -7,35 +7,25 @@ subtitle: Our execs!
 ---
 Executives might sound like a scary word, but in reality we stay up playing League just like you! Don't be afraid to talk and say hi to us at our next event!!!
 
-
-
 <table style="width:100%">
-  <tr>
-    <td> PRESIDENT:
-      <br> <br> Name: Adrian "Morale" Guo
-      <br> <br> Year: 3rd Year Medicinal Chemistry
-      <br> <br> Favourite Champion: Graves because he is very fun and satisfying to play
-      <br> <br> Personal Motto: Teamwork makes the dream work
-      <br> <br> Favourite League Memory: Winning Sydney Battlegrounds 2018
-    </td>
-    <th>Lastname</th>
-  </tr>
+<tr>
+<td> **PRESIDENT**:
+<br> <br> Name: Adrian "Morale" Guo
+<br> <br> Year: 3rd Year Medicinal Chemistry
+<br> <br> Favourite Champion: Graves because he is very fun and satisfying to play
+<br> <br> Personal Motto: Teamwork makes the dream work
+<br> <br> Favourite League Memory: Winning Sydney Battlegrounds 2018
+</td>
+<th>Lastname</th>
+</tr>
 </table>
-
-
-
-
 
 table { border-color:red }
 
 | **PRESIDENT:** <br>  <br> Name: Adrian "Morale" Guo <br> <br> Year: 3rd Year Medicinal Chemistry <br> <br>  Favourite Champion: Graves because he is very fun and satisfying to play <br> <br> Personal Motto: Teamwork makes the dream work <br> <br> Favourite League Memory: Winning Sydney Battlegrounds 2018 | ![](https://xelus22.github.io/LoLSocWebpage/uploads/30711799_2086764861350849_5821514581280817152_n.jpg) |
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
-
-
-
+|        |
 
 | **VICE PRESIDENT (OPERATIONS):** <br>  <br> Name: Harrison “Xelus” Chan <br>  <br> Year: 2nd Year Electrical Engineering/Computer Science <br>  <br> Favourite Champion: Yi. He is a really fun champion because he's got a lot of outplay potential and has a few important mechanics to his kit. Also he is a great champion to snowball with in low elo <br>  <br> Personal Motto: **_Silence_** <br>  <br> Favourite League Memory: Playing with the legendary YoloSwagPimp420 | ![](https://xelus22.github.io/LoLSocWebpage/uploads/39883142_1954420631292404_3314576856761499648_o.jpg)
-
 
 | **VICE PRESIDENT (ADMINISTRATION):** <br>  <br> Name: Alex "Aldiko9" Wong <br>  <br> Year: 4th Year Commerce/Law <br>  <br> Favourite Champion: Trundle because ... TRAFFIC CONES!!! <br>  <br> Personal Motto: When you are 0/6, just be a minion <br>  <br> Favourite League Memory: I dedicate this to all those times minions became winions. | ![](https://xelus22.github.io/LoLSocWebpage/uploads/29512326_1439117879533993_7737485068508600296_n.jpg)
 
