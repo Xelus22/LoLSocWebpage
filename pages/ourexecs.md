@@ -5,6 +5,8 @@ permalink: ourexecs
 subtitle: Our execs!
 
 ---
+
+
 <table border="11">
 <tr>
 <td style="width: 60%"> <b> PRESIDENT:</b>
@@ -95,7 +97,7 @@ u for this teamfight” whilst I gestured to my friend’s kda of 4/18/2. As usu
 enemy one by one to win the game!
 </td>
 <td>
-<img src="https://xelus22.github.io/LoLSocWebpage/uploads/IMG_20160123_170520 - Yilun Zhou.jpg">
+<img src="https://xelus22.github.io/LoLSocWebpage/uploads/Picture4.jpg">
 </td>
 
 </tr>
