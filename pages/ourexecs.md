@@ -206,7 +206,7 @@ enemy one by one to win the game!
 <td style="width: 60%; text-align: center;"> <b> MARKETING DIRECTOR (Publications): </b>
 <br> <br> <b>Name:</b> Kenzo “cso69” Jeanson
 <br> <br> <b>Year:</b> 2nd Year Information Systems
-<br> <br> <b>Favourite Champion:</b> One Champ One Lane Kled OTP
+<br> <br> <b>Favourite Champion:</b> One Champ One Lane Kled OTP for life
 <br> <br> <b>Personal Motto:</b> Worse jungler = instalose
 <br> <br> <b>Favourite League Memory:</b> Boosting our past president to Gold!
 </td>
