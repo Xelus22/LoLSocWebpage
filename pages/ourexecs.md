@@ -15,35 +15,7 @@ table { border-colour:red }
 
 
 
-
-
-**PRESIDENT:**
-
-Name: Adrian "Morale" Guo
-
-Year: 3rd Year Medicinal Chemistry
-
-Favourite Champion: Graves because he is very fun and satisfying to play
-
-Personal Motto: Teamwork makes the dream work
-
-Favourite League Memory: Winning Sydney Battlegrounds 2018
-
-![](https://xelus22.github.io/LoLSocWebpage/uploads/30711799_2086764861350849_5821514581280817152_n.jpg)
-
-**VICE PRESIDENT (OPERATIONS):**
-
-Name: Harrison “Xelus” Chan
-
-Year: 2nd Year Electrical Engineering/Computer Science
-
-Favourite Champion: Yi. He is a really fun champion because he's got a lot of outplay potential and has a few important mechanics to his kit. Also he is a great champion to snowball with in low elo
-
-Personal Motto: **_Silence_**
-
-Favourite League Memory: Playing with the legendary YoloSwagPimp420
-
-![](https://xelus22.github.io/LoLSocWebpage/uploads/39883142_1954420631292404_3314576856761499648_o.jpg)
+|**VICE PRESIDENT (OPERATIONS):** <br>  <br> Name: Harrison “Xelus” Chan <br>  <br> Year: 2nd Year Electrical Engineering/Computer Science <br>  <br> Favourite Champion: Yi. He is a really fun champion because he's got a lot of outplay potential and has a few important mechanics to his kit. Also he is a great champion to snowball with in low elo <br>  <br> Personal Motto: **_Silence_** <br>  <br> Favourite League Memory: Playing with the legendary YoloSwagPimp420 | ![](https://xelus22.github.io/LoLSocWebpage/uploads/39883142_1954420631292404_3314576856761499648_o.jpg)
 
 **VICE PRESIDENT (ADMINISTRATION):**
 
