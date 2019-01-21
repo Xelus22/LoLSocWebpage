@@ -10,7 +10,7 @@ Our society is extremely fortunate to have partnerships with the following spons
 <table border="11">
 <tr>
 <td style="width: 60%; text-align: center;"> <h2><b> ARC UNSW:</b></h2>
-<h3><b>Name:</b></h3> STUDENT ORGANISATION
+<h3></h3> STUDENT ORGANISATION
 <b>Year:</b> 3rd Year Medicinal Chemistry
 <br> <br> Arc is UNSW's student organisation that sponsors and oversees all UNSW student ARC-affiliated societies. All UNSW students are eligible to sign up to Arc membership for free.
   <br><br>Click here to find out more about Arc and sign up for an Arc membership
