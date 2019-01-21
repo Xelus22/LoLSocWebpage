@@ -7,7 +7,7 @@ subtitle: Our execs!
 ---
 <table border="11">
   <tr>
-    <td> <b>PRESIDENT:/b>
+    <td> <b>PRESIDENT:</b>
       <br> <br> <b>Name:</b> Adrian "Morale" Guo
       <br> <br> <b>Year:</b> 3rd Year Medicinal Chemistry
       <br> <br> <b>Favourite Champion:</b> Graves because he is very fun and satisfying to play
@@ -15,7 +15,7 @@ subtitle: Our execs!
       <br> <br> <b>Favourite League Memory:</b> Winning Sydney Battlegrounds 2018
     </td>
     <td>
-      <img src="https://xelus22.github.io/LoLSocWebpage/uploads/30711799_2086764861350849_5821514581280817152_n.jpg" alt="" border=3 height=100 width=300></img>
+
     </td>
   </tr>
 </table>
@@ -32,7 +32,7 @@ subtitle: Our execs!
       <br> <br> <b>Favourite League Memory:</b> Playing with the legendary YoloSwagPimp420
     </td>
     <td>
-      <img src="https://xelus22.github.io/LoLSocWebpage/uploads/30711799_2086764861350849_5821514581280817152_n.jpg" alt="" border=3 height=100 width=300></img>
+
     </td>
   </tr>
 </table>
@@ -49,7 +49,7 @@ subtitle: Our execs!
       <br> <br> <b>Favourite League Memory:</b> I dedicate this to all those times minions became winions.
     </td>
     <td>
-      <img src="https://xelus22.github.io/LoLSocWebpage/uploads/30711799_2086764861350849_5821514581280817152_n.jpg" alt="" border=3 height=100 width=300></img>
+
     </td>
   </tr>
 </table>
@@ -65,7 +65,7 @@ subtitle: Our execs!
       <br> <br> <b>Favourite League Memory:</b> Discovering just how far Rakan can travel in under a second (the entire distance between mid lane 1st tier turrets)
     </td>
     <td>
-      <img src="https://xelus22.github.io/LoLSocWebpage/uploads/30711799_2086764861350849_5821514581280817152_n.jpg" alt="" border=3 height=100 width=300></img>
+
     </td>
   </tr>
 </table>
@@ -85,7 +85,7 @@ subtitle: Our execs!
       enemy one by one to win the game!
     </td>
     <td>
-      <img src="https://xelus22.github.io/LoLSocWebpage/uploads/30711799_2086764861350849_5821514581280817152_n.jpg" alt="" border=3 height=100 width=300></img>
+
     </td>
   </tr>
 </table>
@@ -101,7 +101,7 @@ subtitle: Our execs!
       <br> <br> <b>Favourite League Memory:</b> My Pentakills :)
     </td>
     <td>
-      <img src="https://xelus22.github.io/LoLSocWebpage/uploads/30711799_2086764861350849_5821514581280817152_n.jpg" alt="" border=3 height=100 width=300></img>
+
     </td>
   </tr>
 </table>
@@ -117,7 +117,7 @@ subtitle: Our execs!
       <br> <br> <b>Favourite League Memory:</b> Legends never die 😓
     </td>
     <td>
-      <img src="https://xelus22.github.io/LoLSocWebpage/uploads/30711799_2086764861350849_5821514581280817152_n.jpg" alt="" border=3 height=100 width=300></img>
+
     </td>
   </tr>
 </table>
@@ -133,7 +133,7 @@ subtitle: Our execs!
       <br> <br> <b>Favourite League Memory:</b> Becoming Jesus and walking on water at roadtrip
     </td>
     <td>
-      <img src="https://xelus22.github.io/LoLSocWebpage/uploads/30711799_2086764861350849_5821514581280817152_n.jpg" alt="" border=3 height=100 width=300></img>
+
     </td>
   </tr>
 </table>
@@ -149,7 +149,7 @@ subtitle: Our execs!
       <br> <br> <b>Favourite League Memory:</b> Iron 4
     </td>
     <td>
-      <img src="https://xelus22.github.io/LoLSocWebpage/uploads/30711799_2086764861350849_5821514581280817152_n.jpg" alt="" border=3 height=100 width=300></img>
+
     </td>
   </tr>
 </table>
@@ -165,7 +165,7 @@ subtitle: Our execs!
       <br> <br> <b>Favourite League Memory:</b> Late night ARAMs with friends when we couldn’t end on a loss. Also, clean climb to Diamond after being hardstuck Silver for too long. But mostly beating Stealthix in norms!
     </td>
     <td>
-      <img src="https://xelus22.github.io/LoLSocWebpage/uploads/30711799_2086764861350849_5821514581280817152_n.jpg" alt="" border=3 height=100 width=300></img>
+
     </td>
   </tr>
 </table>
@@ -181,7 +181,7 @@ subtitle: Our execs!
       <br> <br> <b>Favourite League Memory:</b> Boosting our past president to Gold!
     </td>
     <td>
-      <img src="https://xelus22.github.io/LoLSocWebpage/uploads/30711799_2086764861350849_5821514581280817152_n.jpg" alt="" border=3 height=100 width=300></img>
+
     </td>
   </tr>
 </table>
