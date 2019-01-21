@@ -10,7 +10,7 @@ subtitle: Sponsors of UNSWLoLSoc
     <td style="width: 60%; text-align: center;">
       <h2><b> PRESIDENT:</b></h2>
       <b>Name:</b> Adrian "Morale" Guo
-      <br> <br> <b>Year:</b> 3rd Year Medicinal Chemistry
+      <b>Year:</b> 3rd Year Medicinal Chemistry
       <br> <br> <b>Favourite Champion:</b> Graves because he is very fun and satisfying to play
       <br> <br> <b>Personal Motto:</b> Teamwork makes the dream work
       <br> <br> <b>Favourite League Memory:</b> Winning Sydney Battlegrounds 2018
@@ -28,7 +28,7 @@ subtitle: Sponsors of UNSWLoLSoc
   <tr>
     <td style="width: 60%; ">
       <h2><b> VICE PRESIDENT (OPERATIONS):</b></h2>
-      <br> <br> <b>Name:</b> Harrison “Xelus” Chan
+      <b>Name:</b> Harrison “Xelus” Chan
       <br> <br> <b>Year:</b> 2nd Year Electrical Engineering/Computer Science
       <br> <br> <b>Favourite Champion:</b> Yi. He is a really fun champion because he’s got a lot of outplay potential and has a few important mechanics to his kit. Also he is a great champion to snowball with in low elo
       <br> <br> <b>Personal Motto:</b> Silence
@@ -47,7 +47,7 @@ subtitle: Sponsors of UNSWLoLSoc
   <tr>
     <td style="width: 60%; text-align: center;">
       <h2><b> VICE PRESIDENT (ADMINISTRATION):</b></h2>
-      <br> <br> <b>Name:</b> Alex “Aldiko9” Wong
+      <b>Name:</b> Alex “Aldiko9” Wong
       <br> <br> <b>Year:</b> 4th Year Commerce/Law
       <br> <br> <b>Favourite Champion:</b> Trundle because … TRAFFIC CONES!!!
       <br> <br> <b>Personal Motto:</b> When you are 0/6, just be a minion
@@ -66,7 +66,7 @@ subtitle: Sponsors of UNSWLoLSoc
   <tr>
     <td style="width: 60%; text-align: center;">
       <h2><b> SECRETARY:</b></h2>
-      <br> <br> <b>Name:</b> Helen “SwordSky” Xia
+      <b>Name:</b> Helen “SwordSky” Xia
       <br> <br> <b>Year:</b> 4th Year Computer Science/Media Arts
       <br> <br> <b>Favourite Champion:</b> Zoe
       <br> <br> <b>Personal Motto:</b> Kill Secured!
@@ -85,7 +85,7 @@ subtitle: Sponsors of UNSWLoLSoc
   <tr>
     <td style="width: 60%; text-align: center;">
       <h2><b> TREASURER:</b></h2>
-      <br> <br> <b>Name:</b> Yilun "tigeryl" Zhou
+      <b>Name:</b> Yilun "tigeryl" Zhou
       <br> <br> <b>Year:</b> 4th Year Commerce/Information Systems
       <br> <br> <b>Favourite Champion:</b> Dr Mundo - He goes where he pleases!
       <br> <br> <b>Personal Motto:</b> If you need 50 gold to buy an item, just kill the Nexus
@@ -108,7 +108,7 @@ subtitle: Sponsors of UNSWLoLSoc
   <tr>
     <td style="width: 60%; text-align: center;">
       <h2><b> ARC DELEGATE:</b></h2>
-      <br> <br> <b>Name:</b> Jacky “Sky” Dong
+      <b>Name:</b> Jacky “Sky” Dong
       <br> <br> <b>Year:</b> 4th Year Commerce/Law
       <br> <br> <b>Favourite Champion:</b> Zed! His versatile kit allows for flashy plays and bursting opponents with his ultimate is very satisfying. Also edgy ninjas are cool
       <br> <br> <b>Personal Motto:</b> An amateur does practises to get it right, a master practises to never get it wrong
@@ -127,7 +127,7 @@ subtitle: Sponsors of UNSWLoLSoc
   <tr>
     <td style="width: 60%; text-align: center;">
       <h2><b> HUMAN RESOURCES DIRECTOR:</b></h2>
-      <br> <br> <b>Name:</b> Brendan “Terrosyth” Kwan
+      <b>Name:</b> Brendan “Terrosyth” Kwan
       <br> <br> <b>Year:</b> 3rd Year Science/Psychology
       <br> <br> <b>Favourite Champion:</b> Ahri
       <br> <br> <b>Personal Motto:</b> Life stops for no one, grasp every opportunity or get left behind
@@ -146,7 +146,7 @@ subtitle: Sponsors of UNSWLoLSoc
   <tr>
     <td style="width: 60%; text-align: center;">
       <h2><b> EVENTS DIRECTOR #1:</b></h2>
-      <br> <br> <b>Name:</b> Colby “Kobe Lu” Lu
+      <b>Name:</b> Colby “Kobe Lu” Lu
       <br> <br> <b>Year:</b> 3rd Year Information Systems
       <br> <br> <b>Favourite Champion:</b> Vayne
       <br> <br> <b>Personal Motto:</b> It’s only embarrassing if you’re embarrassed
@@ -165,7 +165,7 @@ subtitle: Sponsors of UNSWLoLSoc
   <tr>
     <td style="width: 63%; text-align: center;">
       <h2><b> EVENTS DIRECTOR #2:</b></h2>
-      <br> <br> <b>Name:</b> Andy “Glup” Liu
+      <b>Name:</b> Andy “Glup” Liu
       <br> <br> <b>Year:</b> 2nd Year Data Science
       <br> <br> <b>Favourite Champion:</b> Pyke
       <br> <br> <b>Personal Motto:</b> Win
@@ -184,7 +184,7 @@ subtitle: Sponsors of UNSWLoLSoc
   <tr>
     <td style="width: 60%; text-align: center;">
       <h2><b> MARKETING DIRECTOR (MEDIA):</b></h2>
-      <br> <br> <b>Name:</b> Stephen “phancy” Chan
+      <b>Name:</b> Stephen “phancy” Chan
       <br> <br> <b>Year:</b> 3rd Year Psychology
       <br> <br> <b>Favourite Champion:</b> I am the (second) greatest Lux in LoLSoc
       <br> <br> <b>Personal Motto:</b> Comebackable!
@@ -202,7 +202,7 @@ subtitle: Sponsors of UNSWLoLSoc
 <table border="11">
   <tr>
     <td style="width: 60%; text-align: center;"> <b> <h2><b> MARKETING DIRECTOR (PUBLICATIONS):</b></h2>
-      <br> <br> <b>Name:</b> Kenzo “cso69” Jeanson
+      <b>Name:</b> Kenzo “cso69” Jeanson
       <br> <br> <b>Year:</b> 2nd Year Information Systems
       <br> <br> <b>Favourite Champion:</b> One Champ One Lane Kled OTP for life
       <br> <br> <b>Personal Motto:</b> Worse jungler = instalose
