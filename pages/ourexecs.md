@@ -9,7 +9,7 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
 
 <table style="width:100%; color: red;">
 <tr>
-<td> **PRESIDENT**:
+  <td> <b>PRESIDENT</b>:
 <br> <br> Name: Adrian "Morale" Guo
 <br> <br> Year: 3rd Year Medicinal Chemistry
 <br> <br> Favourite Champion: Graves because he is very fun and satisfying to play
