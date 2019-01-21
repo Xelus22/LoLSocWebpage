@@ -5,6 +5,8 @@ permalink: ourexecs
 subtitle: Our execs!
 
 ---
+Executives might sound like a scary word, but in reality we stay up playing League just like you! Don't be afraid to talk and say hi to us at our next event!
+
 <table border="11">
   <tr>
     <td style="width: 60%; text-align: center;">
