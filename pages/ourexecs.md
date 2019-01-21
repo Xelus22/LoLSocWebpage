@@ -191,7 +191,7 @@ subtitle: Our execs!
       <br> <br> <b>Favourite League Memory:</b> Late night ARAMs with friends when we couldn’t end on a loss. Also, clean climb to Diamond after being hardstuck Silver for too long. But mostly beating Stealthix in norms!
     </td>
     <td style="text-align: center;">
-      <img src="https://xelus22.github.io/LoLSocWebpage/uploads/Stephen Chan - UNSW LoLSoc.jpg">
+      <img src="https://xelus22.github.io/LoLSocWebpage/uploads/Picture1-1.jpg">
     </td>
   </tr>
 </table>
@@ -201,7 +201,8 @@ subtitle: Our execs!
 
 <table border="11">
   <tr>
-    <td style="width: 60%; text-align: center;"> <h2><b> MARKETING DIRECTOR (PUBLICATIONS):</b></h2>
+    <td style="width: 60%; text-align: center;">
+      <h2><b> MARKETING DIRECTOR (PUBLICATIONS):</b></h2>
       <b>Name:</b> Kenzo “cso69” Jeanson
       <br> <br> <b>Year:</b> 2nd Year Information Systems
       <br> <br> <b>Favourite Champion:</b> One Champ One Lane Kled OTP for life
