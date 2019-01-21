@@ -10,15 +10,11 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
 
 <table style="width:100%"  border: 1px solid black;>
   <tr>
-    <th>**PRESIDENT:** <br>  <br> Name: Adrian "Morale" Guo <br> <br> Year: 3rd Year Medicinal Chemistry <br> <br>  Favourite Champion: Graves because he is very fun and satisfying to play <br> <br> Personal Motto: Teamwork makes the dream work <br> <br> Favourite League Memory: Winning Sydney Battlegrounds 2018</th>
+    <th>PRESIDENT: <br>  <br> Name: Adrian "Morale" Guo <br> <br> Year: 3rd Year Medicinal Chemistry <br> <br>  Favourite Champion: Graves because he is very fun and satisfying to play <br> <br> Personal Motto: Teamwork makes the dream work <br> <br> Favourite League Memory: Winning Sydney Battlegrounds 2018</th>
     <th>Lastname</th> 
     <th>Age</th>
   </tr>
-  <tr>
-    <td>Jill</td>
-    <td>Smith</td> 
-    <td>50</td>
-  </tr>
+  
   </table>
 
 
