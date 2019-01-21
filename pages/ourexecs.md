@@ -15,7 +15,7 @@ subtitle: Our execs!
 <br> <br> <b>Favourite League Memory:</b> Winning Sydney Battlegrounds 2018
 </td>
 <td>
-<img src = "(https://xelus22.github.io/LoLSocWebpage/uploads/30711799_2086764861350849_5821514581280817152_n.jpg"></img>
+<img src = "https://xelus22.github.io/LoLSocWebpage/uploads/30711799_2086764861350849_5821514581280817152_n.jpg">
     </td>
 
 </tr>
