@@ -23,10 +23,28 @@ Personal Motto: Teamwork makes the dream work
 Favourite League Memory: Winning Sydney Battlegrounds 2018
 </th>
 
-<th>  </th>
+<th> ![](https://xelus22.github.io/LoLSocWebpage/uploads/30711799_2086764861350849_5821514581280817152_n.jpg) </th>
 </tr>
 
 </table>
+
+
+| **PRESIDENT:**
+
+Name: Adrian "Morale" Guo
+
+Year: 3rd Year Medicinal Chemistry
+
+Favourite Champion: Graves because he is very fun and satisfying to play
+
+Personal Motto: Teamwork makes the dream work
+
+Favourite League Memory: Winning Sydney Battlegrounds 2018 | ![](https://xelus22.github.io/LoLSocWebpage/uploads/30711799_2086764861350849_5821514581280817152_n.jpg) |
+
+
+
+
+
 
 **PRESIDENT:**
 
