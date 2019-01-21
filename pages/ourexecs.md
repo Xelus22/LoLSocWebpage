@@ -162,7 +162,7 @@ subtitle: Our execs!
       <br> <br> <b>Personal Motto:</b> Win           
       <br> <br> <b>Favourite League Memory:</b> Iron 4
     </td>
-    <td style="width: 37%;text-align: center;">
+    <td style="width: 57%;text-align: center;">
       <img src="https://xelus22.github.io/LoLSocWebpage/uploads/455067829150941205 - ANDY liu_waifu2x_photo_noise3_scale_tta_1.png">
     </td>
   </tr>
