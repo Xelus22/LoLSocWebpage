@@ -10,7 +10,7 @@ and opportunities for our society.
 
 <table border="11">
   <tr>
-    <td style="width: 60%; text-align: center;">
+    <td style="width: 65%; text-align: center;">
       <h2><b> ARC UNSW:</b></h2>
       <h3> STUDENT ORGANISATION </h3>
       Arc is UNSW's student organisation that sponsors and oversees all UNSW student ARC-affiliated societies. All UNSW students are eligible to sign up to Arc membership for free.
@@ -28,7 +28,7 @@ and opportunities for our society.
 
 <table border="11">
   <tr>
-    <td style="width: 60%; text-align: center;">
+    <td style="width: 65%; text-align: center;">
       <h2><b> GIGABYTE:</b></h2>
       <h3> TECHNOLOGY </h3>
       As a pioneer in the motherboard industry, GIGABYTE also excels in information technology and gaming products. To "Upgrade Your Life" is the idea behind GIGABYTE which conveyed our core values of innovation and inspiration. Their unlimited passion for
@@ -66,7 +66,7 @@ and opportunities for our society.
 
 <table border="11">
   <tr>
-    <td style="width: 60%; text-align: center;">
+    <td style="width: 65%; text-align: center;">
       <h2><b> WANGYU:</b></h2>
       <h3> CONCEPT INTERNET CAFÉ </h3>
       Established in 1998, WangYu is striving relentlessly to a healthy, joyful e-entertainment, pushing cyber café to a positive healthy direction, and redefining cyber café an unique mixture of service and culture. 15 years of dedication, WangYu is well known
@@ -85,7 +85,7 @@ and opportunities for our society.
 
 <table border="11">
   <tr>
-    <td style="width: 60%; text-align: center;">
+    <td style="width: 65%; text-align: center;">
       <h2><b> AOC:</b></h2>
       <h3> COMPUTER MONITORS </h3>
       AOC is positioned to be one of the top global players in providing the best value display technology. With long-term dedicated research and development, AOC today offers a wide range of top performing LCD monitors. AOC provides businesses and individuals
@@ -105,7 +105,7 @@ and opportunities for our society.
 
 <table border="11">
   <tr>
-    <td style="width: 60%; text-align: center;">
+    <td style="width: 65%; text-align: center;">
       <h2><b> LOGITECH G:</b></h2>
       <h3> COMPUTER AND MOBILE ACCESSORIES </h3>
       AOC is positioned to be one of the top global players in providing the best value display technology. With long-term dedicated research and development, AOC today offers a wide range of top performing LCD monitors. Logitech G is a leading player in offering
