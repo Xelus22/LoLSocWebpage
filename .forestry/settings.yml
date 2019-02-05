@@ -12,7 +12,7 @@ sections:
   create: all
 upload_dir: uploads
 public_path: https://unswlolsoc.github.io/LoLSocWebpage/uploads
-front_matter_path: https://xelus22.github.io/LoLSocWebpage
+front_matter_path: https://unswlolsoc.github.io/LoLSocWebpage
 use_front_matter_path: true
 file_template: ":filename:"
 build:
