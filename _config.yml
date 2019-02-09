@@ -33,7 +33,7 @@ navbar-links:
   Resources:
     - Newsletters: "newsletters/index.html"
     - Events: "events/index.html"
-    - Esports Corner: "https://pages.github.com/"
+   # - Esports Corner: "https://pages.github.com/"
   Sign Up: "https://goo.gl/forms/dXCmaOssdV9OPd1A3"
   Contact Us: "contactus"
 
