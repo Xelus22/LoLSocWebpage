@@ -33,6 +33,7 @@ navbar-links:
   Resources:
     - Newsletters: "newsletters/index.html"
     - Events: "events/index.html"
+    - Esports: "esports/index.html"
    # - Esports Corner: "https://pages.github.com/"
   Sign Up: "https://goo.gl/forms/dXCmaOssdV9OPd1A3"
   Contact Us: "contactus"
@@ -171,6 +172,9 @@ paginate_multiple:
   - paginate: 10
     paginate_path: '/events/page:num'
     sub_dir: '/events'
+  - paginate: 10
+    paginate_path: '/esports/page:num'
+    sub_dir: '/esports'
 
 
 kramdown:
