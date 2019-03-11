@@ -15,3 +15,5 @@ fields:
 - type: image_gallery
   name: gallery
   label: GALLERY
+pages:
+- esports/esports.md
