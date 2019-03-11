@@ -28,8 +28,8 @@ navbar-links:
     - Our Executives: "ourexecs"
     - Our Sponsors: "oursponsors"
   Discord: "https://discord.gg/unswlolsoc"
-  Pages:
-    - 2019 OWeek Callout: "2019O-WeekCallout"
+  #Pages:
+  #  - 2019 OWeek Callout: "2019O-WeekCallout"
   Resources:
     - Newsletters: "newsletters/index.html"
     - Events: "events/index.html"
