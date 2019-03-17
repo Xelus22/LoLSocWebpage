@@ -29,10 +29,7 @@ I hope you enjoy LoLSoc this year! This year, we are trying to hold more events 
 
 **_\~We have a new and exciting team!\~_**
 
-\[Picture\]
-
 With every new year, LoLSoc gives members the opportunity to step up and join the subcom team! This team of keen and passionate individuals help the society in its day-to-day tasks and are the extra manpower we need to make our events as great as possible! Congratulations and please welcome our new Subcom team for 2019!
-<br>
 <br>
 
 ## Trivia Night
@@ -41,9 +38,8 @@ With every new year, LoLSoc gives members the opportunity to step up and join th
 
 ![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/54516737_2244687392265725_255710223816196096_o.jpg)
 
-True or False? Trivia Night was a blast!
-
-Answer: True!
+**True or False?** Trivia Night was a blast!  
+**Answer:** True!
 
 Thanks everyone for coming to our trivia night - we hoped that you had a lot of fun! It was great to see so many newer members, all with smiled on their faces!
 
@@ -72,9 +68,8 @@ More details will be coming soon on our [Facebook](https://www.facebook.com/UNSW
 
 The third Friendly Fridays of the first trimester is coming up! It will be on our [Discord](http://discord.gg/unswlolsoc) on the @@@@ 30th of March officially starting at 8pm and officially finishing at 10pm. There will be games on the Summoners’ Rift and the Howling Abyss but also for those who want to kick back and not flame or be flamed by their teammates, Sketch League is the best place to go. Can’t wait to see you there!
 <br>
-<br>
 
-## Conclusion part
+# Wrap-up
 
 Hello everyone! I’m Clarissa, a part of the Publications Subcommittee! I only started playing League towards the end of Season 5 and I love playing mages and marksmen. My favourite champion would have to be Taliyah. (Bring back Q aoe please!)
 
