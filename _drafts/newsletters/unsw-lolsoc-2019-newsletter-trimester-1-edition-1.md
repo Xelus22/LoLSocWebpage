@@ -49,7 +49,9 @@ Thanks everyone for coming to our trivia night - we hoped that you had a lot of 
 
 There were a lot of tough questions, so congratulations to Team Sean Slappers for being at the top of game tonight, and winning an assortment of different prizes!
 
-![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/53766605_2244686238932507_5082772582801866752_o.jpg)  Be sure to check out the pictures we took in our [Facebook Album! ](https://www.facebook.com/pg/UNSWLoLSociety/photos/?tab=album&album_id=2244680982266366&__tn__=-UC-R "Trivia Night Album")
+![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/53766605_2244686238932507_5082772582801866752_o.jpg)
+
+Be sure to check out the pictures we took in our [Facebook Album! ](https://www.facebook.com/pg/UNSWLoLSociety/photos/?tab=album&album_id=2244680982266366&__tn__=-UC-R "Trivia Night Album")
 
 <br>
 
