@@ -64,7 +64,7 @@ More details will be coming soon on our [Facebook](https://www.facebook.com/UNSW
 
 ## Friendly Fridays
 
-\[ picture of banner \]
+![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/fb20c49c-18f9-4f1c-bee1-729891b90884.jpg)
 
 The third Friendly Fridays of the first trimester is coming up! It will be on our [Discord](http://discord.gg/unswlolsoc) on the @@@@ 30th of March officially starting at 8pm and officially finishing at 10pm. There will be games on the Summoners’ Rift and the Howling Abyss but also for those who want to kick back and not flame or be flamed by their teammates, Sketch League is the best place to go. Can’t wait to see you there!
 <br>
