@@ -6,7 +6,6 @@ gallery: []
 date: 2019-03-17 17:46:55 +1100
 
 ---
-
 ![](https://lh5.googleusercontent.com/MZulGDqZmgXuIcCiLTJ0xuGTfvTydq-ftIq8jlD0KF3jrp3RiHRzBl22vu-jxtRNCoiNiO2HgmKmr0rpFh0-E5KwTsg9hcCjVo3ADqLUlqDTUGuUiFFqV27CQz3gYhNnmXvmWKXa =624x184)
 
 # Welcome everyone!!
@@ -20,6 +19,8 @@ I’m Kenzo - your Publications Director this year. I’ve been playing League s
 These days, I still play Top, and am little-by-little trying to quit being a Kled OneTrick. My other interests apart from League include the regular weeb stuff, origami, and listening to Kanye West. I hope you enjoy LoLSoc this year! This year, we are trying to hold more events and focus on letting all your League enthusiasts meet new people!
 
 #### \~ Kenzo "cso69" Jeanson (Marketing Director - Publications) \~
+<br>
+<br>
 
 ## 2019 LoLSoc Subcom
 
@@ -28,6 +29,8 @@ _\~We have a new and exciting team!\~_
 \[Picture\]
 
 With every new year, LoLSoc gives members the opportunity to step up and join the subcom team! This team of keen and passionate individuals help the society in its day-to-day tasks and are the extra manpower we need to make our events as great as possible! Congratulations and please welcome our new Subcom team for 2019!
+<br>
+<br>
 
 ## Trivia Night
 
@@ -44,6 +47,8 @@ Thanks everyone for coming to our trivia night - we hoped that you had a lot of 
 There were a lot of tough questions, so congratulations to Team Sean Slappers for being at the top of game tonight, and winning @@@!
 
 Be sure to check out the pictures we took on our Facebook Picture Album \[Hyperlink to FB album\].
+<br>
+<br>
 
 ### BBQ #1
 
@@ -52,12 +57,16 @@ Be sure to check out the pictures we took on our Facebook Picture Album \[Hyperl
 Did you join this club for free food? Well, we have good news for you! In week 5, to get you ready for your mid sems and your assignments, we are hosting a barbeque on @@@ from 12pm to 2pm at @@@. We hope to see everyone there!
 
 More details will be coming soon on our [Facebook](https://www.facebook.com/UNSWLoLSociety/) and [Discord](http://discord.gg/unswlolsoc) so stay tuned.
+<br>
+<br>
 
 # Friendly Fridays
 
 \[ picture of banner \]
 
 The third Friendly Fridays of the first trimester is coming up! It will be on our [Discord](http://discord.gg/unswlolsoc) on the @@@@ 30th of March officially starting at 8pm and officially finishing at 10pm. There will be games on the Summoners’ Rift and the Howling Abyss but also for those who want to kick back and not flame or be flamed by their teammates, Sketch League is the best place to go. Can’t wait to see you there!
+<br>
+<br>
 
 ## Conclusion part
 
