@@ -19,10 +19,13 @@ I’m Kenzo - your Publications Director this year. I’ve been playing League s
 These days, I still play Top, and am little-by-little trying to quit being a Kled OneTrick. My other interests apart from League include the regular weeb stuff, origami, and listening to Kanye West. I hope you enjoy LoLSoc this year! This year, we are trying to hold more events and focus on letting all your League enthusiasts meet new people!
 
 #### \~ Kenzo "cso69" Jeanson (Marketing Director - Publications) \~
+
 <br>
 <br>
 
-## 2019 LoLSoc Subcom
+## Recap of Weeks 1-4
+
+### 2019 LoLSoc Subcom
 
 _\~We have a new and exciting team!\~_
 
@@ -32,7 +35,7 @@ With every new year, LoLSoc gives members the opportunity to step up and join th
 <br>
 <br>
 
-## Trivia Night
+### Trivia Night
 
 _\~A night of questions, (perhaps too many) memes, and fun!\~_
 
@@ -60,7 +63,9 @@ More details will be coming soon on our [Facebook](https://www.facebook.com/UNSW
 <br>
 <br>
 
-# Friendly Fridays
+## Upcoming Events
+
+### Friendly Fridays
 
 \[ picture of banner \]
 
