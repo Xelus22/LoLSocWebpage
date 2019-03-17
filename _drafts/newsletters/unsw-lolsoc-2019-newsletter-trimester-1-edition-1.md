@@ -39,7 +39,7 @@ With every new year, LoLSoc gives members the opportunity to step up and join th
 
 **_\~A night of questions, (perhaps too many) memes, and fun!\~_**
 
-\[Picture\]
+![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/54516737_2244687392265725_255710223816196096_o.jpg)
 
 True or False? Trivia Night was a blast!
 
@@ -49,14 +49,15 @@ Thanks everyone for coming to our trivia night - we hoped that you had a lot of 
 
 There were a lot of tough questions, so congratulations to Team Sean Slappers for being at the top of game tonight, and winning an assortment of different prizes!
 
-Be sure to check out the pictures we took on our Facebook Picture Album \[Hyperlink to FB album\].
+![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/53766605_2244686238932507_5082772582801866752_o.jpg)  Be sure to check out the pictures we took in our [Facebook Album! ](https://www.facebook.com/pg/UNSWLoLSociety/photos/?tab=album&album_id=2244680982266366&__tn__=-UC-R "Trivia Night Album")
+
 <br>
 
 ## BBQ #1
 
 \[ picture of banner \]
 
-Did you join this club for food? Well, we have good news for you! In week 5, to get you ready for your midsems and your assignments, we are hosting a BBQ on Tuesday (19/3) from 12pm to 2pm at @@@. We hope to see everyone there!
+Did you join this club for food? Well, we have good news for you! In week 5, to get you ready for your mid sems and your assignments, we are hosting a BBQ on Tuesday (19/3) from 12pm to 2pm at @@@. We hope to see everyone there!
 
 More details will be coming soon on our [Facebook](https://www.facebook.com/UNSWLoLSociety/) and [Discord](http://discord.gg/unswlolsoc) so stay tuned.
 <br>
