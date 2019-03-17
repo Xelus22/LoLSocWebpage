@@ -8,12 +8,12 @@ date: 2019-03-17 17:46:55 +1100
 ---
 ![](https://lh5.googleusercontent.com/MZulGDqZmgXuIcCiLTJ0xuGTfvTydq-ftIq8jlD0KF3jrp3RiHRzBl22vu-jxtRNCoiNiO2HgmKmr0rpFh0-E5KwTsg9hcCjVo3ADqLUlqDTUGuUiFFqV27CQz3gYhNnmXvmWKXa =624x184)
 
-# Welcome everyone!!
+# Welcome Everyone!!
 
 To everyone new this year, welcome to UNSW LoLSoc! To our veterans, welcome back!  
 What you’re reading is our fortnightly newsletter, where we recap everything LoLSoc which happened of late and give you a sneak peek on future events!
 
-I’m Kenzo - your Publications Director this year. I’ve been playing League since Season 2 (when Elise was released). My favourite season was either Season Three or Four, back when you could play Kha’zix Top with Manamune :(
+I’m Kenzo - your Publications Director this year. I’ve been playing League since Season 2 (when Elise was released). My favourite season was either Season Three or Four, back when you could play K![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/fb20c49c-18f9-4f1c-bee1-729891b90884.jpg)ha’zix Top with Manamune :(
 
 These days, I still play Top, and am little-by-little trying to quit being a Kled one-trick (Conqueror nerfs LMAO). My other interests apart from League include the regular weeb stuff, origami, and listening to Kanye West. 
 
