@@ -1,7 +1,6 @@
 ---
 label: Blank
 hide_body: false
-is_partial: false
 fields:
 - type: text
   name: layout
@@ -16,3 +15,5 @@ fields:
 - type: image_gallery
   name: gallery
   label: GALLERY
+pages:
+- _posts/newsletters/unsw-lolsoc-newsletter-1.md
