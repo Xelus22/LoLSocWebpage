@@ -5,7 +5,7 @@ subtitle: Everyone's favourite 3.5% one-tricked Toplaner is finally dashing into
   play... But why now?
 gallery:
 - https://unswlolsoc.github.io/LoLSocWebpage/download.png
-date: 2019-03-17 16:10:53 +1100
+date: 2019-03-17 05:10:53 +0000
 
 ---
 Throughout the years of League’s existence, Riven, the Exile, has proven to be one of the most consistently popular champions. Her design and flashy kit with high outplay and 1v9 potential has earned her a dedicated audience of players including multiple OTP streamers such as BoxBox and Adrian Riven.
