@@ -24,7 +24,7 @@ As previously mentioned, several meta picks held priority over Riven before her 
 
 Overall, there are many historical Riven players throughout the world who have already logged professional games onto her (Khan, Ssumday, V1per, Broken Blade, Jinoo) and plenty more who haven’t yet played her (TheShy, Smeb, Huni, Caps, Darshan). Though there is constant outcry from the community to nerf Riven, recent discussion held by Riot indicates that no nerfs will come for a few patches. By the time nerfs, if any, come, Riven should have made a considerable impact in competitive play. It is always a treat to see Riven in a competitive game, so watch this space to see how she can affect the meta.
 
-##### \~Written by Iain"Cactaceae Jacques" Lew (Publications Subcommittee)\~
+#### \~**Written by Iain"Cactaceae Jacques" Lew (Publications Subcommittee)\~**
 
 \~ Edited by Kenzo "cso69" Jeanson (Marketing Director - Publications) \~
 
