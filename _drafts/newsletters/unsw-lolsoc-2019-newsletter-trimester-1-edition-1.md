@@ -24,7 +24,6 @@ These days, I still play Top, and am little-by-little trying to quit being a Kle
 
 # Recap of Weeks 1-4
 
-<br>
 
 ## 2019 LoLSoc Subcom
 
