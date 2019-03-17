@@ -15,3 +15,5 @@ fields:
 - type: image_gallery
   name: gallery
   label: GALLERY
+pages:
+- _posts/esports/your-favourite-one-trick-and-why-she-s-back-in-pro-play-the-return-of-riven.md
