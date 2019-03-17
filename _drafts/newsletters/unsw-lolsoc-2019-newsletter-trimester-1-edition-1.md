@@ -71,7 +71,7 @@ The third Friendly Fridays of the first trimester is coming up! It will be on ou
 
 <br> 
 
-# Wrap-up
+# Wrapping-up
 
 Hello everyone! I’m Clarissa, a part of the Publications Subcommittee! I only started playing League towards the end of Season 5 and I love playing mages and marksmen. My favourite champion would have to be Taliyah. (Bring back Q aoe please!)
 
