@@ -16,7 +16,7 @@ What you’re reading is our fortnightly newsletter, where we recap everything L
 
 I’m Kenzo - your Publications Director this year. I’ve been playing League since Season 2 (when Elise was released). My favourite season was either Season Three or Four, back when you could play Kha’zix Top with Manamune :(
 
-These days, I still play Top, and am little-by-little trying to quit being a Kled OneTrick. My other interests apart from League include the regular weeb stuff, origami, and listening to Kanye West. I hope you enjoy LoLSoc this year! This year, we are trying to hold more events and focus on letting all your League enthusiasts meet new people!
+These days, I still play Top, and am little-by-little trying to quit being a Kled one-trick (Conqueror nerfs LMAO). My other interests apart from League include the regular weeb stuff, origami, and listening to Kanye West. I hope you enjoy LoLSoc this year! This year, we are trying to hold more events and focus on letting all your League enthusiasts meet new people!
 
 #### \~ Kenzo "cso69" Jeanson (Marketing Director - Publications) \~
 
@@ -24,10 +24,9 @@ These days, I still play Top, and am little-by-little trying to quit being a Kle
 
 # Recap of Weeks 1-4
 
-
 ## 2019 LoLSoc Subcom
 
-_\~We have a new and exciting team!\~_
+**_\~We have a new and exciting team!\~_**
 
 \[Picture\]
 
@@ -37,7 +36,7 @@ With every new year, LoLSoc gives members the opportunity to step up and join th
 
 ## Trivia Night
 
-_\~A night of questions, (perhaps too many) memes, and fun!\~_
+**_\~A night of questions, (perhaps too many) memes, and fun!\~_**
 
 \[Picture\]
 
