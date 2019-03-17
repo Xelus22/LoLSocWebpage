@@ -8,8 +8,6 @@ gallery:
 date: 2019-03-17 16:10:53 +1100
 
 ---
-## **Your Favourite Champ to One-trick and Why She’s Back in Pro Play: The Return of Riven**
-
 Throughout the years of League’s existence, Riven, the Exile, has proven to be one of the most consistently popular champions. Her design and flashy kit with high outplay and 1v9 potential has earned her a dedicated audience of players including multiple OTP streamers such as BoxBox and Adrian Riven.
 
 However, her presence in professional play has been limited due to her feast-or-famine nature and several meta picks providing more reliable tools for the team (Aatrox's flexibility, Urgot's execute, Jayce's laning etc.). Across three major regions (LCK, LPL and LMS), Riven was picked eight times across the whole of Season 8. But in 2019, with only Spring splits having occurred, Riven has been picked _26_ times so far, with 11 picks alone from the LPL. So why has Riven resurged into the competitive meta for the first time since Season 5?
