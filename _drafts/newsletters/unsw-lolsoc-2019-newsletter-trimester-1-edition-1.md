@@ -2,11 +2,12 @@
 layout: post
 title: "[UNSW LoLSoc 2019] Newsletter - Trimester 1 Edition 1"
 subtitle: ''
-gallery: []
+gallery:
+- https://unswlolsoc.github.io/LoLSocWebpage/pasted image 0.png
 date: 2019-03-17 17:46:55 +1100
 
 ---
-![](https://lh5.googleusercontent.com/MZulGDqZmgXuIcCiLTJ0xuGTfvTydq-ftIq8jlD0KF3jrp3RiHRzBl22vu-jxtRNCoiNiO2HgmKmr0rpFh0-E5KwTsg9hcCjVo3ADqLUlqDTUGuUiFFqV27CQz3gYhNnmXvmWKXa =624x184)
+![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/pasted image 0.png)
 
 # Welcome Everyone!!
 
