@@ -16,4 +16,5 @@ fields:
   name: gallery
   label: GALLERY
 pages:
+- _posts/newsletters/unsw-lolsoc-2019-newsletter-trimester-1-edition-1.md
 - _posts/esports/your-favourite-one-trick-and-why-she-s-back-in-pro-play-the-return-of-riven.md
