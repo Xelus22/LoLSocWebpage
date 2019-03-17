@@ -44,7 +44,7 @@ With every new year, LoLSoc gives members the opportunity to step up and join th
 
 Thanks everyone for coming to our trivia night - we hoped that you had a lot of fun! It was great to see so many newer members, all with smiled on their faces!
 
-There were a lot of tough questions, so congratulations to Team Sean Slappers for being at the top of game tonight, and winning an assortment of different prizes!
+There were a lot of tough questions, so congratulations to _Team Sean Slappers_ for being at the top of game tonight, and winning an assortment of different prizes!
 
 ![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/53766605_2244686238932507_5082772582801866752_o.jpg)
 
