@@ -62,14 +62,6 @@ The third Friendly Fridays of the first trimester is coming up! It will be on ou
 
 <br>
 
-## BBQ #1
-
-Sadly, due to the weather forecast, we will be CANCELLING our BBQ ![:frowning:](https://discordapp.com/assets/f71a48ebe4ebb6c0fb771721248d7523.svg) (That's why there was a lack of marketing posts on it ) Sorry that this had to happen. We will hopefully try to organise something else another day. 
-
-However, don't let this hold you back from organising an unofficial meetup or something of the sorts. 
-
-It kinda sucks, but sometimes your jungler is just outclassed by theirs. Here, the weather is the enemy jungler. However, Friendly Fridays is still on - so let's be keen for that!
-
 # Wrapping-up
 
 Hello everyone! I’m Clarissa, a part of the Publications Subcommittee! I only started playing League towards the end of Season 5 and I love playing mages and marksmen. My favourite champion would have to be Taliyah. (Bring back Q aoe please!)
