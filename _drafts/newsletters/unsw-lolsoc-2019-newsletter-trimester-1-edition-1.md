@@ -10,13 +10,14 @@ date: 2019-03-17 17:46:55 +1100
 
 # Welcome everyone!!
 
-To everyone new this year, welcome to UNSW LoLSoc! To our veterans, welcome back!
-
+To everyone new this year, welcome to UNSW LoLSoc! To our veterans, welcome back!  
 What you’re reading is our fortnightly newsletter, where we recap everything LoLSoc which happened of late and give you a sneak peek on future events!
 
 I’m Kenzo - your Publications Director this year. I’ve been playing League since Season 2 (when Elise was released). My favourite season was either Season Three or Four, back when you could play Kha’zix Top with Manamune :(
 
-These days, I still play Top, and am little-by-little trying to quit being a Kled one-trick (Conqueror nerfs LMAO). My other interests apart from League include the regular weeb stuff, origami, and listening to Kanye West. I hope you enjoy LoLSoc this year! This year, we are trying to hold more events and focus on letting all your League enthusiasts meet new people!
+These days, I still play Top, and am little-by-little trying to quit being a Kled one-trick (Conqueror nerfs LMAO). My other interests apart from League include the regular weeb stuff, origami, and listening to Kanye West. 
+
+I hope you enjoy LoLSoc this year! This year, we are trying to hold more events and focus on letting all your League enthusiasts meet new people!
 
 #### \~ Kenzo "cso69" Jeanson (Marketing Director - Publications) \~
 
@@ -46,7 +47,7 @@ Answer: True!
 
 Thanks everyone for coming to our trivia night - we hoped that you had a lot of fun! It was great to see so many newer members, all with smiled on their faces!
 
-There were a lot of tough questions, so congratulations to Team Sean Slappers for being at the top of game tonight, and winning @@@!
+There were a lot of tough questions, so congratulations to Team Sean Slappers for being at the top of game tonight, and winning an assortment of different prizes!
 
 Be sure to check out the pictures we took on our Facebook Picture Album \[Hyperlink to FB album\].
 <br>
@@ -55,10 +56,9 @@ Be sure to check out the pictures we took on our Facebook Picture Album \[Hyperl
 
 \[ picture of banner \]
 
-Did you join this club for free food? Well, we have good news for you! In week 5, to get you ready for your mid sems and your assignments, we are hosting a barbeque on @@@ from 12pm to 2pm at @@@. We hope to see everyone there!
+Did you join this club for food? Well, we have good news for you! In week 5, to get you ready for your midsems and your assignments, we are hosting a BBQ on Tuesday (19/3) from 12pm to 2pm at @@@. We hope to see everyone there!
 
 More details will be coming soon on our [Facebook](https://www.facebook.com/UNSWLoLSociety/) and [Discord](http://discord.gg/unswlolsoc) so stay tuned.
-<br>
 <br>
 
 # Upcoming Events
