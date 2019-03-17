@@ -21,11 +21,12 @@ These days, I still play Top, and am little-by-little trying to quit being a Kle
 #### \~ Kenzo "cso69" Jeanson (Marketing Director - Publications) \~
 
 <br>
+
+# Recap of Weeks 1-4
+
 <br>
 
-## Recap of Weeks 1-4
-
-### 2019 LoLSoc Subcom
+## 2019 LoLSoc Subcom
 
 _\~We have a new and exciting team!\~_
 
@@ -35,7 +36,7 @@ With every new year, LoLSoc gives members the opportunity to step up and join th
 <br>
 <br>
 
-### Trivia Night
+## Trivia Night
 
 _\~A night of questions, (perhaps too many) memes, and fun!\~_
 
@@ -51,9 +52,8 @@ There were a lot of tough questions, so congratulations to Team Sean Slappers fo
 
 Be sure to check out the pictures we took on our Facebook Picture Album \[Hyperlink to FB album\].
 <br>
-<br>
 
-### BBQ #1
+## BBQ #1
 
 \[ picture of banner \]
 
@@ -63,9 +63,9 @@ More details will be coming soon on our [Facebook](https://www.facebook.com/UNSW
 <br>
 <br>
 
-## Upcoming Events
+# Upcoming Events
 
-### Friendly Fridays
+## Friendly Fridays
 
 \[ picture of banner \]
 
