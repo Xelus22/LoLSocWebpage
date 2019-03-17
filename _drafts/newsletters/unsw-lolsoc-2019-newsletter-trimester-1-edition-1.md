@@ -79,4 +79,4 @@ Thank you so much for reading and please follow us on our [website](https://unsw
 
 If you have any questions, please contact us via email on [unswlolsoc@gmail.com](mailto:unswlolsoc@gmail.com) or message our Facebook page.
 
-\~ Clarissa “CamelBlink” Tatang (Publications Subcommittee) \~
+#### \~ Clarissa “CamelBlink” Tatang (Publications Subcommittee) \~
