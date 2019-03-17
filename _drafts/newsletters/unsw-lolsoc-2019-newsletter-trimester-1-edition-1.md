@@ -6,19 +6,6 @@ gallery: []
 date: 2019-03-17 17:46:55 +1100
 
 ---
-Week 4 Newsletter
-
-Past events
-
-* Subcom
-* Trivia right
-
-Upcoming Events
-
-* Friendly Fridays
-* BBQ
-
-\--------------------------------------------------------------------------------------------------------------------------------
 
 ![](https://lh5.googleusercontent.com/MZulGDqZmgXuIcCiLTJ0xuGTfvTydq-ftIq8jlD0KF3jrp3RiHRzBl22vu-jxtRNCoiNiO2HgmKmr0rpFh0-E5KwTsg9hcCjVo3ADqLUlqDTUGuUiFFqV27CQz3gYhNnmXvmWKXa =624x184)
 
@@ -32,9 +19,9 @@ I’m Kenzo - your Publications Director this year. I’ve been playing League s
 
 These days, I still play Top, and am little-by-little trying to quit being a Kled OneTrick. My other interests apart from League include the regular weeb stuff, origami, and listening to Kanye West. I hope you enjoy LoLSoc this year! This year, we are trying to hold more events and focus on letting all your League enthusiasts meet new people!
 
-\~ Kenzo "cso69" Jeanson (Marketing Director - Publications) \~
+#### \~ Kenzo "cso69" Jeanson (Marketing Director - Publications) \~
 
-# 2019 LoLSoc Subcom
+## 2019 LoLSoc Subcom
 
 _\~We have a new and exciting team!\~_
 
@@ -42,7 +29,7 @@ _\~We have a new and exciting team!\~_
 
 With every new year, LoLSoc gives members the opportunity to step up and join the subcom team! This team of keen and passionate individuals help the society in its day-to-day tasks and are the extra manpower we need to make our events as great as possible! Congratulations and please welcome our new Subcom team for 2019!
 
-# Trivia Night
+## Trivia Night
 
 _\~A night of questions, (perhaps too many) memes, and fun!\~_
 
