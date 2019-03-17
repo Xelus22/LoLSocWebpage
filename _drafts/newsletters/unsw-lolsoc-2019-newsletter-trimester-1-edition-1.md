@@ -16,7 +16,7 @@ What you’re reading is our fortnightly newsletter, where we recap everything L
 
 I’m Kenzo - your Publications Director this year. I’ve been playing League since Season 2 (when Elise was released). My favourite season was either Season Three or Four, back when you could play Kha’zix Top with Manamune :(
 
-These days, I still play Top, and am little-by-little trying to quit being a Kled one-trick (Conqueror nerfs LMAO). My other interests apart from League include the regular weeb stuff, origami, and listening to Kanye West. 
+These days, I still play Top, and am little-by-little trying to quit being a Kled one-trick (Conqueror nerfs LMAO). My other interests apart from League include the regular weeb stuff, origami, and listening to Kanye West.
 
 I hope you enjoy LoLSoc this year! This year, we are trying to hold more events and focus on letting all your League enthusiasts meet new people!
 
@@ -52,24 +52,23 @@ Be sure to check out the pictures we took in our [Facebook Album! ](https://www.
 
 <br>
 
-## BBQ #1
-
-\[ picture of banner \]
-
-Did you join this club for food? Well, we have good news for you! In week 5, to get you ready for your mid sems and your assignments, we are hosting a BBQ on Tuesday (19/3) from 12pm to 2pm at @@@. We hope to see everyone there!
-
-More details will be coming soon on our [Facebook](https://www.facebook.com/UNSWLoLSociety/) and [Discord](http://discord.gg/unswlolsoc) so stay tuned.
-<br>
-
 # Upcoming Events
 
 ## Friendly Fridays
 
 ![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/fb20c49c-18f9-4f1c-bee1-729891b90884.jpg)
 
-The third Friendly Fridays of the first trimester is coming up! It will be on our [Discord](http://discord.gg/unswlolsoc) on the 30th of March officially starting at 8pm and officially finishing at 10pm. There will be games on the Summoners’ Rift and the Howling Abyss, but also for those who want to kick back and not flame or be flamed by their teammates, Sketch League is the best place to go. Can’t wait to see you there! 
+The third Friendly Fridays of the first trimester is coming up! It will be on our [Discord](http://discord.gg/unswlolsoc) on the 30th of March officially starting at 8pm and officially finishing at 10pm. There will be games on the Summoners’ Rift and the Howling Abyss, but also for those who want to kick back and not flame or be flamed by their teammates, Sketch League is the best place to go. Can’t wait to see you there!
 
-<br> 
+<br>
+
+## BBQ #1
+
+Sadly, due to the weather forecast, we will be CANCELLING our BBQ ![:frowning:](https://discordapp.com/assets/f71a48ebe4ebb6c0fb771721248d7523.svg) (That's why there was a lack of marketing posts on it ) Sorry that this had to happen. We will hopefully try to organise something else another day. 
+
+However, don't let this hold you back from organising an unofficial meetup or something of the sorts. 
+
+It kinda sucks, but sometimes your jungler is just outclassed by theirs. Here, the weather is the enemy jungler. However, Friendly Fridays is still on - so let's be keen for that!
 
 # Wrapping-up
 
