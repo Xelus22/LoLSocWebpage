@@ -45,7 +45,7 @@ There were a lot of tough questions, so congratulations to Team Sean Slappers fo
 
 Be sure to check out the pictures we took on our Facebook Picture Album \[Hyperlink to FB album\].
 
-# Term 1 Barbeque
+### BBQ #1
 
 \[ picture of banner \]
 
