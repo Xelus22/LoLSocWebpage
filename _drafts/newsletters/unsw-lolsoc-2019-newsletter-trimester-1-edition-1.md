@@ -59,7 +59,7 @@ Be sure to check out the pictures we took in our [Facebook Album! ](https://www.
 
 ![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/fb20c49c-18f9-4f1c-bee1-729891b90884.jpg)
 
-The third Friendly Fridays of the first trimester is coming up! It will be on our [Discord](http://discord.gg/unswlolsoc) on the 30th of March officially starting at 8pm and officially finishing at 10pm. There will be games on the Summoners’ Rift and the Howling Abyss, but also for those who want to kick back and not flame or be flamed by their teammates, Sketch League is the best place to go. Can’t wait to see you there!
+The third Friendly Fridays of the first trimester is coming up! It will be on our [Discord](http://discord.gg/unswlolsoc) on the 22nd of March officially starting at 8pm and officially finishing at 10pm. There will be games on the Summoners’ Rift and the Howling Abyss, but also for those who want to kick back and not flame or be flamed by their teammates, Sketch League is the best place to go. Can’t wait to see you there!
 
 <br>
 
@@ -72,7 +72,7 @@ Thank you so much for reading and please follow us on our [website](https://unsw
 If you have any questions, please contact us via email on [unswlolsoc@gmail.com](mailto:unswlolsoc@gmail.com) or message our Facebook page.
 
 #### \~ Clarissa “CamelBlink” Tatang (Publications Subcommittee) \~
-
+<br>
 That's it for this edition of our newsletter! Be sure to keep an eye our for future events on our Facebook page and Discord.
 
 Until next time!
