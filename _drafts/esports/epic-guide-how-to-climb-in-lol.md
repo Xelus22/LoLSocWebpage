@@ -13,17 +13,13 @@ Because I have been playing League Of Legends for longer than you!
 <br><br>
 
 ### Steps to Climbing
-
+<br>
 #### 1. **Win _More_ Games!**
-
 The most important thing to climb more is to win more! I had a friend (Kozne “cso69” Jeanson) who was hardstuck silver, until one day he suddenly got gold! How? Simple! He won more games!
 <br><br>
 
 #### 2. **Lose _Less_ Games!**
-
 Not only does losing games stop you from winning more, but it also reduces your Match Making Rating (MMR)! If your MMR is low, you won’t gain as much sweet, sweet LP once you follow Step 1 again.
-
-
 
 <br><br>
 3\. **Maintain A _Positive_ Winrate!**
