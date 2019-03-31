@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Epic Guide: How to Climb in LoL!'
-subtitle: ''
+subtitle: Get to Challenger with this Guide!
 gallery: []
 date: 2019-03-31 23:59:47 +1100
 
