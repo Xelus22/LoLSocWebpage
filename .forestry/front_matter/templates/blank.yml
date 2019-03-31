@@ -16,6 +16,7 @@ fields:
   name: gallery
   label: GALLERY
 pages:
+- _posts/newsletters/unsw-lolsoc-2019-newsletter-trimester-1-edition-1.md
 - _posts/esports/2019-03-31-epic-guide-how-to-climb-in-lol.md
 - _posts/esports/2019-03-31-who-is-the-cutest-pro-player.md
 - _posts/esports/2019-03-31-new-legendary-skins-soundcloud-9-minus-5.md
