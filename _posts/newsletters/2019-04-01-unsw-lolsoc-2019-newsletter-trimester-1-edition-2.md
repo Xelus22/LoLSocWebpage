@@ -56,13 +56,16 @@ Now don't get me wrong - I haven't read these articles. Why would I stump the
 C R E A T I V E P R O C E S S of these amazing subcoms. However, I'm sure these articles are VERY SERIOUS and of HIGH QUALITY.
 
 Be sure to check them out below:  
-\- [https://unswlolsoc.com/2019-03-31-new-legendary-skins-soundcloud-9-minus-5/](https://unswlolsoc.com/2019-03-31-new-legendary-skins-soundcloud-9-minus-5/ "https://unswlolsoc.com/2019-03-31-new-legendary-skins-soundcloud-9-minus-5/") (by Iain Lew)  
-\- [https://unswlolsoc.com/2019-03-31-who-is-the-cutest-pro-player/](https://unswlolsoc.com/2019-03-31-who-is-the-cutest-pro-player/ "https://unswlolsoc.com/2019-03-31-new-legendary-skins-soundcloud-9-minus-5/") (By Clarissa Tatang)  
-\- [https://unswlolsoc.com/2019-03-31-epic-guide-how-to-climb-in-lol/](https://unswlolsoc.com/2019-03-31-epic-guide-how-to-climb-in-lol/ "https://unswlolsoc.com/2019-03-31-new-legendary-skins-soundcloud-9-minus-5/") (By Adam Felah)  
-\- [https://unswlolsoc.com/2019-04-01-champion-reveal-kanye-west-the-only-one/](https://unswlolsoc.com/2019-04-01-champion-reveal-kanye-west-the-only-one/ "https://unswlolsoc.com/2019-04-01-champion-reveal-kanye-west-the-only-one/")   
+\- [https://unswlolsoc.com/2019-03-31-new-legendary-skins-soundcloud-9-minus-5/](https://unswlolsoc.com/2019-03-31-new-legendary-skins-soundcloud-9-minus-5/ "https://unswlolsoc.com/2019-03-31-new-legendary-skins-soundcloud-9-minus-5/")   
+(by Iain Lew)  
+\- [https://unswlolsoc.com/2019-03-31-who-is-the-cutest-pro-player/](https://unswlolsoc.com/2019-03-31-who-is-the-cutest-pro-player/ "https://unswlolsoc.com/2019-03-31-new-legendary-skins-soundcloud-9-minus-5/")   
+(By Clarissa Tatang)  
+\- [https://unswlolsoc.com/2019-03-31-epic-guide-how-to-climb-in-lol/](https://unswlolsoc.com/2019-03-31-epic-guide-how-to-climb-in-lol/ "https://unswlolsoc.com/2019-03-31-new-legendary-skins-soundcloud-9-minus-5/")   
+(By Adam Felah)  
+\- [https://unswlolsoc.com/2019-04-01-champion-reveal-kanye-west-the-only-one/](https://unswlolsoc.com/2019-04-01-champion-reveal-kanye-west-the-only-one/ "https://unswlolsoc.com/2019-04-01-champion-reveal-kanye-west-the-only-one/")  
 (By me POGGERS)
 
-<br> <br>
+<br> 
 
 ## Wrapping Up
 
