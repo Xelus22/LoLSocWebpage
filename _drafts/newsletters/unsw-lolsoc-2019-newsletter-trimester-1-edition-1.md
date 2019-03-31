@@ -29,3 +29,12 @@ p.s. We are testing out a relaunch for our Instagram. Make sure to follow us @un
 ## Boardgames and Chill
 
 ![](https://gallery.mailchimp.com/4fdf48408f7f82905ec7082ca/images/55bfb07b-6808-492e-a453-6a39a43c96a6.png)
+
+#### _\~We're so glad you GAME\~_
+
+  
+I hope no one felt board at our board and party games arvo! Plenty of you lovely people dropped in and out, and we were glad to see you come in to relax during your free time.  
+  
+We monoplayed many different games, from Connect 4 to Avalon, and Exploding Kittens to Smash Ultimate. Hopefully we didn’t smash too many friendships!  
+  
+Peep the pics [here](https://www.facebook.com/pg/UNSWLoLSociety/photos/?tab=album&album_id=2262165560517908&__xts__%5B0%5D=68.ARCTtgfQFAwUablJMS8XqRZ5qNl2wr4SMedwrd4yZFx-BKUAky9UkWvLXdSBMyUpIaGCmvRneZnV6k-bah1ConZjIowOcPdfPCtbJtrNE8PNywXzipmwaawDslDBzzxy-cv_-J5UR-Cy342iq6TsXItQQpbH_0Qc6hVjZZJVLM-L0unYy4hLwaSk0wY4colwKgbNCVAzPmJgA9t6S2FeCuoNwJtvycHXkjyZitXXfVyiqLtpMcz5O0RER75gNw27OaJWkOLhIsY-osFrHQNk05vRIyjv6EjdvTsqWAHa--5UOTx-7KcrLkeTeONSh-KCwfobn-_5W29Icid-m5lS73lyGN-6AEn0bFZKSwwJ6aDtU3mFvkKV_Q59oyn8Z7bhNZsvx2Ot1Yk67OYQM2EfsyI3xK4uQ9CYKfrIqbsroyQjYqWQL3m3kuTlbOEjfXGdcgHHdK8yBH5b0oU&__tn__=-UC-R).
