@@ -23,53 +23,40 @@ To celebrate SoundCloud’s multi-year partnership with Riot Games to globally s
 
 ![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/2.jpg)
 
-The Rift has a river wide and long enough for him to drive the boat ([https://www.youtube.com/watch?v=Ej5av5R1RWA](https://www.youtube.com/watch?v=Ej5av5R1RWA "https://www.youtube.com/watch?v=Ej5av5R1RWA")).
+* The Rift has a river wide and long enough for him to drive the boat ([https://www.youtube.com/watch?v=Ej5av5R1RWA](https://www.youtube.com/watch?v=Ej5av5R1RWA "https://www.youtube.com/watch?v=Ej5av5R1RWA")).
+* Eating Honeyfruit will come with a new sound effect ([https://www.youtube.com/watch?v=JVQV6UckNK0](https://www.youtube.com/watch?v=JVQV6UckNK0 "https://www.youtube.com/watch?v=JVQV6UckNK0")).
+  <br>
+  <br>
 
-Eating Honeyfruit will come with a new sound effect ([https://www.youtube.com/watch?v=JVQV6UckNK0](https://www.youtube.com/watch?v=JVQV6UckNK0 "https://www.youtube.com/watch?v=JVQV6UckNK0")).
-<br>
-<br>
-
-**Ahri B**
--
+## **Ahri B**
 
 ![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/22.jpg)
 
 She’s conquered K-pop twice, but now it’s time for the Nine-Tailed Fox to claim her crown as the Queen of Rap.
 
-If Ahri B hits a champion with Charm, she can steal all of the Charmed champion’s Gold and they will blackout and wake up in a random location in the jungle.
-<br>
-<br>
+* If Ahri B hits a champion with Charm, she can steal all of the Charmed champion’s Gold and they will blackout and wake up in a random location in the jungle. <br> <br>
 
-
-**Juice WRWICK**
--
+## **Juice WRWICK**
 
 ![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/e.jpg)
 
 Transformed by agonizing break-ups, Juice WRWICK’s body is fused with an intricate system of chambers and pumps, machinery filling his veins with Lean.
 
-After the suppression from Infinite Duress ends, Juice WRWICK will begin crying about losing another love.
-<br>
-<br>
+* After the suppression from Infinite Duress ends, Juice WRWICK will begin crying about losing another love. <br> <br>
 
-
-**A$AP LeBlanc**
--
+## **A$AP LeBlanc**
 
 ![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/ee.jpg)
 
-Using the magic of recreational drugs, A$AP LeBlanc can appear to anyone, anywhere, and even be in many places at once.
+* Using the magic of recreational drugs, A$AP LeBlanc can appear to anyone, anywhere, and even be in many places at once.
+* Careful with the Mirror Image, you’ll be reminded if you target the clone ([https://www.youtube.com/watch?v=vMHT8jejPnY](https://www.youtube.com/watch?v=vMHT8jejPnY "https://www.youtube.com/watch?v=vMHT8jejPnY")).
+  <br>
+  <br>
 
-Careful with the Mirror Image, you’ll be reminded if you target the clone ([https://www.youtube.com/watch?v=vMHT8jejPnY](https://www.youtube.com/watch?v=vMHT8jejPnY "https://www.youtube.com/watch?v=vMHT8jejPnY")).
-<br>
-<br>
-
-
-**Ryzeface**
--
+## **Ryzeface**
 
 ![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/22e.jpg)
 
 The Bluest of all Faces on the Rift, you better respect his Cryppin’.
 
-Those missed Overloads aren’t off-beat, they’re actually on-beat, so they’ll hit every time no matter where you throw them.
+* Those missed Overloads aren’t off-beat, they’re actually on-beat, so they’ll hit every time no matter where you throw them.
