@@ -18,7 +18,10 @@ date: 2019-03-31 23:28:40 +1100
 To celebrate SoundCloud’s multi-year partnership with Riot Games to globally sponsor League of Legends esports, SoundCloud have helped develop four new legendary skins in collaboration with some of the premier creative forces in music.
 <br>
 <br>
+
+
 **EkKodak Black**
+-
 
 ![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/2.jpg)
 
@@ -26,7 +29,10 @@ The Rift has a river wide and long enough for him to drive the boat ([https://ww
 
 Eating Honeyfruit will come with a new sound effect ([https://www.youtube.com/watch?v=JVQV6UckNK0](https://www.youtube.com/watch?v=JVQV6UckNK0 "https://www.youtube.com/watch?v=JVQV6UckNK0")).
 <br>
+
+
 **Ahri B**
+-
 
 ![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/22.jpg)
 
@@ -34,7 +40,10 @@ She’s conquered K-pop twice, but now it’s time for the Nine-Tailed Fox to cl
 
 If Ahri B hits a champion with Charm, she can steal all of the Charmed champion’s Gold and they will blackout and wake up in a random location in the jungle.
 <br>
+
+
 **Juice WRWICK**
+-
 
 ![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/e.jpg)
 
@@ -42,7 +51,10 @@ Transformed by agonizing break-ups, Juice WRWICK’s body is fused with an intri
 
 After the suppression from Infinite Duress ends, Juice WRWICK will begin crying about losing another love.
 <br>
+
+
 **A$AP LeBlanc**
+-
 
 ![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/ee.jpg)
 
@@ -50,7 +62,10 @@ Using the magic of recreational drugs, A$AP LeBlanc can appear to anyone, anywhe
 
 Careful with the Mirror Image, you’ll be reminded if you target the clone ([https://www.youtube.com/watch?v=vMHT8jejPnY](https://www.youtube.com/watch?v=vMHT8jejPnY "https://www.youtube.com/watch?v=vMHT8jejPnY")).
 <br>
+
+
 **Ryzeface**
+-
 
 ![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/22e.jpg)
 
