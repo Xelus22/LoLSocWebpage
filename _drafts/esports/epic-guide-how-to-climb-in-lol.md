@@ -38,7 +38,7 @@ Click Faster.
 
 #### **INSPIRATION - To Motivate Yourself for the Grind**
 
-\**_Unsealed Spellbook - _**How else can you take the most important summoner spell; Clarity?  
+**_Unsealed Spellbook -_** _How else can you take the most important summoner spell; Clarity?  
 **Perfect Timing -**_ Take perfect timing so you never miss your smite!  
 **_Future’s Market_ -** Make sure you buy your own stocks early! They will definitely RISE3.  
 **_Time Warp Tonic -_** Bend the laws of space and time as you get challenger, a HD WAM, perfect abs, a good job and 8 hours of daily sleep. <br><br>
