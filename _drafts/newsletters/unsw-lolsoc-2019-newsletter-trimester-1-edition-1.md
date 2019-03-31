@@ -49,3 +49,36 @@ The fifth Friendly Fridays of the trimester is coming up! It will be on our [Dis
 There will be games on the Summoners’ Rift and the Howling Abyss, but also for those who want to kick back and not flame or be flamed by their teammates, Sketch League is the best place to go. Can’t wait to see you there!  
   
 UNSW LoLSoc Discord: [https://discord.gg/unswlolsoc](https://discord.gg/unswlolsoc "https://discord.gg/unswlolsoc")
+
+🔥April Fools Articles🔥  
+💯💯💯💯💯💯💯💯
+
+In the Publications Subcommittee, we value HARD WORK and BIG EFFORT. As a result, in this edition of the newsletter, we decided to ALL make HIGH QUALITY AND EXTREMELY SERIOUS articles.   
+  
+Now don't get me wrong - I haven't read these articles. Why would I stump the C R E A T I V E P R O C E S S of these amazing subcoms. However, I'm sure these artivles of VERY SERIOUS and of HIGH QUALITY.  
+  
+Be sure to check them out below:  
+\- [https://unswlolsoc.com/2019-03-31-new-legendary-skins-soundcloud-9-minus-5/](https://unswlolsoc.com/2019-03-31-new-legendary-skins-soundcloud-9-minus-5/ "https://unswlolsoc.com/2019-03-31-new-legendary-skins-soundcloud-9-minus-5/")  
+\- [https://unswlolsoc.com/2019-03-31-who-is-the-cutest-pro-player/](https://unswlolsoc.com/2019-03-31-new-legendary-skins-soundcloud-9-minus-5/ "https://unswlolsoc.com/2019-03-31-new-legendary-skins-soundcloud-9-minus-5/")  
+\- [https://unswlolsoc.com/2019-03-31-epic-guide-how-to-climb-in-lol/](https://unswlolsoc.com/2019-03-31-new-legendary-skins-soundcloud-9-minus-5/ "https://unswlolsoc.com/2019-03-31-new-legendary-skins-soundcloud-9-minus-5/")
+
+Wrapping Up
+
+**Attention All Epic Gamers!**
+
+I, **Big Boy Badam**, need your help to make LoLSoc great again! We need to create the biggest League of Legends society in existence, or our lives will be doomed. To do that, I need three things from you:  
+1\. Follow us on our [website](https://unswlolsoc.com/).  
+2\. Like our [Facebook](https://www.facebook.com/UNSWLoLSociety/) page.  
+3\. Join our [Discord](http://discord.gg/unswlolsoc).
+
+But you better be quick, or LoLSoc might disappear just like Rift Herald! If you have any issues, please email your mother’s credit card number, expiry date and 3 digits on the back to [unswlolsoc@gmail.com](mailto:unswlolsoc@gmail.com) or send it in a Facebook message to our page!
+
+\~ Adam “Cucklava” Felah  
+(Publications Subcommittee) \~
+
+To keep updated, please make sure to follow our [website](http://unswlolsoc.com/), [Facebook page](http://facebook.us6.list-manage.com/track/click?u=4fdf48408f7f82905ec7082ca&id=b8acf68607&e=f8c63dbb98) and [Instagram](https://www.instagram.com/unswlolsoc/).  
+  
+If you have any questions, please contact us via email at **unswlolsoc@gmail.com** or **message our Facebook page**.  
+Thank you for your support.  
+  
+\~ Konze "cso69" Jeanson & Adam “Cucklava” Felah \~
