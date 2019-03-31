@@ -51,7 +51,7 @@ UNSW LoLSoc Discord: [https://discord.gg/unswlolsoc](https://discord.gg/unswlols
 In the Publications Subcommittee, we value HARD WORK and BIG EFFORT. As a result, in this edition of the newsletter, we decided to ALL make HIGH QUALITY AND EXTREMELY SERIOUS articles.
 
 Now don't get me wrong - I haven't read these articles. Why would I stump the   
-C R E A T I V E P R O C E S S of these amazing subcoms. However, I'm sure these artivles of VERY SERIOUS and of HIGH QUALITY.
+C R E A T I V E P R O C E S S of these amazing subcoms. However, I'm sure these articles are VERY SERIOUS and of HIGH QUALITY.
 
 Be sure to check them out below:  
 \- [https://unswlolsoc.com/2019-03-31-new-legendary-skins-soundcloud-9-minus-5/](https://unswlolsoc.com/2019-03-31-new-legendary-skins-soundcloud-9-minus-5/ "https://unswlolsoc.com/2019-03-31-new-legendary-skins-soundcloud-9-minus-5/")  
