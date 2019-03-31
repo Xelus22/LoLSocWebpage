@@ -10,11 +10,7 @@ date: 2019-04-01 01:05:22 +1100
 
 Hey everyone, welcome back to our second newsletter of the term!! 🎉🎉
 
-I hope you've all been hitting the books 📚📚📚, because 😢 midsems 😢 are on the way! I believe ✨✨ in everyone single one of you, so be sure to get HDs 🎓 and do me proud 😄!
-
-I, on the other hand, finished my midsems 🔥two weeks ago🔥 (not flexing 💪, just giving context) and you already know I'm back on the SoloQ G R I N D 😎
-
-It's been getting pretty 🌨rainy🌨 these days, so make sure to cover yourself up - healthy body 💪 healthy mind! 🤔
+I hope you've all been hitting the books 📚📚📚, because 😢 midsems 😢 are on the way! I believe ✨✨ in everyone single one of you, so be sure to get HDs 🎓 and do me proud 😄! I, on the other hand, finished my midsems 🔥two weeks ago🔥 (not flexing 💪, just giving context) and you already know I'm back on the SoloQ G R I N D 😎. It's been getting pretty 🌨rainy🌨 these days, so make sure to cover yourself up - healthy body 💪 healthy mind! 🤔
 
 Happy April Fools btw, don't worry the emojis won't stay... I'm not that creative and I just wanted to just 'fool' around...
 
@@ -38,7 +34,7 @@ Peep the pics [here](https://www.facebook.com/pg/UNSWLoLSociety/photos/?tab=albu
 
 ## Upcoming Events
 
-#### _\~Fortnightly Friendly Fridays\~_
+## _Fortnightly Friendly Fridays!_
 
 ![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/fb20c49c-18f9-4f1c-bee1-729891b90884-1.jpg)
 
@@ -54,7 +50,8 @@ UNSW LoLSoc Discord: [https://discord.gg/unswlolsoc](https://discord.gg/unswlols
 
 In the Publications Subcommittee, we value HARD WORK and BIG EFFORT. As a result, in this edition of the newsletter, we decided to ALL make HIGH QUALITY AND EXTREMELY SERIOUS articles.
 
-Now don't get me wrong - I haven't read these articles. Why would I stump the C R E A T I V E P R O C E S S of these amazing subcoms. However, I'm sure these artivles of VERY SERIOUS and of HIGH QUALITY.
+Now don't get me wrong - I haven't read these articles. Why would I stump the   
+C R E A T I V E P R O C E S S of these amazing subcoms. However, I'm sure these artivles of VERY SERIOUS and of HIGH QUALITY.
 
 Be sure to check them out below:  
 \- [https://unswlolsoc.com/2019-03-31-new-legendary-skins-soundcloud-9-minus-5/](https://unswlolsoc.com/2019-03-31-new-legendary-skins-soundcloud-9-minus-5/ "https://unswlolsoc.com/2019-03-31-new-legendary-skins-soundcloud-9-minus-5/")  
@@ -62,8 +59,6 @@ Be sure to check them out below:
 \- [https://unswlolsoc.com/2019-03-31-epic-guide-how-to-climb-in-lol/](https://unswlolsoc.com/2019-03-31-epic-guide-how-to-climb-in-lol/ "https://unswlolsoc.com/2019-03-31-epic-guide-how-to-climb-in-lol/") <br> <br>
 
 ## Wrapping Up
-
-<br>
 
 ### **Attention All Epic Gamers!**
 
