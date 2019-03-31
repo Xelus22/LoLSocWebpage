@@ -77,7 +77,6 @@ But you better be quick, or LoLSoc might disappear just like Rift Herald! If you
 \~ Adam “Cucklava” Felah  
 (Publications Subcommittee) \~
 
-To keep updated, please make sure to follow our [website](http://unswlolsoc.com/), [Facebook page](http://facebook.us6.list-manage.com/track/click?u=4fdf48408f7f82905ec7082ca&id=b8acf68607&e=f8c63dbb98) and [Instagram](https://www.instagram.com/unswlolsoc/). <br> <br> If you have any questions, please contact us via email at **unswlolsoc@gmail.com** or **message our Facebook page**.  
-Thank you for your support.
+#### \~ Konze "cso69" Jeanson & Adam “Cucklava” Felah \~
 
-\~ Konze "cso69" Jeanson & Adam “Cucklava” Felah \~
+Until next tine!
