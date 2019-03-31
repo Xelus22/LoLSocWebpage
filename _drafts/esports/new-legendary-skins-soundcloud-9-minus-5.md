@@ -19,9 +19,7 @@ To celebrate SoundCloud’s multi-year partnership with Riot Games to globally s
 <br>
 <br>
 
-
-**EkKodak Black**
--
+## **EkKodak Black**
 
 ![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/2.jpg)
 
@@ -29,7 +27,7 @@ The Rift has a river wide and long enough for him to drive the boat ([https://ww
 
 Eating Honeyfruit will come with a new sound effect ([https://www.youtube.com/watch?v=JVQV6UckNK0](https://www.youtube.com/watch?v=JVQV6UckNK0 "https://www.youtube.com/watch?v=JVQV6UckNK0")).
 <br>
-
+<br>
 
 **Ahri B**
 -
@@ -39,6 +37,7 @@ Eating Honeyfruit will come with a new sound effect ([https://www.youtube.com/wa
 She’s conquered K-pop twice, but now it’s time for the Nine-Tailed Fox to claim her crown as the Queen of Rap.
 
 If Ahri B hits a champion with Charm, she can steal all of the Charmed champion’s Gold and they will blackout and wake up in a random location in the jungle.
+<br>
 <br>
 
 
@@ -51,6 +50,7 @@ Transformed by agonizing break-ups, Juice WRWICK’s body is fused with an intri
 
 After the suppression from Infinite Duress ends, Juice WRWICK will begin crying about losing another love.
 <br>
+<br>
 
 
 **A$AP LeBlanc**
@@ -61,6 +61,7 @@ After the suppression from Infinite Duress ends, Juice WRWICK will begin crying 
 Using the magic of recreational drugs, A$AP LeBlanc can appear to anyone, anywhere, and even be in many places at once.
 
 Careful with the Mirror Image, you’ll be reminded if you target the clone ([https://www.youtube.com/watch?v=vMHT8jejPnY](https://www.youtube.com/watch?v=vMHT8jejPnY "https://www.youtube.com/watch?v=vMHT8jejPnY")).
+<br>
 <br>
 
 
