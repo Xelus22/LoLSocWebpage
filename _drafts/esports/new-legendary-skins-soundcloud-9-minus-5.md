@@ -19,11 +19,15 @@ To celebrate SoundCloud’s multi-year partnership with Riot Games to globally s
 
 **EkKodak Black**
 
+![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/2.jpg)
+
 The Rift has a river wide and long enough for him to drive the boat ([https://www.youtube.com/watch?v=Ej5av5R1RWA](https://www.youtube.com/watch?v=Ej5av5R1RWA "https://www.youtube.com/watch?v=Ej5av5R1RWA")).
 
 Eating Honeyfruit will come with a new sound effect ([https://www.youtube.com/watch?v=JVQV6UckNK0](https://www.youtube.com/watch?v=JVQV6UckNK0 "https://www.youtube.com/watch?v=JVQV6UckNK0")).
 
 **Ahri B**
+
+![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/22.jpg)
 
 She’s conquered K-pop twice, but now it’s time for the Nine-Tailed Fox to claim her crown as the Queen of Rap.
 
@@ -31,17 +35,23 @@ If Ahri B hits a champion with Charm, she can steal all of the Charmed champion�
 
 **Juice WRWICK**
 
+![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/e.jpg)
+
 Transformed by agonizing break-ups, Juice WRWICK’s body is fused with an intricate system of chambers and pumps, machinery filling his veins with Lean.
 
 After the suppression from Infinite Duress ends, Juice WRWICK will begin crying about losing another love.
 
 **A$AP LeBlanc**
 
+![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/ee.jpg)
+
 Using the magic of recreational drugs, A$AP LeBlanc can appear to anyone, anywhere, and even be in many places at once.
 
 Careful with the Mirror Image, you’ll be reminded if you target the clone ([https://www.youtube.com/watch?v=vMHT8jejPnY](https://www.youtube.com/watch?v=vMHT8jejPnY "https://www.youtube.com/watch?v=vMHT8jejPnY")).
 
 **Ryzeface**
+
+![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/22e.jpg)
 
 The Bluest of all Faces on the Rift, you better respect his Cryppin’.
 
