@@ -34,7 +34,7 @@ Any enemy champions who try to use an ability during the silence are affected by
 
 ### **E: “Here’s to the Roc”**
 
-Kanye honours the legendary rapper and culture zeitgeist Jay Z, who gave him a chance to make music by signing him to his own ‘Roc-A-Fella Records’ in 2002. After 1.5 seconds, a diamond is formed in the sky, giving nearby allies the _diamonds are forever_ effect, making their next damaging ability also stun any enemy it hits for 1 second. <br> <br>
+Kanye honours the legendary rapper and culture zeitgeist Jay Z, who gave him a chance to make music by signing him to his own ‘Roc-A-Fella Records’ in 2002. After 1.5 seconds, a diamond is formed in the sky, giving nearby allies the _diamonds are forever_ effect, making their next damaging ability also stun any enemy it hits for 1 second. <br> <br> 
 
 ### **R: Scoopity Poop**
 
