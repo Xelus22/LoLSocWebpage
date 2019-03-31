@@ -38,17 +38,15 @@ Click Faster.
 
 #### **INSPIRATION - To Motivate Yourself for the Grind**
 
-_Unsealed Spellbook -_ How else can you take the most important summoner spell; Clarity?  
-_Perfect Timing -_ Take perfect timing so you never miss your smite!_  
-Future’s Market -_ Make sure you buy your own stocks early! They will definitely RISE3.  
-_Time Warp Tonic - _Bend the laws of space and time as you get challenger, a HD WAM, perfect abs, a good job and 8 hours of daily sleep.
-<br><br>
+**_Unsealed Spellbook - _**How else can you take the most important summoner spell; Clarity?  
+**_Perfect Timing -_** Take perfect timing so you never miss your smite!_  
+**_Future’s Market_ -** Make sure you buy your own stocks early! They will definitely RISE3.  
+**_Time Warp Tonic -_** Bend the laws of space and time as you get challenger, a HD WAM, perfect abs, a good job and 8 hours of daily sleep. <br><br>
 
 #### **RESOLVE - For Mastery of the Toxic Arts**
 
-_Demolishing -_ Hit your enemy with the fattestTM roast possible when they miss Irelia ult4.  
-_Unflinching - _Take this rune to completely ignore your teammates flaming you as you 1v5 dive the enemy inhibitor on your 1m mastery point Yasuo.
-<br><br>
+**_Demolishing - _**Hit your enemy with the fattestTM roast possible when they miss Irelia ult4.  
+**_Unflinching -_** Take this rune to completely ignore your teammates flaming you as you 1v5 dive the enemy inhibitor on your 1m mastery point Yasuo. <br><br>
 
 ### Final Words
 
