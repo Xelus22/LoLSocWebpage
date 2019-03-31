@@ -16,7 +16,7 @@ date: 2019-03-31 23:28:40 +1100
 **![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/q.jpg)**
 
 To celebrate SoundCloud’s multi-year partnership with Riot Games to globally sponsor League of Legends esports, SoundCloud have helped develop four new legendary skins in collaboration with some of the premier creative forces in music.
-<br>
+<br> <p>
 **EkKodak Black**
 
 ![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/2.jpg)
