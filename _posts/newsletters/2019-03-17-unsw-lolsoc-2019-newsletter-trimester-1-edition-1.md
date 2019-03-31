@@ -1,78 +1,91 @@
 ---
 layout: post
-title: "[UNSW LoLSoc 2019] Newsletter - Trimester 1 Edition 1"
-subtitle: To everyone new this year, welcome to UNSW LoLSoc! To our veterans, welcome
-  back!
+title: "[UNSW LoLSoc 2019] Newsletter - Trimester 1 Edition 2"
+subtitle: "Hey everyone, welcome back to our second newsletter of the term!! \U0001F389\U0001F389"
 gallery:
+- https://unswlolsoc.github.io/LoLSocWebpage/Picture2-2.jpg
 - https://unswlolsoc.github.io/LoLSocWebpage/pasted image 0.png
 date: 2019-03-17 17:46:55 +1100
 
 ---
-![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/pasted image 0.png)
+## \~Midsem Blues\~   :(
 
-# Welcome Everyone!!
+Hey everyone, welcome back to our second newsletter of the term!! 🎉🎉
 
-To everyone new this year, welcome to UNSW LoLSoc! To our veterans, welcome back!  
-What you’re reading is our fortnightly newsletter, where we recap everything LoLSoc which happened of late and give you a sneak peek on future events!
+I hope you've all been hitting the books 📚📚📚, because 😢 midsems 😢 are on the way! I believe ✨✨ in everyone single one of you, so be sure to get HDs 🎓 and do me proud 😄!
 
-I’m Kenzo - your Publications Director this year. I’ve been playing League since Season 2 (when Elise was released). My favourite season was either Season Three or Four, back when you could play Kha’zix Top with Manamune :(
+I, on the other hand, finished my midsems 🔥two weeks ago🔥 (not flexing 💪, just giving context) and you already know I'm back on the SoloQ G R I N D 😎
 
-These days, I still play Top, and am little-by-little trying to quit being a Kled one-trick (Conqueror nerfs LMAO). My other interests apart from League include the regular weeb stuff, origami, and listening to Kanye West.
+It's been getting pretty 🌨rainy🌨 these days, so make sure to cover yourself up - healthy body 💪 healthy mind! 🤔
 
-I hope you enjoy LoLSoc this year! This year, we are trying to hold more events and focus on letting all your League enthusiasts meet new people!
+Happy April Fools btw, don't worry the emojis won't stay... I'm not that creative and I just wanted to just 'fool' around...
 
-#### \~ Kenzo "cso69" Jeanson (Marketing Director - Publications) \~
+\~ Konze "cso69" Jeanson 💯  
+(Marketing Director - Publications) \~
+
+p.s. We are testing out a relaunch for our Instagram. Make sure to follow us @unswLoLSoc  
+[https://www.instagram.com/unswlolsoc/](https://www.instagram.com/unswlolsoc/ "https://www.instagram.com/unswlolsoc/")
+<br> <br>
+
+## Boardgames and Chill
+
+![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/Picture3.png)
+
+#### _\~We're so glad you GAME\~_
+
+I hope no one felt board at our board and party games arvo! Plenty of you lovely people dropped in and out, and we were glad to see you come in to relax during your free time.
+
+We monoplayed many different games, from Connect 4 to Avalon, and Exploding Kittens to Smash Ultimate. Hopefully we didn’t smash too many friendships!
+
+Peep the pics [here](https://www.facebook.com/pg/UNSWLoLSociety/photos/?tab=album&album_id=2262165560517908&__xts__%5B0%5D=68.ARCTtgfQFAwUablJMS8XqRZ5qNl2wr4SMedwrd4yZFx-BKUAky9UkWvLXdSBMyUpIaGCmvRneZnV6k-bah1ConZjIowOcPdfPCtbJtrNE8PNywXzipmwaawDslDBzzxy-cv_-J5UR-Cy342iq6TsXItQQpbH_0Qc6hVjZZJVLM-L0unYy4hLwaSk0wY4colwKgbNCVAzPmJgA9t6S2FeCuoNwJtvycHXkjyZitXXfVyiqLtpMcz5O0RER75gNw27OaJWkOLhIsY-osFrHQNk05vRIyjv6EjdvTsqWAHa--5UOTx-7KcrLkeTeONSh-KCwfobn-_5W29Icid-m5lS73lyGN-6AEn0bFZKSwwJ6aDtU3mFvkKV_Q59oyn8Z7bhNZsvx2Ot1Yk67OYQM2EfsyI3xK4uQ9CYKfrIqbsroyQjYqWQL3m3kuTlbOEjfXGdcgHHdK8yBH5b0oU&__tn__=-UC-R).
+<br> <br>
+
+## Upcoming Events
+
+#### _\~Fortnightly Friendly Fridays\~_
+
+![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/fb20c49c-18f9-4f1c-bee1-729891b90884-1.jpg)
+
+The fifth Friendly Fridays of the trimester is coming up! It will be on our [Discord](http://discord.gg/unswlolsoc) on the 5th of April, officially starting at 8pm and finishing at 10pm.
+
+There will be games on the Summoners’ Rift and the Howling Abyss, but also for those who want to kick back and not flame or be flamed by their teammates, Sketch League is the best place to go. Can’t wait to see you there!
+
+UNSW LoLSoc Discord: [https://discord.gg/unswlolsoc](https://discord.gg/unswlolsoc "https://discord.gg/unswlolsoc")
+<br> <br>
+
+## 🔥April Fools Articles🔥
+
+## 💯💯💯💯💯💯💯💯
+
+In the Publications Subcommittee, we value HARD WORK and BIG EFFORT. As a result, in this edition of the newsletter, we decided to ALL make HIGH QUALITY AND EXTREMELY SERIOUS articles.
+
+Now don't get me wrong - I haven't read these articles. Why would I stump the C R E A T I V E P R O C E S S of these amazing subcoms. However, I'm sure these artivles of VERY SERIOUS and of HIGH QUALITY.
+
+Be sure to check them out below:  
+\- [https://unswlolsoc.com/2019-03-31-new-legendary-skins-soundcloud-9-minus-5/](https://unswlolsoc.com/2019-03-31-new-legendary-skins-soundcloud-9-minus-5/ "https://unswlolsoc.com/2019-03-31-new-legendary-skins-soundcloud-9-minus-5/")  
+\- [https://unswlolsoc.com/2019-03-31-who-is-the-cutest-pro-player/](https://unswlolsoc.com/2019-03-31-new-legendary-skins-soundcloud-9-minus-5/ "https://unswlolsoc.com/2019-03-31-new-legendary-skins-soundcloud-9-minus-5/")  
+\- [https://unswlolsoc.com/2019-03-31-epic-guide-how-to-climb-in-lol/](https://unswlolsoc.com/2019-03-31-new-legendary-skins-soundcloud-9-minus-5/ "https://unswlolsoc.com/2019-03-31-new-legendary-skins-soundcloud-9-minus-5/")
+<br> <br>
+
+## Wrapping Up
 
 <br>
 
-# Recap of Weeks 1-4
+### **Attention All Epic Gamers!**
 
-## 2019 LoLSoc Subcom
+I, **Big Boy Badam**, need your help to make LoLSoc great again! We need to create the biggest League of Legends society in existence, or our lives will be doomed. To do that, I need three things from you:  
+1\. Follow us on our [website](https://unswlolsoc.com/).  
+2\. Like our [Facebook](https://www.facebook.com/UNSWLoLSociety/) page.  
+3\. Join our [Discord](http://discord.gg/unswlolsoc).
 
-**_\~We have a new and exciting team!\~_**
+But you better be quick, or LoLSoc might disappear just like Rift Herald! If you have any issues, please email your mother’s credit card number, expiry date and 3 digits on the back to [unswlolsoc@gmail.com](mailto:unswlolsoc@gmail.com) or send it in a Facebook message to our page!
 
-With every new year, LoLSoc gives members the opportunity to step up and join the subcom team! This team of keen and passionate individuals help the society in its day-to-day tasks and are the extra manpower we need to make our events as great as possible! Congratulations and please welcome our new Subcom team for 2019!
-<br>
+\~ Adam “Cucklava” Felah  
+(Publications Subcommittee) \~
 
-## Trivia Night
+To keep updated, please make sure to follow our [website](http://unswlolsoc.com/), [Facebook page](http://facebook.us6.list-manage.com/track/click?u=4fdf48408f7f82905ec7082ca&id=b8acf68607&e=f8c63dbb98) and [Instagram](https://www.instagram.com/unswlolsoc/).
+<br> <br>
+If you have any questions, please contact us via email at **unswlolsoc@gmail.com** or **message our Facebook page**.  
+Thank you for your support.
 
-**_\~A night of questions, (perhaps too many) memes, and fun!\~_**
-
-![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/54516737_2244687392265725_255710223816196096_o.jpg)
-
-**True or False?** Trivia Night was a blast!  
-**Answer:** True!
-
-Thanks everyone for coming to our trivia night - we hoped that you had a lot of fun! It was great to see so many newer members, all with smiled on their faces!
-
-There were a lot of tough questions, so congratulations to _Team Sean Slappers_ for being at the top of game tonight, and winning an assortment of different prizes!
-
-![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/53766605_2244686238932507_5082772582801866752_o.jpg)
-
-Be sure to check out the pictures we took in our [Facebook Album! ](https://www.facebook.com/pg/UNSWLoLSociety/photos/?tab=album&album_id=2244680982266366&__tn__=-UC-R "Trivia Night Album")
-
-<br>
-
-# Upcoming Events
-
-## Friendly Fridays
-
-![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/fb20c49c-18f9-4f1c-bee1-729891b90884.jpg)
-
-The third Friendly Fridays of the first trimester is coming up! It will be on our [Discord](http://discord.gg/unswlolsoc) on the 22nd of March officially starting at 8pm and officially finishing at 10pm. There will be games on the Summoners’ Rift and the Howling Abyss, but also for those who want to kick back and not flame or be flamed by their teammates, Sketch League is the best place to go. Can’t wait to see you there!
-
-<br>
-
-# Wrapping-up
-
-Hello everyone! I’m Clarissa, a part of the Publications Subcommittee! I only started playing League towards the end of Season 5 and I love playing mages and marksmen. My favourite champion would have to be Taliyah. (Bring back Q aoe please!)
-
-Thank you so much for reading and please follow us on our [website](https://unswlolsoc.com/), like our [Facebook ](https://www.facebook.com/UNSWLoLSociety/)page and join our [Discord](http://discord.gg/unswlolsoc)!
-
-If you have any questions, please contact us via email on [unswlolsoc@gmail.com](mailto:unswlolsoc@gmail.com) or message our Facebook page.
-
-#### \~ Clarissa “CamelBlink” Tatang (Publications Subcommittee) \~
-<br>
-That's it for this edition of our newsletter! Be sure to keep an eye our for future events on our Facebook page and Discord.
-
-Until next time!
+\~ Konze "cso69" Jeanson & Adam “Cucklava” Felah \~
