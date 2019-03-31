@@ -25,10 +25,9 @@ Happy April Fools btw, don't worry the emojis won't stay... I'm not that creati
 
 p.s. We are testing out a relaunch for our Instagram. Make sure to follow us @unswLoLSoc  
 [https://www.instagram.com/unswlolsoc/](https://www.instagram.com/unswlolsoc/ "https://www.instagram.com/unswlolsoc/")
+<br> <br>
 
 ## Boardgames and Chill
-
-![](https://gallery.mailchimp.com/4fdf48408f7f82905ec7082ca/images/55bfb07b-6808-492e-a453-6a39a43c96a6.png)
 
 #### _\~We're so glad you GAME\~_
 
@@ -37,6 +36,7 @@ I hope no one felt board at our board and party games arvo! Plenty of you lovely
 We monoplayed many different games, from Connect 4 to Avalon, and Exploding Kittens to Smash Ultimate. Hopefully we didn’t smash too many friendships!
 
 Peep the pics [here](https://www.facebook.com/pg/UNSWLoLSociety/photos/?tab=album&album_id=2262165560517908&__xts__%5B0%5D=68.ARCTtgfQFAwUablJMS8XqRZ5qNl2wr4SMedwrd4yZFx-BKUAky9UkWvLXdSBMyUpIaGCmvRneZnV6k-bah1ConZjIowOcPdfPCtbJtrNE8PNywXzipmwaawDslDBzzxy-cv_-J5UR-Cy342iq6TsXItQQpbH_0Qc6hVjZZJVLM-L0unYy4hLwaSk0wY4colwKgbNCVAzPmJgA9t6S2FeCuoNwJtvycHXkjyZitXXfVyiqLtpMcz5O0RER75gNw27OaJWkOLhIsY-osFrHQNk05vRIyjv6EjdvTsqWAHa--5UOTx-7KcrLkeTeONSh-KCwfobn-_5W29Icid-m5lS73lyGN-6AEn0bFZKSwwJ6aDtU3mFvkKV_Q59oyn8Z7bhNZsvx2Ot1Yk67OYQM2EfsyI3xK4uQ9CYKfrIqbsroyQjYqWQL3m3kuTlbOEjfXGdcgHHdK8yBH5b0oU&__tn__=-UC-R).
+<br> <br>
 
 ## Upcoming Events
 
@@ -47,9 +47,11 @@ The fifth Friendly Fridays of the trimester is coming up! It will be on our [Dis
 There will be games on the Summoners’ Rift and the Howling Abyss, but also for those who want to kick back and not flame or be flamed by their teammates, Sketch League is the best place to go. Can’t wait to see you there!
 
 UNSW LoLSoc Discord: [https://discord.gg/unswlolsoc](https://discord.gg/unswlolsoc "https://discord.gg/unswlolsoc")
+<br> <br>
 
-## 🔥April Fools Articles🔥  
-💯💯💯💯💯💯💯💯
+## 🔥April Fools Articles🔥
+
+## 💯💯💯💯💯💯💯💯
 
 In the Publications Subcommittee, we value HARD WORK and BIG EFFORT. As a result, in this edition of the newsletter, we decided to ALL make HIGH QUALITY AND EXTREMELY SERIOUS articles.
 
@@ -59,8 +61,11 @@ Be sure to check them out below:
 \- [https://unswlolsoc.com/2019-03-31-new-legendary-skins-soundcloud-9-minus-5/](https://unswlolsoc.com/2019-03-31-new-legendary-skins-soundcloud-9-minus-5/ "https://unswlolsoc.com/2019-03-31-new-legendary-skins-soundcloud-9-minus-5/")  
 \- [https://unswlolsoc.com/2019-03-31-who-is-the-cutest-pro-player/](https://unswlolsoc.com/2019-03-31-new-legendary-skins-soundcloud-9-minus-5/ "https://unswlolsoc.com/2019-03-31-new-legendary-skins-soundcloud-9-minus-5/")  
 \- [https://unswlolsoc.com/2019-03-31-epic-guide-how-to-climb-in-lol/](https://unswlolsoc.com/2019-03-31-new-legendary-skins-soundcloud-9-minus-5/ "https://unswlolsoc.com/2019-03-31-new-legendary-skins-soundcloud-9-minus-5/")
+<br> <br>
 
 ## Wrapping Up
+
+<br>
 
 ### **Attention All Epic Gamers!**
 
@@ -75,7 +80,7 @@ But you better be quick, or LoLSoc might disappear just like Rift Herald! If you
 (Publications Subcommittee) \~
 
 To keep updated, please make sure to follow our [website](http://unswlolsoc.com/), [Facebook page](http://facebook.us6.list-manage.com/track/click?u=4fdf48408f7f82905ec7082ca&id=b8acf68607&e=f8c63dbb98) and [Instagram](https://www.instagram.com/unswlolsoc/).
-
+<br> <br>
 If you have any questions, please contact us via email at **unswlolsoc@gmail.com** or **message our Facebook page**.  
 Thank you for your support.
 
