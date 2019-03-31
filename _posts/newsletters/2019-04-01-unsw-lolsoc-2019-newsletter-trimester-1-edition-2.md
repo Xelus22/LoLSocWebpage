@@ -6,6 +6,8 @@ gallery: []
 date: 2019-04-01 01:05:22 +1100
 
 ---
+![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/pasted image 0-1.png)
+
 ## \~Midsem Blues\~   :(
 
 Hey everyone, welcome back to our second newsletter of the term!! 🎉🎉
@@ -55,9 +57,10 @@ C R E A T I V E P R O C E S S of these amazing subcoms. However, I'm sure these 
 
 Be sure to check them out below:  
 \- [https://unswlolsoc.com/2019-03-31-new-legendary-skins-soundcloud-9-minus-5/](https://unswlolsoc.com/2019-03-31-new-legendary-skins-soundcloud-9-minus-5/ "https://unswlolsoc.com/2019-03-31-new-legendary-skins-soundcloud-9-minus-5/") (by Iain Lew)  
-\- [https://unswlolsoc.com/2019-03-31-who-is-the-cutest-pro-player/](https://unswlolsoc.com/2019-03-31-new-legendary-skins-soundcloud-9-minus-5/ "https://unswlolsoc.com/2019-03-31-new-legendary-skins-soundcloud-9-minus-5/") (By Clarissa Tatang)  
-\- [https://unswlolsoc.com/2019-03-31-epic-guide-how-to-climb-in-lol/](https://unswlolsoc.com/2019-03-31-new-legendary-skins-soundcloud-9-minus-5/ "https://unswlolsoc.com/2019-03-31-new-legendary-skins-soundcloud-9-minus-5/") (By Adam Felah)  
-\- [https://unswlolsoc.com/2019-04-01-champion-reveal-kanye-west-the-only-one/](https://unswlolsoc.com/2019-04-01-champion-reveal-kanye-west-the-only-one/ "https://unswlolsoc.com/2019-04-01-champion-reveal-kanye-west-the-only-one/") (By me POGGERS)
+\- [https://unswlolsoc.com/2019-03-31-who-is-the-cutest-pro-player/](https://unswlolsoc.com/2019-03-31-who-is-the-cutest-pro-player/ "https://unswlolsoc.com/2019-03-31-new-legendary-skins-soundcloud-9-minus-5/") (By Clarissa Tatang)  
+\- [https://unswlolsoc.com/2019-03-31-epic-guide-how-to-climb-in-lol/](https://unswlolsoc.com/2019-03-31-epic-guide-how-to-climb-in-lol/ "https://unswlolsoc.com/2019-03-31-new-legendary-skins-soundcloud-9-minus-5/") (By Adam Felah)  
+\- [https://unswlolsoc.com/2019-04-01-champion-reveal-kanye-west-the-only-one/](https://unswlolsoc.com/2019-04-01-champion-reveal-kanye-west-the-only-one/ "https://unswlolsoc.com/2019-04-01-champion-reveal-kanye-west-the-only-one/")   
+(By me POGGERS)
 
 <br> <br>
 
