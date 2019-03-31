@@ -3,6 +3,7 @@ layout: post
 title: "[UNSW LoLSoc 2019] Newsletter - Trimester 1 Edition 2"
 subtitle: "Hey everyone, welcome back to our second newsletter of the term!! \U0001F389\U0001F389"
 gallery:
+- https://unswlolsoc.github.io/LoLSocWebpage/Picture2-2.jpg
 - https://unswlolsoc.github.io/LoLSocWebpage/pasted image 0.png
 date: 2019-03-17 17:46:55 +1100
 
@@ -28,6 +29,8 @@ p.s. We are testing out a relaunch for our Instagram. Make sure to follow us @un
 
 ## Boardgames and Chill
 
+![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/Picture3.png)
+
 #### _\~We're so glad you GAME\~_
 
 I hope no one felt board at our board and party games arvo! Plenty of you lovely people dropped in and out, and we were glad to see you come in to relax during your free time.
@@ -39,7 +42,9 @@ Peep the pics [here](https://www.facebook.com/pg/UNSWLoLSociety/photos/?tab=albu
 
 ## Upcoming Events
 
-Fortnightly Friendly Fridays!!!
+#### _\~Fortnightly Friendly Fridays\~_
+
+![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/fb20c49c-18f9-4f1c-bee1-729891b90884-1.jpg)
 
 The fifth Friendly Fridays of the trimester is coming up! It will be on our [Discord](http://discord.gg/unswlolsoc) on the 5th of April, officially starting at 8pm and finishing at 10pm.
 
