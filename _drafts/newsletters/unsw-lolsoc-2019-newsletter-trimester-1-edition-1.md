@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[UNSW LoLSoc 2019] Newsletter - Trimester 1 Edition 1"
+title: "[UNSW LoLSoc 2019] Newsletter - Trimester 1 Edition 2"
 subtitle: To everyone new this year, welcome to UNSW LoLSoc! To our veterans, welcome
   back!
 gallery:
