@@ -17,19 +17,19 @@ date: 2019-04-15 03:52:01 +1000
 
 Hey everyone, glad to you see all back! 🎉
 
-How's everyone been? I had the pleasure of spending this weekend ploughing through two assignments while watching LEC Semis/Finals, LCK Finals, and LCS Finals in between.
+How have we been? I've had the pleasure of spending this weekend ploughing through two assignments while watching LEC Semis/Finals, LCK Finals, and LCS Finals in between.
 
-Congrats to SKT T1 for regaining form and completely DEMOLISHING Griffin in a three-game smurf!! If only my ranked games were that easy... 
+Congrats to SKT T1 for regaining form and completely DEMOLISHING Griffin in a three-game smurf-fest!! If only my ranked games were that easy... 
 
-Kind of sad to see TSM suffer the reverse sweep in finals (espeically as a TSM fanboy), but I also personally think that they didn't deserve to win against C9... so I guess it's kind of poetic for them to get swept themselves. 
+Kind of sad to see TSM suffer the reverse sweep in finals (espeically as a TSM fanboy), but I also personally believe that they didn't deserve to win against C9... so I guess it's kind of poetic for them to get reverse swept themselves. 
 
-Oh and G2 just won finals 3-0 right then. Nice... anyone surprised?
+Oh, and G2 just won finals 3-0 right then. Nice... anyone surprised?
 
-MSI this year is looking THICC with super hype teams this year! I can imagine a world where a western team like G2 (sorry Liquid, maybe not you guys yet) cosplays 2018 Worlds and beats China and Korea. 
+MSI this year is looking DUMMY THICC with super hype teams! I can actually imagine a world where a western team like G2 (sorry Liquid, maybe not you guys yet) cosplays 2018 Worlds and beats China and Korea. 
 
-Anyway, that's all I have for intro today\~ Enjoy the rest of the read!
+Anyway, that's all I have for intro today\~ Enjoy the rest of the read! (if you don't enjoy I'll find you and steal your LP)
 
-\~ Kenzo “cso69” Jeanson 💯  
+\~ Kenzo “cso69” Jeanson   
 (Marketing Director - Publications) \~
 
 ### 💻 Lan Party! 💻
