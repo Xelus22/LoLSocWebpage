@@ -6,11 +6,11 @@ gallery: []
 date: 2019-04-15 04:56:13 +1000
 
 ---
-**![](https://lh5.googleusercontent.com/-GOo8WwN8KqNsRfDyLwCXNy0LrM_01p-A2WE5N9xLk8nOciADHG-alQl2ZzfdWwr_TdmzMJoY4vDshYBUHju-3rV2Pptbbesv_MDfzudq8d9rdUOa1xISnAmgJLTnOTBZANJ4Rw3 =624x345)**
+![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/pasted image 0-2.png)
 
-_“Winning mid lane always depends on the jungler.”_ 
+_“Winning mid lane always depends on the jungler.”_
 
-_(_Read more of Doinb’s interview during LPL Spring 2019 with Inven here: [https://bit.ly/2Cun04k](https://bit.ly/2Cun04k "https://bit.ly/2Cun04k"))
+##### (Read more of Doinb’s interview during LPL Spring 2019 with Inven here: [https://bit.ly/2Cun04k](https://bit.ly/2Cun04k "https://bit.ly/2Cun04k"))
 
 Just one of the reasons why fans choose to follow League of Legends Esports is because of this. Not how Doinb always flames Tian but how relatable Doinb is as a person. However, different people become invested in the competitive scene of their favourite online game differently.
 
@@ -20,7 +20,6 @@ Some people push themselves into the competitive scene with a desire to not be e
 
 Take Ryze for example. Across all seasons of esports, he has the highest presence at 46%. You can check a few of his stats for all time esports and Season 9 so far in the professional scene and in solo queue.
 
-  
 ![](https://lh5.googleusercontent.com/GfAnXjYd7wcwVARVbK3szIlcrXM8TYzpQhN5ZhKqJ3nbie04NP0cY7SHIkBKYXcuKNO4ySPuDTrQnH1BAbJfzT9bubZveyPbbqR468hg3wA2ofx2U3ZXHGPh6MLj44OffszZ-jSl =458x379)  
 Some people taste the entertainment of the competitive scene and choose to stay because of the fiestas, siestas or even the “don’t worry guys we scale” team compositions. Some things on the screen like Tahm Kench can be so good or so bad. You could watch [Ming save Uzi with a fifth of his HP from a Zoe combo](https://www.youtube.com/watch?v=ccnTVayy1X8) or you could watch [Smoothie spit out Zven with one HP into the enemy team](https://www.youtube.com/watch?v=qSqJlVzzlv4). Both occasions, you’ll definitely want to know more. Do they Alistar headbutt the fed top laner into their entire team? Or do they land a five man Headbutt Pulverise? One can only stay tuned to truly find out. Spoiler. Everyone does both.
 
@@ -31,7 +30,7 @@ I actually got drawn into the professional scene - specifically LPL - because of
 ![](https://lh6.googleusercontent.com/_uWC9ltNFuHPJzFXtyxuG1rt2UDIb6KXQ_HLA2lYeTrMriyv_HA1FbX90riMQYXMFEfPRonIUpUqh1tzIUvruVqXEku0hrpHq26ccLGgAiwgHvR5XLicRBummwFNnGhKEDvAWQi7 =624x299)  
 ![](https://lh4.googleusercontent.com/SRvE_F4rLDSFgOpDR-q8oh5XxfXTkpEzcOxPR-l8oh8i1TIS0r_ttp_2GcBuAVIDQg43ZBaSdrRwEIxfdD7TziJMyoXIQ7USxLqOGpqXSxcrA1h5szAddk1cC-rsI0GjG39hMVqG =624x416)
 
-It doesn’t matter whether you’re Challenger or Iron, whether you’re a 4fun player or you play to flex on your friends, everyone has their own place in esports. It could be the Twitch Chat, the LoLSoc Esports discussion channel or a silent place where you squeal to yourself when Theshy dodges like the wind. 
+It doesn’t matter whether you’re Challenger or Iron, whether you’re a 4fun player or you play to flex on your friends, everyone has their own place in esports. It could be the Twitch Chat, the LoLSoc Esports discussion channel or a silent place where you squeal to yourself when Theshy dodges like the wind.
 
 All fans are included and Scout agrees:
 
