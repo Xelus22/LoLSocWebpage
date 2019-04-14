@@ -29,7 +29,7 @@ Some people invest themselves too much into an [emotional video](https://www.you
 I actually got drawn into the professional scene - specifically LPL - because of the linked mic check above. It showcased their second international win after Rift Rivals 2017 and before MSI, Rift Rivals and Worlds in 2018. Since I only started watching February last year, I listened to the narratives of the past year while watching how the players who were fabled to have failed grow stronger. The highlight of my esports year was watching JackeyLove grow. From cracking under pressure in their Spring Semi Finals match against RNG which essentially lost them the series. To beating KT by flashing in at the right time. To lifting the World Championship trophy. All in his debut year.
 
 ![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/pasted image 0 (2).png)
-<br>
+<br> <br>
 ![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/pasted image 0 (3).png)
 
 It doesn’t matter whether you’re Challenger or Iron, whether you’re a 4fun player or you play to flex on your friends, everyone has their own place in esports. It could be the Twitch Chat, the LoLSoc Esports discussion channel or a silent place where you squeal to yourself when Theshy dodges like the wind.
