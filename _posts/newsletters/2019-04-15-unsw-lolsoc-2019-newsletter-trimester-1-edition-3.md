@@ -72,7 +72,10 @@ This week, Publications Subcom Clarissa Tatang is sharing her first article of t
 [https://unswlolsoc.com/2019-04-15-why-you-should-love-league-of-legends-esports/](https://unswlolsoc.com/2019-04-15-why-you-should-love-league-of-legends-esports/ "Why You Should Love League of Legends Esports")
 
 I push you all to check it out! Theres some super interesting and kinda philosophical stuff in there about why LoL's pro scene is more amazing than you think!
-<br><br>
+
+Remember, anyone can publish their articles, so don't be afraid to contact me or any other exec on Discord/Facebook!
+
+ <br><br>
 
 ## 📷Instagram Relaunch!📷
 
