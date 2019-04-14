@@ -39,7 +39,9 @@ Anyway, that's all I have for intro today\~ Enjoy the rest of the read! (if you 
 
 ![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/57239042_2287422637992200_6616593987903946752_o.jpg)
 
-Thanks to all those who came and LAN-ded a skillshot or two last Sunday! It was amazing seeing everyone having fun and supporting one another during the tournament. :D A big shout out to those who tried their best on the day in the tournament, sometimes it just ain't our day on the rift. Congratulations to the champions of the day:
+Thanks to all those who came and LAN-ded a skillshot or two last Sunday! It was amazing seeing everyone having fun and supporting one another during the tournament. :D A big shout out to those who tried their best on the day in the tournament, sometimes it just ain't our day on the rift. 
+
+Congratulations to the champions of the day:
 
 **1st: Andrew Lee/Kacy Huang**
 ![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/57447278_2287422237992240_5652502846474551296_o.jpg)
