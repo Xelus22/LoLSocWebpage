@@ -32,7 +32,11 @@ Anyway, that's all I have for intro today\~ Enjoy the rest of the read!
 \~ Kenzo “cso69” Jeanson 💯  
 (Marketing Director - Publications) \~
 
-### Lan Party!
+### 💻 Lan Party! 💻
+
+_\~Special Thanks to WangYu Concept Cafe\~_
+
+![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/57239042_2287422637992200_6616593987903946752_o.jpg)
 
 Thanks to all those who came and LAN-ded a skillshot or two last Sunday! It was amazing seeing everyone having fun and supporting one another during the tournament. :D A big shout out to those who tried their best on the day in the tournament, sometimes it just ain't our day on the rift. Congratulations to the champions of their own champs:
 
@@ -49,3 +53,36 @@ Thanks to all those who came and LAN-ded a skillshot or two last Sunday! It was 
 ![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/56990293_2287421701325627_2229832292916789248_o.jpg)
 
 If you missed out this time, no worries! There are many more parties and events coming, so keep your heads up!
+
+### 🔮 Upcoming Events 🔮
+
+### _Fortnightly Friendly Fridays!_
+
+![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/fb20c49c-18f9-4f1c-bee1-729891b90884-1.jpg)Another hit of Friendly Fridays is coming up! It will be on our [Discord](http://discord.gg/unswlolsoc) on the 19th of April, officially starting at 8pm and finishing at 10pm.
+
+There will be games on the Summoners’ Rift and the Howling Abyss, but also for those who want to kick back and not flame or be flamed by their teammates, Sketch League is the best place to go. Can’t wait to see you there!
+
+UNSW LoLSoc Discord: [https://discord.gg/unswlolsoc](https://discord.gg/unswlolsoc "https://discord.gg/unswlolsoc")
+
+### 📰 Article of the Week 📰
+
+This week, Publications Subcom Clarissa Tatang is sharing her first article of the year!  
+_Why \[link\]_
+
+I push you all to check it out! Theres some super interesting and kinda philosophical stuff in there about why LoL's pro scene is more amazing than you think!
+
+### 📷Instagram Relaunch!📷
+
+IT'S ALIVE!!! The once lonely UNSW LoLSoc Instagram is now alive and active! Our vision of Instagram is to showcase content from LoLSoc members and being more real time in terms of events. Had meme play during Friendly Fridays? Have some wonderful League-related art to showcase? Brought out your inner Faker during a tournament? Send it over via Discord PMs (to RosalineChu) or tag us @unswlolsoc so it can be uploaded or reposted!
+
+### 🎉CONGRATULATONS to our UniGames Team!🎉
+
+Congrats to our UnigGames team for a nail-biting 2-1 victory over USYD in playoffs to qualify as the TOP EASTERN TEAM SEED FOR NATIONALS!
+
+Absolutely PHENOMENAL. 
+
+Shout-out to minhcam123456789, BADDiE, BITCONNEEEEEEECT, Furries, Poly, Retrospect, and Glup!
+
+Special Thanks to sexymario258, qoyy, @Xun, and swordsky for being an INCREDIBLE support team! 
+
+May they find success in their future tournament!
