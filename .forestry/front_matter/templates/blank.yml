@@ -16,6 +16,7 @@ fields:
   name: gallery
   label: GALLERY
 pages:
+- _posts/events/week-7-lan-party.md
 - _posts/esports/why-you-should-love-league-of-legends-esports.md
 - _posts/newsletters/2019-04-15-unsw-lolsoc-2019-newsletter-trimester-1-edition-3.md
 - _posts/esports/2019-03-17-your-favourite-one-trick-and-why-she-s-back-in-pro-play-the-return-of-riven.md
