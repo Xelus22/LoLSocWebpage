@@ -83,7 +83,7 @@ IT'S ALIVE!!! The once lonely UNSW LoLSoc Instagram is now alive and active! Our
 
 ## 🎉CONGRATULATONS to our UniGames Team!🎉
 
-Congrats to our UnigGames team for a nail-biting 2-1 victory over USYD in playoffs to qualify as the TOP EASTERN TEAM SEED FOR NATIONALS!
+Congrats to our UniGames team for a nail-biting 2-1 victory over USYD in playoffs to qualify as the TOP EASTERN TEAM SEED FOR NATIONALS!
 
 Absolutely PHENOMENAL.
 
