@@ -86,3 +86,16 @@ Shout-out to minhcam123456789, BADDiE, BITCONNEEEEEEECT, Furries, Poly, Retrospe
 Special Thanks to sexymario258, qoyy, @Xun, and swordsky for being an INCREDIBLE support team! 
 
 May they find success in their future tournament!
+
+### Wrapping Up
+
+_“I don’t play League with a mouse or a trackpad…”_
+
+Now that I have your attention, congratulations for reaching this far into the newsletter! Hopefully LoLSoc has been great because we have a lot more in store. Even though my League elo is like Dust IV, it doesn’t limit my passion for LoLSoc. Hope to see you at events or drop by in Discord Lobby during Friendly Fridays (and NOT bully the moderator, thanks). Don’t be shy! If you’re struggling to find someone to talk to, I’ll be there! :)
+
+\~ Kimberly “RosalineChu” Chan  
+(Publications Subcommittee) \~
+
+**\~ Kenzo “cso69” Jeanson & Adam “Kimberly “RosalineChu” Chan \~**
+
+Until next time! \[I just realised that I wrote 'tine' in last edition's newsletter holy...\]
