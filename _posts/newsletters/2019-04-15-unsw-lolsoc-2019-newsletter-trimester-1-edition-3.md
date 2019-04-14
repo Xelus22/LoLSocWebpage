@@ -42,15 +42,12 @@ Anyway, that's all I have for intro today\~ Enjoy the rest of the read! (if you 
 Thanks to all those who came and LAN-ded a skillshot or two last Sunday! It was amazing seeing everyone having fun and supporting one another during the tournament. :D A big shout out to those who tried their best on the day in the tournament, sometimes it just ain't our day on the rift. Congratulations to the champions of the day:
 
 **1st: Andrew Lee/Kacy Huang**
-
 ![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/57447278_2287422237992240_5652502846474551296_o.jpg)
 <br>
 **2nd: Evan Lee/James Siu**
-
 ![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/57377485_2287421524658978_5361215961141608448_o.jpg)
-<br>
+<br><br>
 **3rd: George Wu/Raist Jurado**
-
 ![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/56990293_2287421701325627_2229832292916789248_o.jpg)
 
 If you missed out this time, no worries! There are many more parties and events coming, so keep your heads up!
