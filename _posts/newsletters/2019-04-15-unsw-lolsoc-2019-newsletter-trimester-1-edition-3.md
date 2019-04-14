@@ -15,7 +15,7 @@ date: 2019-04-15 03:52:01 +1000
 
 ## \~Trimester 1 is Reaching a Close\~
 
-Hey everyone, glad to you see all back! 🎉
+Hey everyone, glad to see you all back! 🎉
 
 How have we been? I've had the pleasure of spending this weekend ploughing through two assignments while watching LEC Semis/Finals, LCK Finals, and LCS Finals in between.
 
