@@ -74,8 +74,7 @@ This week, Publications Subcom Clarissa Tatang is sharing her first article of t
 I push you all to check it out! Theres some super interesting and kinda philosophical stuff in there about why LoL's pro scene is more amazing than you think!
 
 Remember, anyone can publish their articles, so don't be afraid to contact me or any other exec on Discord/Facebook!
-
- <br><br>
+<br><br>
 
 ## 📷Instagram Relaunch!📷
 
