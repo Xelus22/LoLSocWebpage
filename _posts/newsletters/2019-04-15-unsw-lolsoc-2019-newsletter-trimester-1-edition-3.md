@@ -31,10 +31,10 @@ Anyway, that's all I have for intro today\~ Enjoy the rest of the read! (if you 
 
 \~ Kenzo “cso69” Jeanson  
 (Marketing Director - Publications) \~
-
+ <br><br>
 ## 💻 Lan Party! 💻
 
-#### <br><br>
+####
 _\~Special Thanks to WangYu Concept Cafe\~_
 
 ![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/57239042_2287422637992200_6616593987903946752_o.jpg)
