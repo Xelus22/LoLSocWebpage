@@ -13,7 +13,7 @@ date: 2019-04-15 03:52:01 +1000
 ---
 ![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/Picture1.png)
 
-### \~Trimester 1 Reaching a Close\~
+### \~Trimester 1 is Reaching a Close\~
 
 Hey everyone, glad to you see all back! 🎉
 
