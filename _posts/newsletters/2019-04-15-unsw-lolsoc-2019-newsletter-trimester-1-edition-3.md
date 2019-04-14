@@ -31,11 +31,11 @@ Anyway, that's all I have for intro today\~ Enjoy the rest of the read! (if you 
 
 \~ Kenzo “cso69” Jeanson  
 (Marketing Director - Publications) \~
- <br><br>
+<br><br>
+
 ## 💻 Lan Party! 💻
 
-
-_\~Special Thanks to WangYu Concept Cafe\~_
+#### _\~Special Thanks to WangYu Concept Cafe\~_
 
 ![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/57239042_2287422637992200_6616593987903946752_o.jpg)
 
@@ -66,6 +66,7 @@ There will be games on the Summoners’ Rift and the Howling Abyss, but also for
 
 UNSW LoLSoc Discord: [https://discord.gg/unswlolsoc](https://discord.gg/unswlolsoc "https://discord.gg/unswlolsoc")
 <br>
+
 ## 📰 Article of the Week 📰
 
 This week, Publications Subcom Clarissa Tatang is sharing her first article of the year!  
@@ -73,10 +74,12 @@ _Why \[link\]_
 
 I push you all to check it out! Theres some super interesting and kinda philosophical stuff in there about why LoL's pro scene is more amazing than you think!
 <br>
+
 ## 📷Instagram Relaunch!📷
 
 IT'S ALIVE!!! The once lonely UNSW LoLSoc Instagram is now alive and active! Our vision of Instagram is to showcase content from LoLSoc members and being more real time in terms of events. Had meme play during Friendly Fridays? Have some wonderful League-related art to showcase? Brought out your inner Faker during a tournament? Send it over via Discord PMs (to RosalineChu) or tag us @unswlolsoc so it can be uploaded or reposted!
 <br>
+
 ## 🎉CONGRATULATONS to our UniGames Team!🎉
 
 Congrats to our UnigGames team for a nail-biting 2-1 victory over USYD in playoffs to qualify as the TOP EASTERN TEAM SEED FOR NATIONALS!
@@ -89,6 +92,7 @@ Special Thanks to sexymario258, qoyy, @Xun, and swordsky for being an INCREDIBLE
 
 May they find success in their future tournament!
 <br>
+
 ## Wrapping Up
 
 _“I don’t play League with a mouse or a trackpad…”_
