@@ -45,7 +45,7 @@ Congratulations to the champions of the day:
 
 **1st: Andrew Lee/Kacy Huang**
 ![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/57447278_2287422237992240_5652502846474551296_o.jpg)
-<br>
+<br><br>
 **2nd: Evan Lee/James Siu**
 ![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/57377485_2287421524658978_5361215961141608448_o.jpg)
 <br><br>
