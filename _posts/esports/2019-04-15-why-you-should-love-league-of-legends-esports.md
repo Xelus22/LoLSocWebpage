@@ -28,7 +28,7 @@ Some people invest themselves too much into an [emotional video](https://www.you
 
 I actually got drawn into the professional scene - specifically LPL - because of the linked mic check above. It showcased their second international win after Rift Rivals 2017 and before MSI, Rift Rivals and Worlds in 2018. Since I only started watching February last year, I listened to the narratives of the past year while watching how the players who were fabled to have failed grow stronger. The highlight of my esports year was watching JackeyLove grow. From cracking under pressure in their Spring Semi Finals match against RNG which essentially lost them the series. To beating KT by flashing in at the right time. To lifting the World Championship trophy. All in his debut year.
 
-![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/pasted image 0 (2).png) 
+![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/pasted image 0 (2).png)
 <br>
 ![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/pasted image 0 (3).png)
 
@@ -38,7 +38,7 @@ All fans are included and Scout agrees:
 
 _“I want to sincerely thank all the fans who support us.”_
 
-(Read more of Scout’s interview during Worlds 2018 with Inven here: [https://bit.ly/2uiXRFe](https://bit.ly/2uiXRFe "https://bit.ly/2uiXRFe"))
+##### (Read more of Scout’s interview during Worlds 2018 with Inven here: [https://bit.ly/2uiXRFe](https://bit.ly/2uiXRFe "https://bit.ly/2uiXRFe"))
 
 \~ Clarissa “CamelBlink” Tatang (Publications Subcommittee) \~
 
