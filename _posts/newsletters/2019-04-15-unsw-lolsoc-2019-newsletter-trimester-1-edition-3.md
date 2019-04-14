@@ -53,18 +53,18 @@ Congratulations to the champions of the day:
 ![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/56990293_2287421701325627_2229832292916789248_o.jpg)
 
 If you missed out this time, no worries! There are many more parties and events coming, so keep your heads up!
-<br>
+<br><br>
 
 ## 🔮 Upcoming Events 🔮
 
 ## _Fortnightly Friendly Fridays!_
 
-![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/fb20c49c-18f9-4f1c-bee1-729891b90884-1.jpg)Another serve of Friendly Fridays  coming up! It will be on our [Discord](http://discord.gg/unswlolsoc) on the 19th of April, officially starting at 8pm and finishing at 10pm.
+![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/fb20c49c-18f9-4f1c-bee1-729891b90884-1.jpg)Another serve of Friendly Fridays coming right up! It will be on our [Discord](http://discord.gg/unswlolsoc) on the 19th of April, officially starting at 8pm and finishing at 10pm.
 
 There will be games on the Summoners’ Rift and the Howling Abyss, but also for those who want to kick back and not flame or be flamed by their teammates, Sketch League is the best place to go. Can’t wait to see you there!
 
 UNSW LoLSoc Discord: [https://discord.gg/unswlolsoc](https://discord.gg/unswlolsoc "https://discord.gg/unswlolsoc")
-<br>
+<br><br>
 
 ## 📰 Article of the Week 📰
 
@@ -72,12 +72,12 @@ This week, Publications Subcom Clarissa Tatang is sharing her first article of t
 _Why \[link\]_
 
 I push you all to check it out! Theres some super interesting and kinda philosophical stuff in there about why LoL's pro scene is more amazing than you think!
-<br>
+<br><br>
 
 ## 📷Instagram Relaunch!📷
 
 IT'S ALIVE!!! The once lonely UNSW LoLSoc Instagram is now alive and active! Our vision of Instagram is to showcase content from LoLSoc members and being more real time in terms of events. Had meme play during Friendly Fridays? Have some wonderful League-related art to showcase? Brought out your inner Faker during a tournament? Send it over via Discord PMs (to RosalineChu) or tag us @unswlolsoc so it can be uploaded or reposted!
-<br>
+<br><br>
 
 ## 🎉CONGRATULATONS to our UniGames Team!🎉
 
@@ -90,7 +90,7 @@ Shout-out to minhcam123456789, BADDiE, BITCONNEEEEEEECT, Furries, Poly, Retrospe
 Special Thanks to sexymario258, qoyy, @Xun, and swordsky for being an INCREDIBLE support team!
 
 May they find success in their future tournament!
-<br>
+<br><br>
 
 ## Wrapping Up
 
