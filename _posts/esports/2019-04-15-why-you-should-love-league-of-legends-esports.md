@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why YOU Should Love League of Legends ESports
-subtitle: ''
+subtitle: Why you, the player, should watch League ESports!
 gallery: []
 date: 2019-04-15 04:56:13 +1000
 
