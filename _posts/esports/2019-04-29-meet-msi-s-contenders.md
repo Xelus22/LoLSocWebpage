@@ -114,7 +114,7 @@ In the LST Spring Finals, MEGA swept Team Empire after just joining the LST this
 
 Atit “Rockky” Phaomuang is their top laner and last year, was playing for Ascension Gaming (ASC) (who are now disbanded). Kwon “Jjun” Jun-seok is their jungler and last year, was playing for Mineski (which has now disbanded). Their mid laner is Nuttapong “G4” Menkasikan who is also from 2018 ASC. Juckkirsts “Lloyd” Kongubon is their bot laner who also played for ASC last year. Finally, their support is Ha “PoP” Min-wook who beforehand, was playing for a team named Seoul in the KeSPA Cup.
 
-![](https://lh5.googleusercontent.com/QJE56RXD1mN4EVCv9XpO0OmSOjIUtC6dpCZcycO0DTxpCgEXkjzKDxZtfjV8IoIQ3uu_rUtrqDz_MfKYSecfyjZZrkOiCvLWpJQK5P1y-7Rfn0sSbFDQChx_S9h3odmfV5QqGwh9 =602x355)
+![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/pasted image 0-4.png)
 
 This year, there are super teams which we all want to believe in and have never worked out, old teams that have regained their footing in their region (rest in peace TSM) and teams that are just fun to watch. MSI Play-Ins start on May 1st at 8pm AEST and the Group Stages starts on May 10th at 8pm AEST.
 
