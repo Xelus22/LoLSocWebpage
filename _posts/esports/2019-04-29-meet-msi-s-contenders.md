@@ -10,7 +10,7 @@ MSI is coming up and if you haven’t been keeping up with the regular season of
 
 2019’s MSI Contenders are:
 
-**1. LCK’s (Korea’s) SK Telecom T1 (SKT T1)**
+## **1. LCK’s (Korea’s) SK Telecom T1 (SKT T1)**
 
 _“If you do your best but still lose at MSI, what will you do?”_
 
@@ -24,7 +24,7 @@ Their top laner is Kim “Khan” Dong-ha who moved from last year’s Kingzone 
 
 With a roster like this, if kkOma decides to put Faker on Taric again, I think less people will complain. Fun fact, this is the third team that Mata has ever won an LCK title on.
 
-**2. LPL’s (China’s) Invictus Gaming (IG)**
+## **2. LPL’s (China’s) Invictus Gaming (IG)**
 
 _“There was a famous person who said I’ve been studying our MSI opponents. Actually, I have been doing this for a long time.”_
 
@@ -34,7 +34,7 @@ The LPL’s pride and joy were once the mid game team of EDG and the raise-the-p
 
 In the top lane, it is Kang “TheShy” Seung-lok. In the jungle, it is Gao “Ning” Zhen-ning. Note that if you annoy him, you’re getting camped for the rest of the game. IG’s mid laner is Song “Rookie” Eui-jin (Hometown Hero by the way). In the bot lane, there is Yu “JackeyLove” Wen-Bo supported by Wang “Baolan” Liu-Yi.
 
-**3. LEC’s (Europe’s) G2 Esports (G2)**
+## **3. LEC’s (Europe’s) G2 Esports (G2)**
 
 _“In Europe, our only opponent is Mikyx’s wrists.”_
 
@@ -44,7 +44,7 @@ In the top lane and jungle, there is still Martin “Wunder” Hansen and Marcin
 
 Perkz said it himself. He’s not sure if Europe is really bad or if they’re just really good. This question will be answered at MSI.
 
-**4. LCS’ (North America’s) Team Liquid (TL)**
+## **4. LCS’ (North America’s) Team Liquid (TL)**
 
 _“We should come in with the mentality of we’re a big fish.”_
 
@@ -58,7 +58,7 @@ TL’s top laner is Jung “Impact” Eon-yeong, jungler is Jake Kevin “Xmithi
 
 In the recent final, TL had two motivations: Jensen’s trophy case and Doublelift’s date with Faker.
 
-**5. LMS’ (Taiwan, Macau and Hong Kong’s) Flash Wolves (FW)**
+## **5. LMS’ (Taiwan, Macau and Hong Kong’s) Flash Wolves (FW)**
 
 FW sends their regards from the LMS yet again. This is their seventh domestic title in a row and I am here to tell you, the LMS wasn’t just FW’s show this time around. Even though they 3-0’d MAD Team in the LMS Spring Finals, the expectation to win was only ever put on their shoulders after the semi-finals. Throughout the season, the favourites for the Spring Split were MAD team and towards the end, everyone expected ahq e-Sports Club to take the big W.
 
@@ -66,49 +66,49 @@ FW had to rebuild after Maple and SwordArt left for Suning Gaming (a team in the
 
 In the top lane, there is Su “Hanabi” Chia-Hsiang, in the jungle, there is Lee “Bugi” Seong-yeop from Machi E-Sports’ (an LMS team) 2018 roster, in the mid lane, it is Shin “Rather” Hyeong-seop who is on loan from Griffin, in the bot lane, there’s still Lu “Betty” Yu-Hung and they have Liu “ShiauC” Chia-Hao as their support.
 
-**6. VCS’ (Vietnam’s) Phong Vũ Buffalo (PVB)**
+## **6. VCS’ (Vietnam’s) Phong Vũ Buffalo (PVB)**
 
 With a 3-1 victory against EVOS Esports, PVB take the ticket to MSI. They are once again returning to the international stage and they will be representing Vietnam for the second time.
 
 Their top laner is Phạm “Zeros” Minh Lộc, their jungler is Hoàng “Meliodas” Tiến Nhật, their mid laner is Võ “Naul” Thành Luân their bot laner is Đặng “BigKoro” Ngọc Tài and their support is Nguyễn “Palette” Hải Trung.
 
-**7. CBLOL’s (Brazil’s) INTZ e-Sports (INTZ)**
+## **7. CBLOL’s (Brazil’s) INTZ e-Sports (INTZ)**
 
 In Brazil, they say eSports? I think so because INTZ won against Flamengo eSports 3:2 in the CBLOL Summer Finals. Their last official international appearance was in Worlds 2016. They have a 14-man roster (like SKT T1 if you know what I mean).
 
 In the top lane, it is Rodrigo “Tay” Panisa. In the jungle, it is Diogo “Shini” Rogê. In the mid lane, it is Bruno “Envy” Farias. In the bot lane, it is Guilherme “Mills” Conti and his support is Ygor “Redbert” Freitas.
 
-**8. LCL’s (Commonwealth of Independent States’) Vega Squadron (VEG)**
+## **8. LCL’s (Commonwealth of Independent States’) Vega Squadron (VEG)**
 
 VEG won in the LCL Summer Finals against Elements Pro Gaming 3:1 to secure their spot in the MSI Play-In stage. This will be their first official international appearance. With the new year, they also overhauled their entire roster.
 
 VEG’s top laner is Vladislav “BOSS” Fomin who last year, was playing for Dragon Army (DA) (a team in the LCL that came 5th in the regular season). Their jungler is Kirill “AHaHaCiK” Skvortsov, also from 2018 DA. VEG’s mid laner is Lev “Nomanz” Yakshin who played for M19 (an LCL team that lost in the semi-finals) last year. Ilya “Gadget” Makavchuk is their bot laner who is from RoX’s (the 6th place LCL team in the regular season) roster last year. Finally, their support is Aleksandr “SaNTaS” Lifashin who is also from 2018 M19.
 
-**9. LLA’s (Latin America’s) Isurus Gaming (ISG)**
+## **9. LLA’s (Latin America’s) Isurus Gaming (ISG)**
 
 LLA’s 2019 Opening Playoff Finals ended in a 3-1 victory for ISG against Rainbow7 (R7). ISG’s previous and only international appearance beforehand was the 2017 Mid Season Invitational.
 
 In the top lane, it is Mateo “Buggax” Aroztegui. In the jungle, it is Sebastián “Oddie” Niño from R7’s 2018 roster. In the mid lane, it is Édgar “Seiya” Bracamontes also from R7 2018. In the bot lane, it is Fabián “Warangelus” Llanos who played for Rebirth eSports (a Chilean team) last year supported by Eduardo “Slow” Garcés from 2018’s Kaos Latin Gamers.
 
-**10. TCL’s (Turkey’s) 1907 Fenerbahçe Esports (FB)**
+## **10. TCL’s (Turkey’s) 1907 Fenerbahçe Esports (FB)**
 
 In the TCL Winter Finals, FB swept SuperMassive eSports (SUP) after their tie with SUP in the regular season standings (both at 16-2). Since their 2017 Worlds run, they have completely changed their roster.
 
 FB’s top laner is Kim “Ruin” Hyeong-min who last year, played for Giants Gaming (a disbanded EULCS team). Their jungler is Thomas “Kirei” Yuen who is from 2018’s Dark Passage (a TCL team who lost in the quarterfinals of Playoffs). FB’s mid laner is Onur “Bolulu” Can Demirol is from Diabolus Esports’ (a team that tried to qualify for European Masters) 2018 roster. Their bot laner is Volkan “Hades” Dinçer who came from last year’s Bursaspor Esports (a team in the TCL). FB’s support is Bahadır “Japone” Çolak who played for YouthCrew Esports (a team from the TCL qualifier) last year.
 
-**11. LJL’s (Japan’s) DetonatioN FocusMe (DFM)**
+## **11. LJL’s (Japan’s) DetonatioN FocusMe (DFM)**
 
 At MSI 2019, they will try to outdo themselves from Worlds 2018 by not only heading to the Best of Five bracket at MSI but also heading to the main tournament. This LJL Spring Finals, DFM swept Unsold Stuff Gaming and punched their ticket to Vietnam.
 
 Shunsuke “Evi” Murase is DFM’s top laner, Moon “Steal” Geon-yeong is their jungler, Kyohei “Ceros” Yoshida is the midlaner and Yuta “Yutapon” Sugiura is their bot laner. The only new addition to their team is their support, Yang “Gaeng” Gwang-yu from 2018’s Pentagram (the LJL team that went MSI last year).
 
-**12. OPL’s (Oceania’s) Bombers (BMR)**
+## **12. OPL’s (Oceania’s) Bombers (BMR)**
 
 Wow, it’s not Dire Wolves! BMR secured their spot at MSI as the OPL representative by sweeping Order in the Split 1 Playoff Finals.
 
 Min “Mimic” Ju-seong is in the top lane and he played for Legacy Esports last year. Choi “BalKhan” Hyun-jin is their jungler and BMR is his debut team. Tommy “ry0ma” Le is BMR’s mid laner and he played for Chiefs Esports Club last year. Victor “FBI” Huang played for ORDER (ORD) last year and is currently BMR’s bot laner. Jake “Rogue” Sharwood is the support and he also played for ORD last year.
 
-**13. LST’s (South East Asia’s) MEGA**
+## **13. LST’s (South East Asia’s) MEGA**
 
 In the LST Spring Finals, MEGA swept Team Empire after just joining the LST this year.
 
@@ -120,9 +120,9 @@ This year, there are super teams which we all want to believe in and have never 
 
 MSI is something you don’t want to miss.
 
-\~ Clarissa “CamelBlink” Tatang (Publications Subcommittee)
+\~ Clarissa “CamelBlink” Tatang (Publications Subcommittee) \~
 
-References:
+#### References:
 
 • “All the teams that have qualified for the 2019 League Mid-Season Invitational”, Adam Newell (21st of April, 2019) accessed on the 22nd of April, 2019. ([https://dotesports.com/news/qualified-teams-2019-lol-msi](https://dotesports.com/news/qualified-teams-2019-lol-msi "https://dotesports.com/news/qualified-teams-2019-lol-msi"))
 
