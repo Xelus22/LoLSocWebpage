@@ -16,6 +16,7 @@ fields:
   name: gallery
   label: GALLERY
 pages:
+- _posts/esports/non-competitive-league-of-legends-league-culture-rotations-and-experimentation.md
 - _posts/events/week-7-lan-party.md
 - _posts/esports/why-you-should-love-league-of-legends-esports.md
 - _posts/newsletters/2019-04-15-unsw-lolsoc-2019-newsletter-trimester-1-edition-3.md
