@@ -39,3 +39,5 @@ How about using Q, W, and E to change a champion’s auto-attacks into the respe
 As a non-competitive player of League, playing game modes outside of Summoners’ Rift Normals is definitely more exciting. Being in Dust IV elo, these game modes somewhat disguises the poor gameplay skills. There is significantly less question pinging or toxic chat-spamming to cause feelings of depression and frustration.
 
 So what are your opinions? Do you think this should be a feature within League or will it destroy too much of League culture? Or is it a good change that allows a greater audience to enjoy League in their own individual way? Our LoLSoc #esports-discussion is open for your opinions and ideas!
+
+\~ Kimberly “RosalineChu” Chan (Publications Subcommittee) \~
