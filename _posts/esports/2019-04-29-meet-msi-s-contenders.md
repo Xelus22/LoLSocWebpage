@@ -12,9 +12,9 @@ MSI is coming up and if you haven’t been keeping up with the regular season of
 
 ## **1. LCK’s (Korea’s) SK Telecom T1 (SKT T1)**
 
-_“If you do your best but still lose at MSI, what will you do?”_
-
-_“I’ll win Worlds!”_
+> _“If you do your best but still lose at MSI, what will you do?”_
+>
+> _“I’ll win Worlds!”_
 
 ![](https://lh4.googleusercontent.com/w_2YA7VvE2G9rF_uRnGGLdreGvHZI9R5rCw39aMwIhrVuyvSAfRXdP_xMoHnO17lIi_EGJ5EeUGURU89-c-_VfKtZTSWg_jEMg2XhentsZTcEdPGfryQ1LyNTK7tx0xw5kDO6zyz =624x324)
 
@@ -26,9 +26,9 @@ With a roster like this, if kkOma decides to put Faker on Taric again, I think l
 
 ## **2. LPL’s (China’s) Invictus Gaming (IG)**
 
-_“There was a famous person who said I’ve been studying our MSI opponents. Actually, I have been doing this for a long time.”_
-
-_“No need for studying, you name it I shoot it.”_
+> _“There was a famous person who said I’ve been studying our MSI opponents. Actually, I have been doing this for a long time.”_
+>
+> _“No need for studying, you name it I shoot it.”_
 
 The LPL’s pride and joy were once the mid game team of EDG and the raise-the-puppy team of RNG who both lost earlier in the Play Off Gauntlet than expected. IG, LPL’s newest champion, does not seem as calculated. Ning is keeping up (EDG) Clearlove’s MSI meme but JackeyLove scoffs and doesn’t see the need. Maybe that’s what makes IG so fun to watch. IG cleanly finished up JDG in the LPL Spring Finals with a 3-0 scoreline claiming their first domestic title in the seven years and a half of their existence.
 
@@ -36,7 +36,7 @@ In the top lane, it is Kang “TheShy” Seung-lok. In the jungle, it is Gao “
 
 ## **3. LEC’s (Europe’s) G2 Esports (G2)**
 
-_“In Europe, our only opponent is Mikyx’s wrists.”_
+> _“In Europe, our only opponent is Mikyx’s wrists.”_
 
 In the LEC Finals, they swept Origen again for the second week in a row. Is it 6-0 in LEC Playoffs or is it 6-0 in a best of eleven with Origen? G2’s return to the top signifies the return of Europe’s domestic kings once upon a time. Similar to SKT T1, they have also built a super team to make their 2018 Worlds Quarterfinal calibre roster even better.
 
@@ -46,9 +46,9 @@ Perkz said it himself. He’s not sure if Europe is really bad or if they’re j
 
 ## **4. LCS’ (North America’s) Team Liquid (TL)**
 
-_“We should come in with the mentality of we’re a big fish.”_
-
-_“Yeah, we are sharks.”_
+> _“We should come in with the mentality of we’re a big fish.”_
+>
+> _“Yeah, we are sharks.”_
 
 ![](https://lh4.googleusercontent.com/41V3h0gdKu5WcYdTpngTIoYsxrGV_6258dLJKY3Lvy5Xib2yn8M8PnVt5nXUOc0skFv69hCJNKkbedaGqJ8D20vRUdSDug-9l6x8XeJahsFRJA7gikVQRUm1kp2SVvwAOm7l_Lql =624x416)
 
@@ -118,10 +118,10 @@ Atit “Rockky” Phaomuang is their top laner and last year, was playing for As
 
 This year, there are super teams which we all want to believe in and have never worked out, old teams that have regained their footing in their region (rest in peace TSM) and teams that are just fun to watch. MSI Play-Ins start on May 1st at 8pm AEST and the Group Stages starts on May 10th at 8pm AEST.
 
-MSI is something you don’t want to miss.
+**MSI is something you don’t want to miss.**
 
 \~ Clarissa “CamelBlink” Tatang (Publications Subcommittee) \~
-
+<br> <br>
 #### References:
 
 • “All the teams that have qualified for the 2019 League Mid-Season Invitational”, Adam Newell (21st of April, 2019) accessed on the 22nd of April, 2019. ([https://dotesports.com/news/qualified-teams-2019-lol-msi](https://dotesports.com/news/qualified-teams-2019-lol-msi "https://dotesports.com/news/qualified-teams-2019-lol-msi"))
