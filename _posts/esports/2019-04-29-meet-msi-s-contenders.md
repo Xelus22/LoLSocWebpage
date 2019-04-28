@@ -16,7 +16,7 @@ MSI is coming up and if you haven’t been keeping up with the regular season of
 >
 > _“I’ll win Worlds!”_
 
-![](https://lh4.googleusercontent.com/w_2YA7VvE2G9rF_uRnGGLdreGvHZI9R5rCw39aMwIhrVuyvSAfRXdP_xMoHnO17lIi_EGJ5EeUGURU89-c-_VfKtZTSWg_jEMg2XhentsZTcEdPGfryQ1LyNTK7tx0xw5kDO6zyz =624x324)
+![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/1-1.png)
 
 After a year with only one international appearance at Rift Rivals, SKT T1 have built a super team and continuing their redemption arc at MSI after winning the Spring LCK Final over Griffin in 3-0 style. There are many horror stories around super teams but maybe SKT T1 will work.
 
@@ -50,7 +50,7 @@ Perkz said it himself. He’s not sure if Europe is really bad or if they’re j
 >
 > _“Yeah, we are sharks.”_
 
-![](https://lh4.googleusercontent.com/41V3h0gdKu5WcYdTpngTIoYsxrGV_6258dLJKY3Lvy5Xib2yn8M8PnVt5nXUOc0skFv69hCJNKkbedaGqJ8D20vRUdSDug-9l6x8XeJahsFRJA7gikVQRUm1kp2SVvwAOm7l_Lql =624x416)
+\\![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/pasted image 0-5.png)
 
 TL have gained yet another chance to get out of groups after last year but now there’s a new barrier before that and it’s called the Play-In Knockout Stage. They won in the LCS Finals by reverse sweeping Team SoloMid (TSM) who reverse swept Cloud9 (C9) beforehand. This third title in a row makes TL the second LCS team to ever three-peat after TSM. To get around last year’s failures but still keep their successes, Steve Arhancet (owner of TL) has decided to invest in players who have been known to not do amazing domestically but do well internationally to counter the NA meme.
 
@@ -122,6 +122,7 @@ This year, there are super teams which we all want to believe in and have never 
 
 \~ Clarissa “CamelBlink” Tatang (Publications Subcommittee) \~
 <br> <br>
+
 #### References:
 
 • “All the teams that have qualified for the 2019 League Mid-Season Invitational”, Adam Newell (21st of April, 2019) accessed on the 22nd of April, 2019. ([https://dotesports.com/news/qualified-teams-2019-lol-msi](https://dotesports.com/news/qualified-teams-2019-lol-msi "https://dotesports.com/news/qualified-teams-2019-lol-msi"))
