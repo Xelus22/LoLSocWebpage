@@ -6,7 +6,10 @@ subtitle: Why does Yuumi have the lowest starting winrate of all-time?
 gallery: []
 
 ---
+
 Yuumi, The Magical Cat, was introduced recently with Patch 9.10. As with all new champions, she received considerable play throughout the elos in the hopes that she would be powerful. However, she has underwhelmed so far, sporting the lowest win rate in the game so far at around 35%, 10% lower than Ryze and Kalista (who both nonetheless hold considerable power in competitive play), as per Lolalytics. Only release Syndra sported a lower win rate at 27% due to her buggy nature, which once cleaned up, was boosted considerably.
+
+![](http://img.webthethao.vn/images/fullsize/2019/Thang%205/15-5/Esports/yuumi-winrate.jpg)
 
 In the case of Yuumi, her predicament appears to be the result of low numbers in her kit overall and her inflexibility. Riot have implemented the former strategy multiple times; rather than risk an overpowered champion on release warping ranked play, an underpowered champ can be released that will have less play due to their non-viable nature and thus not distort the ranked ladder. Buffs would then be implemented over time as was seen with Sylas and Kai’Sa. Riot have already applied a hotfix to Yuumi, a day after her release, buffing her mana regen to combat her high mana costs and various numbers in her kit across the board to grant her greater agency. Time will tell whether these prove sufficient or if further buffs will be employed, though the latter proves more likely based upon previous patch histories on new champions.
 
