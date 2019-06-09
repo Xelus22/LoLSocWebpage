@@ -2,7 +2,9 @@
 layout: post
 title: League of Legends is Now in its Modernist Phase
 subtitle: 'Riot Games is pushing League into a new paradigm of gameplay. '
-gallery: []
+gallery:
+- https://unswlolsoc.github.io/LoLSocWebpage/Picture21.png
+- https://unswlolsoc.github.io/LoLSocWebpage/Picture1-1.png
 
 ---
 It is a universal rule that everything grows and evolves, and League of Legends is no exception to it. From its humble beginnings to 10 year-old birthday, League is nearly indistinguishable from its early days. For 9 years, it has grown larger and more complex through the addition of new champions, items, and more. However, the game has reached a point where these additions can only do so much to keep its playerbase active and exited. Riot has understood that just merely adding these changes is not viable in the long-run, and that League of Legends needs to enter a new paradigm of gameplay to continue to grow.
@@ -11,19 +13,15 @@ This paradigm-shift closely mirrors Modernism in Art – characterised by the se
 
 But what is this gameplay meta-structure? When I use the term ‘meta-structure’, I’m referring to the overarching layers of the player’s gaming experience when they play League of Legends. A mixture of Vodka-Soda and Rum&Coke from UNSW’s Roundhouse has led me to believe that League operates on 7 distinct layers of gameplay:
 
-1\. **You, the Summoner:** The Summoner playing the game.
+1. **You, the Summoner:** The Summoner playing the game.
+2. **Summoner Spells:** Spells which all Summoners themselves pick before the game.
+3. **Champions:** The visuals, stats, and abilities which each Champion uniquely have.
+4. **Gold and Items:** Forms of revenue which Champions generate and can spend on items.
+5. **Movement:** The ability for Summoners to move on the map through their Champion.
+6. **The Map:** The enclosed battlefield in which all Summoners fight on.
+7. **Game Mode:** The set of rules which all Summoners will play according to, regardless of the map.
 
-2\. **Summoner Spells:** Spells which all Summoners themselves pick before the game.
-
-3\. **Champions:** The visuals, stats, and abilities which each Champion uniquely have.
-
-4\. **Gold and Items:** Forms of revenue which Champions generate and can spend on items.
-
-5\. **Movement:** The ability for Summoners to move on the map through their Champion.
-
-6\. **The Map:** The enclosed battlefield in which all Summoners fight on.
-
-7\. **Game Mode:** The set of rules which all Summoners will play according to, regardless of the map.
+![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/Picture1-1.png)
 
 This overarching meta-structure represents the universal rules of any game you will play in League of Legends, and for eight years, has generally remained untouched. However, a recent trend in new champion designs have started to mess around with, and innovate for better or for worse, this traditional structure.
 
