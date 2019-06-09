@@ -21,7 +21,9 @@ But what is this gameplay meta-structure? When I use the term ‘meta-structure�
 6. **The Map:** The enclosed battlefield in which all Summoners fight on.
 7. **Game Mode:** The set of rules which all Summoners will play according to, regardless of the map.
 
-> > > > > > > > > > > >     
+![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/Picture1-1.png)
+
+> League's Gameplay Meta-Structure
 
 This overarching meta-structure represents the universal rules of any game you will play in League of Legends, and for eight years, has generally remained untouched. However, a recent trend in new champion designs have started to mess around with, and innovate for better or for worse, this traditional structure.
 
@@ -38,6 +40,10 @@ Yuumi responds to the Meta-Structure’s Fifth Layer of Movement. Every player i
 While he may not be released, the reworked Mordekaiser opposes the Sixth and Seventh Layer. This is through being able to concurrently change the map and game-mode of the current League game for one specific enemy Summoner. His new Ult, _Realm of Death_, shrinks the map into a small ‘Realm of Death’, and changes the game mode to a traditional 1v1.
 
 Finally, the Qiyana teaser shows her, like the new Mordekaiser, deconstructing the Sixth layer of the map. This champion’s Modernist kit is loaded; her W, _Terrashape_, enchants her weapon from the map elements of river, wall or brush. This synergises with her Q, _Edge of Ixtal/Elemental Wrath_, which has varying effects depending on the previously enchanted element from _Terrashape._ Finally, Her Ult, _Supreme Display of Talent_, creates a shockwave which makes any river, brush, or wall explode. Qiyana is without doubt the most Modernist Champion to date.
+
+![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/Picture21.png)
+
+> The Revolution has Already Come
 
 And there’s no excuse for anyone to say that it’s just a small-time thing. Kled’s two health bar system was released over two years ago, and Champions like Jhin/Rework Graves, Ivern, Ornn, and Xayah/Rakan also have Modernist influences. We are well into this paradigm shift – the days of Zed and Thresh pushing champion boundaries are long gone.
 
