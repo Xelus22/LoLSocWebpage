@@ -35,7 +35,7 @@ Neeko’s chameleon character design contests the Third Layer of Champion Visual
 
 Like Neeko, Sylas serves as a response to the Third Layer, though this time through Champion Abilities. While whole point of having different champions is to have unique abilities, Sylas’ Ult, _Hjack_, allows him to steal the other champions’ ultimates. He has no ultimate for himself, only for others’.
 
-Yuumi responds to the Meta-Structure’s Fifth Layer of Movement. Every player is able to freely and independently move around the map, but Yuumi’s W, _You and Me!_, rescinds the player’s movement commands and instead mimics the ally anchor’s. This odd playstyle initially stunted her winrate, but now pros say that he’s the currently one of the best supports in the game \[[https://www.dexerto.com/league-of-legends/lol-pro-hakuho-explains-why-yuumi-is-so-overpowered-695012](https://www.twitchquotes.com/copypastas/2669 "https://www.twitchquotes.com/copypastas/2669")\].
+Yuumi responds to the Meta-Structure’s Fifth Layer of Movement. Every player is able to freely and independently move around the map, but Yuumi’s W, _You and Me!_, rescinds the player’s movement commands and instead mimics the ally anchor’s. This odd playstyle initially stunted her winrate, but now pros say that he’s the currently one of the [best supports in the game](https://www.dexerto.com/league-of-legends/lol-pro-hakuho-explains-why-yuumi-is-so-overpowered-695012 "Interview with Hakuko").
 
 While he may not be released, the reworked Mordekaiser opposes the Sixth and Seventh Layer. This is through being able to concurrently change the map and game-mode of the current League game for one specific enemy Summoner. His new Ult, _Realm of Death_, shrinks the map into a small ‘Realm of Death’, and changes the game mode to a traditional 1v1.
 
@@ -43,7 +43,7 @@ Finally, the Qiyana teaser shows her, like the new Mordekaiser, deconstructing t
 
 ![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/Picture21.png)
 
-> The Revolution has Already Come
+> The Revolution Has Already Come
 
 And there’s no excuse for anyone to say that it’s just a small-time thing. Kled’s two health bar system was released over two years ago, and Champions like Jhin/Rework Graves, Ivern, Ornn, and Xayah/Rakan also have Modernist influences. We are well into this paradigm shift – the days of Zed and Thresh pushing champion boundaries are long gone.
 
