@@ -54,4 +54,4 @@ But does that really mean that League is in the middle of a Modernist phase? Or 
 For now, all we know is that as long as League continues to exist, there are infinite possibilities to explore. But for the time being, it seems that Meteos is [ready to join the Design Team](https://clips.twitch.tv/MagnificentPluckyCucumberFrankerZ "https://clips.twitch.tv/MagnificentPluckyCucumberFrankerZ").
 
 For more on Modernism in videogames, below is the only good Game Theory video ever made.   
-[https://www.youtube.com/watch?v=gxzKZdTxNp8](https://clips.twitch.tv/MagnificentPluckyCucumberFrankerZ "https://clips.twitch.tv/MagnificentPluckyCucumberFrankerZ")
+[https://www.youtube.com/watch?v=gxzKZdTxNp8](https://www.youtube.com/watch?v=gxzKZdTxNp8 "https://clips.twitch.tv/MagnificentPluckyCucumberFrankerZ")
