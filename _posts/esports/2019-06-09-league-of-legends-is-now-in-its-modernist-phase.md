@@ -21,7 +21,7 @@ But what is this gameplay meta-structure? When I use the term â€˜meta-structureâ
 6. **The Map:** The enclosed battlefield in which all Summoners fight on.
 7. **Game Mode:** The set of rules which all Summoners will play according to, regardless of the map.
 
-![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/Picture1-1.png)
+> > > > > > > > > > > >     
 
 This overarching meta-structure represents the universal rules of any game you will play in League of Legends, and for eight years, has generally remained untouched. However, a recent trend in new champion designs have started to mess around with, and innovate for better or for worse, this traditional structure.
 
