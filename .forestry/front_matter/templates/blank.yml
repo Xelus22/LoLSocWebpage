@@ -16,6 +16,7 @@ fields:
   name: gallery
   label: GALLERY
 pages:
+- _posts/esports/unsw-lolsoc-rumble-2019-players-to-watch-semifinals-edition.md
 - _posts/esports/2019-06-09-league-of-legends-is-now-in-its-modernist-phase.md
 - _posts/esports/yuumean-she-s-not-an-actual-champion-why-the-magical-cat-is-sitting-at-35-win-rate.md
 - _posts/esports/non-competitive-league-of-legends-league-culture-rotations-and-experimentation.md
