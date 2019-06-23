@@ -16,7 +16,7 @@ We concluded the Quarter-Finals this Saturday evening with some very fun games t
 
 Here are the results of yesterday’s games:
 
-
+![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/Capture.PNG)
 
 _TTEAGU3 - Sean And Friends_ continue to the Semi-Finals - though due to an unfortunate disqualification - alongside _Kenzo’s Goons_, _Meow!_ and _Bike Lock Bandits_.
 
@@ -90,8 +90,9 @@ The only reason _Lady Gaga Fan_ doesn't occupy a top spot in this list is becaus
 
 ##### _- The Enchantress -_
 
-With a constant time pressure of the looming terror that is her internet being cut, Sa5mmy played a variety of Enchanter supports in the Group Stage and quarter-finals to blitz her way to the Semis, all before 11pm daily. Her champion pool is perfectly suited to allow _Meow!’s_ talented ADC _Hayeselnut_ to go crazy. The rest of the team has immense faith in Sa5mmy’s ability to keep them alive as they go for dangerously close plays. Most importantly, her vision control allows her jungler _mesomesomeso_ to have intense objective pressure. The legends say that we could one day see her on a play-making support… scary stuff. 
+With a constant time pressure of the looming terror that is her internet being cut, Sa5mmy played a variety of Enchanter supports in the Group Stage and quarter-finals to blitz her way to the Semis, all before 11pm daily. Her champion pool is perfectly suited to allow _Meow!’s_ talented ADC _Hayeselnut_ to go crazy. The rest of the team has immense faith in Sa5mmy’s ability to keep them alive as they go for dangerously close plays. Most importantly, her vision control allows her jungler _mesomesomeso_ to have intense objective pressure. The legends say that we could one day see her on a play-making support… scary stuff.
 <br><br>
+
 #### _cso67_
 
 ##### _- The Coinflip Player -_
@@ -99,8 +100,8 @@ With a constant time pressure of the looming terror that is her internet being c
 _cso67_ is a coinflip player who lands on heads 99% of the time. He can be your angel, with wonderful 1v9 plays on a plethora of champions and styles, or your demon, with a 3/8 Ryze enabling an enemy Darius to nearly take over the game. His Ryze is bad, his Jayce is worse, you guessed it right, it's the _cso67 curse_. However, he’s the man you call on when you need a game to be carried. Ya boi is always on top of the meta and general powerpicks, boasting proficiency on the likes of Neeko, Aatrox, Jax, Vladmir, Urgot, and much more. The fun comes in hoping that the coinflip is in your favour.
 
 If, like me, you’re a cso67 fan, be sure to check out a disstrack we made about him:  
-[https://www.youtube.com/watch?v=HTKHJcP8w7c](https://www.youtube.com/watch?v=HTKHJcP8w7c "https://www.youtube.com/watch?v=HTKHJcP8w7c") 
-<br> <br> 
+[https://www.youtube.com/watch?v=HTKHJcP8w7c](https://www.youtube.com/watch?v=HTKHJcP8w7c "https://www.youtube.com/watch?v=HTKHJcP8w7c")
+<br> <br>
 
 So there you have it, the players with the most popoff potential in the semi-finals. There is a multitude of talent in this year's UNSW Rumble that has been knocked out or yet to prove themselves, and we couldn’t fit them all into one article. Make sure to tune in to [https://www.twitch.tv/thedonwu](https://www.youtube.com/watch?v=HTKHJcP8w7c "https://www.youtube.com/watch?v=HTKHJcP8w7c") tonight and next weekend to see the remainder of the playoff bracket!
 <br><br>
