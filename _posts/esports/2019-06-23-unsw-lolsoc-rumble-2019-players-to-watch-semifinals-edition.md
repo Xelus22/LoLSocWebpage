@@ -5,31 +5,35 @@ subtitle: Players you should be keeping your eyes on for the rest of the playoff
 gallery: []
 
 ---
-We concluded the Quarter-Finals this Saturday evening with some very fun games to spectate! A strong mix of controlled macro play, with sprinkles of relentless bloodbaths going back and forth, was a perfect recipe for what we love about Rumble.  
-  
- Here are the results of yesterday’s games:
+We concluded the Quarter-Finals this Saturday evening with some very fun games to spectate! A strong mix of controlled macro play, with sprinkles of relentless bloodbaths going back and forth, was a perfect recipe for what we love about Rumble.
+
+Here are the results of yesterday’s games:
 
 ![](https://lh6.googleusercontent.com/Y2jk-WXTOWBSPYdkDjDoSTsh9EiksP2_gkP3QCHOyW2IrL_O_4jey5497UmCok9eMle0VRra6qpBd8ig2N4preQ774uh5IbD1ci-AUdTKWnecW2dkFFKPuzMh-kO0UOZRXAry4YB =162x100)
 
 _TTEAGU3 - Sean And Friends_ continue to the Semi-Finals - though due to an unfortunate disqualification - alongside _Kenzo’s Goons_, _Meow!_ and _Bike Lock Bandits_.
 
 To celebrate the Semi Finals, we are showcasing our top players from each role that you should keep an eye on in the rest of their playoff run!
+<br>
 
 ## **Toplane**
 
-_TTEAGU3 - Kenzo’s Goons: **Stabable**_
+#### _TTEAGU3 - Kenzo’s Goons: **Stabable**_
 
-_- Toplane Kingdom -_
+##### _- Toplane Kingdom -_
 
 ![](https://lh3.googleusercontent.com/RkH4QcfH33EZZtDVMsaVUucqosUt7XoyvDb0C-S6Hw_6FZLxJ-QkYcBnELOzn3_bXjZu6pHGqun6qtX3-Lrais-ZGRA8UTJQgNbQmFJmgqTe7Oq6OBrgxCL_RAsEFi3qp4aW6Zc8 =164x164)
 
 When _Stabable_ solokills the enemy toplaner at the three-minute mark, you know it’s because of top difference. Whether he’s landing clutch five-man Gnar Ults or gunning noobs down on Urgot, this player hasn’t had a single low point this entire tournament. He’s very consistent - consistently the scariest toplaner who will win lane no matter what. Yet, perhaps what’s even more frightening is that we haven’t even seen his full potential. His Urgot and Gnar powerpicks clearly fill out the carry and tank duality of toplane, but don’t think for a second that’s all he has in store. Watch out.
+<br>
+
 
 **Jungle**
+-
 
-_Meow!: mesomesomeso_
+#### _Meow!: mesomesomeso_
 
-_- The Team Player -_
+##### _- The Team Player -_
 
 ![](https://lh6.googleusercontent.com/x56-_3pwXsd3jToGyqenSTk70qw6ja6TD6qRIC8UAk1_0jRFbBTApYRZ8pu3Pa3TJRnqdnIBcOrTRVeYG8neqbs8GvobKRq5Y4CMsbOOgDEL7uQdcxDAJ7JW8S09cs9stjTwY7Ie =164x164)
 
@@ -90,7 +94,7 @@ If, like me, you’re a cso67 fan, be sure to check out a disstrack we made abou
 
 So there you have it, the players with the most popoff potential in the Semi Finals. There is a multitude of talent in UNSW Rumble that has been knocked out or yet to prove themselves, and we couldn’t fit them all into one article. Make sure to tune in to [https://www.twitch.tv/thedonwu](https://www.youtube.com/watch?v=HTKHJcP8w7c "https://www.youtube.com/watch?v=HTKHJcP8w7c") tonight and next weekend to see the remainder of the playoff bracket!
 
-By Kenzo “cso69’ Jeanson \[Publications Director\]   
+By Kenzo “cso69’ Jeanson \[Publications Director\]  
 & Adam “cso89” Felah \[Publications Subcom\]
 
 Special Thanks to Kelvin “Pokefans” Chow for further analysis and high-elo criticism.
