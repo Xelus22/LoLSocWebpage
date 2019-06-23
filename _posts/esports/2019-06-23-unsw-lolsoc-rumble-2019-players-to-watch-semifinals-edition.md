@@ -5,10 +5,6 @@ subtitle: Players you should be keeping your eyes on for the rest of the playoff
 gallery: []
 
 ---
-**UNSW LoLSoc Rumble 2019**
-
-_Players to Watch \[Semi-Finals Edition\]_
-
 We concluded the Quarter-Finals this Saturday evening with some very fun games to spectate! A strong mix of controlled macro play, with sprinkles of relentless bloodbaths going back and forth, was a perfect recipe for what we love about Rumble.  
   
  Here are the results of yesterday’s games:
@@ -19,9 +15,9 @@ _TTEAGU3 - Sean And Friends_ continue to the Semi-Finals - though due to an unfo
 
 To celebrate the Semi Finals, we are showcasing our top players from each role that you should keep an eye on in the rest of their playoff run!
 
-**Top**
+## **Toplane**
 
-_TTEAGU3 - Kenzo’s Goons: Stabable_
+_TTEAGU3 - Kenzo’s Goons: **Stabable**_
 
 _- Toplane Kingdom -_
 
