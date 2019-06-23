@@ -123,4 +123,4 @@ So there you have it, the players with the most popoff potential in the semi-fin
 By Kenzo “cso69’ Jeanson \[Publications Director\]  
 & Adam “cso89” Felah \[Publications Subcom\]
 
-Special Thanks to Kelvin “Pokefans” Chow for further analysis and high-elo criticism.
+Special Thanks to Kelvin “Pokefans” Chow for further analysis and high-elo criticism and to TheDonwu for proving videos!!
