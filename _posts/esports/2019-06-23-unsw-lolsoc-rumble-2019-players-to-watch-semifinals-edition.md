@@ -3,6 +3,7 @@ layout: post
 title: 'UNSW LoLSoc Rumble 2019: Players to Watch [Semifinals Edition]'
 subtitle: Players you should be keeping your eyes on for the rest of the playoffs!
 gallery:
+- https://unswlolsoc.github.io/LoLSocWebpage/Capture.PNG
 - https://unswlolsoc.github.io/LoLSocWebpage/1-3.png
 - https://unswlolsoc.github.io/LoLSocWebpage/pasted image 0-6.png
 - https://unswlolsoc.github.io/LoLSocWebpage/pasted image 0 (3)-1.png
@@ -15,7 +16,7 @@ We concluded the Quarter-Finals this Saturday evening with some very fun games t
 
 Here are the results of yesterday’s games:
 
-![](https://lh6.googleusercontent.com/Y2jk-WXTOWBSPYdkDjDoSTsh9EiksP2_gkP3QCHOyW2IrL_O_4jey5497UmCok9eMle0VRra6qpBd8ig2N4preQ774uh5IbD1ci-AUdTKWnecW2dkFFKPuzMh-kO0UOZRXAry4YB =162x100)
+
 
 _TTEAGU3 - Sean And Friends_ continue to the Semi-Finals - though due to an unfortunate disqualification - alongside _Kenzo’s Goons_, _Meow!_ and _Bike Lock Bandits_.
 
