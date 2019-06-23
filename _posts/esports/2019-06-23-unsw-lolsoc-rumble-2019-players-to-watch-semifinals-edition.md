@@ -83,8 +83,7 @@ The only reason _Lady Gaga Fan_ doesn't occupy a top spot in this list is becaus
 
 ##### _- The Enchantress -_
 
-With a constant time pressure of the looming terror that is her internet being cut, Sa5mmy played a variety of Enchanter supports in the Group Stage and Quarter Finals to blitz her way to the Semis, all before 11pm daily. Her champion pool is perfectly suited to allow _MEOW!’s_ superstar Marksman to go crazy. The rest of the team has immense faith in Sa5mmy’s ability to keep them alive as they go for dangerously close plays. Most importantly, her vision control allows her jungler to have intense objective pressure. The legends say that we could one day see her on a play-making support… scary stuff.
-<br>
+With a constant time pressure of the looming terror that is her internet being cut, Sa5mmy played a variety of Enchanter supports in the Group Stage and quarter-finals to blitz her way to the Semis, all before 11pm daily. Her champion pool is perfectly suited to allow _Meow!’s_ talented ADC _Hayeselnut_ to go crazy. The rest of the team has immense faith in Sa5mmy’s ability to keep them alive as they go for dangerously close plays. Most importantly, her vision control allows her jungler _mesomesomeso_ to have intense objective pressure. The legends say that we could one day see her on a play-making support… scary stuff. <br>
 
 #### _cso67_
 
