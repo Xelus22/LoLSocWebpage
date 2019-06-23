@@ -3,6 +3,7 @@ layout: post
 title: 'UNSW LoLSoc Rumble 2019: Players to Watch [Semifinals Edition]'
 subtitle: Players you should be keeping your eyes on for the rest of the playoffs!
 gallery:
+- https://unswlolsoc.github.io/LoLSocWebpage/1-3.png
 - https://unswlolsoc.github.io/LoLSocWebpage/pasted image 0-6.png
 - https://unswlolsoc.github.io/LoLSocWebpage/pasted image 0 (3)-1.png
 - https://unswlolsoc.github.io/LoLSocWebpage/pasted image 0 (2)-1.png
@@ -38,7 +39,7 @@ When _Stabable_ solokills the enemy toplaner at the three-minute mark, you know 
 
 ##### _- The Team Player -_
 
-![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/1-2.png)
+![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/1-3.png)
 
 Playing Nunu Nunu Nunu, _mesomesomeso_ took over the quarter-finals with his amazing teamplay. Playing both sides of the Sejuani vs Nunu matchup in the series, as well as both of those champions in all his Group Stage games, 3meso showed his exquisite knowledge of jungle routes and tank mechanics. He expertly camped the volatile Renekton-Jax toplane matchup in Game 1 and secured every dragon on the dot. In Game 2, he _snowballed_ his team with constant map pressure on the Nunu & Willump. With unbelievable micro and prominent map presence, you can expect 3meso to make his enemies’ _Blood Boil_ as he _Consumes_ their chances of winning the Semis to _Absolute Zero._
 <br><br>
