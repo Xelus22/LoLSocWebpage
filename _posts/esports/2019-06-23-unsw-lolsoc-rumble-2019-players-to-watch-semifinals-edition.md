@@ -83,14 +83,14 @@ _Taliyah_ is rock-solid like Malphite. He’s the type of guy who will pretend t
 ##### _- Legendary Handsome Superstar Mechanically-Talented Einstein-Level Genius Innovator ADC -_
 
 The only reason _Lady Gaga Fan_ doesn't occupy a top spot in this list is because he hasn’t been able to prove it. _Hayeselnut_ has been the focal point of _Meow!_ in every game they’ve played; reminiscent of the way which RNG play around Uzi. However, _Kenzo’s Goons_ has a more all-rounder roster, so _Lady Gaga Fan_ hasn’t been able to generate the respect and prestige that Hayesulnut has accrued. Yet, his 16 KDA - second to only _Gryffindor_ - shows that there’s no smut on his reputation.
-<br>
+<br><br>
 
 #### _Sa5mmy_
 
 ##### _- The Enchantress -_
 
-With a constant time pressure of the looming terror that is her internet being cut, Sa5mmy played a variety of Enchanter supports in the Group Stage and quarter-finals to blitz her way to the Semis, all before 11pm daily. Her champion pool is perfectly suited to allow _Meow!’s_ talented ADC _Hayeselnut_ to go crazy. The rest of the team has immense faith in Sa5mmy’s ability to keep them alive as they go for dangerously close plays. Most importantly, her vision control allows her jungler _mesomesomeso_ to have intense objective pressure. The legends say that we could one day see her on a play-making support… scary stuff. <br>
-
+With a constant time pressure of the looming terror that is her internet being cut, Sa5mmy played a variety of Enchanter supports in the Group Stage and quarter-finals to blitz her way to the Semis, all before 11pm daily. Her champion pool is perfectly suited to allow _Meow!’s_ talented ADC _Hayeselnut_ to go crazy. The rest of the team has immense faith in Sa5mmy’s ability to keep them alive as they go for dangerously close plays. Most importantly, her vision control allows her jungler _mesomesomeso_ to have intense objective pressure. The legends say that we could one day see her on a play-making support… scary stuff. 
+<br><br>
 #### _cso67_
 
 ##### _- The Coinflip Player -_
@@ -99,7 +99,6 @@ _cso67_ is a coinflip player who lands on heads 99% of the time. He can be your 
 
 If, like me, you’re a cso67 fan, be sure to check out a disstrack we made about him:  
 [https://www.youtube.com/watch?v=HTKHJcP8w7c](https://www.youtube.com/watch?v=HTKHJcP8w7c "https://www.youtube.com/watch?v=HTKHJcP8w7c") 
-
 <br> <br> 
 
 So there you have it, the players with the most popoff potential in the semi-finals. There is a multitude of talent in this year's UNSW Rumble that has been knocked out or yet to prove themselves, and we couldn’t fit them all into one article. Make sure to tune in to [https://www.twitch.tv/thedonwu](https://www.youtube.com/watch?v=HTKHJcP8w7c "https://www.youtube.com/watch?v=HTKHJcP8w7c") tonight and next weekend to see the remainder of the playoff bracket!
