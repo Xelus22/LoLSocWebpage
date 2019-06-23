@@ -35,7 +35,7 @@ When _Stabable_ solokills the enemy toplaner at the three-minute mark, you know 
 
 Check out a sick Urgot 1v4 he did yesterday:
 
-<iframe src="https://clips.twitch.tv/embed?clip=SpineyMuddyGerbilAMPTropPunch" frameborder="0" allowfullscreen="true" height="378" width="620"></iframe>
+<iframe src="https://clips.twitch.tv/embed?clip=SpineyMuddyGerbilAMPTropPunch&!autoplay" frameborder="0" allowfullscreen="true" height="378" width="620"></iframe>
 
 <br><br>
 
@@ -50,7 +50,7 @@ Check out a sick Urgot 1v4 he did yesterday:
 Playing Nunu Nunu Nunu, _mesomesomeso_ took over the quarter-finals with his amazing teamplay. Playing both sides of the Sejuani vs Nunu matchup in the series, as well as both of those champions in all his Group Stage games, 3meso showed his exquisite knowledge of jungle routes and tank mechanics. He expertly camped the volatile Renekton-Jax toplane matchup in Game 1 and secured every dragon on the dot. In Game 2, he _snowballed_ his team with constant map pressure on the Nunu & Willump. With unbelievable micro and prominent map presence, you can expect 3meso to make his enemies’ _Blood Boil_ as he _Consumes_ their chances of winning the Semis to _Absolute Zero._
 
 Check out some intelligent teamfighting from yesterday's quarter-finals game:
-<iframe src="https://clips.twitch.tv/embed?clip=FriendlyNastyConsoleAMPTropPunch" frameborder="0" allowfullscreen="true" height="378" width="620"></iframe>
+<iframe src="https://clips.twitch.tv/embed?clip=FriendlyNastyConsoleAMPTropPunch&!autoplay" frameborder="0" allowfullscreen="true" height="378" width="620"></iframe>
 
 <br><br>
 
@@ -65,7 +65,7 @@ Check out some intelligent teamfighting from yesterday's quarter-finals game:
 I once vsed _Gryffindor_ in another League tournament. We banned four of his champions, and he returned the favour with a classic 1v9, whilst piloting a disgustingly fed 10/2/11 Vladmir. You can’t ban this man out - he has a champion ocean. Nobody doubted that Rumble’s greatest import would land a spot on this list, and the man of the hour knows this better than anyone else. Yet, even with a 17 KDA in group stage - that being the highest - he keeps a low profile. This player isn’t the type to flame after dumpstering you, because you already know that you’re trash. It’s always exciting to think about what he will pull out next. <br><br>
 
 Check out a clean turnaround solokill which Gryff pulled off yesterday:
-<iframe src="https://clips.twitch.tv/embed?clip=SmilingTrappedSnailPogChamp" frameborder="0" allowfullscreen="true" height="378" width="620"></iframe>
+<iframe src="https://clips.twitch.tv/embed?clip=SmilingTrappedSnailPogChamp&!autoplay" frameborder="0" allowfullscreen="true" height="378" width="620"></iframe>
 
 ## **Adc**
 
