@@ -33,7 +33,6 @@ To celebrate the Semi Finals, we are showcasing our top players from each role t
 
 When _Stabable_ solokills the enemy toplaner at the three-minute mark, you know it’s because of top difference. Whether he’s landing clutch five-man Gnar Ults or gunning noobs down on Urgot, this player hasn’t had a single low point this entire tournament. He’s very consistent - consistently the scariest toplaner who will win lane no matter what. Yet, perhaps what’s even more frightening is that we haven’t even seen his full potential. His Urgot and Gnar powerpicks clearly fill out the carry and tank duality of toplane, but don’t think for a second that’s all he has in store. Watch out.
 
-
 Check out a sick Urgot 1v4 he did yesterday:
 
 [https://clips.twitch.tv/SpineyMuddyGerbilAMPTropPunch](https://clips.twitch.tv/SpineyMuddyGerbilAMPTropPunch "https://clips.twitch.tv/SpineyMuddyGerbilAMPTropPunch")
@@ -60,6 +59,10 @@ Playing Nunu Nunu Nunu, _mesomesomeso_ took over the quarter-finals with his ama
 ![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/pasted image 0 (1)-1.png)
 
 I once vsed _Gryffindor_ in another League tournament. We banned four of his champions, and he returned the favour with a classic 1v9, whilst piloting a disgustingly fed 10/2/11 Vladmir. You can’t ban this man out - he has a champion ocean. Nobody doubted that Rumble’s greatest import would land a spot on this list, and the man of the hour knows this better than anyone else. Yet, even with a 17 KDA in group stage - that being the highest - he keeps a low profile. This player isn’t the type to flame after dumpstering you, because you already know that you’re trash. It’s always exciting to think about what he will pull out next. <br><br>
+
+Check out a clean turnaround solokill which Gryff pulled off yesterday:
+
+[https://clips.twitch.tv/SmilingTrappedSnailPogChamp](https://clips.twitch.tv/SmilingTrappedSnailPogChamp "https://clips.twitch.tv/SmilingTrappedSnailPogChamp")
 
 ## **Adc**
 
