@@ -32,6 +32,12 @@ To celebrate the Semi Finals, we are showcasing our top players from each role t
 ![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/pasted image 0-6.png)
 
 When _Stabable_ solokills the enemy toplaner at the three-minute mark, you know it’s because of top difference. Whether he’s landing clutch five-man Gnar Ults or gunning noobs down on Urgot, this player hasn’t had a single low point this entire tournament. He’s very consistent - consistently the scariest toplaner who will win lane no matter what. Yet, perhaps what’s even more frightening is that we haven’t even seen his full potential. His Urgot and Gnar powerpicks clearly fill out the carry and tank duality of toplane, but don’t think for a second that’s all he has in store. Watch out.
+
+
+Check out a sick Urgot 1v4 he did yesterday:
+
+[https://clips.twitch.tv/SpineyMuddyGerbilAMPTropPunch](https://clips.twitch.tv/SpineyMuddyGerbilAMPTropPunch "https://clips.twitch.tv/SpineyMuddyGerbilAMPTropPunch")
+
 <br><br>
 
 ## **Jungle**
