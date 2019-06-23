@@ -51,7 +51,7 @@ Playing Nunu Nunu Nunu, _mesomesomeso_ took over the quarter-finals with his ama
 
 Check out some intelligent teamfighting from yesterday's quarter-finals game:
 
-[https://clips.twitch.tv/FriendlyNastyConsoleAMPTropPunch](https://clips.twitch.tv/FriendlyNastyConsoleAMPTropPunch "https://clips.twitch.tv/FriendlyNastyConsoleAMPTropPunch")
+<iframe src="https://clips.twitch.tv/embed?clip=SmilingTrappedSnailPogChamp" frameborder="0" allowfullscreen="true" height="378" width="620"></iframe>
 
 <br><br>
 
