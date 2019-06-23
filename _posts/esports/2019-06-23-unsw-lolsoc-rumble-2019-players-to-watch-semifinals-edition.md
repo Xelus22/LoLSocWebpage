@@ -76,6 +76,9 @@ Check out a clean turnaround solokill which Gryff pulled off yesterday:
 ![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/pasted image 0 (2)-1.png)
 
 The deathless Marksman from the quarter-finals - _Hayeselnut_ - popped off on his double Tristana pick. Going 5/0/8 and 10/0/5 in Game 1 and 2 respectively, _Hayeselnut_ came in huge for his team. Aggressively using _Rocket Jump_ to slow his enemies and wail on them till they succumbed to his _Rapid Fire_, he racked up kills after kills and somehow stayed alive with a clear disregard for his own safety. Expect him to do more of the same aggressive style of front-line ADC in the semi-finals - I’m definitely excited for that!
+
+Hayeselnut is a ballsy fellow who knows he will carry, check out one of those plays he did yesterday:
+<iframe src="https://clips.twitch.tv/embed?clip=CrazyCreativeStapleRitzMitz" frameborder="0" allowfullscreen="true" height="378" width="620"></iframe>
 <br><br>
 
 ## **Support**
