@@ -92,9 +92,11 @@ With a constant time pressure of the looming terror that is her internet being c
 _cso67_ is a coinflip player who lands on heads 99% of the time. He can be your angel, with wonderful 1v9 plays on a plethora of champions and styles, or your demon, with a 3/8 Ryze enabling an enemy Darius to nearly take over the game. His Ryze is bad, his Jayce is worse, you guessed it right, it's the _cso67 curse_. However, he’s the man you call on when you need a game to be carried. Ya boi is always on top of the meta and general powerpicks, boasting proficiency on the likes of Neeko, Aatrox, Jax, Vladmir, Urgot, and much more. The fun comes in hoping that the coinflip is in your favour.
 
 If, like me, you’re a cso67 fan, be sure to check out a disstrack we made about him:  
-[https://www.youtube.com/watch?v=HTKHJcP8w7c](https://www.youtube.com/watch?v=HTKHJcP8w7c "https://www.youtube.com/watch?v=HTKHJcP8w7c")
+[https://www.youtube.com/watch?v=HTKHJcP8w7c](https://www.youtube.com/watch?v=HTKHJcP8w7c "https://www.youtube.com/watch?v=HTKHJcP8w7c") 
 
-So there you have it, the players with the most popoff potential in the Semi Finals. There is a multitude of talent in UNSW Rumble that has been knocked out or yet to prove themselves, and we couldn’t fit them all into one article. Make sure to tune in to [https://www.twitch.tv/thedonwu](https://www.youtube.com/watch?v=HTKHJcP8w7c "https://www.youtube.com/watch?v=HTKHJcP8w7c") tonight and next weekend to see the remainder of the playoff bracket!
+<br> <br> 
+
+So there you have it, the players with the most popoff potential in the semi-finals. There is a multitude of talent in this year's UNSW Rumble that has been knocked out or yet to prove themselves, and we couldn’t fit them all into one article. Make sure to tune in to [https://www.twitch.tv/thedonwu](https://www.youtube.com/watch?v=HTKHJcP8w7c "https://www.youtube.com/watch?v=HTKHJcP8w7c") tonight and next weekend to see the remainder of the playoff bracket!
 <br><br>
 By Kenzo “cso69’ Jeanson \[Publications Director\]  
 & Adam “cso89” Felah \[Publications Subcom\]
