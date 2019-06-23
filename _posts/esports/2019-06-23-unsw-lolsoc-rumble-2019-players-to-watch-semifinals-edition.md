@@ -37,7 +37,7 @@ When _Stabable_ solokills the enemy toplaner at the three-minute mark, you know 
 
 ![](https://lh6.googleusercontent.com/x56-_3pwXsd3jToGyqenSTk70qw6ja6TD6qRIC8UAk1_0jRFbBTApYRZ8pu3Pa3TJRnqdnIBcOrTRVeYG8neqbs8GvobKRq5Y4CMsbOOgDEL7uQdcxDAJ7JW8S09cs9stjTwY7Ie =164x164)
 
-Playing Nunu Nunu Nunu, _mesomesomes_o took over the quarter-finals with his amazing teamplay. Playing both sides of the Sejuani vs Nunu matchup in the series, as well as both of those champions in all his Group Stage games, 3meso showed his exquisite knowledge of jungle routes and tank mechanics. He expertly camped the volatile Renekton-Jax toplane matchup in Game 1 and secured every dragon on the dot. In Game 2, he _snowballed_ his team with constant map pressure on the Nunu & Willump. With unbelievable micro and prominent map presence, you can expect 3meso to make his enemies’ _Blood Boil_ as he _Consumes_ their chances of winning the Semis to _Absolute Zero._
+Playing Nunu Nunu Nunu, _mesomesomeso_ took over the quarter-finals with his amazing teamplay. Playing both sides of the Sejuani vs Nunu matchup in the series, as well as both of those champions in all his Group Stage games, 3meso showed his exquisite knowledge of jungle routes and tank mechanics. He expertly camped the volatile Renekton-Jax toplane matchup in Game 1 and secured every dragon on the dot. In Game 2, he _snowballed_ his team with constant map pressure on the Nunu & Willump. With unbelievable micro and prominent map presence, you can expect 3meso to make his enemies’ _Blood Boil_ as he _Consumes_ their chances of winning the Semis to _Absolute Zero._
 
 **Mid**
 
