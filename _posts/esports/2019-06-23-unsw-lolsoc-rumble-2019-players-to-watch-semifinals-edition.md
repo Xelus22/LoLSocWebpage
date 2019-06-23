@@ -12,7 +12,7 @@ gallery:
 - https://unswlolsoc.github.io/LoLSocWebpage/1-2.png
 
 ---
-We concluded the Quarter-Finals this Saturday evening with some very fun games to spectate! A strong mix of controlled macro play, with sprinkles of relentless bloodbaths going back and forth, was a perfect recipe for what we love about Rumble.
+We concluded the quarter-finals this Saturday evening with some very fun games to spectate! A strong mix of controlled macro play, with sprinkles of relentless bloodbaths going back and forth, was a perfect recipe for what we love about Rumble.
 
 Here are the results of yesterday’s games:
 
