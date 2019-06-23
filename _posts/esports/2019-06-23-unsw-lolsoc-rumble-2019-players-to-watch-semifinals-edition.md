@@ -46,7 +46,7 @@ Playing Nunu Nunu Nunu, _mesomesomeso_ took over the quarter-finals with his ama
 
 _![](https://lh3.googleusercontent.com/quMF5WdnVoYqurTIxMRLsOc-e16nsz1jiVAIyBIF13ipwwGi0HE7jkOlFQL5PTcK1Kuie0gUIyclKqLKnhmxxImFxDVc2Q5ZnDYpInKdam16f2jZjpfRuGV4mqcApGkaRmrvBiI5 =164x164)_
 
-I once vsed _Gryffindor_ in another League tournament. We banned four of his champions, and he returned the favour with a classic 1v9, whilst piloting a disgustingly fed 10/2/11 Vladmir. You can’t ban this man out - he has a champion ocean. Nobody doubted that Rumble’s greatest import would land a spot on this list, and the man of the hour knows this more than anyone else. Yet, even a 17 KDA in group stage - that being the highest - he keeps a low profile. This player isn’t the type to flame after dumpstering you, because you already know that you’re trash. It’s always exciting to think about what he will pull out next. <br><br>
+I once vsed _Gryffindor_ in another League tournament. We banned four of his champions, and he returned the favour with a classic 1v9, whilst piloting a disgustingly fed 10/2/11 Vladmir. You can’t ban this man out - he has a champion ocean. Nobody doubted that Rumble’s greatest import would land a spot on this list, and the man of the hour knows this better than anyone else. Yet, even with a 17 KDA in group stage - that being the highest - he keeps a low profile. This player isn’t the type to flame after dumpstering you, because you already know that you’re trash. It’s always exciting to think about what he will pull out next. <br><br>
 
 ## **Adc**
 
