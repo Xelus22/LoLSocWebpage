@@ -48,6 +48,11 @@ Check out a sick Urgot 1v4 he did yesterday:
 ![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/1-3.png)
 
 Playing Nunu Nunu Nunu, _mesomesomeso_ took over the quarter-finals with his amazing teamplay. Playing both sides of the Sejuani vs Nunu matchup in the series, as well as both of those champions in all his Group Stage games, 3meso showed his exquisite knowledge of jungle routes and tank mechanics. He expertly camped the volatile Renekton-Jax toplane matchup in Game 1 and secured every dragon on the dot. In Game 2, he _snowballed_ his team with constant map pressure on the Nunu & Willump. With unbelievable micro and prominent map presence, you can expect 3meso to make his enemies’ _Blood Boil_ as he _Consumes_ their chances of winning the Semis to _Absolute Zero._
+
+Check out some intelligent teamfighting from yesterday's quarter-finals game:
+
+[https://clips.twitch.tv/FriendlyNastyConsoleAMPTropPunch](https://clips.twitch.tv/FriendlyNastyConsoleAMPTropPunch "https://clips.twitch.tv/FriendlyNastyConsoleAMPTropPunch")
+
 <br><br>
 
 ## **Mid**
