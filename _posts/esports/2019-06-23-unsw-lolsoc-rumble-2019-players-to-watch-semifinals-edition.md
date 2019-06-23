@@ -35,7 +35,7 @@ When _Stabable_ solokills the enemy toplaner at the three-minute mark, you know 
 
 Check out a sick Urgot 1v4 he did yesterday:
 
-[https://clips.twitch.tv/SpineyMuddyGerbilAMPTropPunch](https://clips.twitch.tv/SpineyMuddyGerbilAMPTropPunch "https://clips.twitch.tv/SpineyMuddyGerbilAMPTropPunch")
+<iframe src="https://clips.twitch.tv/embed?clip=SpineyMuddyGerbilAMPTropPunch" frameborder="0" allowfullscreen="true" height="378" width="620"></iframe>
 
 <br><br>
 
