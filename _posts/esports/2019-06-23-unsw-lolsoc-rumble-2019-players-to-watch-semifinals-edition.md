@@ -92,7 +92,7 @@ Hayeselnut is a ballsy fellow who knows he will carry, check out one of those pl
 _Taliyah_ is rock-solid like Malphite. He’s the type of guy who will pretend to go to the bathroom to leave you alone with your crush. He’s the type of guy to let you finish his lunch, because he’s more worried about you than he is for himself. The man can (and will) play anything you want him to; whether it’s a hyper-enchanter like Lulu or a dedicated tank like Nautilus. Much of _Kenzo’s Goons_’ mid-game success stems from _Taliyah’s_ ability to pinpoint engage openings and make snap decisions which result in valuable picks. But beware, because his excellent teamplay with superstar ADC _Lady Gaga Fan_ makes laning against him an uphill battle for anyone who dares call themselves worthy. He’s quite a guy.
 
 Feast your eyes on an expertly-constructed teamfight opening planned out by Taliyah yesterday: 
-<iframe src="https://clips.twitch.tv/embed?clip=HeartlessAverageKiwiMrDestructoid" frameborder="0" allowfullscreen="true" height="378" width="620"></iframe>
+<iframe src="https://clips.twitch.tv/embed?clip=HeartlessAverageKiwiMrDestructoid&!autoplay" frameborder="0" allowfullscreen="true" height="378" width="620"></iframe>
 <br><br>
 
 ## **Honourable Mentions**
