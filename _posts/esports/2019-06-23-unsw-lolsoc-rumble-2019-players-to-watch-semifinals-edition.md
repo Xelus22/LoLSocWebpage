@@ -66,7 +66,7 @@ I once vsed _Gryffindor_ in another League tournament. We banned four of his cha
 
 Check out a clean turnaround solokill which Gryff pulled off yesterday:
 <iframe src="https://clips.twitch.tv/embed?clip=SmilingTrappedSnailPogChamp&!autoplay" frameborder="0" allowfullscreen="true" height="378" width="620"></iframe>
-
+<br><br>
 ## **Adc**
 
 #### _Meow!: **Hayeselnut**_
