@@ -9,7 +9,7 @@ gallery: []
 Rumble has been full of narratives this year. We have seen Shiju eSports clash with TTEAGU3, friends clash with each other on the battlefield, and constant talks about the best players of each role (and the tournament).
 
 There's a lot of keep track of, and it has all culminated to this finals. This can be confusing for you to viewer, so here is a list of what I believe are the three biggest narratives to look out for this Rumble Finals:
-
+<br>
 ## The Pretender vs Gryffindor
 
 This is probably the biggest rivalry in this years Rumble! Both cyber-athletes are mid-laners for the TTEAGU3 organisation (though Gryffindor is in a temporary contract), and the back and forth trash talk between them is no secret.
@@ -19,7 +19,7 @@ However, it seems that Gryffindor is winning the rivalry. It is nearly unanimous
 This finals is The Pretender’s chance to flip the rivalry on this head. The man is on a hot streak right now, being undefeated throughout the group stage and playoffs. Can he ride the wave of success and carry that momentum in such an important lane? Or will Gryffindor show us why he’s the best mid-laner around?
 
 Who will win – an unstoppable force, or an immovable object?
-
+<br>
 ## The cso67 Gamble.
 
 This Rumble, cso67 is has been a coinflip player. While he has had dominant plays on his Jax – what we like to call the ‘cso Jax’ – other games on his Jayce and Ryze have been unsettling for Sean and Friends.
@@ -29,7 +29,7 @@ The toplane pool this Rumble was intense – players like Stopwatch, Stabable, a
 Keep your eyes out on cso67 if he picks a winning matchup – the Jax, Neeko, and Urgots are the champs which he shines on. But will it be enough to beat Stabable? Kenzo’s Goons’ toplaner has been treating the entire tournament like a victory lap. He effortlessly wins lanes with no effort, clutches the teamfights, and wins the game. Will a peak-performance cso67 bring down Goliath, or will he bow down to his overlord?
 
 Top-lane is a kingdom, and it needs a king.
-
+<br>
 ## Aimer is Love’s Sasuke Cosplay
 
 Near the start of Rumble’s group stage, two of Sean and Friends’ players were disqualified for exceeding the Plat 1 limit. It was an obvious mistake, which they fessed up to when they realised that they misinterpreted one of the rules.
