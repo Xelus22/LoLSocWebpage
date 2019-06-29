@@ -23,11 +23,11 @@ Who will win – an unstoppable force, or an immovable object?
 
 ## The cso67 Gamble.
 
-This Rumble, cso67 is has been a coinflip player. While he has had dominant plays on his Jax – what us intellects and epic gamers like to call the ‘cso Jax’ – other games on his Jayce and Ryze have been unsettling for Sean and Friends.
+This Rumble, cso67 has been a coinflip player. While he has had dominant plays on his Jax – what us intellects and epic gamers like to call the ‘cso Jax’ – other games on his Jayce and Ryze have been unsettling for Sean and Friends.
 
 The top-lane pool this Rumble was intense – players like Stopwatch, Stabable, and ExactlyMyPoint (wait nvm he was account sharing) have made the most of top-lane’s carry meta by winning highly-volatile lanes and impacting the rest of the game. On a good day, it is without doubt that cso67 rests among that top 3, maybe even on top – but on a bad day, he may be the weak point which Kenzo’s Goons focus to bring the whole team down.
 
-Keep your eyes out on cso67 if he picks a winning matchup – Jax, Neeko, and Urgot are the champs which he shines on. But will it be enough to beat Stabable? Kenzo’s Goons’ topilaner has been treating the entire tournament like a victory lap. He effortlessly wins lanes with no effort, clutches the important teamfights, and wins the game. Will a peak-performance cso67 bring down Goliath, or will he bow down to his overlord?
+Keep your eyes out on cso67 if he picks a winning matchup – Jax, Neeko, and Urgot are the champs which he shines on. But will it be enough to beat Stabable? Kenzo’s Goons’ top-laner has been treating the entire tournament like a victory lap. He effortlessly wins lanes with no effort, clutches the important teamfights, and wins the game. Will a peak-performance cso67 bring down Goliath, or will he bow down to his overlord?
 
 Top-lane is a kingdom, and it needs a king.
 <br>
