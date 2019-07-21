@@ -9,14 +9,14 @@ gallery:
 ---
 ![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/Picture1-2.png)
 
-#### **Screenshot taken from:** [The Bosses: Doublelift vs Bjergsen | 2019 LCS Spring Finals Tease](https://www.youtube.com/watch?v=8o1exiJz_EA)
+##### **Screenshot taken from:** [The Bosses: Doublelift vs Bjergsen | 2019 LCS Spring Finals Tease](https://www.youtube.com/watch?v=8o1exiJz_EA)
 
 _Bjergsen, Doublelift, Uzi, Rekkles, CoreJJ, Impact, xPeke, inSec, MadLife._  
 And of course, _Faker._
 
-Ask any LoL eSports fan who the GOAT’s are, and you will hear those names. Game-winning backdoors, innovative mechanics, epic 1v5 plays or pure, consistent talent spanning over many seasons. It doesn’t matter how or why those players rose to glory, the fact remains that they are unanimously viewed as some of the best or most impactful players on the eSports scene. But what is it that unites millions of fans’ opinions worldwide?
+Ask any LoL eSports fan who the GOAT’s are, and you will hear those names. It doesn’t matter how or why those players rose to glory, the fact remains that they are unanimously viewed as some of the best or most impactful players on the eSports scene. 
 
-There are many factors that affect our individual opinions on players. While the globe is in consensus over the calibre or significance of the players mentioned, But what is it that unites millions of fans’ opinions worldwide?
+There are many factors which affect our individual opinions on players, and the globe is in consensus over the calibre or significance of the players mentioned. But what is it that unites millions of fans’ opinions worldwide?
 
 Game-winning backdoors, innovative mechanics, epic 1v5 plays, or pure, consistent talent spanning over many seasons. A player’s performance on-stage, their consistency over their career, and ability to mesh with a team are all clear indicators of a player’s worth. However, there are some factors that are just as influential. These factors do not affect a player’s objective worth, but they alter the way we perceive a player’s ability. <br> <br>
 
@@ -36,7 +36,7 @@ In the long run, recency bias is actually helpful! Teams do not want to recruit 
 
 _“Licorice, even when they \[C9\] were losing, was performing very well … when the team was doing really well, also, he was still a standout for me”_
 
-#### - Riot Azael, on [The Dive: MVP Voting & Quarterfinals (Season 2, Episode 26)](https://youtu.be/wkg4GJH2pW4?t=492) \[8:13\]
+##### - Riot Azael, on [The Dive: MVP Voting & Quarterfinals (Season 2, Episode 26)](https://youtu.be/wkg4GJH2pW4?t=492) \[8:13\]
 
 It is impossible to judge a player’s ability perfectly through viewing their performances, and the quality of a team can make a big difference on how we determine a person’s skill. Teams can push players up or drag them down in many ways. A team that does not allow a player to shine, even if the team itself is doing well, will drown out that player’s ability. That team’s success would never be attributed to that player. In other ways, a team doing well could also push a player to perform outstandingly.
 
