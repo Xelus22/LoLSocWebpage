@@ -2,10 +2,12 @@
 layout: post
 title: 'Perceptions of Skill: How do we Decide the Quality of a Player?'
 subtitle: Why do we call Faker the greatest player?
-gallery: []
+gallery:
+- https://unswlolsoc.github.io/LoLSocWebpage/Picture2.png
+- https://unswlolsoc.github.io/LoLSocWebpage/Picture1-2.png
 
 ---
-pic
+![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/Picture1-2.png)
 
 #### **Screenshot taken from:** [The Bosses: Doublelift vs Bjergsen | 2019 LCS Spring Finals Tease](https://www.youtube.com/watch?v=8o1exiJz_EA)
 
@@ -42,6 +44,8 @@ It is a case-by-case basis, however, one universal argument for debating player 
 <br> <br>
 
 ## Personality
+
+![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/Picture2.png)
 
 Of course, as fans, we love our favourite players or teams more than for their talent. We love the personality. Some players have a villian, or raid boss, or legendary persona that sets them above the rest. Players who flame, trash talk, or have an air of arrogance are all seen as the opponents themselves - not the team they’re on. Fans, teammates, and even enemy players have more polarising opinions about these characters. Talking about Bjergsen, Doublelift said “I always think of the team he is on as the greatest opponent.”
 
