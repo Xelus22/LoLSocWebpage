@@ -14,11 +14,9 @@ gallery:
 _Bjergsen, Doublelift, Uzi, Rekkles, CoreJJ, Impact, xPeke, inSec, MadLife._  
 And of course, _Faker._
 
-Ask any LoL eSports fan who the GOAT’s are, and you will hear those names. It doesn’t matter how or why those players rose to glory, the fact remains that they are unanimously viewed as some of the best or most impactful players on the eSports scene. 
+Ask any LoL eSports fan who the GOAT’s are, and you will hear those names. It doesn’t matter how or why those players rose to glory, the fact remains that they are globally and unanimously viewed as some of the best or most impactful players on the eSports scene. 
 
-There are many factors which affect our individual opinions on players, and the globe is in consensus over the calibre or significance of the players mentioned. But what is it that unites millions of fans’ opinions worldwide?
-
-Game-winning backdoors, innovative mechanics, epic 1v5 plays, or pure, consistent talent spanning over many seasons. A player’s performance on-stage, their consistency over their career, and ability to mesh with a team are all clear indicators of a player’s worth. However, there are some factors that are just as influential. These factors do not affect a player’s objective worth, but they alter the way we perceive a player’s ability. <br> <br>
+Game-winning backdoors, innovative mechanics, epic 1v5 plays, or pure, consistent talent spanning over many seasons. A player’s performance on-stage, their consistency over their career, and ability to mesh with a team are all clear indicators of a player’s worth. However, there are some factors that are just as influential. These factors do not affect a player’s objective worth, but rather they alter the way we perceive a player’s ability. <br> <br>
 
 ## **Popular Beliefs**
 
