@@ -45,6 +45,8 @@ It is a case-by-case basis, however, one universal argument for debating player 
 
 ![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/Picture2.png)
 
+##### **Screenshot taken from:** [Zedd: Ignite | Worlds 2016 - League of Legends](https://www.youtube.com/watch?v=Zasx9hjo4WY&t=64s)
+
 Of course, as fans, we love our favourite players or teams more than for their talent. We love the personality. Some players have a villian, or raid boss, or legendary persona that sets them above the rest. Players who flame, trash talk, or have an air of arrogance are all seen as the opponents themselves - not the team they’re on. Fans, teammates, and even enemy players have more polarising opinions about these characters. Talking about Bjergsen, Doublelift said “I always think of the team he is on as the greatest opponent.”
 
 No matter how hard we try, it is impossible to be completely objective about our opinions and thoughts about a player’s talent. Statistics can only tell us so much about the way someone plays the game. There is no singular way to view League of Legends or the pros who play it.
