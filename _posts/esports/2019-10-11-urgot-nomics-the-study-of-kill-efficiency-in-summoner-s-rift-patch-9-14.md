@@ -143,3 +143,5 @@ You untoggle the ability while running away because if you’re hitting the enem
 In conclusion, is Baby Urgie really broken? Honestly, with the information here, we don’t actually know. I have ignored so many other factors such as assists, dragons, Baron, damage resists, so on and so forth. Ultimately, this article has the same purpose as “RosalineChu” has in your team in League of Legends…
 
 … Useless in-game.
+
+\~ Kimberly "RosalineChu" Chan
