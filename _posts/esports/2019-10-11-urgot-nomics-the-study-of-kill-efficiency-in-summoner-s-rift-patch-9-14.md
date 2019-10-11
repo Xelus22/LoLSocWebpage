@@ -9,14 +9,14 @@ _The most unqualified League of Legends player analyses the numbers to find out 
 
 I know what you are already thinking, I am only _occasionally_ a nerd, but hear me out. It has been probably a good month since I had played League and as always, Baby Urgie top. Here are some screenshots of how I went (don’t judge my build please):
 
-![](https://lh5.googleusercontent.com/nqJqbES-cqAtYZp3tatfHwxdWOdKGulrH84rMXOENq_0qoTcuiCFJx5LEN0XAPBd6lSf_UBgq5YUOFQNllWwqmnc40OGa2FUDeJbacneMnPC33J4Sxe18uzG84C9pQj7MkEQdUzF =523x346)  
-![](https://lh5.googleusercontent.com/Ijz26Sk2zzqRoOwFsWGakfqRmLcL5IIjkH5AzwwXv8kG4C9lvDl5e3SILO6QAmUR0hQDDi_mMgbM5M4_iAHLiQF8rTNeIpCraJ-vW5cLe8-gESFxdtf8DwPFh5WItOOadjcumg_- =523x285)
+![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/00_kim1.JPG)  
+![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/00_kim2.JPG)
 
 Active fans of LoLSoc would be pretty shocked - I know that my friends were. It is rather well-known that the summoner name “RosalineChu”means Dust IV, most deaths/damage taken, almost no CS, plays with a drawing tablet, and the minion of the team. Sure, I was not the best player in the game, but this is extremely likely to be the best game played in the history of RosalineChu (yes, I know, I’m _really_ bad). However, honestly, while playing my Baby Urgie, it did feel that he was a bit broken. So actually, how easy is it for Baby Urgie to kill an average champion?
 
 Let’s use something as a basis of comparison, like looking at only base (no build and runes) statistics at level 6 - because we want the ultimate and that is only when I start killing champions. Since the current meta is to maximise W first, we will have every other ability on level 1 while his W on level 3. Hence the statistics are: 
 
-Base Statistics
+**Base Statistics**
 
 Damage: 83 per auto-attack
 
@@ -30,7 +30,7 @@ Damage: 116.2 per leg
 
 Cooldown: 20 seconds per leg
 
-Q: Corrosive Charge
+**Q: Corrosive Charge**
 
 Damage: 83.1 per explosion
 
@@ -38,7 +38,7 @@ Cooldown: 12 seconds
 
 Cast time: 0.6 seconds
 
-W: Purge
+**W: Purge**
 
 Damage: 35.24 per shot
 
@@ -48,7 +48,7 @@ Cooldown: 6 seconds
 
 Cast time: 13 shots
 
-E: Disdain
+**E: Disdain**
 
 Damage: 90 per cast
 
@@ -56,7 +56,7 @@ Cooldown: 16 seconds
 
 Cast time: 0.85 seconds
 
-R: Fear Beyond Death
+**R: Fear Beyond Death**
 
 Damage: 100 on hit
 
@@ -78,7 +78,7 @@ Let the enemy’s full health be 2500 relative to level. Therefore, R can be re-
 
 After a week of thinking, meth math, and procrastination, the results look okay. Don’t forget that these numbers ignore builds and runes, as well as enemy resists. Now let’s change up a few numbers to correspond to my wonderful match and do the calculations all over again! Here are the new numbers:
 
-Basic Statistics
+**Basic Statistics**
 
 Damage: 180 per auto-attack
 
@@ -86,19 +86,19 @@ Attack Speed: 0.96 attacks per second
 
 Movement Speed: 375 units per second
 
-Passive: Echoing Flames
+**Passive: Echoing Flames**
 
 Damage: 180 per leg
 
 Cooldown: 2.5 seconds per leg
 
-Q: Corrosive Charge
+**Q: Corrosive Charge**
 
 Damage: 331 per explosion
 
 Cooldown: 4.8 seconds
 
-W: Purge
+**W: Purge**
 
 Damage: 77 per shot
 
@@ -106,13 +106,13 @@ Attack Speed: 3.0 shots per second
 
 Cooldown: 0 seconds
 
-E: Disdain
+**E: Disdain**
 
 Damage: 362 per cast
 
 Cooldown: 9 seconds
 
-R: Fear Beyond Death
+**R: Fear Beyond Death**
 
 Damage: 379 on hit
 
