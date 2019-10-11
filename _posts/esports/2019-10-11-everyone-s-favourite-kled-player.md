@@ -15,9 +15,9 @@ gallery:
 > _FPX’s welcome message to Doinb on their official Twitter._
 
 To Esports fans, he’s the guy that plays Kled Mid. To LPL fans, he’s the heart and soul of whatever team he’s on. He is Super Carry Doinb – Kim “Doinb” Tae-sang.
-<br>
+
 Despite his Korean residency, he has always been a player for China. He started his career as a mid laner in March 2015 on Qiao Gu Reapers.
-<br>
+
 Qiao Gu Reapers became Newbee Young, became QG Reapers and then vanished. They didn’t even step on the international stage but there are some famous names who everyone will know. For instance, current SKT’s Clid and Khan and RNG’s Uzi, and previously SSB’s dade. Doinb ended his time with QG Reapers by claiming the 2017 LPL Spring Split MVP award.
 
 By the start of the 2017 LPL Summer Split, QG Reapers lost their roster and spot in the LPL to Jing Dong Gaming (JDG). So basically, same names, different company.
