@@ -9,7 +9,8 @@ _The most unqualified League of Legends player analyses the numbers to find out 
 
 I know what you are already thinking, I am only _occasionally_ a nerd, but hear me out. It has been probably a good month since I had played League and as always, Baby Urgie top. Here are some screenshots of how I went (don’t judge my build please):
 
-![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/00_kim1.JPG)  
+![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/00_kim1.JPG) 
+<br> <br>
 ![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/00_kim2.JPG)
 
 Active fans of LoLSoc would be pretty shocked - I know that my friends were. It is rather well-known that the summoner name “RosalineChu”means Dust IV, most deaths/damage taken, almost no CS, plays with a drawing tablet, and the minion of the team. Sure, I was not the best player in the game, but this is extremely likely to be the best game played in the history of RosalineChu (yes, I know, I’m _really_ bad). However, honestly, while playing my Baby Urgie, it did feel that he was a bit broken. So actually, how easy is it for Baby Urgie to kill an average champion?
