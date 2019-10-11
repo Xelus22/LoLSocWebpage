@@ -14,22 +14,22 @@ I know what you are already thinking, I am only _occasionally_ a nerd, but hear 
 
 Active fans of LoLSoc would be pretty shocked - I know that my friends were. It is rather well-known that the summoner name “RosalineChu”means Dust IV, most deaths/damage taken, almost no CS, plays with a drawing tablet, and the minion of the team. Sure, I was not the best player in the game, but this is extremely likely to be the best game played in the history of RosalineChu (yes, I know, I’m _really_ bad). However, honestly, while playing my Baby Urgie, it did feel that he was a bit broken. So actually, how easy is it for Baby Urgie to kill an average champion?
 
-Let’s use something as a basis of comparison, like looking at only base (no build and runes) statistics at level 6 - because we want the ultimate and that is only when I start killing champions. Since the current meta is to maximise W first, we will have every other ability on level 1 while his W on level 3. Hence the statistics are:
-<br>
+Let’s use something as a basis of comparison, like looking at only base (no build and runes) statistics at level 6 - because we want the ultimate and that is only when I start killing champions. Since the current meta is to maximise W first, we will have every other ability on level 1 while his W on level 3. Hence the statistics are: 
+
 Base Statistics
 
 Damage: 83 per auto-attack
 
 Attack Speed: 0.625 attacks per second
 
-Movement Speed: 330 units per second
-<br>
+Movement Speed: 330 units per second 
+
 Passive: Echoing Flames
 
 Damage: 116.2 per leg
 
 Cooldown: 20 seconds per leg
-<br>
+
 Q: Corrosive Charge
 
 Damage: 83.1 per explosion
@@ -37,7 +37,7 @@ Damage: 83.1 per explosion
 Cooldown: 12 seconds
 
 Cast time: 0.6 seconds
-<br>
+
 W: Purge
 
 Damage: 35.24 per shot
@@ -47,7 +47,7 @@ Attack Speed: 3.0 shots per second
 Cooldown: 6 seconds
 
 Cast time: 13 shots
-<br>
+
 E: Disdain
 
 Damage: 90 per cast
@@ -55,13 +55,13 @@ Damage: 90 per cast
 Cooldown: 16 seconds
 
 Cast time: 0.85 seconds
-<br>
+
 R: Fear Beyond Death
 
 Damage: 100 on hit
 
 Cast time: 2 seconds
-<br>
+
 Now the nerd magic happens:
 
 Let the enemy’s full health be 2500 relative to level. Therefore, R can be re-activated when enemy is at 625 heath.
@@ -77,7 +77,7 @@ Let the enemy’s full health be 2500 relative to level. Therefore, R can be re-
 | R | 706.36-100=606.36<625 | 23.56 |
 
 After a week of thinking, meth math, and procrastination, the results look okay. Don’t forget that these numbers ignore builds and runes, as well as enemy resists. Now let’s change up a few numbers to correspond to my wonderful match and do the calculations all over again! Here are the new numbers:
-<br>
+
 Basic Statistics
 
 Damage: 180 per auto-attack
@@ -85,19 +85,19 @@ Damage: 180 per auto-attack
 Attack Speed: 0.96 attacks per second
 
 Movement Speed: 375 units per second
-<br>
+
 Passive: Echoing Flames
 
 Damage: 180 per leg
 
 Cooldown: 2.5 seconds per leg
-<br>
+
 Q: Corrosive Charge
 
 Damage: 331 per explosion
 
 Cooldown: 4.8 seconds
-<br>
+
 W: Purge
 
 Damage: 77 per shot
@@ -105,19 +105,19 @@ Damage: 77 per shot
 Attack Speed: 3.0 shots per second
 
 Cooldown: 0 seconds
-<br>
+
 E: Disdain
 
 Damage: 362 per cast
 
 Cooldown: 9 seconds
-<br>
+
 R: Fear Beyond Death
 
 Damage: 379 on hit
 
 Cooldown: 42 seconds
-<br>
+
 This time, the calculation is a bit harder thanks to the reduced cooldowns and the eternal W, but I will give it my best shot. Apologies in advance if there are any errors:
 
 Let the enemy’s full health be 3500 relative to level. Therefore, R can be re-activated when enemy is at 875 heath.
