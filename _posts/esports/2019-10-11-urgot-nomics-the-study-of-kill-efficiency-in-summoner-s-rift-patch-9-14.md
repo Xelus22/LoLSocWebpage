@@ -1,13 +1,12 @@
 ---
 layout: ''
 title: 'Urgot-nomics: The Study of Kill Efficiency in Summoner’s Rift (Patch 9.14)'
-subtitle: The most unqualified League of Legends player analyses the numbers to find
-  out how long it actually takes for Urgot to kill a champion by himself. Here, we
-  study different basic scenarios and decide whether a perfect KDA on Urgot is even
-  worth celebrating for.
+subtitle: ''
 gallery: []
 
 ---
+_The most unqualified League of Legends player analyses the numbers to find out how long it actually takes for Urgot to kill a champion by himself. Here, we study different basic scenarios and decide whether a perfect KDA on Urgot is even worth celebrating for._
+
 I know what you are already thinking, I am only _occasionally_ a nerd, but hear me out. It has been probably a good month since I had played League and as always, Baby Urgie top. Here are some screenshots of how I went (don’t judge my build please):
 
 ![](https://lh5.googleusercontent.com/nqJqbES-cqAtYZp3tatfHwxdWOdKGulrH84rMXOENq_0qoTcuiCFJx5LEN0XAPBd6lSf_UBgq5YUOFQNllWwqmnc40OGa2FUDeJbacneMnPC33J4Sxe18uzG84C9pQj7MkEQdUzF =523x346)  
