@@ -14,7 +14,7 @@ I know what you are already thinking, I am only _occasionally_ a nerd, but hear 
 
 Active fans of LoLSoc would be pretty shocked - I know that my friends were. It is rather well-known that the summoner name “RosalineChu”means Dust IV, most deaths/damage taken, almost no CS, plays with a drawing tablet, and the minion of the team. Sure, I was not the best player in the game, but this is extremely likely to be the best game played in the history of RosalineChu (yes, I know, I’m _really_ bad). However, honestly, while playing my Baby Urgie, it did feel that he was a bit broken. So actually, how easy is it for Baby Urgie to kill an average champion?
 
-Let’s use something as a basis of comparison, like looking at only base (no build and runes) statistics at level 6 - because we want the ultimate and that is only when I start killing champions. Since the current meta is to maximise W first, we will have every other ability on level 1 while his W on level 3. Hence the statistics are: 
+Let’s use something as a basis of comparison, like looking at only base (no build and runes) statistics at level 6 - because we want the ultimate and that is only when I start killing champions. Since the current meta is to maximise W first, we will have every other ability on level 1 while his W on level 3. Hence the statistics are:
 
 **Base Statistics**
 
@@ -22,7 +22,7 @@ Damage: 83 per auto-attack
 
 Attack Speed: 0.625 attacks per second
 
-Movement Speed: 330 units per second 
+Movement Speed: 330 units per second
 
 Passive: Echoing Flames
 
@@ -144,4 +144,4 @@ In conclusion, is Baby Urgie really broken? Honestly, with the information here,
 
 … Useless in-game.
 
-\~ Kimberly "RosalineChu" Chan
+\~ Kimberly "RosalineChu" Chan (Publications Subcommittee)
