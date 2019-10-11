@@ -1,5 +1,5 @@
 ---
-layout: ''
+layout: post
 title: 'Urgot-nomics: The Study of Kill Efficiency in Summoner’s Rift (Patch 9.14)'
 subtitle: ''
 gallery: []
