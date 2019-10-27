@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: The End of Group Stage
 subtitle: Let's celebrate, commemorate and appreciate our journey through Worlds so
   far.
