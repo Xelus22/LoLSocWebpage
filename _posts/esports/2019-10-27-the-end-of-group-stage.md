@@ -86,9 +86,9 @@ What if we just stop having expectations… haha, just kidding… unless?
 
 On Day 5 of the Group stage after FPX beat JT securing their spot out of Groups, Umi, Doinb’s wife, took to Weibo to express her feelings of relief, and when one fan told her not to let the angry fans get to her, she replied,
 
-“There’s no need, they can’t hurt me. Regardless if it’s copypastas or if they really want to vent their anger, it’s always better if they curse at me than the team. They still have games left to play.”
+> “There’s no need, they can’t hurt me. Regardless if it’s copypastas or if they really want to vent their anger, it’s always better if they curse at me than the team. They still have games left to play.”
 
-> _Thank you for the_ [_translation_](https://twitter.com/iCrystalization/status/1184923476915871745) _@iCrystalization._
+Thank you for the [translation](https://twitter.com/iCrystalization/status/1184923476915871745) @iCrystalization.
 
 A live audience is always drastically more different than playing in the middle of the night with no audience besides your friends. These players know it better than anyone else after a year or years of playing in arenas or studios alongside thousands, maybe even millions of viewers online. Every person has once felt the need to impress others, so why is it such a surprise that the fans have such a large impact on the players?
 
