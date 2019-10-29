@@ -20,7 +20,7 @@ gallery:
 
 The winners are written down in the history books and the losers are left behind, their inked names just waiting to fade away. But is it really like this?
 
-Sometimes, the loser is remembered over the winner. Being a winner not only comes with the victory and moving on to the next stage, but it also avoids the backlash of losing. The internet is a cruel, cruel place, and when your sole career has been built on top of the internet, then your career hinges on how the internet perceives you and how you handle it. 
+Sometimes, the loser is remembered over the winner. Being a winner not only comes with the victory and moving on to the next stage, but it also avoids the backlash of losing. The internet is a cruel, cruel place, and when your sole career has been built on top of the internet, then your career hinges on how the internet perceives you and how you handle it.
 
 People remember when Longzhu Gaming (LZ) were swept by Samsung Galaxy (SSG) right after they had 6-0’d the Group stage, and you know what they said? LZ choked. Khan choked. Bdd choked. Their whole team were no good in high pressure situations. And that followed them from 2017 Worlds to Kingzone Dragon-X. At MSI 2018, people didn’t believe in them again because they were chokers! Right? SSG went on to win Worlds… so does that mean that team was just unlucky with the draw?
 
@@ -40,7 +40,7 @@ The LMS was separated from the Garena Premier League (now known as the League of
 
 Ever since I started watching League of Legends (season 6 – I only started playing at the end of Season 5 okay), the LMS to me was always described a one team wonder. Flash Wolves (FW) were dominating the region with six consecutive titles from 2016 Summer to 2019 Spring and they have been to every international tournament representing the LMS besides this one. Looking at their results in each of their domestic splits, there was at least one team each split that was always just one step below them. And even if there was a team one step above them, FW just decimated them in the finals.
 
-Since FW once had great dominance, there must be a reason to why they have lost their dominance. Last year, they lost Karsa to the LPL when he was given a position on RNG and at the beginning of this year, they lost Maple and SwordArt to the LPL when they were given positions on Suning Gaming (SNG). Karsa still maintained his status as a World class jungler by helping Uzi achieve his first ever LPL title and winning every tournament that year besides Worlds. However, Maple and SwordArt have seemingly disappeared off the stage, their highest placement in the LPL this year being 7th or 8th. Now the question arises, were the FW ever strong? And hence, there is another question, is the LMS strong enough to keep their status as the fifth best region in the world?
+Since FW once had great dominance, there must be a reason to why they have lost their dominance. Last year, they lost Karsa to the LPL when he was given a position on RNG and at the beginning of this year, they lost Maple and SwordArt to the LPL when they were given positions on Suning Gaming (SNG). Karsa still maintained his status as a World class jungler by helping Uzi achieve his first ever LPL title and winning every tournament that year besides Worlds. However, Maple and SwordArt have seemingly disappeared off the stage, their highest placement in the LPL this year being 7th/8th. Now the question arises, were the FW ever strong? And hence, there is another question, is the LMS strong enough to keep their status as the fifth best region in the world?
 
 Yes and no are my answers.
 
@@ -60,9 +60,9 @@ Goodbye LMS.
 
 Pre-tournament predictions, Worlds Top 20 lists, conversations about who are the best, who are the worst, who will improve from last year and who will win are always exciting, but these come with a risk. And no, I’m not talking about how Jatt or Vedius will get flamed on Reddit for putting almost all FunPlus Phoenix (FPX) players on their Top 20 lists… sort of.
 
-FPX is the guiltiest of failing expectations this tournament so far. Many people had them as a title contender even though all their players have never played on a major international stage. And why was that? It was because FPX demolished the LPL in the regular season… twice. This past Summer split was their first title and they won it so dominantly that people were sure – absolutely sure – that this team could take it all. But FPX disappointed us this Group stage. People said before the tournament started, that if FPX didn’t 6-0 their group, it was a disappointment. Guess what? They were disappointed. FPX almost didn’t even make it out of their group. They were only one game away from being eliminated in the Group stage. 
+FPX is the guiltiest of failing expectations this tournament so far. Many people had them as a title contender even though all their players have never played on a major international stage. And why was that? It was because FPX demolished the LPL in the regular season… twice. This past Summer split was their first title and they won it so dominantly that people were sure – absolutely sure – that this team could take it all. But FPX disappointed us this Group stage. People said before the tournament started, that if FPX didn’t 6-0 their group, it was a disappointment. Guess what? They were disappointed. FPX almost didn’t even make it out of their group. They were only one game away from being eliminated in the Group stage.
 
-Team Liquid (TL) also failed their expectations. At the beginning of the year, TL added Jensen to their roster who had a 3rd or 4th placement at Worlds in 2018 and world champion CoreJJ. This team was built to succeed. They continued their dominance in the LCS with their third and fourth title in a row and they ended MSI 2019 as finalists. This was it. This was the year that Doublelift made it to the Worlds Knockout stage. But the four curse remains, and TL ended their Worlds run as 3-3 for the fourth year in a row.
+Team Liquid (TL) also failed their expectations. At the beginning of the year, TL added Jensen and CoreJJ to their roster. Jensen had a 3rd/4th placement at Worlds 2018 and CoreJJ who won 2017 Worlds. This team was built to succeed. They continued their dominance in the LCS with their third and fourth title in a row and they ended MSI 2019 as finalists. This was it. This was the year that Doublelift made it to the Worlds Knockout stage. But the four curse remains, and TL ended their Worlds run as 3-3 for the fourth year in a row.
 
 ![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/48919549898_adfe86b0a7_k.jpg)
 
@@ -72,7 +72,7 @@ Even G2 Esports (G2) failed their expectations. They were coined the best team i
 
 These expectations are what make it so disappointing when our favourite teams don’t reach them, but these expectations also reduce the impact of a team’s success. Take SKT for example. They got first seed in their group. The supposed strongest group ever at Worlds. The casters try to hype it up, but it will never reach the same impact as GRIFFIN (GRF) or DAMWON Gaming (DWG) topping their group. Why? Because we expected it. We expected SKT to do it and anything otherwise, would be disappointing.
 
-GRF is a reverse example of this. They both didn’t have many expectations coming into the tournament. GRF weren’t expected to top their group, G2 was. Some people didn’t even expect them to make it out. GRF were labelled as chokers ever since they lost against KT Rolster in the 2018 LCK Summer Finals, they lost against Gen.G in the 2018 LCK Regional Finals, and they lost against SKT in both LCK Finals this year. Beating tournament favourites G2 and claiming first seed surpassed everyone’s expectations for this team. 
+GRF is a reverse example of this. They both didn’t have many expectations coming into the tournament. GRF weren’t expected to top their group, G2 was. Some people didn’t even expect them to make it out. GRF were labelled as chokers ever since they lost against KT Rolster in the 2018 LCK Summer Finals, they lost against Gen.G in the 2018 LCK Regional Finals, and they lost against SKT in both LCK Finals this year. Beating tournament favourites G2 and claiming first seed surpassed everyone’s expectations for this team.
 
 After an underwhelming Play-ins best of five showing by SPY, everyone seemed to lose faith in this team. After their first week of Groups, they only had a scoreline of 1-2. In the “worst” group, they were still unable to make noise. However, they surpassed expectations in Week 2. They 3-1’d and almost, almost forced FPX – title contenders by the way – to leave the tournament early.
 
@@ -106,7 +106,7 @@ So I have a prediction tournament going on in my Discord server. Here are the pr
 
 However, if one looks at this numbers-only, then LCK is the best region in the world and SKT will probably win. LCK has three of the four first seeds. SKT is literally the winningest team in the world. What could possibly stop them?
 
-Blind faith in your favourite teams. That’s right. If I just believe in IG, they’ll win right? 
+Blind faith in your favourite teams. That’s right. If I just believe in IG, they’ll win right?
 
 Jokes aside, you can never guarantee that the team that wins is actually the best team overall. In best of fives, it is more likely than best of ones for the better team to win. Just remember, the winner is only guaranteed to be the better team on the day, not the better team overall.
 
