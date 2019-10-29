@@ -104,11 +104,11 @@ I think you should agree with this too, because the reality is, the main reason 
 
 So I have a prediction tournament going on in my Discord server. Here are the predictions for the quarters: The first two (GRF vs IG and FPX vs FNC) are both equally split between everyone. While for SKT vs SPY, everyone is betting on a 3-0 by SKT. And, DWG vs G2 has only one hopeful person cheering on for DWG. The fact that two of the quarterfinals are so close speaks volumes about how tight the race to win Worlds is.
 
-However, if one looks at this numbers-only, then LCK is the best region in the world and SKT will probably win. LCK has three of the four first seeds. SKT is literally the winningest team in the world. What could possibly stop them?
+However, if one looks at this analytically, then LCK is the best region in the world and SKT will probably win. LCK has three of the four first seeds. SKT is literally the winningest team in the world. What could possibly stop them?
 
 Blind faith in your favourite teams. That’s right. If I just believe in IG, they’ll win right?
 
-Jokes aside, you can never guarantee that the team that wins is actually the best team overall. In best of fives, it is more likely than best of ones for the better team to win. Just remember, the winner is only guaranteed to be the better team on the day, not the better team overall.
+Jokes aside, you can never guarantee that the team that wins is actually the best team overall. In best of fives, it is more likely than best of ones for the better team to win. Just remember, the winners are only guaranteed to be the better team on the day, not the better team forever.
 
 Maybe the best team in the world won’t win. Or maybe, because they’re the best team in the world, they will.
 
