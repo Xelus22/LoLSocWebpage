@@ -108,7 +108,7 @@ However, if one looks at this analytically, then LCK is the best region in the w
 
 Blind faith in your favourite teams. That’s right. If I just believe in IG, they’ll win right?
 
-Jokes aside, you can never guarantee that the team that wins is actually the best team overall. In best of fives, it is more likely than best of ones for the better team to win. Just remember, the winners are only guaranteed to be the better team on the day, not the better team forever.
+Jokes aside, you can never guarantee that the team that wins is actually the best team. In best of fives, it is more likely than best of ones for the better team to win. Just remember, the winners are only guaranteed to be the better team on the day, not the better team forever.
 
 Maybe the best team in the world won’t win. Or maybe, because they’re the best team in the world, they will.
 
