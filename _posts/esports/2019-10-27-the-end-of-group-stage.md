@@ -90,7 +90,7 @@ On Day 5 of the Group stage after FPX beat JT securing their spot out of Groups,
 
 Thank you for the [translation](https://twitter.com/iCrystalization/status/1184923476915871745) @iCrystalization.
 
-A live audience is always drastically more different than playing in the middle of the night with no audience besides your friends. These players know it better than anyone else after a year or years of playing in arenas or studios alongside thousands, maybe even millions of viewers online. Every person has once felt the need to impress others, so why is it such a surprise that the fans have such a large impact on the players?
+A live audience is always drastically more different than playing in the middle of the night with no audience besides your friends. These players know it better than anyone else after a year or years of playing in arenas and studios alongside thousands, maybe even millions of viewers online. Every person has once felt the need to impress others, so why is it such a surprise that the fans have such a large impact on the players?
 
 In the arena, through the noise cancellation headsets, the players can still hear the cheers of the audience. SPY, FNC, G2 have all thanked their fans for the home crowd cheering, but what about the booing? If the players can hear the cheers, they can surely hear the boos. G2’s Jankos brought this up in an interview with Travis Gafford ([here](https://www.youtube.com/watch?v=FJY9PJz27M4)). He says that the fans should cheer for every play whether or not it’s the team they’re supporting.
 
