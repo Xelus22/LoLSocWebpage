@@ -58,7 +58,7 @@ Goodbye LMS.
 
 > _Splyce shaking the hands of FunPlus Phoenix after their win on Day 5._
 
-Pre-tournament predictions, Worlds Top 20 lists, conversations about who are the best, who are the worst, who will improve from last year and who will win are always exciting, but these come with a risk. And no, I’m not talking about how Jatt or Vedius will get flamed on Reddit for putting almost all FunPlus Phoenix (FPX) players on their Top 20 lists… sort of.
+Pre-tournament predictions and Worlds Top 20 lists; conversations about who are the best, who are the worst, who will improve from last year and who will win are always exciting, but these come with a risk. And no, I’m not talking about how Jatt or Vedius will get flamed on Reddit for putting almost all FunPlus Phoenix (FPX) players on their Top 20 lists… sort of.
 
 FPX is the guiltiest of failing expectations this tournament so far. Many people had them as a title contender even though all their players have never played on a major international stage. And why was that? It was because FPX demolished the LPL in the regular season… twice. This past Summer split was their first title and they won it so dominantly that people were sure – absolutely sure – that this team could take it all. But FPX disappointed us this Group stage. People said before the tournament started, that if FPX didn’t 6-0 their group, it was a disappointment. Guess what? They were disappointed. FPX almost didn’t even make it out of their group. They were only one game away from being eliminated in the Group stage.
 
