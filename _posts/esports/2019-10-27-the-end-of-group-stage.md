@@ -84,7 +84,7 @@ What if we just stop having expectations… haha, just kidding… unless?
 
 > _FunPlus Phoenix’s Doinb’s wife (Umi) cheering her husband on Day 4._
 
-On Day 5 of the Group stage after FPX beat JT securing their spot out of Groups, Umi, Doinb’s wife, took to Weibo to express her feelings of relief, and when one fan told her not to let the angry fans get to her, she replied,
+On Day 5 of the Group stage after FPX beat JT securing their spot out of Groups, Umi, Doinb’s wife, took to Weibo to express her feelings of relief. When one fan told her not to let the angry fans get to her, she replied,
 
 > “There’s no need, they can’t hurt me. Regardless if it’s copypastas or if they really want to vent their anger, it’s always better if they curse at me than the team. They still have games left to play.”
 
