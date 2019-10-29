@@ -68,7 +68,7 @@ Team Liquid (TL) also failed their expectations. At the beginning of the year, T
 
 > _GRIFFIN shaking hands with G2 Esports after their first win against them on Day 6._
 
-Even G2 Esports (G2) failed their expectations. They were coined the best team in the world by many - a result of their MSI championship and their undeniable dominance in the LEC. They were hyped up to be the favourites for the tournament. Yet, they didn’t even get first seed in their group.
+Even G2 Esports (G2) failed their expectations. They were coined the best team in the world by many - a result of their MSI championship and their undeniable dominance in the LEC. They were hyped up to be the favourites for the tournament, but they didn’t even get first seed in their group.
 
 These expectations are what make it so disappointing when our favourite teams don’t reach them, but these expectations also reduce the impact of a team’s success. Take SKT for example. They got first seed in their group. The supposed strongest group ever at Worlds. The casters try to hype it up, but it will never reach the same impact as GRIFFIN (GRF) or DAMWON Gaming (DWG) topping their group. Why? Because we expected it. We expected SKT to do it and anything otherwise, would be disappointing.
 
