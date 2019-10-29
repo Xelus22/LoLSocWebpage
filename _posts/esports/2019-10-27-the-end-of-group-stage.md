@@ -82,7 +82,7 @@ What if we just stop having expectations… haha, just kidding… unless?
 
 ![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/48904379186_b28fc15db5_k.jpg)
 
-> _FunPlus Phoenix’s Doinb’s wife Umi cheering her husband on Day 4._
+> _FunPlus Phoenix’s Doinb’s wife (Umi) cheering her husband on Day 4._
 
 On Day 5 of the Group stage after FPX beat JT securing their spot out of Groups, Umi, Doinb’s wife, took to Weibo to express her feelings of relief, and when one fan told her not to let the angry fans get to her, she replied,
 
