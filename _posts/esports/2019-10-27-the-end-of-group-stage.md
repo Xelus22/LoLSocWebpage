@@ -94,7 +94,7 @@ A live audience is always drastically more different than playing in the middle 
 
 In the arena, through the noise cancellation headsets, the players can still hear the cheers of the audience. SPY, FNC, G2 have all thanked their fans for the home crowd cheering, but what about the booing? If the players can hear the cheers, they can surely hear the boos. G2’s Jankos brought this up in an interview with Travis Gafford ([here](https://www.youtube.com/watch?v=FJY9PJz27M4)). He says that the fans should cheer for every play whether or not it’s the team they’re supporting.
 
-I think you should agree with this too, because the reality is, the main reason you’re here is to just watch some good League of Legends.
+I think you should agree with this too, because the reality is, the main reason you’re here is to watch some good League of Legends.
 
 **5. Who will win?**
 
