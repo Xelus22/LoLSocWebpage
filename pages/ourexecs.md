@@ -2,7 +2,7 @@
 layout: page
 title: Our Executives
 permalink: execs
-subtitle: Our execs!
+subtitle: Meet our executives for 2020
 
 ---
 Executives might sound like a scary word, but in reality we stay up playing League just like you! Don't be afraid to talk and say hi to us at our next event!
