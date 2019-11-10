@@ -68,7 +68,7 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
 <b>Name:</b> Harrison "Xelus" Chan
 <br> <br> <b>Year:</b> 2nd Year Electrical Engineering/Computer Science
 <br> <br> <b>Favourite Champion:</b> Master Yi and Jax
-<br> <br> <b>Favourite Quote:</b> Nurries C U in the NT
+<br> <br> <b>Favourite Quote:</b> i know but i didnt know
 </td>
 <td style="text-align: center;">
 <img src="https://unswlolsoc.github.io/LoLSocWebpage/uploads/IMG_2412.jpg">
