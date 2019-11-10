@@ -14,7 +14,7 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
 <b>Name:</b> Emma "Xun" Soo
 <br> <br> <b>Year:</b> 2nd Year Computer Science
 <br> <br> <b>Favourite Champion:</b> Zoe because I like cute loli girls
-<br> <br> <b>Favourite Quote:</b> Change is the only constant.
+<br> <br> <b>Favourite Quote:</b> Change is the only constant
 </td>
 <td style="text-align: center;">
 <img src="https://unswlolsoc.github.io/LoLSocWebpage/uploads/IMG_2374.jpg">
@@ -32,7 +32,7 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
 <b>Name:</b> Kenzo "New Kanye Sucks" Jeanson
 <br> <br> <b>Year:</b> 2nd Year Information Systems
 <br> <br> <b>Favourite Champion:</b> Friendship ended with Kled. Now Jax is my best friend.
-<br> <br> <b>Favourite Quote:</b> I'm nice at ping pong
+<br> <br> <b>Favourite Quote:</b> "I'm nice at ping pong" - Kanye West
 </td>
 <td style="text-align: center;">
 <img src="https://unswlolsoc.github.io/LoLSocWebpage/uploads/IMG_2395.jpg">
@@ -86,7 +86,7 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
 <b>Name:</b> Tom "The Pretender" Su
 <br> <br> <b>Year:</b> 2nd Year Commerce (Finance)/Advanced Science (Honours) (Physics)
 <br> <br> <b>Favourite Champion:</b> Lux, Talon, Kha'Zix
-<br> <br> <b>Favourite Quote:</b> Either *name* is mafia or *name*'s head is packed full of peanuts.
+<br> <br> <b>Favourite Quote:</b> Either _name_ is mafia or _name_'s head is packed full of peanuts.
 </td>
 <td style="text-align: center;">
 <img src="https://unswlolsoc.github.io/LoLSocWebpage/uploads/IMG_2389.jpg">
@@ -140,12 +140,12 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
 <b>Name:</b> Andre "ah415263" Havier
 <br> <br> <b>Year:</b> 1st Year Software Engineering/Commerce
 <br> <br> <b>Favourite Champion:</b> Riven One Trick
-<br> <br> <b>Favourite Quote:</b> Se no ~ DEMO SONNAN JA DAME MOU SONNAN JA HORA KOKORO WA SHINKA SURU YO MOTTO MOTTO.
-KOTOBA NI SUREBA KIECHAU KANKEI NARA KOTOBA O KESEBA IIYATTE OMOTTETA OSORETETA DAKEDO ARE? NANKA CHIGAU KAMO. 
+<br> <br> <b>Favourite Quote:</b> Se no \~ DEMO SONNAN JA DAME MOU SONNAN JA HORA KOKORO WA SHINKA SURU YO MOTTO MOTTO.
+KOTOBA NI SUREBA KIECHAU KANKEI NARA KOTOBA O KESEBA IIYATTE OMOTTETA OSORETETA DAKEDO ARE? NANKA CHIGAU KAMO.
 SENRI NO MICHI MO IPPO KARA! ISHI NO YOU NI KATAI SONNA ISHI DE CHIRI MO TSUMOREBA YAMATO NEDESHIKO? ‘SHI’ NUKI DE IYA SHINU KI DE!
 FUWAFUWARI FUWAFUWARU ANATA GA NAMAE O YOBU SORE DAKE DE CHUU E UKABU
-FUWAFUWARU FUWAFUWARI ANATA GA WARATTE IRU SORE DAKE DE EGAO NI NARU 
-KAMI SAMA ARIGATOU UNMEI NO ITSUZURA DEMO MEGURIAETA KOTO GA SHIAWASE NA NO 
+FUWAFUWARU FUWAFUWARI ANATA GA WARATTE IRU SORE DAKE DE EGAO NI NARU
+KAMI SAMA ARIGATOU UNMEI NO ITSUZURA DEMO MEGURIAETA KOTO GA SHIAWASE NA NO
 DEMO SONNAN JA DAME MOU SONNAN JA HORA KOKORO WA SHINKA SURUYO MOTTO MOTTO SOU SONNAN JA YADA NEE SONNAN JA MADA WATASHI NO KOTO MITE TE NE ZUTTO ZUTTO
 </td>
 <td style="text-align: center;">
