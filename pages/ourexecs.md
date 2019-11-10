@@ -33,7 +33,7 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
 <b>Name:</b> Kenzo "New Kanye Sucks" Jeanson
 <br> <br> <b>Year:</b> 2nd Year Information Systems
 <br> <br> <b>Favourite Champion:</b> Friendship ended with Kled. Now Jax is my best friend.
-<br> <br> <b>Personal Motto:</b> I'm nice at ping pong
+<br> <br> <b>Favourite Quote:</b> I'm nice at ping pong
 </td>
 <td style="text-align: center;">
 <img src="https://unswlolsoc.github.io/LoLSocWebpage/uploads/IMG_2395.jpg">
