@@ -102,13 +102,12 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
 <td style="width: 60%; ">
 <h2><b> ARC DELEGATE:</b></h2>
 <b>Name:</b> Merry (XiaoDe) "goddessofducks" Chu
-<br> <br> <b>Year:</b> 4th Year Commerce/Law
-<br> <br> <b>Favourite Champion:</b> Zed! His versatile kit allows for flashy plays and bursting opponents with his ultimate is very satisfying. Also edgy ninjas are cool
-<br> <br> <b>Personal Motto:</b> An amateur does practises to get it right, a master practises to never get it wrong
-<br> <br> <b>Favourite League Memory:</b> My Pentakills :)
+<br> <br> <b>Year:</b> 1st Year Actuarial/Advanced Maths
+<br> <br> <b>Favourite Champion:</b> Tristana and Nami
+<br> <br> <b>Favourite Quote:</b> Tick tock, it's give me attention O'clock
 </td>
 <td style="text-align: center;">
-<img src="https://xelus22.github.io/LoLSocWebpage/uploads/Picture2.jpg">
+<img src="https://unswlolsoc.github.io/LoLSocWebpage/uploads/IMG_2409.jpg">
 </td>
 </tr>
 </table>
