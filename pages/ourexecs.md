@@ -54,7 +54,7 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
 <br> <br> <b>Favourite Quote:</b> No?
 </td>
 <td style="text-align: center;">
-<img src="https://xelus22.github.io/LoLSocWebpage/uploads/Picture1.jpg">
+<img src="https://unswlolsoc.github.io/LoLSocWebpage/uploads/IMG_2391.jpg">
 </td>
 </tr>
 </table>
