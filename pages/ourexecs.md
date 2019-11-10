@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Our Executives
-permalink: ourexecs
+permalink: execs
 subtitle: Our execs!
-published: false
 
 ---
 Executives might sound like a scary word, but in reality we stay up playing League just like you! Don't be afraid to talk and say hi to us at our next event!
@@ -102,7 +101,7 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
 <tr>
 <td style="width: 60%; ">
 <h2><b> ARC DELEGATE:</b></h2>
-<b>Name:</b> Jacky “Sky” Dong
+<b>Name:</b> Merry (XiaoDe) "goddessofducks" Chu
 <br> <br> <b>Year:</b> 4th Year Commerce/Law
 <br> <br> <b>Favourite Champion:</b> Zed! His versatile kit allows for flashy plays and bursting opponents with his ultimate is very satisfying. Also edgy ninjas are cool
 <br> <br> <b>Personal Motto:</b> An amateur does practises to get it right, a master practises to never get it wrong
