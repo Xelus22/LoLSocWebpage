@@ -137,11 +137,16 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
 <tr>
 <td style="width: 60%; ">
 <h2><b> EVENTS DIRECTOR #2:</b></h2>
-<b>Name:</b> Andy “Glup” Liu
-<br> <br> <b>Year:</b> 2nd Year Data Science
-<br> <br> <b>Favourite Champion:</b> Pyke
-<br> <br> <b>Personal Motto:</b> Win
-<br> <br> <b>Favourite League Memory:</b> My glorious climb to Iron 4
+<b>Name:</b> Andre "ah415263" Havier
+<br> <br> <b>Year:</b> 1st Year Software Engineering/Commerce
+<br> <br> <b>Favourite Champion:</b> Riven One Trick
+<br> <br> <b>Favourite Quote:</b> Se no ~ DEMO SONNAN JA DAME MOU SONNAN JA HORA KOKORO WA SHINKA SURU YO MOTTO MOTTO.
+KOTOBA NI SUREBA KIECHAU KANKEI NARA KOTOBA O KESEBA IIYATTE OMOTTETA OSORETETA DAKEDO ARE? NANKA CHIGAU KAMO. 
+SENRI NO MICHI MO IPPO KARA! ISHI NO YOU NI KATAI SONNA ISHI DE CHIRI MO TSUMOREBA YAMATO NEDESHIKO? ‘SHI’ NUKI DE IYA SHINU KI DE!
+FUWAFUWARI FUWAFUWARU ANATA GA NAMAE O YOBU SORE DAKE DE CHUU E UKABU
+FUWAFUWARU FUWAFUWARI ANATA GA WARATTE IRU SORE DAKE DE EGAO NI NARU 
+KAMI SAMA ARIGATOU UNMEI NO ITSUZURA DEMO MEGURIAETA KOTO GA SHIAWASE NA NO 
+DEMO SONNAN JA DAME MOU SONNAN JA HORA KOKORO WA SHINKA SURUYO MOTTO MOTTO SOU SONNAN JA YADA NEE SONNAN JA MADA WATASHI NO KOTO MITE TE NE ZUTTO ZUTTO
 </td>
 <td style="text-align: center;">
 <img src="https://xelus22.github.io/LoLSocWebpage/uploads/455067829150941205 - ANDY liu_waifu2x_photo_noise3_scale_tta_1.png">
