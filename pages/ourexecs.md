@@ -3,6 +3,7 @@ layout: page
 title: Our Executives
 permalink: ourexecs
 subtitle: Our execs!
+published: false
 
 ---
 Executives might sound like a scary word, but in reality we stay up playing League just like you! Don't be afraid to talk and say hi to us at our next event!
@@ -11,14 +12,13 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
 <tr>
 <td style="width: 60%;">
 <h2><b> PRESIDENT:</b></h2>
-<b>Name:</b> Adrian "Morale" Guo
-<br> <br> <b>Year:</b> 3rd Year Medicinal Chemistry
-<br> <br> <b>Favourite Champion:</b> Graves because he is very fun and satisfying to play
-<br> <br> <b>Personal Motto:</b> Teamwork makes the dream work
-<br> <br> <b>Favourite League Memory:</b> Winning Sydney Battlegrounds 2018
+<b>Name:</b> Emma "Xun" Soo
+<br> <br> <b>Year:</b> 2nd Year Computer Science
+<br> <br> <b>Favourite Champion:</b> Zoe because I like cute loli girls
+<br> <br> <b>Favourite Quote:</b> Change is the only constant.
 </td>
 <td style="text-align: center;">
-<img src="https://xelus22.github.io/LoLSocWebpage/uploads/30711799_2086764861350849_5821514581280817152_n.jpg">
+<img src="https://unswlolsoc.github.io/LoLSocWebpage/uploads/IMG_2374.jpg">
 </td>
 </tr>
 </table>
@@ -30,14 +30,13 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
 <tr>
 <td style="width: 60%; ">
 <h2><b> VICE PRESIDENT (OPS):</b></h2>
-<b>Name:</b> Harrison “Xelus” Chan
-<br> <br> <b>Year:</b> 2nd Year Electrical Engineering/Computer Science
-<br> <br> <b>Favourite Champion:</b> Yi. He is a really fun champion because he’s got a lot of outplay potential and has a few important mechanics to his kit. Also he is a great champion to snowball with in low elo
-<br> <br> <b>Personal Motto:</b> Silence
-<br> <br> <b>Favourite League Memory:</b> Playing with the legendary YoloSwagPimp420
+<b>Name:</b> Kenzo "New Kanye Sucks" Jeanson
+<br> <br> <b>Year:</b> 2nd Year Information Systems
+<br> <br> <b>Favourite Champion:</b> Friendship ended with Kled. Now Jax is my best friend.
+<br> <br> <b>Personal Motto:</b> I'm nice at ping pong
 </td>
 <td style="text-align: center;">
-<img src="https://xelus22.github.io/LoLSocWebpage/uploads/Picture5.jpg">
+<img src="https://unswlolsoc.github.io/LoLSocWebpage/uploads/IMG_2395.jpg">
 </td>
 </tr>
 </table>
