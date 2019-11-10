@@ -118,25 +118,6 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
 <table border="11">
 <tr>
 <td style="width: 60%; ">
-<h2><b> HUMAN RESOURCES DIRECTOR:</b></h2>
-<b>Name:</b> Brendan “Terrosyth” Kwan
-<br> <br> <b>Year:</b> 3rd Year Science/Psychology
-<br> <br> <b>Favourite Champion:</b> Ahri
-<br> <br> <b>Personal Motto:</b> Life stops for no one, grasp every opportunity or get left behind
-<br> <br> <b>Favourite League Memory:</b> Legends never die 😓
-</td>
-<td style="text-align: center;">
-<img src="https://xelus22.github.io/LoLSocWebpage/uploads/Picture6.jpg">
-</td>
-</tr>
-</table>
-
-<p></p>
-<p></p>
-
-<table border="11">
-<tr>
-<td style="width: 60%; ">
 <h2><b> EVENTS DIRECTOR #1:</b></h2>
 <b>Name:</b> Colby “Kobe Lu” Lu
 <br> <br> <b>Year:</b> 3rd Year Information Systems
