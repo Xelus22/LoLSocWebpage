@@ -66,14 +66,13 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
 <tr>
 <td style="width: 60%; ">
 <h2><b> SECRETARY:</b></h2>
-<b>Name:</b> Helen “SwordSky” Xia
-<br> <br> <b>Year:</b> 4th Year Computer Science/Media Arts
-<br> <br> <b>Favourite Champion:</b> Zoe
-<br> <br> <b>Personal Motto:</b> Kill Secured!
-<br> <br> <b>Favourite League Memory:</b> Discovering just how far Rakan can travel in under a second (the entire distance between mid lane 1st tier turrets)
+<b>Name:</b> Harrison "Xelus" Chan
+<br> <br> <b>Year:</b> 2nd Year Electrical Engineering/Computer Science
+<br> <br> <b>Favourite Champion:</b> Master Yi and Jax
+<br> <br> <b>Favourite Quote:</b> Nurries C U in the NT
 </td>
 <td style="text-align: center;">
-<img src="https://xelus22.github.io/LoLSocWebpage/uploads/b948d983-8ec3-4d9d-82b8-2a1f5f88d80e.png">
+<img src="https://unswlolsoc.github.io/LoLSocWebpage/uploads/IMG_2421.jpg">
 </td>
 </tr>
 </table>
