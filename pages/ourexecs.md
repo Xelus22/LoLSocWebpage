@@ -149,7 +149,7 @@ KAMI SAMA ARIGATOU UNMEI NO ITSUZURA DEMO MEGURIAETA KOTO GA SHIAWASE NA NO
 DEMO SONNAN JA DAME MOU SONNAN JA HORA KOKORO WA SHINKA SURUYO MOTTO MOTTO SOU SONNAN JA YADA NEE SONNAN JA MADA WATASHI NO KOTO MITE TE NE ZUTTO ZUTTO
 </td>
 <td style="text-align: center;">
-<img src="https://xelus22.github.io/LoLSocWebpage/uploads/455067829150941205 - ANDY liu_waifu2x_photo_noise3_scale_tta_1.png">
+<img src="https://unswlolsoc.github.io/LoLSocWebpage/uploads/IMG_2416.jpg">
 </td>
 </tr>
 </table>
@@ -162,13 +162,12 @@ DEMO SONNAN JA DAME MOU SONNAN JA HORA KOKORO WA SHINKA SURUYO MOTTO MOTTO SOU S
 <td style="width: 60%; ">
 <h2><b> MARKETING DIRECTOR (MEDIA):</b></h2>
 <b>Name:</b> Sean "cso67" Gomez
-<br> <br> <b>Year:</b> 3rd Year Psychology
-<br> <br> <b>Favourite Champion:</b> I am the (second) greatest Lux in LoLSoc
-<br> <br> <b>Personal Motto:</b> Comebackable!
-<br> <br> <b>Favourite League Memory:</b> Late night ARAMs with friends when we couldn’t end on a loss. Also, clean climb to Diamond after being hardstuck Silver for too long. But mostly beating Stealthix in norms!
+<br> <br> <b>Year:</b> 2nd Year Aerospace Engineering
+<br> <br> <b>Favourite Champion:</b> Xayah, "Tristana"
+<br> <br> <b>Favourite Quote:</b> That's a bruh moment
 </td>
 <td style="text-align: center;">
-<img src="https://xelus22.github.io/LoLSocWebpage/uploads/Picture2-1.jpg">
+<img src="https://unswlolsoc.github.io/LoLSocWebpage/uploads/IMG_2338.jpg">
 </td>
 </tr>
 </table>
@@ -180,14 +179,13 @@ DEMO SONNAN JA DAME MOU SONNAN JA HORA KOKORO WA SHINKA SURUYO MOTTO MOTTO SOU S
 <tr>
 <td style="width: 60%; ">
 <h2><b> MARKETING DIRECTOR (PUBLICATIONS):</b></h2>
-<b>Name:</b> Kenzo “cso69” Jeanson
-<br> <br> <b>Year:</b> 2nd Year Information Systems
-<br> <br> <b>Favourite Champion:</b> One Champ One Lane Kled OTP for life
-<br> <br> <b>Personal Motto:</b> Worse jungler = instalose
-<br> <br> <b>Favourite League Memory:</b> Boosting our past president to Gold!
+<b>Name:</b> Clarissa "Cure Lemonade" Tatang
+<br> <br> <b>Year:</b> 1st Year Software Engineering
+<br> <br> <b>Favourite Champion:</b> Taliyah and Zoe pew pew pew
+<br> <br> <b>Favourite Quote:</b> Happiness is letting go of what you think your life is supposed to look like and celebrating it for everything that it is.
 </td>
 <td style="text-align: center;">
-<img src="https://xelus22.github.io/LoLSocWebpage/uploads/468b2ef7-3bc9-4d57-a646-ddfdf90adfb4-1.jpg">
+<img src="https://unswlolsoc.github.io/LoLSocWebpage/uploads/IMG_2335.jpg">
 </td>
 </tr>
 </table>
