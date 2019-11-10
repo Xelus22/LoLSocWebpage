@@ -119,14 +119,13 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
 <tr>
 <td style="width: 60%; ">
 <h2><b> EVENTS DIRECTOR #1:</b></h2>
-<b>Name:</b> Colby “Kobe Lu” Lu
-<br> <br> <b>Year:</b> 3rd Year Information Systems
-<br> <br> <b>Favourite Champion:</b> Vayne
-<br> <br> <b>Personal Motto:</b> It’s only embarrassing if you’re embarrassed
-<br> <br> <b>Favourite League Memory:</b> Becoming Jesus and walking on water at roadtrip
+<b>Name:</b> Adam "Bucklava" Felah
+<br> <br> <b>Year:</b> 2nd Year Computer Science
+<br> <br> <b>Favourite Champion:</b> Kindred
+<br> <br> <b>Favourite Quote:</b> covfefe
 </td>
 <td style="text-align: center;">
-<img src="https://xelus22.github.io/LoLSocWebpage/uploads/Picture8.jpg">
+<img src="https://unswlolsoc.github.io/LoLSocWebpage/uploads/IMG_2383.jpg">
 </td>
 </tr>
 </table>
