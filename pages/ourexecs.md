@@ -18,7 +18,7 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
 <br> <br> <b>Favourite Quote:</b> Change is the only constant.
 </td>
 <td style="text-align: center;">
-<img src="https://raw.githubusercontent.com/UNSWLoLSoc/LoLSocWebpage/master/uploads/IMG_2374.jpg">
+<img src="https://unswlolsoc.github.io/LoLSocWebpage/uploads/IMG_2374.jpg">
 </td>
 </tr>
 </table>
