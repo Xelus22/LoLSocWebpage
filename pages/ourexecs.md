@@ -83,7 +83,7 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
 <tr>
 <td style="width: 60%; ">
 <h2><b> TREASURER:</b></h2>
-<b>Name:</b> Tom (Thomas) "The Pretender" Su
+<b>Name:</b> Tom "The Pretender" Su
 <br> <br> <b>Year:</b> 2nd Year Commerce (Finance)/Advanced Science (Honours) (Physics)
 <br> <br> <b>Favourite Champion:</b> Lux, Talon, Kha'Zix
 <br> <br> <b>Favourite Quote:</b> Either *name* is mafia or *name*'s head is packed full of peanuts.
@@ -101,7 +101,7 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
 <tr>
 <td style="width: 60%; ">
 <h2><b> ARC DELEGATE:</b></h2>
-<b>Name:</b> Merry (XiaoDe) "goddessofducks" Chu
+<b>Name:</b> Merry "goddessofducks" Chu
 <br> <br> <b>Year:</b> 1st Year Actuarial/Advanced Maths
 <br> <br> <b>Favourite Champion:</b> Tristana and Nami
 <br> <br> <b>Favourite Quote:</b> Tick tock, it's give me attention O'clock
@@ -161,7 +161,7 @@ DEMO SONNAN JA DAME MOU SONNAN JA HORA KOKORO WA SHINKA SURUYO MOTTO MOTTO SOU S
 <tr>
 <td style="width: 60%; ">
 <h2><b> MARKETING DIRECTOR (MEDIA):</b></h2>
-<b>Name:</b> Stephen “phancy” Chan
+<b>Name:</b> Sean "cso67" Gomez
 <br> <br> <b>Year:</b> 3rd Year Psychology
 <br> <br> <b>Favourite Champion:</b> I am the (second) greatest Lux in LoLSoc
 <br> <br> <b>Personal Motto:</b> Comebackable!
