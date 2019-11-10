@@ -84,18 +84,13 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
 <tr>
 <td style="width: 60%; ">
 <h2><b> TREASURER:</b></h2>
-<b>Name:</b> Yilun "tigeryl" Zhou
-<br> <br> <b>Year:</b> 4th Year Commerce/Information Systems
-<br> <br> <b>Favourite Champion:</b> Dr Mundo - He goes where he pleases!
-<br> <br> <b>Personal Motto:</b> If you need 50 gold to buy an item, just kill the Nexus
-<br> <br> <b>Favourite League Memory:</b> My friend and I had around 30 minutes before our tutorial started whereby he decided that it would be wise to begin a game of league. He decided to play top Vladimir even though he wasn’t very proficient
-at the champion. Hilarity ensued as he kept on dying in lane 1v1 over and over again, whist commenting on how each last death was BS. Somehow, the game managed to drag to 30 minutes and he had to pack up because of the tutorial. I somehow managed
-to convince my friend to log back on to see the result of the game once we got to the tutorial. Miraculously, the game was still ongoing when he rejoined. We tried to hold back our laughter as the Master Yi on his team typed “come vlad, we need
-u for this teamfight” whilst I gestured to my friend’s kda of 4/18/2. As usual, my friend dove in first and pressed his ult, just to see the dreaded grey screen 1 second later. The smiles on our faces turned to shock as Yi managed to clean up the
-enemy one by one to win the game!
+<b>Name:</b> Tom (Thomas) "The Pretender" Su
+<br> <br> <b>Year:</b> 2nd Year Commerce (Finance)/Advanced Science (Honours) (Physics)
+<br> <br> <b>Favourite Champion:</b> Lux, Talon, Kha'Zix
+<br> <br> <b>Favourite Quote:</b> Either *name* is mafia or *name*'s head is packed full of peanuts.
 </td>
 <td style="text-align: center;">
-<img src="https://xelus22.github.io/LoLSocWebpage/uploads/Picture7.jpg">
+<img src="https://unswlolsoc.github.io/LoLSocWebpage/uploads/IMG_2389.jpg">
 </td>
 </tr>
 </table>
