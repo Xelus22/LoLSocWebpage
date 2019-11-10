@@ -18,7 +18,7 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
 <br> <br> <b>Favourite Quote:</b> Change is the only constant.
 </td>
 <td style="text-align: center;">
-<img src="https://unswlolsoc.github.io/LoLSocWebpage/uploads/IMG_2374.jpg">
+<img src="https://raw.githubusercontent.com/UNSWLoLSoc/LoLSocWebpage/master/uploads/IMG_2374.jpg">
 </td>
 </tr>
 </table>
@@ -48,11 +48,10 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
 <tr>
 <td style="width: 60%;">
 <h2><b> VICE PRESIDENT (ADMIN):</b></h2>
-<b>Name:</b> Alex “Aldiko9” Wong
-<br> <br> <b>Year:</b> 4th Year Commerce/Law
-<br> <br> <b>Favourite Champion:</b> Trundle because … TRAFFIC CONES!!!
-<br> <br> <b>Personal Motto:</b> When you are 0/6, just be a minion
-<br> <br> <b>Favourite League Memory:</b> I dedicate this to all those times minions became winions.
+<b>Name:</b> Michael "minhcam123456789" Cam
+<br> <br> <b>Year:</b> 2nd Year Civil Engineering
+<br> <br> <b>Favourite Champion:</b> Rengar
+<br> <br> <b>Favourite Quote:</b> No?
 </td>
 <td style="text-align: center;">
 <img src="https://xelus22.github.io/LoLSocWebpage/uploads/Picture1.jpg">
