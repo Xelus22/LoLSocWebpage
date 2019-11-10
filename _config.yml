@@ -24,9 +24,9 @@ description: UNSW League of Legends Society
 # List of links in the navigation bar
 navbar-links:
   About Us: 
-    - Our Society: "aboutus"
-    - Our Executives: "ourexecs"
-    - Our Sponsors: "oursponsors"
+    - Our Society: "about"
+    - Our Executives: "execs"
+    - Our Sponsors: "sponsors"
   Discord: "https://discord.gg/unswlolsoc"
   #Pages:
   #  - 2019 OWeek Callout: "2019O-WeekCallout"
