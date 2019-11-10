@@ -71,7 +71,7 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
 <br> <br> <b>Favourite Quote:</b> Nurries C U in the NT
 </td>
 <td style="text-align: center;">
-<img src="https://unswlolsoc.github.io/LoLSocWebpage/uploads/IMG_2421.jpg">
+<img src="https://unswlolsoc.github.io/LoLSocWebpage/uploads/IMG_2412.jpg">
 </td>
 </tr>
 </table>
