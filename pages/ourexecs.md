@@ -86,7 +86,7 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
 <b>Name:</b> Tom "The Pretender" Su
 <br> <br> <b>Year:</b> 2nd Year Commerce (Finance)/Advanced Science (Honours) (Physics)
 <br> <br> <b>Favourite Champion:</b> Lux, Talon, Kha'Zix
-<br> <br> <b>Favourite Quote:</b> Either __name__ is mafia or __name__'s head is packed full of peanuts.
+  <br> <br> <b>Favourite Quote:</b> Either <strong>name</strong> is mafia or <strong>name</strong>'s head is packed full of peanuts.
 </td>
 <td style="text-align: center;">
 <img src="https://unswlolsoc.github.io/LoLSocWebpage/uploads/IMG_2389.jpg">
