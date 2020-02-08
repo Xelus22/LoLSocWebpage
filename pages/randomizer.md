@@ -12,8 +12,6 @@ permalink: edDyNto6cs7r7p8s36sY
 
 <javascript>
 
-// JavaScript Document
-
 document.getElementById('test').onclick= function(){
 dice1 = Math.floor(Math.random() * 134) + 1
 console.log(dice1)
