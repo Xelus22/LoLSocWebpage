@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Our Sponsors
-permalink: oursponsors
+permalink: sponsors
 subtitle: Sponsors of UNSWLoLSoc
 
 ---

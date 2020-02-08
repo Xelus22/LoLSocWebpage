@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Us
-permalink: aboutus
+permalink: about
 subtitle: Our Society
 
 ---

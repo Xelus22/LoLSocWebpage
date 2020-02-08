@@ -1,7 +1,7 @@
 ---
 new_page_extension: md
 auto_deploy: true
-admin_path: 
+admin_path: ''
 webhook_url: 
 sections:
 - type: jekyll-pages
@@ -11,16 +11,22 @@ sections:
   label: Posts
   create: all
 upload_dir: uploads
-public_path: https://xelus22.github.io/LoLSocWebpage/uploads
-front_matter_path: https://xelus22.github.io/LoLSocWebpage
+public_path: https://unswlolsoc.github.io/LoLSocWebpage/uploads
+front_matter_path: https://unswlolsoc.github.io/LoLSocWebpage
 use_front_matter_path: true
 file_template: ":filename:"
+instant_preview: 
 build:
-  preview_command: bundle exec jekyll build --drafts --unpublished --future -d _site
-  publish_command: bundle exec jekyll build -d _site
   preview_env:
   - JEKYLL_ENV=staging
+  preview_output_directory: _site
+  install_dependencies_command: bundle install --path vendor/bundle
+  preview_docker_image: forestryio/build:latest
+  mount_path: "/opt/buildhome/repo"
+  instant_preview_command: bundle exec jekyll serve --drafts --unpublished --future
+    --port 8080 --host 0.0.0.0 -d _site
+  publish_command: bundle exec jekyll build -d _site
   publish_env:
   - JEKYLL_ENV=production
-  preview_output_directory: _site
   output_directory: _site
+  preview_command: bundle exec jekyll build --drafts --unpublished --future -d _site

@@ -5,12 +5,11 @@ subtitle: UNSWLoLSoc
 use-site-title: true
 css: "/css/index.css"
 bigimg:
-  - "/uploads/Autehntication%20UNSW%20signup.JPG" : "Arizona, 2017"
-  - "/uploads/f23dc2ac-4582-421a-852a-790d14103072.jpg" : "Winter Sunset, Muskeg, 2017"
-  - "/uploads/DSCF1751_asdasda.jpg" : "Trivia Night, 2018"
-  - "/uploads/anothawebsitephoto.jpg" : "5V5 Clash LAN, 2018"
-  - "/uploads/ANOTHAWEBSITEPHOTOHI.jpg" : "5V5 Clash LAN, 2018"
-  
+- "/uploads/f23dc2ac-4582-421a-852a-790d14103072.jpg": BBQ
+- "/uploads/DSCF1751_asdasda.jpg": Trivia Night, 2018
+- "/uploads/anothawebsitephoto.jpg": 5V5 Clash LAN, 2018
+- "/uploads/ANOTHAWEBSITEPHOTOHI.jpg": 5V5 Clash LAN, 2018
+
 ---
 # WELCOME TO UNSW LOLSOC
 
@@ -25,4 +24,4 @@ If you love League of Legends, join our community today for a world of fun!
 * Giveaways & Competitions
 * Infinite Amounts of Fun
 
-Sign up today at [http://www.unswlolsoc.com/signup/](http://www.unswlolsoc.com/signup/ "http://www.unswlolsoc.com/signup/") !
+Sign up today at [http://www.unswlolsoc.com/signup/](https://goo.gl/forms/dXCmaOssdV9OPd1A3 "https://goo.gl/forms/dXCmaOssdV9OPd1A3")!

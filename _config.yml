@@ -8,8 +8,8 @@
 #baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-url: "http://xelus22.github.io/LoLSocWebpage"
-baseurl: "/LoLSocWebpage"
+url: "https://unswlolsoc.com"
+baseurl: ""
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
@@ -24,17 +24,18 @@ description: UNSW League of Legends Society
 # List of links in the navigation bar
 navbar-links:
   About Us: 
-    - Our Society: "aboutus"
-    - Our Executives: "ourexecs"
-    - Our Sponsors: "oursponsors"
+    - Our Society: "about"
+    - Our Executives: "execs"
+    - Our Sponsors: "sponsors"
   Discord: "https://discord.gg/unswlolsoc"
-  Pages:
-    - 2019 OWeek Callout: "2019O-WeekCallout"
+  #Pages:
+  #  - 2019 OWeek Callout: "2019O-WeekCallout"
   Resources:
     - Newsletters: "newsletters/index.html"
     - Events: "events/index.html"
-    - Esports Corner: "https://pages.github.com/"
-  Sign Up: "signup"
+    - Esports: "esports/index.html"
+   # - Esports Corner: "https://pages.github.com/"
+  Sign Up: "https://goo.gl/forms/dXCmaOssdV9OPd1A3"
   Contact Us: "contactus"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -109,7 +110,7 @@ share-links-active:
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
 # url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
-
+# url-pretty: "unswlolsoc.com"
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
@@ -171,6 +172,9 @@ paginate_multiple:
   - paginate: 10
     paginate_path: '/events/page:num'
     sub_dir: '/events'
+  - paginate: 10
+    paginate_path: '/esports/page:num'
+    sub_dir: '/esports'
 
 
 kramdown:
@@ -199,7 +203,6 @@ link-tags: true
 # Exclude these files from production site
 exclude:
   - CHANGELOG.md
-  - CNAME
   - Dockerfile
   - Gemfile
   - Gemfile.lock
