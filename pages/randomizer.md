@@ -15,7 +15,7 @@ var prev = 0;
 document.getElementById('test').onclick= function(){
 
 	dice1 = Math.floor(Math.random() * 3) + 1;
-  	console.log(dice1);
+  	console.log(dice1, prev);
   	if(dice1 == prev) {
      	dice1++;
       	prev = dice1;
