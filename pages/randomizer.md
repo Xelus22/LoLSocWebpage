@@ -10,10 +10,10 @@ permalink: edDyNto6cs7r7p8s36sY
 
 </center>
 
-<javascript>
+<script type = "text/javascript">
 document.getElementById('test').onclick= function(){
   dice1 = Math.floor(Math.random() * 134) + 1;
   console.log(dice1);
   alert(dice1);
 }
-</javascript>
+</script>
