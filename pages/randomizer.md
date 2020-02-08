@@ -15,12 +15,12 @@ var prev = 0;
 document.getElementById('test').onclick= function(){
 
 	dice1 = Math.floor(Math.random() * 3) + 1;
-  	console.log(dice1, prev);
+  	console.log("before" + dice1 + " " + prev);
   	if(dice1 == prev) {
      	dice1++;
     }
     prev = dice1;
-    
+    console.log("after" + dice1 + " " + prev);
   	switch(dice1) {
       case 1:
         document.getElementById("test").src="https://cdn.discordapp.com/attachments/484757042226135050/599894159213723648/0098rwcomh931.jpg";
