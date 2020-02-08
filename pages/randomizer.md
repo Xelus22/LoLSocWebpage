@@ -11,8 +11,9 @@ permalink: edDyNto6cs7r7p8s36sY
 </center>
 
 <script type = "text/javascript">
+var prev = 0;
 document.getElementById('test').onclick= function(){
-  	var prev = 0;
+
 	dice1 = Math.floor(Math.random() * 3) + 1;
   	console.log(dice1);
   	if(dice1 == prev) {
