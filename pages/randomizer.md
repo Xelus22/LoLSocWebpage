@@ -18,10 +18,9 @@ document.getElementById('test').onclick= function(){
   	console.log(dice1, prev);
   	if(dice1 == prev) {
      	dice1++;
-      	prev = dice1;
-    } else {
-      prev = dice1;
     }
+    prev = dice1;
+    
   	switch(dice1) {
       case 1:
         document.getElementById("test").src="https://cdn.discordapp.com/attachments/484757042226135050/599894159213723648/0098rwcomh931.jpg";
