@@ -17,7 +17,7 @@ document.getElementById('test').onclick= function(){
   	console.log(dice1);
   	if(dice1 == prev) {
      	dice1++;
-      	prev++;
+      	prev = dice1;
     }
   	switch(dice1) {
       case 1:
