@@ -12,8 +12,13 @@ permalink: edDyNto6cs7r7p8s36sY
 
 <script type = "text/javascript">
 document.getElementById('test').onclick= function(){
+  	var prev = 0;
 	dice1 = Math.floor(Math.random() * 3) + 1;
   	console.log(dice1);
+  	if(dice1 == prev) {
+     	dice1++;
+      	prev++;
+    }
   	switch(dice1) {
       case 1:
         document.getElementById("test").src="https://cdn.discordapp.com/attachments/484757042226135050/599894159213723648/0098rwcomh931.jpg";
@@ -31,7 +36,5 @@ document.getElementById('test').onclick= function(){
         document.getElementById("test").src="https://i.imgur.com/RYm7WP2.jpg";
         break;
     }
-  	
-  	alert(dice1);
 }
 </script>
