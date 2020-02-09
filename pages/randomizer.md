@@ -6,11 +6,11 @@ permalink: edDyNto6cs7r7p8s36sY
 ---
 <center>
 
-<img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/1-1.png?raw=true" width="500" height="600" class="center">
+<img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/1-1.png?raw=true" width="500" height="600" class="center" id = "test">
 
-<button type="button" id = "soln">Reveal!</button> 
+<button type="button" id = "soln">Reveal Solution</button> 
 
-<button type="button" id = "test">Re-Roll</button>
+<button type="button" id = "test">Re-roll</button>
 
 </center>
 
