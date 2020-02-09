@@ -60,23 +60,7 @@ permalink: edDyNto6cs7r7p8s36sY
     
     function reveal(){
     var silhouette = "https://raw.githubusercontent.com/UNSWLoLSoc/LoLSocWebpage/master/uploads/Solutions/";
-      switch(prev) {
-        case 1:
-          document.getElementById("test").src="";
-          break;
-    
-        case 2:
-          document.getElementById("test").src="";
-          break;
-    
-        case 3:
-          document.getElementById("test").src="";
-          break;
-    
-        case 4:
-          document.getElementById("test").src="";
-          break;
-      }
+    document.getElementById("test").src= silhouette + champion + ".png";
     }
 
 </script>
