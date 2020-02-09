@@ -21,7 +21,7 @@ permalink: edDyNto6cs7r7p8s36sY
     var champion = "champion";
     var prev = 0; 
     function reRoll(){
-      dice1 = Math.floor(Math.random() * 3) + 1;
+      dice1 = Math.floor(Math.random() * 19) + 1;
       if(dice1 == prev) {
           dice1++;
       }
@@ -51,6 +51,42 @@ permalink: edDyNto6cs7r7p8s36sY
           break;
         case 8:
           champion = "fiddle";
+          break;
+        case 9:
+          champion = "fiora";
+          break;
+        case 10:
+          champion = "fizz";
+          break; 
+        case 11:
+          champion = "galio";
+          break;
+        case 12:
+          champion = "janna";
+          break;
+        case 13:
+          champion = "kat";
+          break;
+        case 14:
+          champion = "malz";
+          break; 
+        case 15:
+          champion = "ornn";
+          break;
+        case 16:
+          champion = "qiayana";
+          break;
+        case 17:
+          champion = "reksai";
+          break;
+        case 18:
+          champion = "sett";
+          break; 
+        case 19:
+          champion = "shyv";
+          break;
+        case 20:
+          champion = "tristana";
           break;
       }
       silhouette += champion;
