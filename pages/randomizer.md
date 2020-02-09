@@ -35,7 +35,7 @@ permalink: edDyNto6cs7r7p8s36sY
           break;
     
         case 2:
-          document.getElementById("test").src="https://cdn.discordapp.com/attachments/410167703043702794/675588173841301525/IMG_20200207_222553.jpg";
+          string.concat("2.jpg");
           break;
     
         case 3:
