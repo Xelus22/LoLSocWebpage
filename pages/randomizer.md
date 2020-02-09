@@ -11,13 +11,13 @@ permalink: edDyNto6cs7r7p8s36sY
 </center>
 
 <center>  
-<button type="button" id = "soln"  onclick="reveal()">Reveal Solution</button> 
+<button type="button" id = "soln"  onclick="reveal()">Reveal Solution</button>
 
 <button type="button" onclick="reRoll()">Re-roll</button>
 
 </center>
 
-<script type = "text/javascript"> 
+<script type = "text/javascript">
 
     var prev = 0; 
     function reRoll(){
@@ -31,7 +31,7 @@ permalink: edDyNto6cs7r7p8s36sY
       var string = "https://raw.githubusercontent.com/UNSWLoLSoc/LoLSocWebpage/master/uploads/Silhouette/"
       switch(dice1) {
         case 1:
-          string = string + "1.png";
+          string.concat("1.png");
           break;
     
         case 2:
