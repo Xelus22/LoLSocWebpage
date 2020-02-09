@@ -18,38 +18,46 @@ permalink: edDyNto6cs7r7p8s36sY
 </center>
 
 <script type = "text/javascript">
-
+    var champion = "champion";
     var prev = 0; 
     function reRoll(){
       dice1 = Math.floor(Math.random() * 3) + 1;
-      console.log("before" + dice1 + " " + prev);
       if(dice1 == prev) {
           dice1++;
       }
       prev = dice1;
-      console.log("after" + dice1 + " " + prev);
-      var string = "https://raw.githubusercontent.com/UNSWLoLSoc/LoLSocWebpage/master/uploads/Silhouette/"
+      var silhouette = "https://raw.githubusercontent.com/UNSWLoLSoc/LoLSocWebpage/master/uploads/Silhouette/";
       switch(dice1) {
         case 1:
-          string += "1.png";
+          champion = "alistar";          
           break;
-    
         case 2:
-          string += "2.jpg";
+          champion = "amumu";
           break;
-    
         case 3:
-          document.getElementById("test").src="https://i.imgur.com/RYm7WP2.jpg";
+          champion = "cass";
           break;
-    
         case 4:
-          document.getElementById("test").src="https://cdn.discordapp.com/attachments/454659822579875851/675865896186806312/83915101_2241594432809064_5953722011183218688_o.png";
+          champion = "diana";
+          break;
+        case 5:
+          champion = "draven";
+          break;
+        case 6:
+          champion = "ekko";
+          break;
+        case 7:
+          champion = "elise";
+          break;
+        case 8:
+          champion = "fiddle";
           break;
       }
       document.getElementById("test").src= string;
     }
     
     function reveal(){
+    var silhouette = "https://raw.githubusercontent.com/UNSWLoLSoc/LoLSocWebpage/master/uploads/Solutions/";
       switch(prev) {
         case 1:
           document.getElementById("test").src="";
