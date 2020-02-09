@@ -42,7 +42,26 @@ permalink: edDyNto6cs7r7p8s36sY
         break;
         
       case 4:
-        document.getElementById("test").src="https://i.imgur.com/RYm7WP2.jpg";
+        document.getElementById("test").src="https://cdn.discordapp.com/attachments/454659822579875851/675865896186806312/83915101_2241594432809064_5953722011183218688_o.png";
+        break;
+    }
+    
+    function reveal(){
+    switch(prev) {
+      case 1:
+        document.getElementById("test").src="";
+        break;
+        
+      case 2:
+        document.getElementById("test").src="";
+        break;
+        
+      case 3:
+        document.getElementById("test").src="";
+        break;
+        
+      case 4:
+        document.getElementById("test").src="";
         break;
     }
 
