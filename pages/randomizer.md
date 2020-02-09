@@ -53,7 +53,9 @@ permalink: edDyNto6cs7r7p8s36sY
           champion = "fiddle";
           break;
       }
-      document.getElementById("test").src= string;
+      silhouette += champion;
+      silhouette += ".png";
+      document.getElementById("test").src= silhouette;
     }
     
     function reveal(){
