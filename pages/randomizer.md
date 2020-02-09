@@ -13,14 +13,14 @@ permalink: edDyNto6cs7r7p8s36sY
 <center>  
 <button type="button" id = "soln">Reveal Solution</button> 
 
-<button type="button" id = "test">Re-roll</button>
+<button type="button" id = "test" onclick="reRoll()">Re-roll</button>
 
 </center>
 
-<script type = "text/javascript"> var prev = 0; 
+<script type = "text/javascript"> 
 
-function function(){
-
+    var prev = 0; 
+    function reRoll(){
     dice1 = Math.floor(Math.random() * 3) + 1;
     console.log("before" + dice1 + " " + prev);
     if(dice1 == prev) {
