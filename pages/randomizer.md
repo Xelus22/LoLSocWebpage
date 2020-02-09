@@ -17,9 +17,9 @@ permalink: edDyNto6cs7r7p8s36sY
 
 </center>
 
-<script type = "text/javascript">
-var prev = 0;
-document.getElementById('test').onclick= function(){
+<script type = "text/javascript"> var prev = 0; 
+
+function function(){
 
     dice1 = Math.floor(Math.random() * 3) + 1;
     console.log("before" + dice1 + " " + prev);
