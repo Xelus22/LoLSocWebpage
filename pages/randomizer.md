@@ -31,7 +31,7 @@ permalink: edDyNto6cs7r7p8s36sY
       var string = "https://raw.githubusercontent.com/UNSWLoLSoc/LoLSocWebpage/master/uploads/Silhouette/"
       switch(dice1) {
         case 1:
-          document.getElementById("test").src="https://cdn.discordapp.com/attachments/484757042226135050/599894159213723648/0098rwcomh931.jpg";
+          string = string + "1.png";
           break;
     
         case 2:
@@ -46,6 +46,7 @@ permalink: edDyNto6cs7r7p8s36sY
           document.getElementById("test").src="https://cdn.discordapp.com/attachments/454659822579875851/675865896186806312/83915101_2241594432809064_5953722011183218688_o.png";
           break;
       }
+      document.getElementById("test").src= string;
     }
     
     function reveal(){
