@@ -11,9 +11,9 @@ permalink: edDyNto6cs7r7p8s36sY
 </center>
 
 <center>  
-<button type="button" id = "soln"  onclick="reveal()">Reveal Solution</button>
+<button type="button" id = "soln"  onclick="reveal()" style="background-color: transparent;">Reveal Solution</button>
 
-<button type="button" onclick="reRoll()">Re-roll</button>
+<button type="button" onclick="reRoll()" style="background-color: transparent;">Re-roll</button>
 
 </center>
 
