@@ -6,7 +6,11 @@ permalink: edDyNto6cs7r7p8s36sY
 ---
 <center>
 
-<img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/1-1.png?raw=true" width="500" height="600" class="center" id = "test">
+<img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/1-1.png?raw=true" width="500" height="600" class="center">
+
+<button type="button" id = "soln">Reveal!</button> 
+
+<button type="button" id = "test">Re-Roll</button>
 
 </center>
 
@@ -14,14 +18,14 @@ permalink: edDyNto6cs7r7p8s36sY
 var prev = 0;
 document.getElementById('test').onclick= function(){
 
-	dice1 = Math.floor(Math.random() * 3) + 1;
-  	console.log("before" + dice1 + " " + prev);
-  	if(dice1 == prev) {
+    dice1 = Math.floor(Math.random() * 3) + 1;
+    console.log("before" + dice1 + " " + prev);
+    if(dice1 == prev) {
      	dice1++;
     }
     prev = dice1;
     console.log("after" + dice1 + " " + prev);
-  	switch(dice1) {
+    switch(dice1) {
       case 1:
         document.getElementById("test").src="https://cdn.discordapp.com/attachments/484757042226135050/599894159213723648/0098rwcomh931.jpg";
         break;
@@ -38,5 +42,6 @@ document.getElementById('test').onclick= function(){
         document.getElementById("test").src="https://i.imgur.com/RYm7WP2.jpg";
         break;
     }
+
 }
 </script>
