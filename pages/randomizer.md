@@ -28,6 +28,7 @@ permalink: edDyNto6cs7r7p8s36sY
       }
       prev = dice1;
       console.log("after" + dice1 + " " + prev);
+      var string = "https://raw.githubusercontent.com/UNSWLoLSoc/LoLSocWebpage/master/uploads/Silhouette/"
       switch(dice1) {
         case 1:
           document.getElementById("test").src="https://cdn.discordapp.com/attachments/484757042226135050/599894159213723648/0098rwcomh931.jpg";
