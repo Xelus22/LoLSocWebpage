@@ -31,11 +31,11 @@ permalink: edDyNto6cs7r7p8s36sY
       var string = "https://raw.githubusercontent.com/UNSWLoLSoc/LoLSocWebpage/master/uploads/Silhouette/"
       switch(dice1) {
         case 1:
-          string.concat("1.png");
+          string += "1.png";
           break;
     
         case 2:
-          string.concat("2.jpg");
+          string += "2.jpg";
           break;
     
         case 3:
