@@ -24,4 +24,4 @@ If you love League of Legends, join our community today for a world of fun!
 * Giveaways & Competitions
 * Infinite Amounts of Fun
 
-Sign up today at [http://www.unswlolsoc.com/signup/](unswlolsoc.com/signup/ "unswlolsoc.com/signup/")!
+Sign up today at [http://www.unswlolsoc.com/signup/](unswlolsoc.com/signup/ "https://unswlolsoc.com/signup/")!
