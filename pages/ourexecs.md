@@ -29,7 +29,7 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
 <tr>
 <td style="width: 60%; ">
 <h2><b> VICE PRESIDENT (OPS):</b></h2>
-<b>Name:</b> Kenzo "New Kanye Sucks" Jeanson
+<b>Name:</b> Kenzo "Konze" Jeanson
 <br> <br> <b>Year:</b> 3rd Year Information Systems
 <br> <br> <b>Favourite Champion:</b> Friendship ended with Kled. Now Jax is my best friend.
 <br> <br> <b>Favourite Quote:</b> "I'm nice at ping pong" - Kanye West
