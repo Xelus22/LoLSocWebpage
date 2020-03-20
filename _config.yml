@@ -28,13 +28,14 @@ navbar-links:
     - Our Executives: "execs"
     - Our Sponsors: "sponsors"
   Discord: "https://discord.gg/unswlolsoc"
-  #Pages:
+  Articles: "esports/index.html"
+  # Pages:
   #  - 2019 OWeek Callout: "2019O-WeekCallout"
-  Resources:
-    - Newsletters: "newsletters/index.html"
-    - Events: "events/index.html"
-    - Esports: "esports/index.html"
-   # - Esports Corner: "https://pages.github.com/"
+  # Resources:
+  # - Newsletters: "newsletters/index.html"
+  # - Events: "events/index.html"
+  # - Esports: "esports/index.html"
+  # - Esports Corner: "https://pages.github.com/"
   Sign Up: "https://forms.gle/PpNmLcuptXyrvJ91A"
   Contact Us: "contactus"
 
