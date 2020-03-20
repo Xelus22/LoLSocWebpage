@@ -118,7 +118,7 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
 <table border="11">
 <tr>
 <td style="width: 60%; ">
-<h2><b> EVENTS DIRECTOR #1:</b></h2>
+<h2><b> EVENTS DIRECTOR:</b></h2>
 <b>Name:</b> Adam "Bucklava" Felah
 <br> <br> <b>Year:</b> 3rd Year Computer Science transferring to Education
 <br> <br> <b>Favourite Champion:</b> Kindred
@@ -126,30 +126,6 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
 </td>
 <td style="text-align: center;">
 <img src="https://unswlolsoc.github.io/LoLSocWebpage/uploads/IMG_2383.jpg">
-</td>
-</tr>
-</table>
-
-<p></p>
-<p></p>
-
-<table border="11">
-<tr>
-<td style="width: 60%; ">
-<h2><b> EVENTS DIRECTOR #2:</b></h2>
-<b>Name:</b> Andre "ah415263" Havier
-<br> <br> <b>Year:</b> 2nd Year Software Engineering/Commerce
-<br> <br> <b>Favourite Champion:</b> Riven One Trick
-<br> <br> <b>Favourite Quote:</b> Se no \~ DEMO SONNAN JA DAME MOU SONNAN JA HORA KOKORO WA SHINKA SURU YO MOTTO MOTTO.
-KOTOBA NI SUREBA KIECHAU KANKEI NARA KOTOBA O KESEBA IIYATTE OMOTTETA OSORETETA DAKEDO ARE? NANKA CHIGAU KAMO.
-SENRI NO MICHI MO IPPO KARA! ISHI NO YOU NI KATAI SONNA ISHI DE CHIRI MO TSUMOREBA YAMATO NEDESHIKO? ‘SHI’ NUKI DE IYA SHINU KI DE!
-FUWAFUWARI FUWAFUWARU ANATA GA NAMAE O YOBU SORE DAKE DE CHUU E UKABU
-FUWAFUWARU FUWAFUWARI ANATA GA WARATTE IRU SORE DAKE DE EGAO NI NARU
-KAMI SAMA ARIGATOU UNMEI NO ITSUZURA DEMO MEGURIAETA KOTO GA SHIAWASE NA NO
-DEMO SONNAN JA DAME MOU SONNAN JA HORA KOKORO WA SHINKA SURUYO MOTTO MOTTO SOU SONNAN JA YADA NEE SONNAN JA MADA WATASHI NO KOTO MITE TE NE ZUTTO ZUTTO
-</td>
-<td style="text-align: center;">
-<img src="https://unswlolsoc.github.io/LoLSocWebpage/uploads/IMG_2416.jpg">
 </td>
 </tr>
 </table>
