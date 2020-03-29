@@ -5,7 +5,7 @@ subtitle: Rito Games Press Conference
 gallery: []
 
 ---
-###### Written by Joshua "Sempi" Yuan
+#### Written by Joshua "Sempi" Yuan
 
 In a surprise press conference on Monday, the developers of League of Legends, Rito Games made some frank admissions with regards to being asked how they decide which champions get what skins.
 
