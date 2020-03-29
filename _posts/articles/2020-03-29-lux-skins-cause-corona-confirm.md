@@ -1,10 +1,12 @@
 ---
 layout: post
 title: Lux Skins Cause Corona Confirm?!?!
-subtitle: Rito Games Press Conference | Joshua "Sempi" Yuan
+subtitle: Rito Games Press Conference
 gallery: []
 
 ---
+###### _Written by Joshua "Sempi" Yuan_
+
 In a surprise press conference on Monday, the developers of League of Legends, Rito Games made some frank admissions with regards to being asked how they decide which champions get what skins.
 
 “We’ve seen a lot of complaints and speculation lately around how we give award skins to champions. We’d like to assure all our valuable players that we do not prioritise champions with higher play rates. Balancing of champions prior to skins are also statistical anomalies, and are not reflective of our culture here at Rito Games,” said Scott Gleb (COO), who has at times been described as a ‘Sacha Baron Cohen ripoff after a failed abortion’. “At Rito, we like to think of everyone as brorats; so we focus on what the players want, and make sure we release skins that the community is asking for – Cosmic Lux, Dark Cosmic Lux, Battle Academia Lux and Pajama Guardian Lux to name a few.”
@@ -19,6 +21,6 @@ When asked about the impact that the recent coronavirus has had on Rito’s abil
 
 Rito confirmed Scott’s statements in a subsequent Twitter post early on Tuesday, and clarified that their advice did not apply to ADCs as most Vayne players are considered sub-human, and therefore, not at risk.
 
-_Disclaimer: Everything here is definitely true. Definitely. I swear._ 
+_Disclaimer: Everything here is definitely true. Definitely. I swear._
 
 _Credit to Miguel for Sacha Baron and Clarissa for being mum_
