@@ -5,9 +5,9 @@ subtitle: ''
 gallery: []
 
 ---
-##### Written by Clarissa "Cure Lemonade" Tatang
+#### Written by Clarissa "Cure Lemonade" Tatang
 
-If you ask this question to the random LoLSoc member, most of them will say “Because it’s fun”, or maybe “It’s a good experience”, or even maybe “The prizes are really good”. And with the first-place team receiving 5 Logitech Astro A20 headsets which have a recommended retail price of $250 each… who can blame them? 
+If you ask this question to the random LoLSoc member, most of them will say “Because it’s fun”, or maybe “It’s a good experience”, or even maybe “The prizes are really good”. And with the first-place team receiving 5 Logitech Astro A20 headsets which have a recommended retail price of $250 each… who can blame them?
 
 So why do most people say its fun? Well, in a tournament, there can only be one winner so who really expects to win the craziest of prizes? But every person who partakes in Rumble will have the opportunity to have fun. Starting from the scrims with other teams where your team might or might not take it seriously. Then, to the Double Round Robin in the group stage. And finally, to the Double Elimination Playoffs that the past three weeks have led up to. The whole experience is what everyone can enjoy and have fun, and with so many games, who knows what sort of memories you will make? And that’s why you should join Rumble.
 
@@ -39,7 +39,7 @@ Here are their reasons to why you should join Rumble:
 * It’s the best way to assert dominance.
 * Kenzo’s organising it.
 * It’s a good opportunity to get a taste of competitive play and make friends in the society.
-* Good team building and prizes! 
+* Good team building and prizes!
 
 I hope you will join Rumble and make it the best Rumble ever!
 
