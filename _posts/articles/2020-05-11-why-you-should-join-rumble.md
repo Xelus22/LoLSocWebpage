@@ -19,15 +19,15 @@ I did a survey about LoLSoc Rumble and publicised it on the LoLSoc Discord. If y
 
 These were their favourite parts about Rumble:
 
-* The competitive environment
-* Proving yourself as a player
-* Having fun with friends
-* The BSV™ stream
-* The memes and vibes of Rumble
-* Learning more about playing the game which is a stark contrast to the “good ol solo queue experience”
-* The big plays, the close games and the even matchups
-* Meeting new people and getting to know them
-* Scrims
+* The competitive environment.
+* Proving yourself as a player.
+* Having fun with friends.
+* The BSV™ stream.
+* The memes and vibes of Rumble.
+* Learning more about playing the game which is a stark contrast to the “good ol solo queue experience”.
+* The big plays, the close games and the even matchups.
+* Meeting new people and getting to know them.
+* Scrims.
 * Different narratives and storylines such as “rival teams duking it out” or “the team of fresh faces making waves”.
 
 Here are their reasons to why you should join Rumble:
