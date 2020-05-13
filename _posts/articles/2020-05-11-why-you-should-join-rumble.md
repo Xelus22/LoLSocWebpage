@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why You Should Join Rumble
-subtitle: ''
+subtitle: testSubtitle
 gallery: []
 
 ---
