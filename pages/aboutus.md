@@ -15,6 +15,6 @@ UNSW LoLSoc has grown to become a family for all of its members and supporters. 
 
 # Youtube
 
-\[UNSWLoLSoc Get Diamond Plus in LoL\]([https://www.youtube.com/c/unswlolsoc/featured](https://www.youtube.com/c/unswlolsoc/featured "UNSWLoLSoc Get Diamond Plus in LoL"))
+[https://www.youtube.com/c/unswlolsoc/featured](https://www.youtube.com/c/unswlolsoc/featured "UNSWLoLSoc Get Diamond Plus in LoL"))
 
-\[UNSW LoLSoc\]([https://www.youtube.com/channel/UC4MMtBvmRjwA-n2Id5WX8UQ/featured](https://www.youtube.com/channel/UC4MMtBvmRjwA-n2Id5WX8UQ/featured "UNSW LoLSoc"))
+[https://www.youtube.com/channel/UC4MMtBvmRjwA-n2Id5WX8UQ/featured](https://www.youtube.com/channel/UC4MMtBvmRjwA-n2Id5WX8UQ/featured "UNSW LoLSoc")
