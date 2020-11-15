@@ -16,7 +16,7 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
 <br> <br> <b>Favourite Quote:</b> I am no longer pet I want power  
 </td>  
 <td style="text-align: center;">  
-<img src="../uploads/winny.jpg">  
+<img src="">  
 </td>  
 </tr>  
 </table>
@@ -64,10 +64,10 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
 <tr>
 <td style="width: 60%; ">
 <h2><b> SECRETARY:</b></h2>
-<b>Name:</b> Harrison "Xelus" Chan
-<br> <br> <b>Year:</b> 3rd Year Electrical Engineering/Computer Science
-<br> <br> <b>Favourite Champion:</b> Master Yi and Jax
-<br> <br> <b>Favourite Quote:</b> i know but i didnt know
+<b>Name:</b> Tom “platonicbtw” Tran
+<br> <br> <b>Year:</b> 2nd year Media (Screen and Sound Production)
+<br> <br> <b>Favourite Champion:</b> Singed, Yasuo, Yone, Teemo, Aatrox, Katarina, Thresh, Senna, Lucian, Jayce, Spear of Shojin Jax, Renekton, Annie, Master Yi, Zoe, Wukong, Urgot, Ahri, Rengar, Kha’Zix, Amumu, Azir, Xerath, Nasus, Talon, Fiora, Darius, Draven, Sunfire Cape, Ornn, Swain, Leblanc, Jarvan IV, Galio, Lux, Garen, Sion, Sylas, Ashe, Tryndamere, Sejauni, Lissandra, Trundle, Braum, Sivir, Cassiopeia, Fizz, Gangplank, Miss Fortune, Graves, Twisted Fate, Illaoi, Kindred, Mordekaiser, Hecarim, Elise, Blade of the Ruined King, Karthus, Yorick, Vi, Caitlyn, Warwick, Singed, Tristana, Lulu, Kennen, Ivern, Maokai, Malphite, Sett, Xayah, Rakan, Knight’s Vow, Kog Maw, Vayne, Jinx, Alphelios, Samira, Fiddlesticks, Tahm Kench, Ezreal, Taric, Leona, Diana, Pantheon, Aurelion Sol.
+<br> <br> <b>Favourite Quote:</b> [https://tinyurl.com/thomastransitionsquote](https://tinyurl.com/thomastransitionsquote "https://tinyurl.com/thomastransitionsquote")
 </td>
 <td style="text-align: center;">
 <img src="">
@@ -84,8 +84,8 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
 <h2><b> TREASURER:</b></h2>
 <b>Name:</b> Tom "The Pretender" Su
 <br> <br> <b>Year:</b> 3rd Year Commerce (Finance)/Advanced Science (Honours) (Physics)
-<br> <br> <b>Favourite Champion:</b> Lux, Talon, Kha'Zix
-<br> <br> <b>Favourite Quote:</b> Either <strong>name</strong> is mafia or <strong>name</strong>'s head is packed full of peanuts.
+<br> <br> <b>Favourite Champion:</b> Talon, Kassawin, Evelynn
+<br> <br> <b>Favourite Quote:</b> Bruh
 </td>
 <td style="text-align: center;">
 <img src="">
@@ -100,10 +100,10 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
 <tr>
 <td style="width: 60%; ">
 <h2><b> ARC DELEGATE:</b></h2>
-<b>Name:</b> Merry "goddessofducks" Chu
-<br> <br> <b>Year:</b> 2nd Year Actuarial/Advanced Maths
-<br> <br> <b>Favourite Champion:</b> Tristana and Nami
-<br> <br> <b>Favourite Quote:</b> Tick tock, it's give me attention O'clock
+<b>Name:</b> Kenzo “indaclub” Jeanson
+<br> <br> <b>Year:</b> 1st Year Masters of Applied Linguistics
+<br> <br> <b>Favourite Champion:</b> 3-Star Chosen Mage Ahri with Jeweled Gauntlet, Infinity Edge, and Guardian Angel.
+<br> <br> <b>Favourite Quote:</b> What’s DN?
 </td>
 <td style="text-align: center;">
 <img src="">
@@ -118,10 +118,44 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
 <tr>
 <td style="width: 60%; ">
 <h2><b> EVENTS DIRECTOR:</b></h2>
-<b>Name:</b> Adam "Bucklava" Felah
-<br> <br> <b>Year:</b> 3rd Year Computer Science transferring to Education
-<br> <br> <b>Favourite Champion:</b> Kindred
-<br> <br> <b>Favourite Quote:</b> covfefe
+<b>Name:</b> Brandon “PORTR1D” Liao
+<br> <br> <b>Year:</b> 3rd Year Mechatronics/Biomedical Engineering
+<br> <br> <b>Favourite Champion:</b> Ghost/Ignite Fiora, Reksai Support
+<br> <br> <b>Favourite Quote:</b> “Just go next”
+</td>
+<td style="text-align: center;">
+<img src="">
+</td>
+</tr>
+</table>
+
+<p></p>
+<p></p>
+
+<table border="11">   
+<tr> <td style="width: 60%; ">   
+<h2><b> EVENTS DIRECTOR:</b></h2>   
+<b>Name:</b> Joshua “sempi” Yuan  
+<br> <br> <b>Year:</b> 4th Year Actuarial/Commerce   
+<br> <br> <b>Favourite Champion:</b> Zoe  
+<br> <br> <b>Favourite Quote:</b> Yes  
+</td>   
+<td style="text-align: center;">   
+<img src="">   
+</td>   
+</tr>   
+</table>
+
+<p></p> <p></p>
+
+<table border="11">
+<tr>
+<td style="width: 60%; ">
+<h2><b> MARKETING DIRECTOR (MEDIA):</b></h2>
+<b>Name:</b> Bradley “AlphaRune” Lau
+<br> <br> <b>Year:</b> 1st Year Media Arts
+<br> <br> <b>Favourite Champion:</b> Pyke (but if top always Teemo, nothing else)
+<br> <br> <b>Favourite Quote:</b> HOW DID THAT NOT HIT?!?!?!?!?!
 </td>
 <td style="text-align: center;">
 <img src="">
@@ -135,32 +169,13 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
 <table border="11">
 <tr>
 <td style="width: 60%; ">
-<h2><b> MARKETING DIRECTOR (MEDIA):</b></h2>
-<b>Name:</b> Sean "cso67" Gomez
-<br> <br> <b>Year:</b> 3rd Year Aerospace Engineering
-<br> <br> <b>Favourite Champion:</b> Xayah, "Tristana"
-<br> <br> <b>Favourite Quote:</b> That's a bruh moment
-</td>
-<td style="text-align: center;">
-<img src="https://unswlolsoc.github.io/LoLSocWebpage/uploads/IMG_2338.jpg">
-</td>
-</tr>
-</table>
-
-<p></p>
-<p></p>
-
-<table border="11">
-<tr>
-<td style="width: 60%; ">
 <h2><b> MARKETING DIRECTOR (PUBLICATIONS):</b></h2>
-<b>Name:</b> Clarissa "Cure Lemonade" Tatang
-<br> <br> <b>Year:</b> 2nd Year Software Engineering
-<br> <br> <b>Favourite Champion:</b> Taliyah and Zoe pew pew pew
-<br> <br> <b>Favourite Quote:</b> Happiness is letting go of what you think your life is supposed to look like and celebrating it for everything that it is.
-</td>
+<b>Name:</b> Hashim “Hashbrowns117” Nahya
+<br> <br> <b>Year:</b> 1st Year Mechatronic Engineering/Biomedical Engineering
+<br> <br> <b>Favourite Champion:</b> THE DAWWGG and the lacoste logo
+<br> <br> <b>Favourite Quote:</b> 1k stacks or FF
 <td style="text-align: center;">
-<img src="https://unswlolsoc.github.io/LoLSocWebpage/uploads/IMG_2335.jpg">
+<img src="">
 </td>
 </tr>
 </table>
