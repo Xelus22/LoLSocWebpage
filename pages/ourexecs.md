@@ -3,6 +3,7 @@ layout: page
 title: Our Executives
 permalink: execs
 subtitle: Meet our executives for 2020
+published: false
 
 ---
 Executives might sound like a scary word, but in reality we stay up playing League just like you! Don't be afraid to talk and say hi to us at our next event!
@@ -16,7 +17,7 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
 <br> <br> <b>Favourite Quote:</b> I am no longer pet I want power  
 </td>  
 <td style="text-align: center;">  
-<img src="../LoLSocWebpage/uploads/winny.jpg">  
+<img src="../uploads/winny.jpg">  
 </td>  
 </tr>  
 </table>
