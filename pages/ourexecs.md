@@ -16,7 +16,7 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
 <br> <br> <b>Favourite Quote:</b> I am no longer pet I want power  
 </td>  
 <td style="text-align: center;">  
-<img src="https://unswlolsoc.github.io/LoLSocWebpage/uploads/winny.jpg">  
+<img src="">  
 </td>  
 </tr>  
 </table>
@@ -28,13 +28,13 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
 <tr>
 <td style="width: 60%; ">
 <h2><b> VICE PRESIDENT (OPS):</b></h2>
-<b>Name:</b> Kenzo "Konze" Jeanson
-<br> <br> <b>Year:</b> 3rd Year Information Systems
-<br> <br> <b>Favourite Champion:</b> Friendship ended with Kled. Now Jax is my best friend.
-<br> <br> <b>Favourite Quote:</b> "I'm nice at ping pong" - Kanye West
+<b>Name:</b> Adam “Bucklava” Felah
+<br> <br> <b>Year:</b> 3rd Year Science(maths) / Education
+<br> <br> <b>Favourite Champion:</b> kindred (thematically) & corki (gameplay)
+<br> <br> <b>Favourite Quote:</b> “umm.. -sigh- okay. I love you all but give me one sec, we’re gonna have a talk now -sips water- -clears throat- alright, -sighs- umm -deep breath- so, I- I know that precedent is a very sexy topic, and I know that.. I love when my audiences are excited, and animated, and engaged... dear lord... um but- but there’s a limit to that, and ironically it’s the law, law students, and student code of conduct that governs that. uhh, so that being said.. dear lord.. if- if you’d like to have special love time with your partner, umm -laughs nervously- if- if you’d like to- if- if- if- you’d like to spend time with your partner, umm, there are some perfectly sanitised and malleable bean bags over at Muse and I’m sure that there are- there’s- I’m sure that there’s an empty cinema around here still tryna make the movie Cats work, it’s empty, go for your life. uhh, but- and this is the second time I’m saying this in my career, uh, no- no below the belt touching in my lecture theatre please -audience noises- um -more audience complaints- I’m not gonna name and shame -audience chatter- -sigh- alright, um -tests mic- we’re still on, uhh, just to qualify- just to qualify, um... this is a mentoring unit so I- I- I- will give some sort of mentorship here; advice. The strategic placement of the hoodie on the lap only draws the eye more -audience laughs- and um, yeah, I- I just mind that, okay, I’m gonna put my hands where I’m not gonna mind that, uh, I said before that I was glad I kept the University open today... -fades out-“
 </td>
 <td style="text-align: center;">
-<img src="https://unswlolsoc.github.io/LoLSocWebpage/uploads/IMG_2395.jpg">
+<img src="">
 </td>
 </tr>
 </table>
@@ -52,7 +52,7 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
 <br> <br> <b>Favourite Quote:</b> No?
 </td>
 <td style="text-align: center;">
-<img src="https://unswlolsoc.github.io/LoLSocWebpage/uploads/IMG_2391.jpg">
+<img src="">
 </td>
 </tr>
 </table>
