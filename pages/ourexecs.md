@@ -12,7 +12,7 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
 <br> <br> <b>Favourite Champion:</b> QiQi and rat Yuumi  
 <br> <br> <b>Favourite Quote:</b> I am no longer pet I want power  
 </td>  
-<td style="text-align: center;"> <img src="https://unswlolsoc.github.io/LoLSocWebpage/uploads/Winny.jpg"> </td> </tr> </table>
+<td style="text-align: center;"> <img src="![](https://unswlolsoc.github.io/LoLSocWebpage/uploads/winny.jpg)"> </td> </tr> </table>
 
 <p></p>
 <p></p>
