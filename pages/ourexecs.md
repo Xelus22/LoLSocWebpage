@@ -8,11 +8,11 @@ subtitle: Meet our executives for 2020
 Executives might sound like a scary word, but in reality we stay up playing League just like you! Don't be afraid to talk and say hi to us at our next event!
 
 <table border="11"> <tr> <td style="width: 60%;"> <h2><b> PRESIDENT:</b></h2> <b>Name:</b> Winny "Whiney" Jiang  
-<br> <br> <b>Year:</b> 1st Year Adv Maths/Computer Science   
-<br> <br> <b>Favourite Champion:</b> QiQi and rat Yuumi   
-<br> <br> <b>Favourite Quote:</b> I am no longer pet I want power   
-</td>   
-<td style="text-align: center;"> <img src="https://unswlolsoc.github.io/LoLSocWebpage/uploads/IMG_2374.jpg"> </td> </tr> </table>
+<br> <br> <b>Year:</b> 1st Year Adv Maths/Computer Science  
+<br> <br> <b>Favourite Champion:</b> QiQi and rat Yuumi  
+<br> <br> <b>Favourite Quote:</b> I am no longer pet I want power  
+</td>  
+<td style="text-align: center;"> <img src="https://unswlolsoc.github.io/LoLSocWebpage/uploads/Winny.jpg"> </td> </tr> </table>
 
 <p></p>
 <p></p>
