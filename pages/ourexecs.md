@@ -70,7 +70,7 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
 <br> <br> <b>Favourite Quote:</b> [https://tinyurl.com/thomastransitionsquote]()
 </td>
 <td style="text-align: center;">
-<img src="../uploads/merry.jpg">
+<img src="../uploads/tom-tran.jpg">
 </td>
 </tr>
 </table>
@@ -100,7 +100,7 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
 <tr>
 <td style="width: 60%; ">
 <h2><b> ARC DELEGATE:</b></h2>
-<b>Name:</b> Kenzo “indaclub” Jeanson
+<b>Name:</b> Kenzo “Kanye West” Jeanson
 <br> <br> <b>Year:</b> 1st Year Masters of Applied Linguistics
 <br> <br> <b>Favourite Champion:</b> 3-Star Chosen Mage Ahri with Jeweled Gauntlet, Infinity Edge, and Guardian Angel.
 <br> <br> <b>Favourite Quote:</b> What’s DN?
@@ -119,12 +119,12 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
 <td style="width: 60%; ">
 <h2><b> EVENTS DIRECTOR:</b></h2>
 <b>Name:</b> Brandon “PORTR1D” Liao
-<br> <br> <b>Year:</b> 3rd Year Mechatronics/Biomedical Engineering
+<br> <br> <b>Year:</b> 4th Year Mechatronics/Biomedical Engineering
 <br> <br> <b>Favourite Champion:</b> Ghost/Ignite Fiora, Reksai Support
 <br> <br> <b>Favourite Quote:</b> “Just go next”
 </td>
 <td style="text-align: center;">
-<img src="">
+<img src="../uploads/brandon.jpg">
 </td>
 </tr>
 </table>
@@ -141,7 +141,7 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
 <br> <br> <b>Favourite Quote:</b> Yes  
 </td>  
 <td style="text-align: center;">  
-<img src="">  
+<img src="../uplads/josh.jpg">  
 </td>  
 </tr>  
 </table>
@@ -153,12 +153,12 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
 <td style="width: 60%; ">
 <h2><b> MARKETING DIRECTOR (MEDIA):</b></h2>
 <b>Name:</b> Bradley “AlphaRune” Lau
-<br> <br> <b>Year:</b> 1st Year Media Arts
+<br> <br> <b>Year:</b> 2nd Year Media Arts
 <br> <br> <b>Favourite Champion:</b> Pyke (but if top always Teemo, nothing else)
 <br> <br> <b>Favourite Quote:</b> HOW DID THAT NOT HIT?!?!?!?!?!
 </td>
 <td style="text-align: center;">
-<img src="">
+<img src="../uploads/bradley.jpg">
 </td>
 </tr>
 </table>
@@ -171,7 +171,7 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
 <td style="width: 60%; ">
 <h2><b> MARKETING DIRECTOR (PUBLICATIONS):</b></h2>
 <b>Name:</b> Hashim “Hashbrowns117” Nahya
-<br> <br> <b>Year:</b> 1st Year Mechatronic Engineering/Biomedical Engineering
+<br> <br> <b>Year:</b> 2nd Year Mechatronic Engineering/Biomedical Engineering
 <br> <br> <b>Favourite Champion:</b> THE DAWWGG and the lacoste logo
 <br> <br> <b>Favourite Quote:</b> 1k stacks or FF
 <td style="text-align: center;">
