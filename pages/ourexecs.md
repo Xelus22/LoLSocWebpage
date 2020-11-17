@@ -118,7 +118,7 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
 <tr>
 <td style="width: 60%; ">
 <h2><b> EVENTS DIRECTOR:</b></h2>
-<b>Name:</b> Brandon “PORTR1D” Liao
+<b>Name:</b> Brandon “P0RTR1D” Liao
 <br> <br> <b>Year:</b> 4th Year Mechatronics/Biomedical Engineering
 <br> <br> <b>Favourite Champion:</b> Ghost/Ignite Fiora, Reksai Support
 <br> <br> <b>Favourite Quote:</b> “Just go next”
@@ -135,7 +135,7 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
 <table border="11">  
 <tr> <td style="width: 60%; ">  
 <h2><b> EVENTS DIRECTOR:</b></h2>  
-<b>Name:</b> Joshua “sempi” Yuan  
+<b>Name:</b> Joshua “Sempi” Yuan  
 <br> <br> <b>Year:</b> 4th Year Actuarial/Commerce  
 <br> <br> <b>Favourite Champion:</b> Zoe  
 <br> <br> <b>Favourite Quote:</b> Yes  
