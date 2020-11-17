@@ -146,7 +146,8 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
 </tr>  
 </table>
 
-<p></p> <p></p>
+<p></p> 
+<p></p>
 
 <table border="11">
 <tr>
@@ -177,5 +178,3 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
 <td style="text-align: center;">
 <img src="">
 </td>
-</tr>
-</table>
