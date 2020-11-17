@@ -67,7 +67,7 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
 <b>Name:</b> Tom “platonic btw” Tran
 <br> <br> <b>Year:</b> 3rd Year Media (Screen and Sound Production)
 <br> <br> <b>Favourite Champion:</b> Singed, Yasuo, Yone, Teemo, Aatrox, Katarina, Thresh, Senna, Lucian, Jayce, Spear of Shojin Jax, Renekton, Annie, Master Yi, Zoe, Wukong, Urgot, Ahri, Rengar, Kha’Zix, Amumu, Azir, Xerath, Nasus, Talon, Fiora, Darius, Draven, Sunfire Cape, Ornn, Swain, Leblanc, Jarvan IV, Galio, Lux, Garen, Sion, Sylas, Ashe, Tryndamere, Sejauni, Lissandra, Trundle, Braum, Sivir, Cassiopeia, Fizz, Gangplank, Miss Fortune, Graves, Twisted Fate, Illaoi, Kindred, Mordekaiser, Hecarim, Elise, Blade of the Ruined King, Karthus, Yorick, Vi, Caitlyn, Warwick, Singed, Tristana, Lulu, Kennen, Ivern, Maokai, Malphite, Sett, Xayah, Rakan, Knight’s Vow, Kog Maw, Vayne, Jinx, Alphelios, Samira, Fiddlesticks, Tahm Kench, Ezreal, Taric, Leona, Diana, Pantheon, Aurelion Sol.
-<br> <br> <b>Favourite Quote:</b> [https://tinyurl.com/thomastransitionsquote]()
+<br> <br> <b>Favourite Quote:</b> https://tinyurl.com/thomastransitionsquote
 </td>
 <td style="text-align: center;">
 <img src="../uploads/tom-tran.jpg">
