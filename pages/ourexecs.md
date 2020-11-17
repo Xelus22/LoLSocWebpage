@@ -141,7 +141,7 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
 <br> <br> <b>Favourite Quote:</b> Yes  
 </td>  
 <td style="text-align: center;">  
-<img src="../uplads/Josh.jpg">  
+<img src="../uploads/Josh.jpg">  
 </td>  
 </tr>  
 </table>
@@ -176,5 +176,5 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
 <br> <br> <b>Favourite Champion:</b> THE DAWWGG and the lacoste logo
 <br> <br> <b>Favourite Quote:</b> 1k stacks or FF
 <td style="text-align: center;">
-<img src="">
+<img src="../uploads/Hash.jpg">
 </td>
