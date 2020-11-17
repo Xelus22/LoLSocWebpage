@@ -156,7 +156,7 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
 <b>Name:</b> Bradley “AlphaRune” Lau
 <br> <br> <b>Year:</b> 2nd Year Media Arts
 <br> <br> <b>Favourite Champion:</b> Pyke (but if top always Teemo, nothing else)
-<br> <br> <b>Favourite Quote:</b> It's AlphaRune Baby
+<br> <br> <b>Favourite Quote:</b> IT'S ALPHARUNE BABY!!!
 </td>
 <td style="text-align: center;">
 <img src="../uploads/bradley.jpg">
