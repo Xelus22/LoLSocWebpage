@@ -141,7 +141,7 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
 <br> <br> <b>Favourite Quote:</b> Yes  
 </td>  
 <td style="text-align: center;">  
-<img src="../uplads/josh.jpg">  
+<img src="../uplads/Josh.jpg">  
 </td>  
 </tr>  
 </table>
