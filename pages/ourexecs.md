@@ -16,7 +16,7 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
 <br> <br> <b>Favourite Quote:</b> I am no longer pet I want power  
 </td>  
 <td style="text-align: center;">  
-<img src="">  
+<img src="../uploads/winny.jpg">  
 </td>  
 </tr>  
 </table>
@@ -132,18 +132,18 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
 <p></p>
 <p></p>
 
-<table border="11">   
-<tr> <td style="width: 60%; ">   
-<h2><b> EVENTS DIRECTOR:</b></h2>   
+<table border="11">  
+<tr> <td style="width: 60%; ">  
+<h2><b> EVENTS DIRECTOR:</b></h2>  
 <b>Name:</b> Joshua “sempi” Yuan  
-<br> <br> <b>Year:</b> 4th Year Actuarial/Commerce   
+<br> <br> <b>Year:</b> 4th Year Actuarial/Commerce  
 <br> <br> <b>Favourite Champion:</b> Zoe  
 <br> <br> <b>Favourite Quote:</b> Yes  
-</td>   
-<td style="text-align: center;">   
-<img src="">   
-</td>   
-</tr>   
+</td>  
+<td style="text-align: center;">  
+<img src="">  
+</td>  
+</tr>  
 </table>
 
 <p></p> <p></p>
