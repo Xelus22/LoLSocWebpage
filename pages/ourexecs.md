@@ -46,7 +46,7 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
 <tr>
 <td style="width: 60%;">
 <h2><b> VICE PRESIDENT (ADMIN):</b></h2>
-<b>Name:</b>Merry “GoddessofDucks” Chu
+<b>Name:</b> Merry “GoddessofDucks” Chu
 <br> <br> <b>Year:</b> 3rd Year Adv Maths/Commerce
 <br> <br> <b>Favourite Champion:</b> Nami best grill >w<
 <br> <br> <b>Favourite Quote:</b> The real _____ were the friends we made along the way <3
