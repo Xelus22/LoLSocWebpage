@@ -173,8 +173,8 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
 <h2><b> MARKETING DIRECTOR (PUBLICATIONS):</b></h2>
 <b>Name:</b> Hashim “Hashbrowns117” Nahya
 <br> <br> <b>Year:</b> 2nd Year Mechatronic Engineering/Biomedical Engineering
-<br> <br> <b>Favourite Champion:</b> THE DAWWGG and the lacoste logo
+<br> <br> <b>Favourite Champion:</b> THE DAWWGG and the Lacoste logo
 <br> <br> <b>Favourite Quote:</b> 1k stacks or FF
 <td style="text-align: center;">
-<img src="../uploads/Hash.jpg">
+<img src="../uploads/hash.jpg">
 </td>
