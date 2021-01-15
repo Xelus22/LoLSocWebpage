@@ -82,7 +82,7 @@ Executives might sound like a scary word, but in reality we stay up playing Leag
 <tr>
 <td style="width: 60%; ">
 <h2><b> TREASURER:</b></h2>
-<b>Name:</b> Tom "The Pretender" Su
+<b>Name:</b> Thomas "morgana1trick" Su
 <br> <br> <b>Year:</b> 4th Year Commerce (Finance)/Advanced Science (Honours) (Physics)
 <br> <br> <b>Favourite Champion:</b> Talon, Kassawin, Evelynn
 <br> <br> <b>Favourite Quote:</b> Bruh
