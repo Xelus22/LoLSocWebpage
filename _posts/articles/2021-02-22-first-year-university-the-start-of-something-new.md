@@ -12,7 +12,7 @@ Life, by its nature, is enriched by the new experiences we face each coming day.
 Of course, just like the game League of Legends, you can only get better with time, experience and a few patch notes. Everyone’s experience in university is going to be unique and having people help along the way is key. Where can you find such people?  
 Why of course right here!!! UNSW’s largest hobby society: The League of Legends Society🎉🎉
 
-The great thing about LoLSoc is that the people within are all driven by a common interest, a love-hate relationship with Rito and they’re client-crashing, bug-having, busted champions, crap meta of a game: League of Legends. By playing this god-forsaken game with others, a deep bond is shared. Whether it be on the Rift or in the Howling Abyss, there will always be memories shared with one another.
+The great thing about LoLSoc is that the people within are all driven by a common interest, a love-hate relationship with Rito and their client-crashing, bug-having, busted champions, crap meta of a game: League of Legends. By playing this god-forsaken game with others, a deep bond is shared. Whether it be on the Rift or in the Howling Abyss, there will always be memories shared with one another.
 
 First-year is a hard year, maybe not in the sense of academics but hard nonetheless due to the sudden change of lifestyle. Here at LoLSoc we are dedicated to help our fellow underclassmen with any sort of help they need. So if you have a question, make sure to join our discord using the link [here](http://discord.gg/unswlolsoc) and ask away in our **#First-Years** chat. Don’t be shy and approach any of the executives if we have any issues.
 
