@@ -22,12 +22,10 @@ In the span of five months since her release, this beautiful and underrated cham
 
 Like… Rito… Come on, that's not fair. No champion should need to be nerfed this hard. Samira was perfectly fine upon her release, and there was nothing to warrant such injustice.
 
-So what, if she could destroy all incoming projectiles?
-
+So what, if she could destroy all incoming projectiles?  
 So what, if she could apply 100% life steal effectiveness on abilities? And 100 to 0 a champion in a matter of seconds? And knock-up an immobilised champion and apply all 6 stacks in the span of 0.5 seconds?
 
-So what?
-
+So what?  
 Samira didn't deserve those hard nerfs.
 
 Samira is a skill-based champ that requires S-tier mechanics (see what i did there?), but now she’s barely even a champion.
@@ -41,8 +39,8 @@ If you don't believe me, then let’s hear what our resident UNSW LoL coach/mana
 “Hang on a second, why should we listen to stoopid midget hardstuck diamond thresh player?. What does he know about Samira?”. Well my primitive summoners, let’s get a word from our Unigames 2020 ADC who happened to main this glorious champion in her golden-age, Before Samira-nerf Era _(BSE)._
 
 > _“Samira had a 49% prior to the nerfs and was highly dependent on all ins. Players could simply disrupt and one hit samira due to her playstyle hence why she was very feast or famine. Players were rewarded for learning combo streams and understanding damage values. Now the champion, even when played perfectly, under performs in the all in and can only play forward. The real question is: how to win?”_
-
-_-Koray_
+>
+> _-Koray_
 
 So the question beckons: What is the way forward for our queen Samira? Will she ever become meta again? When will devs just go back to beating up Aphelios instead? Will shit ADCs in the botlane finally stop complaining for once? **_~~(just git gud)~~_**
 
