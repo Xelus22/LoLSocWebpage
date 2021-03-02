@@ -23,8 +23,7 @@ In the span of five months since her release, this beautiful and underrated cham
 Like… Rito… Come on, that's not fair. No champion should need to be nerfed this hard. Samira was perfectly fine upon her release, and there was nothing to warrant such injustice.
 
 So what, if she could destroy all incoming projectiles?  
-So what, if she could apply 100% life steal effectiveness on abilities? And 100 to 0 a champion in a matter of seconds? And knock-up an immobilised champion and apply all 6 stacks in the span of 0.5 seconds?
-
+So what, if she could apply 100% life steal effectiveness on abilities? And 100 to 0 a champion in a matter of seconds? And knock-up an immobilised champion and apply all 6 stacks in the span of 0.5 seconds?  
 So what?  
 Samira didn't deserve those hard nerfs.
 
