@@ -35,7 +35,7 @@ If you don't believe me, then let’s hear what our resident UNSW LoL coach/mana
 >
 > _-Migs104_
 
-“Hang on a second, why should we listen to stoopid midget hardstuck diamond thresh player?. What does he know about Samira?”. Well my primitive summoners, let’s get a word from our Unigames 2020 ADC who happened to main this glorious champion in her golden-age, Before Samira-nerf Era _(BSE)._
+“Hang on a second, why should we listen to stoopid midget hardstuck diamond thresh player? What does he know about Samira?”. Well my primitive summoners, let’s get a word from our Unigames 2020 ADC who happened to main this glorious champion in her golden-age, Before Samira-nerf Era _(BSE)._
 
 > _“Samira had a 49% prior to the nerfs and was highly dependent on all ins. Players could simply disrupt and one hit samira due to her playstyle hence why she was very feast or famine. Players were rewarded for learning combo streams and understanding damage values. Now the champion, even when played perfectly, under performs in the all in and can only play forward. The real question is: how to win?”_
 >
