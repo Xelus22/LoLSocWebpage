@@ -170,7 +170,7 @@ img {vertical-align: middle;}
 <div class="mySlides fade">
   <div class="numbertext">1 / 8</div>
   <img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/gangplank-shotting-miss-fortune-and-her-parents.jpg?raw=true" style="width:100%">
-  <div class="text">Caption Text</div>
+  <div class="text">Gangplank shooting the young Miss Fortune and her parents</div>
 </div>
 
 <div class="mySlides fade">
