@@ -162,47 +162,42 @@ img {vertical-align: middle;}
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 8</div>
+  <div class="numbertext">1 / 7</div>
   <img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/young-gangplank-saved-by-illaoi.png?raw=true" style="width:100%">
   <div class="text">Young Gangplank saved by Illaoi</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">2 / 8</div>
+  <div class="numbertext">2 / 7</div>
   <img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/gangplank-shotting-miss-fortune-and-her-parents.jpg?raw=true" style="width:100%">
   <div class="text">Gangplank shooting Miss Fortune and her parents</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 8</div>
+  <div class="numbertext">3 / 7</div>
   <img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/the-dreadway.png?raw=true" style="width:100%">
   <div class="text">The Dreadway Warship</div>
 </div>
 <div class="mySlides fade">
-  <div class="numbertext">4 / 8</div>
+  <div class="numbertext">4 / 7</div>
+  <img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/the-leviathan.png?raw=true" style="width:100%">
+  <div class="text">The Leviathan Warship</div>
+</div>
+  <div class="mySlides fade">
+  <div class="numbertext">5 / 7</div>
+  <img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/gangplank_and_his_jagged_hooks.jpg?raw=true" style="width:100%">
+  <div class="text">Gangplank and his Jagged Hooks</div>
+</div>
+  <div class="mySlides fade">
+  <div class="numbertext">6 / 7</div>
   <img src="img_mountains_wide.jpg" style="width:100%">
   <div class="text">Caption Three</div>
 </div>
   <div class="mySlides fade">
-  <div class="numbertext">5 / 8</div>
+  <div class="numbertext">7 / 7</div>
   <img src="img_mountains_wide.jpg" style="width:100%">
   <div class="text">Caption Three</div>
-</div>
-  <div class="mySlides fade">
-  <div class="numbertext">6 / 8</div>
-  <img src="img_mountains_wide.jpg" style="width:100%">
-  <div class="text">Caption Three</div>
-</div>
-  <div class="mySlides fade">
-  <div class="numbertext">7 / 8</div>
-  <img src="img_mountains_wide.jpg" style="width:100%">
-  <div class="text">Caption Three</div>
-</div>
-  <div class="mySlides fade">
-  <div class="numbertext">8 / 8</div>
-  <img src="img_mountains_wide.jpg" style="width:100%">
-  <div class="text">Caption Three</div>
-</div>
+
 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
 <a class="next" onclick="plusSlides(1)">&#10095;</a>
 
@@ -217,7 +212,6 @@ img {vertical-align: middle;}
    <span class="dot" onclick="currentSlide(5)"></span> 
    <span class="dot" onclick="currentSlide(6)"></span> 
    <span class="dot" onclick="currentSlide(7)"></span> 
-   <span class="dot" onclick="currentSlide(8)"></span> 
 </div>
 
 <script>
