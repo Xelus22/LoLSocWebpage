@@ -10,7 +10,6 @@ gallery: []
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
-
     * {
       box-sizing: border-box;
     }
@@ -26,7 +25,7 @@ gallery: []
     /* The actual timeline (the vertical ruler) */
     .timeline {
       position: relative;
-      max-width: 1200px;
+      max-width: 780px;
       margin: 0 auto;
     }
 
@@ -38,7 +37,7 @@ gallery: []
       background-color: black;
       top: 0;
       bottom: 0;
-      left: 60%;
+      left: 50%;
       margin-left: -3px;
     }
 
@@ -66,12 +65,12 @@ gallery: []
 
     /* Place the container to the left */
     .left {
-      left: -22.9%;
+      left: -33%;
     }
 
     /* Place the container to the right */
     .right {
-      left: 42.9%;
+      left: 33%;
     }
 
     /* Add arrows to the left container (pointing right) */
