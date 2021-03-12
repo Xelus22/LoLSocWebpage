@@ -65,12 +65,12 @@ gallery: []
 
     /* Place the container to the left */
     .left {
-      left: 10%;
+      left: -20.75%;
     }
 
     /* Place the container to the right */
     .right {
-      left: 50%;
+      left: 20.75%;
     }
 
     /* Add arrows to the left container (pointing right) */
