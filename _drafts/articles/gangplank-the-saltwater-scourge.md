@@ -15,14 +15,10 @@ gallery:
 <head>
 
 <p> Real Name: Gangplank </p>
-<p>Alias:
-  Captain Gangplank
-  Saltwater Scourge 
-
-  <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <p>Alias:</P>
+ <ul>
+  <li>Captain Gangplank</li>
+  <li>The Saltwater Scourge</li>
 </ul>
   
 Race: Human (Cybernetically Enhanced)
