@@ -127,7 +127,7 @@ to {opacity: 1}
 
 <div class="mySlides fade">
 <div class="numbertext">2 / 3</div>
-<img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/gangplank-shotting-miss-fortune-and-her-parents.jpg" style="width:100%">
+<img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/fpx%20doinb.jpg" style="width:100%">
 <div class="text">Caption Two</div>
 </div>
 
