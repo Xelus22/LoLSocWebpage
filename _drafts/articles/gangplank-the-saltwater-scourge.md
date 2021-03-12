@@ -23,7 +23,7 @@ gallery:
 <li>The Saltwater Scourge</li>
 </ul>
 
-<p> Race: Human (Cybernetically Enhanced) </p>
+<p> <strong><em>Race</em></strong>: Human (Cybernetically Enhanced) </p>
 
 <p> Faction: Jagged Hooks (Pirate Gang) </p>
 
