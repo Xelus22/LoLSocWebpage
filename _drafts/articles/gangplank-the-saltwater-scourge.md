@@ -5,8 +5,8 @@ subtitle: ''
 gallery: []
 
 ---
-<h1> Gangplank, The Saltwater Scourge </h1>
 <img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/gangplank.png?raw=true" width="200" height="300" style="float:right; margin-top:50px">
+<h1> Gangplank, The Saltwater Scourge </h1>
 
 <p> <strong><em>Real Name</em></strong>: Gangplank </p>
 <p><strong><em>Alias:</em></strong></p>
