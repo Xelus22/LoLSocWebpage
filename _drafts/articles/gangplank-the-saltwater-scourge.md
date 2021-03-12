@@ -163,7 +163,7 @@ font-family: Helvetica, sans-serif;
 @media screen and (max-width: 600px) {
   /* Place the timelime to the left */
   .timeline::after {
-  left: 31px;
+  left: 1px;
   }
   
   /* Full-width containers */
