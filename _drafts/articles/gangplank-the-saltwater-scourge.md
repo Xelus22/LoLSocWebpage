@@ -259,6 +259,7 @@ font-family: Helvetica, sans-serif;
 
 
   <h4> Gangplank Art </h4>
+  <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 * {box-sizing: border-box}
@@ -359,7 +360,7 @@ img {vertical-align: middle;}
   .prev, .next,.text {font-size: 11px}
 }
 </style>
-
+</head>
 <body>
 
 <div class="slideshow-container">
