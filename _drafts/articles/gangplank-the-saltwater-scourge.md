@@ -7,8 +7,6 @@ gallery: []
 ---
 #### Written by Aiden "Ultráman Neos" Wang
 
-## Gangplank, The Saltwater Scourge
-
 **Real Name:** Gangplank
 
 **Alias:**
