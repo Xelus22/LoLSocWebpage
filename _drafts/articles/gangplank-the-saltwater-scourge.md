@@ -8,6 +8,12 @@ gallery: []
 <h1> Gangplank, The Saltwater Scourge </h1>
 
 <div>
+<style>
+  .p {
+   	margin: 20px 0; 
+  }
+</style>  
+
 <img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/gangplank.png?raw=true" width="200" height="300" style="float:right; padding-bottom: 10px;">
 
 <p> <strong><em>Real Name</em></strong>: Gangplank </p>
@@ -57,10 +63,6 @@ gallery: []
 <style>
   * {
     box-sizing: border-box;
-  }
-  
-  .p {
-   	margin: 20px 0; 
   }
 
   body {
