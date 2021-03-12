@@ -182,7 +182,7 @@ font-family: Helvetica, sans-serif;
 
   /* Make sure all circles are at the same spot */
   .left::after, .right::after {
-  left: 0%;
+  left: 15px;
   }
   
   /* Make all right containers behave like the left ones */
