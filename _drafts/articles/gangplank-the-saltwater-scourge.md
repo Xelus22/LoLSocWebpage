@@ -7,7 +7,7 @@ gallery: []
 ---
 <html>
 <head>
-<img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/gangplank.png?raw=true" alt="Girl in a jacket" width="500" height="600">
+<img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/gangplank.png?raw=true" width="500" height="600">
 <h1> Gangplank, The Saltwater Scourge </h1>
 
   <p> <strong><em>Real Name</em></strong>: Gangplank </p>
