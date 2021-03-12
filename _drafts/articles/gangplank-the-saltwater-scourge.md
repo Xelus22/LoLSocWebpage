@@ -41,6 +41,14 @@ gallery: []
       margin-left: -3px;
     }
 
+    /* Container around content */
+    .container {
+      padding: 5px 40px;
+      position: relative;
+      background-color: inherit;
+      width: 40%;
+    }
+
     /* Place the container to the left */
     .left {
       left: 10%;
