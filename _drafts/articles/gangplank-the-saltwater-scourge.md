@@ -44,6 +44,7 @@ gallery: []
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <style>
+* {box-sizing: border-box}
 body {font-family: Verdana, sans-serif; margin:0}
 .mySlides {display: none}
 img {vertical-align: middle;}
@@ -75,11 +76,6 @@ img {vertical-align: middle;}
 .next {
   right: 0;
   border-radius: 3px 0 0 3px;
-}
-
-/* On hover, add a black background color with a little bit see-through */
-.prev:hover, .next:hover {
-  background-color: rgba(0,0,0,0.8);
 }
 
 /* Caption text */
