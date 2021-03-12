@@ -175,8 +175,8 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 8</div>
-  <img src="img_mountains_wide.jpg" style="width:100%">
-  <div class="text">Caption Three</div>
+  <img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/the-dreadway.png?raw=true" style="width:100%">
+  <div class="text">The Dreadway Warship</div>
 </div>
 <div class="mySlides fade">
   <div class="numbertext">4 / 8</div>
