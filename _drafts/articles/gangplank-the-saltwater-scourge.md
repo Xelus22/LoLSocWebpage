@@ -22,7 +22,7 @@ img {vertical-align: middle;}
 }
 
 /* Next & previous buttons */
-.prev, .next {
+.prev, .nextbut {
   cursor: pointer;
   position: absolute;
   top: 50%;
@@ -38,13 +38,13 @@ img {vertical-align: middle;}
 }
 
 /* Position the "next button" to the right */
-.next {
+.nextbut {
   right: 0;
   border-radius: 3px 0 0 3px;
 }
 
 /* On hover, add a black background color with a little bit see-through */
-.prev:hover, .next:hover {
+.prev:hover, .nextbut:hover {
   background-color: rgba(0,0,0,0.8);
 }
 
@@ -104,7 +104,7 @@ img {vertical-align: middle;}
 
 /* On smaller screens, decrease text size */
 @media only screen and (max-width: 300px) {
-  .prev, .next,.text {font-size: 11px}
+  .prev, .nextbut,.text {font-size: 11px}
 }
 </style>
 
