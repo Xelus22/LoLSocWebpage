@@ -207,7 +207,6 @@ gallery: []
       </div>
     </div>
   </div>
-</body>
 
 <h4> Gangplank Art </h4>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -311,8 +310,6 @@ img {vertical-align: middle;}
   .prev, .nextbut,.text {font-size: 11px}
 }
 </style>
-
-<body>
 
 <div class="slideshow-container">
   <div class="mySlides fade">
