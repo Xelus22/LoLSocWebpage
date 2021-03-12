@@ -5,7 +5,6 @@ subtitle: ''
 gallery: []
 
 ---
-
 <head>
 <img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/gangplank.png?raw=true" width="250" height="350" style="float:right; margin:0px 100px ; margin-top:40px">
 <h1> Gangplank, The Saltwater Scourge </h1>
@@ -183,7 +182,7 @@ font-family: Helvetica, sans-serif;
 
   /* Make sure all circles are at the same spot */
   .left::after, .right::after {
-  left: 15px;
+  left: 0px;
   }
   
   /* Make all right containers behave like the left ones */
@@ -456,5 +455,3 @@ function showSlides(n) {
 </script>
 
 </body>
-
-  
