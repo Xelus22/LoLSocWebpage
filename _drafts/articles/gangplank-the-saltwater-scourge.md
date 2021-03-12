@@ -43,10 +43,10 @@ gallery: []
 
     /* Container around content */
     .cont {
-      padding: 5px 40px;
+      padding: 0px 40px;
       position: relative;
       background-color: inherit;
-      width: 65%;
+      width: 55%;
     }
 
     /* The circles on the timeline */
@@ -65,7 +65,7 @@ gallery: []
 
     /* Place the container to the left */
     .left {
-      left: -15.5%;
+      left: -5.5%;
     }
 
     /* Place the container to the right */
@@ -146,7 +146,6 @@ gallery: []
         left: 0%;
       }
     }
-  
   </style>
 </head>
 
