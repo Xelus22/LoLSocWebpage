@@ -60,7 +60,7 @@ gallery: []
   }
   
   .p {
-   	margin: 20px; 0; 
+   	margin: 20px 0; 
   }
 
   body {
