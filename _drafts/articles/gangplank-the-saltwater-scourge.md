@@ -72,7 +72,7 @@ img {vertical-align: middle;}
 
 /* Slideshow container */
 .slideshow-container {
-  max-width: 1000px;
+  max-width: 500px;
   position: relative;
   margin: auto;
 }
@@ -228,4 +228,4 @@ function showSlides(n) {
 </script>
 
 </body>
-</html> 
+</html>
