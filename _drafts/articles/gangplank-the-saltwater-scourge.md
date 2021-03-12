@@ -1,5 +1,5 @@
 ---
-layout: ''
+layout: post
 title: Gangplank, The Saltwater Scourge
 subtitle: ''
 gallery: []
