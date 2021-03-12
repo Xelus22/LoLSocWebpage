@@ -65,12 +65,12 @@ gallery: []
 
     /* Place the container to the left */
     .left {
-      left: -33%;
+      left: -15.5%;
     }
 
     /* Place the container to the right */
     .right {
-      left: 33%;
+      left: 50.5%;
     }
 
     /* Add arrows to the left container (pointing right) */
@@ -146,6 +146,7 @@ gallery: []
         left: 0%;
       }
     }
+  
   </style>
 </head>
 
