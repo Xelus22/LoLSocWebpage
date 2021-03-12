@@ -17,7 +17,7 @@ gallery:
 <h1> Gangplank, The Saltwater Scourge </h1>
 
   <p> <strong><em>Real Name</em></strong>: Gangplank </p>
-<p><strong>Alias:</p>
+<p><strong><em>Alias:</em></strong></p>
 <ul>
 <li>Captain Gangplank</li>
 <li>The Saltwater Scourge</li>
