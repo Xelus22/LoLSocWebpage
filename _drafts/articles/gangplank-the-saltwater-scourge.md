@@ -10,16 +10,25 @@ gallery: []
 ## Gangplank, The Saltwater Scourge
 
 **Real Name:** Gangplank
+
 **Alias:**
 - Captain Gangplank
 - The Saltwater Scourge
+
 **Race:** Human (Cybernetically Enhanced)
+
 **Faction:** Jagged Hooks (Pirate Gang)
+
 **Class:** Expert Pirate, Captain of multiple warships, Leader of the Jagged Hooks
+
 **Historical Era:** Modern
+
 **Personality:** Ruthless, Cruel, Merciless to an extreme degree
+
 **Current Status:** Alive, but gone underground and planning to retake bilgewater back into his hands
+
 **Hobbies:** Randomly raiding ships, Killing people who gives him the slightest inconvenience, Bone carving, Eating oranges?
+
 **Current Weapon:**
 - Deadman’s plate (Shoulder Guard)
 - The Dreadway (Warship)
@@ -27,10 +36,15 @@ gallery: []
 - Death’s Daughter (Massive Canon)
 - Unnamed Cutlass (Left hand)
 - Unnamed Pistol (Right Hand)
+
 **Unique Power:** Expert pirate methodologist and strategist. Strong and terrifying dictator.
+
 **Interesting Fact:** Swain personally sworn to destroy Gangplank and tear him apart after Gangplank stole his ship.
+
 **Famous Quote:** “I was cutting throats and sinking Noxian war galleys when you were still pissing your britches, boy. You don’t want to take me on.”
+
 **Friendly Champions:** Literally none
+
 **Rival Champions:** Miss Fortune, Graves, Twisted Fate, Swain, Zed
 
 <h4> Event Timeline </h4>
