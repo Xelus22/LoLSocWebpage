@@ -49,19 +49,15 @@ Pirate Training → Illaoi Saved Gangplank → Gangplank fell in love with Illao
     <li> Unnamed Pistol (Right Hand) </li>
 </ul>
 
+  <p> Unique Power: Expert pirate methodologist and strategist. Strong and terrifying dictator.</p>
 
-Unique Power: Expert pirate methodologist and strategist. Strong and terrifying dictator.
+<p> Interesting Fact: Swain personally sworn to destroy Gangplank and tear him apart after Gangplank stole his ship.</p>
 
-Interesting Fact: Swain personally sworn to destroy Gangplank and tear him apart after Gangplank stole his ship.
+<p> Famous Quote: “I was cutting throats and sinking Noxian war galleys when you were still pissing your britches, boy. You don’t want to take me on.”</p>
 
-Famous Quote: “I was cutting throats and sinking Noxian war galleys when you were still pissing your britches, boy. You don’t want to take me on.”
+  <p> Friendly Champions: Literally non </p>
 
-Friendly Champions: Literally non
-
-Rival Champions: Miss Fortune, Graves, Twisted Fate, Swain, Zed
-
-  
-</p>
+<p> Rival Champions: Miss Fortune, Graves, Twisted Fate, Swain, Zed </p>
 
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
