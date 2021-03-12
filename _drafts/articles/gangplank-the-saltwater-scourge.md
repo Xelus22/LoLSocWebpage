@@ -25,23 +25,23 @@ gallery:
 
 <p> <strong><em>Race</em></strong>: Human (Cybernetically Enhanced) </p>
 
-<p> Faction: Jagged Hooks (Pirate Gang) </p>
+<p> <strong><em>Faction</em></strong>: Jagged Hooks (Pirate Gang) </p>
 
-<p> Class: Expert Pirate, Captain of multiple warships, Leader of the Jagged Hooks </p>
+<p> <strong><em>Class</em></strong>: Expert Pirate, Captain of multiple warships, Leader of the Jagged Hooks </p>
 
-<p> Historical Era: Modern</p>
+<p> <strong><em>Historical Era</em></strong>: Modern</p>
 
-<p> Personality: Ruthless, Cruel, Merciless to an extreme degree </p>
+<p> <strong><em>Personality</em></strong>: Ruthless, Cruel, Merciless to an extreme degree </p>
 
 Event timeline:
 
 Pirate Training → Illaoi Saved Gangplank → Gangplank fell in love with Illaoi → Illaoi left Gangplank for her god (Nagakaburos) → Killed Miss Fortune’s parents → Ruling of Bilgewater → Raided Zed’s temple → Took Swain’s battleship (Leviathan) → Defended Bilgewater against the Harrowing → Threw Graves and Twisted Fate into the ocean → Shot by Miss Fortune
 
-<p> Current Status: Alive, but gone underground and planning to retake bilgewater back into his hands </p>
+<p><strong><em> Current Status</em></strong>: Alive, but gone underground and planning to retake bilgewater back into his hands </p>
 
-<p> Hobbies: Randomly raiding ships, Killing people who gives him the slightest inconvenience, Bone carving, Eating oranges? </p>
+<p> <strong><em>Hobbies</em></strong>: Randomly raiding ships, Killing people who gives him the slightest inconvenience, Bone carving, Eating oranges? </p>
 
-<p> Current Weapon: </p>
+<p> <strong><em>Current Weapon</em></strong>: </p>
 <ul>
 <li>Deadman’s plate (Shoulder Guard)</li>
 <li>The Dreadway (Warship)</li>
@@ -51,15 +51,15 @@ Pirate Training → Illaoi Saved Gangplank → Gangplank fell in love with Illao
 <li> Unnamed Pistol (Right Hand) </li>
 </ul>
 
-<p> Unique Power: Expert pirate methodologist and strategist. Strong and terrifying dictator.</p>
+<p> <strong><em>Unique Power</em></strong>: Expert pirate methodologist and strategist. Strong and terrifying dictator.</p>
 
-<p> Interesting Fact: Swain personally sworn to destroy Gangplank and tear him apart after Gangplank stole his ship.</p>
+<p> <strong><em>Interesting Fact</em></strong>: Swain personally sworn to destroy Gangplank and tear him apart after Gangplank stole his ship.</p>
 
-<p> Famous Quote: “I was cutting throats and sinking Noxian war galleys when you were still pissing your britches, boy. You don’t want to take me on.”</p>
+<p> <strong><em>Famous Quote</em></strong>: “I was cutting throats and sinking Noxian war galleys when you were still pissing your britches, boy. You don’t want to take me on.”</p>
 
-<p> Friendly Champions: Literally non </p>
+<p> <strong><em>Friendly Champions</em></strong>: Literally non </p>
 
-<p> Rival Champions: Miss Fortune, Graves, Twisted Fate, Swain, Zed </p>
+<p> <strong><em>Rival Champions</em></strong>: Miss Fortune, Graves, Twisted Fate, Swain, Zed </p>
 
 <html>
 <head>
