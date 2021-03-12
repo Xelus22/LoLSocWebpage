@@ -2,13 +2,7 @@
 layout: ''
 title: Gangplank, The Saltwater Scourge
 subtitle: ''
-gallery:
-- https://unswlolsoc.github.io/LoLSocWebpage/gangplank-before-_left_-and-after-_right_-being-shot-by-miss-fortune.jpg
-- https://unswlolsoc.github.io/LoLSocWebpage/the-leviathan.png
-- https://unswlolsoc.github.io/LoLSocWebpage/the-dreadway.png
-- https://unswlolsoc.github.io/LoLSocWebpage/miss-fortune-planning-her-revenge-on-gangplank.png
-- https://unswlolsoc.github.io/LoLSocWebpage/gangplank.png
-- https://unswlolsoc.github.io/LoLSocWebpage/gangplank-shotting-miss-fortune-and-her-parents.jpg
+gallery: []
 
 ---
 <html>
@@ -169,8 +163,8 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 8</div>
-  <img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/gangplank-shotting-miss-fortune-and-her-parents.jpg?raw=true" style="width:100%">
-  <div class="text">Gangplank shooting the young Miss Fortune and her parents</div>
+  <img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/young-gangplank-saved-by-illaoi.png?raw=true" style="width:100%">
+  <div class="text">Young Gangplank saved by Illaoi</div>
 </div>
 
 <div class="mySlides fade">
