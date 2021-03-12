@@ -2,7 +2,8 @@
 layout: ''
 title: Gangplank, The Saltwater Scourge
 subtitle: ''
-gallery: []
+gallery:
+- https://unswlolsoc.github.io/LoLSocWebpage/gangplank-before-left-and-after-right-being-shot-by-miss-fortune.jfif
 
 ---
 
