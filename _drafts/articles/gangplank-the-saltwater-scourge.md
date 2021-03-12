@@ -10,6 +10,7 @@ gallery: []
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
+
     * {
       box-sizing: border-box;
     }
@@ -37,7 +38,7 @@ gallery: []
       background-color: black;
       top: 0;
       bottom: 0;
-      left: 50%;
+      left: 60%;
       margin-left: -3px;
     }
 
@@ -46,7 +47,7 @@ gallery: []
       padding: 5px 40px;
       position: relative;
       background-color: inherit;
-      width: 40%;
+      width: 65%;
     }
 
     /* The circles on the timeline */
@@ -65,12 +66,12 @@ gallery: []
 
     /* Place the container to the left */
     .left {
-      left: -20.75%;
+      left: -22.9%;
     }
 
     /* Place the container to the right */
     .right {
-      left: 20.75%;
+      left: 42.9%;
     }
 
     /* Add arrows to the left container (pointing right) */
