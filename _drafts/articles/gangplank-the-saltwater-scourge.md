@@ -195,8 +195,8 @@ img {vertical-align: middle;}
 </div>
   <div class="mySlides fade">
   <div class="numbertext">7 / 7</div>
-  <img src="img_mountains_wide.jpg" style="width:100%">
-  <div class="text">Caption Three</div>
+  <img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/gangplank-before-_left_-and-after-_right_-being-shot-by-miss-fortune.jpg?raw=true" style="width:100%">
+  <div class="text">Gangplank before (left) and after (right) being shot by Miss Fortune</div>
 
 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
 <a class="next" onclick="plusSlides(1)">&#10095;</a>
