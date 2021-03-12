@@ -12,25 +12,19 @@ gallery: []
 <p> <strong><em>Real Name</em></strong>: Gangplank </p>
 <p><strong><em>Alias:</em></strong></p>
 <ul>
-<li>Captain Gangplank</li>
-<li>The Saltwater Scourge</li>
+  <li>Captain Gangplank</li>
+  <li>The Saltwater Scourge</li>
 </ul>
 
 <p> <strong><em>Race</em></strong>: Human (Cybernetically Enhanced) </p>
-
 <p> <strong><em>Faction</em></strong>: Jagged Hooks (Pirate Gang) </p>
-
 <p> <strong><em>Class</em></strong>: Expert Pirate, Captain of multiple warships, Leader of the Jagged Hooks </p>
-
 <p> <strong><em>Historical Era</em></strong>: Modern</p>
-
 <p> <strong><em>Personality</em></strong>: Ruthless, Cruel, Merciless to an extreme degree </p>
-
 <p><strong><em> Current Status</em></strong>: Alive, but gone underground and planning to retake bilgewater back into his hands </p>
-
 <p> <strong><em>Hobbies</em></strong>: Randomly raiding ships, Killing people who gives him the slightest inconvenience, Bone carving, Eating oranges? </p>
-
 <p> <strong><em>Current Weapon</em></strong>: </p>
+
 <ul>
 <li>Deadman’s plate (Shoulder Guard)</li>
 <li>The Dreadway (Warship)</li>
@@ -41,17 +35,13 @@ gallery: []
 </ul>
 
 <p> <strong><em>Unique Power</em></strong>: Expert pirate methodologist and strategist. Strong and terrifying dictator.</p>
-
 <p> <strong><em>Interesting Fact</em></strong>: Swain personally sworn to destroy Gangplank and tear him apart after Gangplank stole his ship.</p>
-
 <p> <strong><em>Famous Quote</em></strong>: “I was cutting throats and sinking Noxian war galleys when you were still pissing your britches, boy. You don’t want to take me on.”</p>
-
 <p> <strong><em>Friendly Champions</em></strong>: Literally non </p>
-
 <p> <strong><em>Rival Champions</em></strong>: Miss Fortune, Graves, Twisted Fate, Swain, Zed </p>
 
-  <h4> Gangplank Art </h4>
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<h4> Gangplank Art </h4>
+
 <style>
 * {box-sizing: border-box}
 body {font-family: Verdana, sans-serif; margin:0}
@@ -155,54 +145,52 @@ img {vertical-align: middle;}
 <body>
 
 <div class="slideshow-container">
+  <div class="mySlides fade">
+    <div class="numbertext">1 / 7</div>
+    <img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/young-gangplank-saved-by-illaoi.png?raw=true" style="width:100%">
+    <div class="text">Young Gangplank saved by Illaoi</div>
+  </div>
 
-<div class="mySlides fade">
-  <div class="numbertext">1 / 7</div>
-  <img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/young-gangplank-saved-by-illaoi.png?raw=true" style="width:100%">
-  <div class="text">Young Gangplank saved by Illaoi</div>
-</div>
+  <div class="mySlides fade">
+    <div class="numbertext">2 / 7</div>
+    <img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/gangplank-shotting-miss-fortune-and-her-parents.jpg?raw=true" style="width:100%">
+    <div class="text">Gangplank shooting Miss Fortune and her parents</div>
+  </div>
 
-<div class="mySlides fade">
-  <div class="numbertext">2 / 7</div>
-  <img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/gangplank-shotting-miss-fortune-and-her-parents.jpg?raw=true" style="width:100%">
-  <div class="text">Gangplank shooting Miss Fortune and her parents</div>
-</div>
+  <div class="mySlides fade">
+    <div class="numbertext">3 / 7</div>
+    <img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/the-dreadway.png?raw=true" style="width:100%">
+    <div class="text">The Dreadway Warship</div>
+  </div>
 
-<div class="mySlides fade">
-  <div class="numbertext">3 / 7</div>
-  <img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/the-dreadway.png?raw=true" style="width:100%">
-  <div class="text">The Dreadway Warship</div>
-</div>
+  <div class="mySlides fade">
+    <div class="numbertext">4 / 7</div>
+    <img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/the-leviathan.png?raw=true" style="width:100%">
+    <div class="text">The Leviathan Warship</div>
+  </div>
 
-<div class="mySlides fade">
-  <div class="numbertext">4 / 7</div>
-  <img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/the-leviathan.png?raw=true" style="width:100%">
-  <div class="text">The Leviathan Warship</div>
-</div>
-
-<div class="mySlides fade">
+  <div class="mySlides fade">
     <div class="numbertext">5 / 7</div>
     <img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/gangplank_and_his_jagged_hooks.jpg?raw=true" style="width:100%">
     <div class="text">Gangplank and his Jagged Hooks</div>
   </div>
 
-<div class="mySlides fade">
+  <div class="mySlides fade">
     <div class="numbertext">6 / 7</div>
     <img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/miss-fortune-planning-her-revenge-on-gangplank.png?raw=true" style="width:100%">
     <div class="text">Miss Fortune planning her revenge on Gangplank</div>
-</div>
+  </div>
 
   <div class="mySlides fade">
     <div class="numbertext">7 / 7</div>
     <img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/gangplank-before-_left_-and-after-_right_-being-shot-by-miss-fortune.jpg?raw=true" style="width:100%">
     <div class="text">Gangplank before (left) and after (right) being shot by Miss Fortune</div>
+  </div>
+
+  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1)">&#10095;</a>
 </div>
 
-
-<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-<a class="next" onclick="plusSlides(1)">&#10095;</a>
-
-</div>
 <br>
 
 <div style="text-align:center">
@@ -213,8 +201,6 @@ img {vertical-align: middle;}
     <span class="dot" onclick="currentSlide(5)"></span> 
     <span class="dot" onclick="currentSlide(6)"></span> 
     <span class="dot" onclick="currentSlide(7)"></span> 
-
-
 </div>
 
 <script>
