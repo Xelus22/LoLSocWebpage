@@ -347,7 +347,7 @@ gallery: []
     </div>
   </div>
 </div>
-
+<br>
 <h4> Gangplank Art </h4>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
