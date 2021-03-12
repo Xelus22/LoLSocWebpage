@@ -398,7 +398,7 @@ gallery: []
   <a class="nextbut" onclick="plusSlides(1)">&#10095;</a>
 </div>
 
-<div style="text-align:center">
+<div style="text-align:center; padding-top: 10px;">
     <span class="dot" onclick="currentSlide(1)"></span> 
     <span class="dot" onclick="currentSlide(2)"></span> 
     <span class="dot" onclick="currentSlide(3)"></span> 
