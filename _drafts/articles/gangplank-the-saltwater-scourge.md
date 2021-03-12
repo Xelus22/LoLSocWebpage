@@ -58,6 +58,10 @@ gallery: []
   * {
     box-sizing: border-box;
   }
+  
+  p {
+    margin: 20px 0;
+  }
 
   body {
     color:black;
