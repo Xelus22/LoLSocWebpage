@@ -15,11 +15,9 @@ gallery:
 <head>
 
 <p>
-
 Real Name: Gangplank
-
+  </p>
 Alias:
-
 * Captain Gangplank
 * Saltwater Scourge
 
