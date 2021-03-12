@@ -359,7 +359,7 @@ img {vertical-align: middle;}
   .prev, .next,.text {font-size: 11px}
 }
 </style>
-</head>
+
 <body>
 
 <div class="slideshow-container">
