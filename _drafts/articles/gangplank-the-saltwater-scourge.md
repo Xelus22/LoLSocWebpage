@@ -3,12 +3,12 @@ layout: ''
 title: Gangplank, The Saltwater Scourge
 subtitle: ''
 gallery:
+- https://unswlolsoc.github.io/LoLSocWebpage/gangplank-before-_left_-and-after-_right_-being-shot-by-miss-fortune.jpg
 - https://unswlolsoc.github.io/LoLSocWebpage/the-leviathan.png
 - https://unswlolsoc.github.io/LoLSocWebpage/the-dreadway.png
 - https://unswlolsoc.github.io/LoLSocWebpage/miss-fortune-planning-her-revenge-on-gangplank.png
 - https://unswlolsoc.github.io/LoLSocWebpage/gangplank.png
 - https://unswlolsoc.github.io/LoLSocWebpage/gangplank-shotting-miss-fortune-and-her-parents.jpg
-- https://unswlolsoc.github.io/LoLSocWebpage/gangplank-before-left-and-after-right-being-shot-by-miss-fortune.jfif
 
 ---
 <html>
@@ -168,23 +168,47 @@ img {vertical-align: middle;}
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 3</div>
+  <div class="numbertext">1 / 8</div>
   <img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/gangplank-shotting-miss-fortune-and-her-parents.jpg?raw=true" style="width:100%">
   <div class="text">Caption Text</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">2 / 3</div>
+  <div class="numbertext">2 / 8</div>
   <img src="img_snow_wide.jpg" style="width:100%">
   <div class="text">Caption Two</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 3</div>
+  <div class="numbertext">3 / 8</div>
   <img src="img_mountains_wide.jpg" style="width:100%">
   <div class="text">Caption Three</div>
 </div>
-
+<div class="mySlides fade">
+  <div class="numbertext">4 / 8</div>
+  <img src="img_mountains_wide.jpg" style="width:100%">
+  <div class="text">Caption Three</div>
+</div>
+  <div class="mySlides fade">
+  <div class="numbertext">5 / 8</div>
+  <img src="img_mountains_wide.jpg" style="width:100%">
+  <div class="text">Caption Three</div>
+</div>
+  <div class="mySlides fade">
+  <div class="numbertext">6 / 8</div>
+  <img src="img_mountains_wide.jpg" style="width:100%">
+  <div class="text">Caption Three</div>
+</div>
+  <div class="mySlides fade">
+  <div class="numbertext">7 / 8</div>
+  <img src="img_mountains_wide.jpg" style="width:100%">
+  <div class="text">Caption Three</div>
+</div>
+  <div class="mySlides fade">
+  <div class="numbertext">8 / 8</div>
+  <img src="img_mountains_wide.jpg" style="width:100%">
+  <div class="text">Caption Three</div>
+</div>
 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
 <a class="next" onclick="plusSlides(1)">&#10095;</a>
 
