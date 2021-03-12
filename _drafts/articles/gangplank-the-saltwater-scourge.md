@@ -91,7 +91,7 @@ font-family: Helvetica, sans-serif;
   padding: 5px 40px;
   position: relative;
   background-color: inherit;
-  width: 30%;
+  width: 40%;
 }
 
 /* The circles on the timeline */
