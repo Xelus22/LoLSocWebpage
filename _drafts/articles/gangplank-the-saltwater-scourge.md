@@ -115,7 +115,7 @@ font-family: Helvetica, sans-serif;
 
 /* Place the container to the right */
 .right {
-  left: 30%;
+  left: 50%;
 }
 
 /* Add arrows to the left container (pointing right) */
