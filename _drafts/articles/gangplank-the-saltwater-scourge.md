@@ -176,7 +176,7 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 3</div>
-  <img src="img_snow_wide.jpg" style="width:100%">
+  <img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/miss-fortune-planning-her-revenge-on-gangplank.png" style="width:100%">
   <div class="text">Caption Two</div>
 </div>
 
