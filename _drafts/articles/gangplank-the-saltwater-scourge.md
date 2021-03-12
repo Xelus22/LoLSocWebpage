@@ -30,7 +30,7 @@ gallery: []
     }
 
     /* The actual timeline (the vertical ruler) */
-    .timeline::dot {
+    .timeline::after {
       content: '';
       position: absolute;
       width: 6px;
@@ -50,7 +50,7 @@ gallery: []
     }
 
     /* The circles on the timeline */
-    .container::dot {
+    .container::after {
       content: '';
       position: absolute;
       width: 25px;
@@ -102,7 +102,7 @@ gallery: []
     }
 
     /* Fix the circle for containers on the right side */
-    .right::dot {
+    .right::after {
       left: -16px;
     }
 
@@ -117,7 +117,7 @@ gallery: []
     /* Media queries - Responsive timeline on screens less than 600px wide */
     @media screen and (max-width: 600px) {
       /* Place the timelime to the left */
-      .timeline::dot {
+      .timeline::after {
         left: 31px;
       }
 
@@ -137,7 +137,7 @@ gallery: []
       }
 
       /* Make sure all circles are at the same spot */
-      .left::dot, .right::dot {
+      .left::after, .right::after {
         left: 15px;
       }
 
@@ -154,7 +154,7 @@ gallery: []
     <div class="container left">
     <div class="content">
         <p >Pirate training.</p>
-    </div>
+     </div>
     </div>
     <div class="container right">
       <div class="content">
