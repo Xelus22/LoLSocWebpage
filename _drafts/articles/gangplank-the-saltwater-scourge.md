@@ -7,7 +7,7 @@ gallery: []
 ---
 <html>
 <head>
-<img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/gangplank.png?raw=true" width="200" height="300" style="float:right; margin:0px 100px">
+<img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/gangplank.png?raw=true" width="200" height="300" style="float:right; margin:0px 100px ; margin-top:100">
 <h1> Gangplank, The Saltwater Scourge </h1>
 
   <p> <strong><em>Real Name</em></strong>: Gangplank </p>
@@ -455,4 +455,4 @@ function showSlides(n) {
 </script>
 
 </body>
-</html> 
+</html>
