@@ -25,21 +25,30 @@ gallery:
 
 <p> Faction: Jagged Hooks (Pirate Gang) </p>
 
-Class: Expert Pirate, Captain of multiple warships, Leader of the Jagged Hooks
+  <p> Class: Expert Pirate, Captain of multiple warships, Leader of the Jagged Hooks </p>
 
-Historical Era: Modern
+  <p> Historical Era: Modern</p>
 
-Personality: Ruthless, Cruel, Merciless to an extreme degree
+  <p> Personality: Ruthless, Cruel, Merciless to an extreme degree </p>
 
 Event timeline:
 
 Pirate Training → Illaoi Saved Gangplank → Gangplank fell in love with Illaoi → Illaoi left Gangplank for her god (Nagakaburos) → Killed Miss Fortune’s parents → Ruling of Bilgewater → Raided Zed’s temple → Took Swain’s battleship (Leviathan) → Defended Bilgewater against the Harrowing → Threw Graves and Twisted Fate into the ocean → Shot by Miss Fortune
 
-Current Status: Alive, but gone underground and planning to retake bilgewater back into his hands
+<p> Current Status: Alive, but gone underground and planning to retake bilgewater back into his hands </p>
 
-Hobbies: Randomly raiding ships, Killing people who gives him the slightest inconvenience, Bone carving, Eating oranges?
+<p> Hobbies: Randomly raiding ships, Killing people who gives him the slightest inconvenience, Bone carving, Eating oranges? </p>
 
-Current Weapon: Deadman’s plate (Shoulder Guard), The Dreadway (Warship), The Leviathan (Warship), Death’s Daughter (Massive Canon), Unnamed Cutlass (Left hand), Unnamed Pistol (Right Hand)
+  <p> Current Weapon: </p>
+  <ul>
+  <li>Deadman’s plate (Shoulder Guard)</li>
+  <li>The Dreadway (Warship)</li>
+  <li>The Leviathan (Warship)</li>
+   <li>Death’s Daughter (Massive Canon)</li>
+    <li> Unnamed Cutlass (Left hand) </li>
+    <li> Unnamed Pistol (Right Hand) </li>
+</ul>
+
 
 Unique Power: Expert pirate methodologist and strategist. Strong and terrifying dictator.
 
