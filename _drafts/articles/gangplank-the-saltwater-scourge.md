@@ -15,15 +15,15 @@ gallery:
 <head>
 
 <p> Real Name: Gangplank </p>
-  <p>Alias:</P>
+  <p>Alias:</p>
  <ul>
   <li>Captain Gangplank</li>
   <li>The Saltwater Scourge</li>
 </ul>
   
-Race: Human (Cybernetically Enhanced)
+<p> Race: Human (Cybernetically Enhanced) </p>
 
-Faction: Jagged Hooks (Pirate Gang)
+<p> Faction: Jagged Hooks (Pirate Gang) </p>
 
 Class: Expert Pirate, Captain of multiple warships, Leader of the Jagged Hooks
 
