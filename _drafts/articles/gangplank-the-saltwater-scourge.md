@@ -58,11 +58,16 @@ gallery: []
   * {
     box-sizing: border-box;
   }
+  
+  .p {
+   	margin: 20px; 0; 
+  }
 
   body {
     color:black;
     font-family: Helvetica, sans-serif;
   }
+
   #para1 {
     color: white;
   } 
