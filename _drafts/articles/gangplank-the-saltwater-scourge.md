@@ -178,10 +178,7 @@ img {vertical-align: middle;}
   <img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/the-dreadway.png?raw=true" style="width:100%">
   <div class="text">The Dreadway Warship</div>
 </div>
-<div class="mySlides fade">
-  <div class="numbertext">4 / 4</div>
-  <img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/the-leviathan.png?raw=true" style="width:100%">
-  <div class="text">The Leviathan Warship</div>
+
 
 
 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
@@ -194,7 +191,7 @@ img {vertical-align: middle;}
   <span class="dot" onclick="currentSlide(1)"></span> 
   <span class="dot" onclick="currentSlide(2)"></span> 
   <span class="dot" onclick="currentSlide(3)"></span> 
-  <span class="dot" onclick="currentSlide(4)"></span> 
+ 
    
 </div>
 
