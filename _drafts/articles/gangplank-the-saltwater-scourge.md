@@ -110,7 +110,7 @@ font-family: Helvetica, sans-serif;
 
 /* Place the container to the left */
 .left {
-  left: 20%;
+  left: 10%;
 }
 
 /* Place the container to the right */
