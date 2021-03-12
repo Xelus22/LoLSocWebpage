@@ -30,7 +30,7 @@ gallery: []
     }
 
     /* The actual timeline (the vertical ruler) */
-    .timeline::after {
+    .timeline::dot {
       content: '';
       position: absolute;
       width: 6px;
@@ -50,7 +50,7 @@ gallery: []
     }
 
     /* The circles on the timeline */
-    .container::after {
+    .container::dot {
       content: '';
       position: absolute;
       width: 25px;
@@ -102,7 +102,7 @@ gallery: []
     }
 
     /* Fix the circle for containers on the right side */
-    .right::after {
+    .right::dot {
       left: -16px;
     }
 
@@ -117,7 +117,7 @@ gallery: []
     /* Media queries - Responsive timeline on screens less than 600px wide */
     @media screen and (max-width: 600px) {
       /* Place the timelime to the left */
-      .timeline::after {
+      .timeline::dot {
         left: 31px;
       }
 
@@ -137,7 +137,7 @@ gallery: []
       }
 
       /* Make sure all circles are at the same spot */
-      .left::after, .right::after {
+      .left::dot, .right::dot {
         left: 15px;
       }
 
