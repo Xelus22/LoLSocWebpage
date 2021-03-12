@@ -190,8 +190,8 @@ img {vertical-align: middle;}
 </div>
   <div class="mySlides fade">
   <div class="numbertext">6 / 7</div>
-  <img src="img_mountains_wide.jpg" style="width:100%">
-  <div class="text">Caption Three</div>
+  <img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/miss-fortune-planning-her-revenge-on-gangplank.png?raw=true" style="width:100%">
+  <div class="text">Miss Fortune planning her revenge on Gangplank</div>
 </div>
   <div class="mySlides fade">
   <div class="numbertext">7 / 7</div>
