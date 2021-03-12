@@ -11,7 +11,6 @@ gallery:
 - https://unswlolsoc.github.io/LoLSocWebpage/gangplank-before-left-and-after-right-being-shot-by-miss-fortune.jfif
 
 ---
-
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -128,7 +127,7 @@ to {opacity: 1}
 
 <div class="mySlides fade">
 <div class="numbertext">2 / 3</div>
-<img src="gangplank_and_his_jagged_Hooks.jpg" style="width:100%">
+<img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/gangplank-shotting-miss-fortune-and-her-parents.jpg" style="width:100%">
 <div class="text">Caption Two</div>
 </div>
 
