@@ -14,7 +14,7 @@ gallery:
 <html>
 <head>
 
-<p> Real Name: Gangplank </p>
+<h3>Real Name</h3>: <p>Gangplank </p>
   <p>Alias:</p>
  <ul>
   <li>Captain Gangplank</li>
