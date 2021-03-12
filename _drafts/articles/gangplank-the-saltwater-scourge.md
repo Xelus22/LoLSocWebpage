@@ -290,7 +290,7 @@ gallery: []
   }
 </style>
 
-<div id="para1" class="timeline">
+<div id="para1" class="timeline" style="padding-top: 10px;">
   <div class="cont left">
     <div class="content">
       <p >Pirate training.</p>
