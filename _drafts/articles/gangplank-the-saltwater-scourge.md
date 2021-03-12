@@ -61,6 +61,7 @@ Pirate Training → Illaoi Saved Gangplank → Gangplank fell in love with Illao
 
 <p> <strong><em>Rival Champions</em></strong>: Miss Fortune, Graves, Twisted Fate, Swain, Zed </p>
 
+  <h4> Gangplank Art </h4>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 * {box-sizing: border-box}
