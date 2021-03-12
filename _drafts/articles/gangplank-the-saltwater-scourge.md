@@ -5,308 +5,304 @@ subtitle: ''
 gallery: []
 
 ---
-<head>
-  <h4> Event Timeline </h4>
+<h4> Event Timeline </h4>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+  * {
+    box-sizing: border-box;
+  }
 
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    * {
-      box-sizing: border-box;
-    }
+  body {
+    color:black;
+    font-family: Helvetica, sans-serif;
+  }
+  #para1 {
+    color: white;
+  } 
 
-    body {
-      color:black;
-      font-family: Helvetica, sans-serif;
-    }
-    #para1 {
-      color: white;
-    } 
+  /* The actual timeline (the vertical ruler) */
+  .timeline {
+    position: relative;
+    max-width: 780px;
+    margin: 0 auto;
+  }
 
-    /* The actual timeline (the vertical ruler) */
-    .timeline {
-      position: relative;
-      max-width: 780px;
-      margin: 0 auto;
-    }
+  /* The actual timeline (the vertical ruler) */
+  .timeline::after {
+    content: '';
+    position: absolute;
+    width: 6px;
+    background-color: black;
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    margin-left: -3px;
+  }
 
-    /* The actual timeline (the vertical ruler) */
+  /* Container around content */
+  .cont {
+    padding: 0px 40px;
+    position: relative;
+    background-color: inherit;
+    width: 55%;
+  }
+
+  /* The circles on the timeline */
+  .cont::after {
+    content: '';
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    right: -17px;
+    background-color: white;
+    border: 4px solid #FF9F55;
+    top: 15px;
+    border-radius: 50%;
+    z-index: 1;
+  }
+
+  /* Place the container to the left */
+  .left {
+    left: -5.5%;
+  }
+
+  /* Place the container to the right */
+  .right {
+    left: 50.5%;
+  }
+
+  /* Add arrows to the left container (pointing right) */
+  .left::before {
+    content: " ";
+    height: 0;
+    position: absolute;
+    top: 22px;
+    width: 0;
+    z-index: 1;
+    right: 30px;
+    border: medium solid black;
+    border-width: 10px 0 10px 10px;
+    border-color: transparent transparent transparent black;
+  }
+
+  /* Add arrows to the right container (pointing left) */
+  .right::before {
+    content: " ";
+    height: 0;
+    position: absolute;
+    top: 22px;
+    width: 0;
+    z-index: 1;
+    left: 30px;
+    border: medium solid black;
+    border-width: 10px 10px 10px 0;
+    border-color: transparent black transparent transparent;
+  }
+
+  /* Fix the circle for containers on the right side */
+  .right::after {
+    left: -16px;
+  }
+
+  /* The actual content */
+  .content {
+    padding: 5px 30px;
+    background-color:black;
+    position: relative;
+    border-radius: 6px;
+  }
+
+  /* Media queries - Responsive timeline on screens less than 600px wide */
+  @media screen and (max-width: 600px) {
+    /* Place the timelime to the left */
     .timeline::after {
-      content: '';
-      position: absolute;
-      width: 6px;
-      background-color: black;
-      top: 0;
-      bottom: 0;
-      left: 50%;
-      margin-left: -3px;
+      left: 31px;
     }
 
-    /* Container around content */
+    /* Full-width containers */
     .cont {
-      padding: 0px 40px;
-      position: relative;
-      background-color: inherit;
-      width: 55%;
-    }
-
-    /* The circles on the timeline */
-    .cont::after {
-      content: '';
-      position: absolute;
-      width: 25px;
-      height: 25px;
-      right: -17px;
-      background-color: white;
-      border: 4px solid #FF9F55;
-      top: 15px;
-      border-radius: 50%;
-      z-index: 1;
-    }
-
-    /* Place the container to the left */
-    .left {
-      left: -5.5%;
-    }
-
-    /* Place the container to the right */
-    .right {
-      left: 50.5%;
-    }
-
-    /* Add arrows to the left container (pointing right) */
-    .left::before {
-      content: " ";
-      height: 0;
-      position: absolute;
-      top: 22px;
-      width: 0;
-      z-index: 1;
-      right: 30px;
-      border: medium solid black;
-      border-width: 10px 0 10px 10px;
-      border-color: transparent transparent transparent black;
-    }
-
-    /* Add arrows to the right container (pointing left) */
-    .right::before {
-      content: " ";
-      height: 0;
-      position: absolute;
-      top: 22px;
-      width: 0;
-      z-index: 1;
-      left: 30px;
-      border: medium solid black;
-      border-width: 10px 10px 10px 0;
-      border-color: transparent black transparent transparent;
-    }
-
-    /* Fix the circle for containers on the right side */
-    .right::after {
-      left: -16px;
-    }
-
-    /* The actual content */
-    .content {
-      padding: 5px 30px;
-      background-color:black;
-      position: relative;
-      border-radius: 6px;
-    }
-
-    /* Media queries - Responsive timeline on screens less than 600px wide */
-    @media screen and (max-width: 600px) {
-      /* Place the timelime to the left */
-      .timeline::after {
-        left: 31px;
-      }
-
-      /* Full-width containers */
-      .cont {
-        width: 100%;
-        padding-left: 70px;
-        padding-right: 25px;
-      }
-
-      /* Make sure that all arrows are pointing leftwards */
-      .cont::before {
-        left: 60px;
-        border: medium solid white;
-        border-width: 10px 10px 10px 0;
-        border-color: transparent white transparent transparent;
-      }
-
-      /* Make sure all circles are at the same spot */
-      .left::after, .right::after {
-        left: 15px;
-      }
-
-      /* Make all right containers behave like the left ones */
-      .right {
-        left: 0%;
-      }
-    }
-  </style>
-  
-  <style>
-    * {box-sizing: border-box}
-    body {font-family: Verdana, sans-serif; margin:0}
-    .mySlides {display: none}
-    img {vertical-align: middle;}
-
-    /* Slideshow container */
-    .slideshow-container {
-      max-width: 1000px;
-      position: relative;
-      margin: auto;
-    }
-
-    /* Next & previous buttons */
-    .prev, .nextbut {
-      cursor: pointer;
-      position: absolute;
-      top: 50%;
-      width: auto;
-      padding: 16px;
-      margin-top: -22px;
-      color: white;
-      font-weight: bold;
-      font-size: 18px;
-      transition: 0.6s ease;
-      border-radius: 0 3px 3px 0;
-      user-select: none;
-    }
-
-    /* Position the "next button" to the right */
-    .nextbut {
-      right: 0;
-      border-radius: 3px 0 0 3px;
-    }
-
-    /* On hover, add a black background color with a little bit see-through */
-    .prev:hover, .nextbut:hover {
-      background-color: rgba(0,0,0,0.8);
-    }
-
-    /* Caption text */
-    .text {
-      color: #f2f2f2;
-      font-size: 15px;
-      padding: 8px 12px;
-      position: absolute;
-      bottom: 8px;
       width: 100%;
-      text-align: center;
+      padding-left: 70px;
+      padding-right: 25px;
     }
 
-    /* Number text (1/3 etc) */
-    .numbertext {
-      color: #f2f2f2;
-      font-size: 12px;
-      padding: 8px 12px;
-      position: absolute;
-      top: 0;
+    /* Make sure that all arrows are pointing leftwards */
+    .cont::before {
+      left: 60px;
+      border: medium solid white;
+      border-width: 10px 10px 10px 0;
+      border-color: transparent white transparent transparent;
     }
 
-    /* The dots/bullets/indicators */
-    .dot {
-      cursor: pointer;
-      height: 15px;
-      width: 15px;
-      margin: 0 2px;
-      background-color: #bbb;
-      border-radius: 50%;
-      display: inline-block;
-      transition: background-color 0.6s ease;
+    /* Make sure all circles are at the same spot */
+    .left::after, .right::after {
+      left: 15px;
     }
 
-    .active, .dot:hover {
-      background-color: #717171;
+    /* Make all right containers behave like the left ones */
+    .right {
+      left: 0%;
     }
+  }
+</style>
 
-    /* Fading animation */
-    .fade {
-      -webkit-animation-name: fade;
-      -webkit-animation-duration: 1.5s;
-      animation-name: fade;
-      animation-duration: 1.5s;
-    }
+<style>
+  * {box-sizing: border-box}
+  body {font-family: Verdana, sans-serif; margin:0}
+  .mySlides {display: none}
+  img {vertical-align: middle;}
 
-    @-webkit-keyframes fade {
-      from {opacity: .4} 
-      to {opacity: 1}
-    }
+  /* Slideshow container */
+  .slideshow-container {
+    max-width: 1000px;
+    position: relative;
+    margin: auto;
+  }
 
-    @keyframes fade {
-      from {opacity: .4} 
-      to {opacity: 1}
-    }
+  /* Next & previous buttons */
+  .prev, .nextbut {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    padding: 16px;
+    margin-top: -22px;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+  }
 
-    /* On smaller screens, decrease text size */
-    @media only screen and (max-width: 300px) {
-      .prev, .nextbut,.text {font-size: 11px}
-    }
-  </style>
-</head>
+  /* Position the "next button" to the right */
+  .nextbut {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+  }
 
-<body>
-  <div id="para1" class="timeline">
-    <div class="cont left">
+  /* On hover, add a black background color with a little bit see-through */
+  .prev:hover, .nextbut:hover {
+    background-color: rgba(0,0,0,0.8);
+  }
+
+  /* Caption text */
+  .text {
+    color: #f2f2f2;
+    font-size: 15px;
+    padding: 8px 12px;
+    position: absolute;
+    bottom: 8px;
+    width: 100%;
+    text-align: center;
+  }
+
+  /* Number text (1/3 etc) */
+  .numbertext {
+    color: #f2f2f2;
+    font-size: 12px;
+    padding: 8px 12px;
+    position: absolute;
+    top: 0;
+  }
+
+  /* The dots/bullets/indicators */
+  .dot {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+  }
+
+  .active, .dot:hover {
+    background-color: #717171;
+  }
+
+  /* Fading animation */
+  .fade {
+    -webkit-animation-name: fade;
+    -webkit-animation-duration: 1.5s;
+    animation-name: fade;
+    animation-duration: 1.5s;
+  }
+
+  @-webkit-keyframes fade {
+    from {opacity: .4} 
+    to {opacity: 1}
+  }
+
+  @keyframes fade {
+    from {opacity: .4} 
+    to {opacity: 1}
+  }
+
+  /* On smaller screens, decrease text size */
+  @media only screen and (max-width: 300px) {
+    .prev, .nextbut,.text {font-size: 11px}
+  }
+</style>
+
+<div id="para1" class="timeline">
+  <div class="cont left">
     <div class="content">
-        <p >Pirate training.</p>
-     </div>
-    </div>
-    <div class="cont right">
-      <div class="content">
-        <p>Illaoi saves Gangplank.</p>
-      </div>
-    </div>
-    <div class="cont left">
-      <div class="content">
-        <p>Gangplank falls in love with Illaoi.</p>
-      </div>
-    </div>
-    <div class="cont right">
-      <div class="content">
-        <p>Illaoi leaves Gangplank for her god (Nagakaburos).</p>
-      </div>
-    </div>
-    <div class="cont left">
-      <div class="content">
-        <p>Gangplank kills Miss Fortune’s parents.</p>
-      </div>
-    </div>
-    <div class="cont right">
-      <div class="content">
-        <p>Gangplank rules Bilgewater.</p>
-      </div>
-    </div>
-    <div class="cont left">
-      <div class="content">
-        <p>Gangplank raids Zed’s temple.</p>
-      </div>
-    </div>
-    <div class="cont right">
-      <div class="content">
-        <p>Gangplank takes Swain’s battleship (Leviathan).</p>
-      </div>
-    </div>
-    <div class="cont left">
-      <div class="content">
-        <p>Gangplank defends Bilgewater against the Harrowing.</p>
-      </div>
-    </div>
-    <div class="cont right">
-      <div class="content">
-        <p>Gangplank throws Graves and Twisted Fate into the ocean.</p>
-      </div>
-    </div>
-    <div class="cont left">
-      <div class="content">
-        <p>Miss Fortune shoots Gangplank.</p>
-      </div>
+      <p >Pirate training.</p>
     </div>
   </div>
+  <div class="cont right">
+    <div class="content">
+      <p>Illaoi saves Gangplank.</p>
+    </div>
+  </div>
+  <div class="cont left">
+    <div class="content">
+      <p>Gangplank falls in love with Illaoi.</p>
+    </div>
+  </div>
+  <div class="cont right">
+    <div class="content">
+      <p>Illaoi leaves Gangplank for her god (Nagakaburos).</p>
+    </div>
+  </div>
+  <div class="cont left">
+    <div class="content">
+      <p>Gangplank kills Miss Fortune’s parents.</p>
+    </div>
+  </div>
+  <div class="cont right">
+    <div class="content">
+      <p>Gangplank rules Bilgewater.</p>
+    </div>
+  </div>
+  <div class="cont left">
+    <div class="content">
+      <p>Gangplank raids Zed’s temple.</p>
+    </div>
+  </div>
+  <div class="cont right">
+    <div class="content">
+      <p>Gangplank takes Swain’s battleship (Leviathan).</p>
+    </div>
+  </div>
+  <div class="cont left">
+    <div class="content">
+      <p>Gangplank defends Bilgewater against the Harrowing.</p>
+    </div>
+  </div>
+  <div class="cont right">
+    <div class="content">
+      <p>Gangplank throws Graves and Twisted Fate into the ocean.</p>
+    </div>
+  </div>
+  <div class="cont left">
+    <div class="content">
+      <p>Miss Fortune shoots Gangplank.</p>
+    </div>
+  </div>
+</div>
 
 <h4> Gangplank Art </h4>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -398,5 +394,3 @@ function showSlides(n) {
   dots[slideIndex-1].className += " active";
 }
 </script>
-
-</body>
