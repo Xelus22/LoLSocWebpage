@@ -3,6 +3,11 @@ layout: ''
 title: Gangplank, The Saltwater Scourge
 subtitle: ''
 gallery:
+- https://unswlolsoc.github.io/LoLSocWebpage/the-leviathan.png
+- https://unswlolsoc.github.io/LoLSocWebpage/the-dreadway.png
+- https://unswlolsoc.github.io/LoLSocWebpage/miss-fortune-planning-her-revenge-on-gangplank.png
+- https://unswlolsoc.github.io/LoLSocWebpage/gangplank.png
+- https://unswlolsoc.github.io/LoLSocWebpage/gangplank-shotting-miss-fortune-and-her-parents.jpg
 - https://unswlolsoc.github.io/LoLSocWebpage/gangplank-before-left-and-after-right-being-shot-by-miss-fortune.jfif
 
 ---
