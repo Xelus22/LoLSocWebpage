@@ -48,7 +48,7 @@ gallery: []
 <p> <strong><em>Friendly Champions</em></strong>: Literally non </p>
 
 <p> <strong><em>Rival Champions</em></strong>: Miss Fortune, Graves, Twisted Fate, Swain, Zed </p>
-<br>
+
 <h4> Event Timeline </h4>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
@@ -347,7 +347,7 @@ gallery: []
     </div>
   </div>
 </div>
-<br>
+<p>
 <h4> Gangplank Art </h4>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
