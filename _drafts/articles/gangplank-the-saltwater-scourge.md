@@ -189,6 +189,9 @@ font-family: Helvetica, sans-serif;
   .right {
   left: 0%;
   }
+  .left {
+  left: 0%;
+  }
 }
 </style>
 </head>
