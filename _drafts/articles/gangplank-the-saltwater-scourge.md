@@ -169,7 +169,7 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
-  <img src="img_nature_wide.jpg" style="width:100%">
+  <img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gangplank_0.jpg" style="width:100%">
   <div class="text">Caption Text</div>
 </div>
 
@@ -227,4 +227,4 @@ function showSlides(n) {
 </script>
 
 </body>
-</html> 
+</html>
