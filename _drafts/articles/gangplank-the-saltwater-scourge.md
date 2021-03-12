@@ -5,47 +5,49 @@ subtitle: ''
 gallery: []
 
 ---
-#### Written by Aiden "Ultráman Neos" Wang
-
 <img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/gangplank.png?raw=true" width="200" height="300" style="float:right; margin:0px 100px ; margin-top:60px">
+<h1> Gangplank, The Saltwater Scourge </h1>
 
-**Real Name:** Gangplank
+<p> <strong><em>Real Name</em></strong>: Gangplank </p>
+<p><strong><em>Alias:</em></strong></p>
+<ul>
+<li>Captain Gangplank</li>
+<li>The Saltwater Scourge</li>
+</ul>
 
-**Alias:**
-- Captain Gangplank
-- The Saltwater Scourge
+<p> <strong><em>Race</em></strong>: Human (Cybernetically Enhanced) </p>
 
-**Race:** Human (Cybernetically Enhanced)
+<p> <strong><em>Faction</em></strong>: Jagged Hooks (Pirate Gang) </p>
 
-**Faction:** Jagged Hooks (Pirate Gang)
+<p> <strong><em>Class</em></strong>: Expert Pirate, Captain of multiple warships, Leader of the Jagged Hooks </p>
 
-**Class:** Expert Pirate, Captain of multiple warships, Leader of the Jagged Hooks
+<p> <strong><em>Historical Era</em></strong>: Modern</p>
 
-**Historical Era:** Modern
+<p> <strong><em>Personality</em></strong>: Ruthless, Cruel, Merciless to an extreme degree </p>
 
-**Personality:** Ruthless, Cruel, Merciless to an extreme degree
+<p><strong><em> Current Status</em></strong>: Alive, but gone underground and planning to retake bilgewater back into his hands </p>
 
-**Current Status:** Alive, but gone underground and planning to retake bilgewater back into his hands
+<p> <strong><em>Hobbies</em></strong>: Randomly raiding ships, Killing people who gives him the slightest inconvenience, Bone carving, Eating oranges? </p>
 
-**Hobbies:** Randomly raiding ships, Killing people who gives him the slightest inconvenience, Bone carving, Eating oranges?
+<p> <strong><em>Current Weapon</em></strong>: </p>
+<ul>
+<li>Deadman’s plate (Shoulder Guard)</li>
+<li>The Dreadway (Warship)</li>
+<li>The Leviathan (Warship)</li>
+<li>Death’s Daughter (Massive Canon)</li>
+<li> Unnamed Cutlass (Left hand) </li>
+<li> Unnamed Pistol (Right Hand) </li>
+</ul>
 
-**Current Weapon:**
-- Deadman’s plate (Shoulder Guard)
-- The Dreadway (Warship)
-- The Leviathan (Warship)
-- Death’s Daughter (Massive Canon)
-- Unnamed Cutlass (Left hand)
-- Unnamed Pistol (Right Hand)
+<p> <strong><em>Unique Power</em></strong>: Expert pirate methodologist and strategist. Strong and terrifying dictator.</p>
 
-**Unique Power:** Expert pirate methodologist and strategist. Strong and terrifying dictator.
+<p> <strong><em>Interesting Fact</em></strong>: Swain personally sworn to destroy Gangplank and tear him apart after Gangplank stole his ship.</p>
 
-**Interesting Fact:** Swain personally sworn to destroy Gangplank and tear him apart after Gangplank stole his ship.
+<p> <strong><em>Famous Quote</em></strong>: “I was cutting throats and sinking Noxian war galleys when you were still pissing your britches, boy. You don’t want to take me on.”</p>
 
-**Famous Quote:** “I was cutting throats and sinking Noxian war galleys when you were still pissing your britches, boy. You don’t want to take me on.”
+<p> <strong><em>Friendly Champions</em></strong>: Literally non </p>
 
-**Friendly Champions:** Literally none
-
-**Rival Champions:** Miss Fortune, Graves, Twisted Fate, Swain, Zed
+<p> <strong><em>Rival Champions</em></strong>: Miss Fortune, Graves, Twisted Fate, Swain, Zed </p>
 
 <h4> Event Timeline </h4>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
