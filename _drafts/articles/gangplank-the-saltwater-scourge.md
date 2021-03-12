@@ -23,7 +23,7 @@ Alias:
 * Captain Gangplank
 * Saltwater Scourge
 
-  Race: Human (Cybernetically Enhanced)
+Race: Human (Cybernetically Enhanced)
 
 Faction: Jagged Hooks (Pirate Gang)
 
