@@ -25,7 +25,7 @@ gallery: []
     /* The actual timeline (the vertical ruler) */
     .timeline {
       position: relative;
-      max-width: 780px;
+      max-width: 850px;
       margin: 0 auto;
     }
 
