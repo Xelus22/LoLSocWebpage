@@ -78,6 +78,11 @@ img {vertical-align: middle;}
   border-radius: 3px 0 0 3px;
 }
 
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
 /* Caption text */
 .text {
   color: #f2f2f2;
@@ -112,24 +117,6 @@ img {vertical-align: middle;}
 
 .active, .dot:hover {
   background-color: #717171;
-}
-
-/* Fading animation */
-.fade {
-  -webkit-animation-name: fade;
-  -webkit-animation-duration: 1.5s;
-  animation-name: fade;
-  animation-duration: 1.5s;
-}
-
-@-webkit-keyframes fade {
-  from {opacity: .4} 
-  to {opacity: 1}
-}
-
-@keyframes fade {
-  from {opacity: .4} 
-  to {opacity: 1}
 }
 
 /* On smaller screens, decrease text size */
