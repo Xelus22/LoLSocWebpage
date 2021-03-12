@@ -14,13 +14,17 @@ gallery:
 <html>
 <head>
 
-<p>
-Real Name: Gangplank
-  </p>
-Alias:
-* Captain Gangplank
-* Saltwater Scourge
+<p> Real Name: Gangplank </p>
+<p>Alias:
+  Captain Gangplank
+  Saltwater Scourge 
 
+  <ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
+  
 Race: Human (Cybernetically Enhanced)
 
 Faction: Jagged Hooks (Pirate Gang)
