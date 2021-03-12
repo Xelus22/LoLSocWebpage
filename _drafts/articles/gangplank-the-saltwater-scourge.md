@@ -42,7 +42,7 @@ gallery: []
     }
 
     /* Container around content */
-    .container {
+    .cont {
       padding: 5px 40px;
       position: relative;
       background-color: inherit;
@@ -50,7 +50,7 @@ gallery: []
     }
 
     /* The circles on the timeline */
-    .container::after {
+    .cont::after {
       content: '';
       position: absolute;
       width: 25px;
@@ -122,14 +122,14 @@ gallery: []
       }
 
       /* Full-width containers */
-      .container {
+      .cont {
         width: 100%;
         padding-left: 70px;
         padding-right: 25px;
       }
 
       /* Make sure that all arrows are pointing leftwards */
-      .container::before {
+      .cont::before {
         left: 60px;
         border: medium solid white;
         border-width: 10px 10px 10px 0;
@@ -151,57 +151,57 @@ gallery: []
 
 <body>
   <div id="para1" class="timeline">
-    <div class="container left">
+    <div class="cont left">
     <div class="content">
         <p >Pirate training.</p>
      </div>
     </div>
-    <div class="container right">
+    <div class="cont right">
       <div class="content">
         <p>Illaoi saves Gangplank.</p>
       </div>
     </div>
-    <div class="container left">
+    <div class="cont left">
       <div class="content">
         <p>Gangplank falls in love with Illaoi.</p>
       </div>
     </div>
-    <div class="container right">
+    <div class="cont right">
       <div class="content">
         <p>Illaoi leaves Gangplank for her god (Nagakaburos).</p>
       </div>
     </div>
-    <div class="container left">
+    <div class="cont left">
       <div class="content">
         <p>Gangplank kills Miss Fortune’s parents.</p>
       </div>
     </div>
-    <div class="container right">
+    <div class="cont right">
       <div class="content">
         <p>Gangplank rules Bilgewater.</p>
       </div>
     </div>
-    <div class="container left">
+    <div class="cont left">
       <div class="content">
         <p>Gangplank raids Zed’s temple.</p>
       </div>
     </div>
-    <div class="container right">
+    <div class="cont right">
       <div class="content">
         <p>Gangplank takes Swain’s battleship (Leviathan).</p>
       </div>
     </div>
-    <div class="container left">
+    <div class="cont left">
       <div class="content">
         <p>Gangplank defends Bilgewater against the Harrowing.</p>
       </div>
     </div>
-    <div class="container right">
+    <div class="cont right">
       <div class="content">
         <p>Gangplank throws Graves and Twisted Fate into the ocean.</p>
       </div>
     </div>
-    <div class="container left">
+    <div class="cont left">
       <div class="content">
         <p>Miss Fortune shoots Gangplank.</p>
       </div>
