@@ -41,9 +41,9 @@ gallery: []
 <p> <strong><em>Rival Champions</em></strong>: Miss Fortune, Graves, Twisted Fate, Swain, Zed </p>
 
 <h4> Gangplank Art </h4>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
 <style>
-* {box-sizing: border-box}
 body {font-family: Verdana, sans-serif; margin:0}
 .mySlides {display: none}
 img {vertical-align: middle;}
