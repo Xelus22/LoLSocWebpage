@@ -162,21 +162,27 @@ img {vertical-align: middle;}
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 3</div>
+  <div class="numbertext">1 / 4</div>
   <img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/young-gangplank-saved-by-illaoi.png?raw=true" style="width:100%">
   <div class="text">Young Gangplank saved by Illaoi</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">2 / 3</div>
+  <div class="numbertext">2 / 4</div>
   <img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/gangplank-shotting-miss-fortune-and-her-parents.jpg?raw=true" style="width:100%">
   <div class="text">Gangplank shooting Miss Fortune and her parents</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 3</div>
+  <div class="numbertext">3 / 4</div>
   <img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/the-dreadway.png?raw=true" style="width:100%">
   <div class="text">The Dreadway Warship</div>
+</div>
+  
+  <div class="mySlides fade">
+  <div class="numbertext">4 / 4</div>
+  <img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/the-leviathan.png?raw=true" style="width:100%">
+  <div class="text">The Leviathan Warship</div>
 </div>
 
 
