@@ -91,7 +91,7 @@ font-family: Helvetica, sans-serif;
   padding: 5px 40px;
   position: relative;
   background-color: inherit;
-  width: 50%;
+  width: 30%;
 }
 
 /* The circles on the timeline */
@@ -110,7 +110,7 @@ font-family: Helvetica, sans-serif;
 
 /* Place the container to the left */
 .left {
-  left: 25%;
+  left: 30%;
 }
 
 /* Place the container to the right */
