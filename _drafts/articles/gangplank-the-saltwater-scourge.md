@@ -13,6 +13,50 @@ gallery:
 ---
 <html>
 <head>
+
+<p>
+
+Real Name: Gangplank
+
+Alias:
+
+* Captain Gangplank
+* Saltwater Scourge
+
+  Race: Human (Cybernetically Enhanced)
+
+Faction: Jagged Hooks (Pirate Gang)
+
+Class: Expert Pirate, Captain of multiple warships, Leader of the Jagged Hooks
+
+Historical Era: Modern
+
+Personality: Ruthless, Cruel, Merciless to an extreme degree
+
+Event timeline:
+
+Pirate Training → Illaoi Saved Gangplank → Gangplank fell in love with Illaoi → Illaoi left Gangplank for her god (Nagakaburos) → Killed Miss Fortune’s parents → Ruling of Bilgewater → Raided Zed’s temple → Took Swain’s battleship (Leviathan) → Defended Bilgewater against the Harrowing → Threw Graves and Twisted Fate into the ocean → Shot by Miss Fortune
+
+Current Status: Alive, but gone underground and planning to retake bilgewater back into his hands
+
+Hobbies: Randomly raiding ships, Killing people who gives him the slightest inconvenience, Bone carving, Eating oranges?
+
+Current Weapon: Deadman’s plate (Shoulder Guard), The Dreadway (Warship), The Leviathan (Warship), Death’s Daughter (Massive Canon), Unnamed Cutlass (Left hand), Unnamed Pistol (Right Hand)
+
+Unique Power: Expert pirate methodologist and strategist. Strong and terrifying dictator.
+
+Interesting Fact: Swain personally sworn to destroy Gangplank and tear him apart after Gangplank stole his ship.
+
+Famous Quote: “I was cutting throats and sinking Noxian war galleys when you were still pissing your britches, boy. You don’t want to take me on.”
+
+Friendly Champions: Literally non
+
+Rival Champions: Miss Fortune, Graves, Twisted Fate, Swain, Zed
+
+  
+</p>
+
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 
