@@ -105,7 +105,7 @@ content: '';
 position: absolute;
 width: 25px;
 height: 25px;
-right: -17px;
+right: 340px;
 background-color: white;
 border: 4px solid #FF9F55;
 top: 15px;
