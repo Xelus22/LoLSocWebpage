@@ -443,4 +443,4 @@ function showSlides(n) {
 }
 </script>
 
-<h4 alight="left">- Written by Aiden "Ultráman Neos" Wang</h4>
+<p alight="right">- Written by Aiden "Ultráman Neos" Wang</h4>
