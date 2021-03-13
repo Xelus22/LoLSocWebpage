@@ -75,7 +75,7 @@ color: white;
 /* The actual timeline (the vertical ruler) */
 .timeline {
 position: relative;
-max-width: 780px;
+max-width: 900px;
 margin: 0 auto;
 }
 
@@ -200,7 +200,10 @@ left: 31px;
 
 <style>
 
-
+{box-sizing: border-box}
+body {font-family: Verdana, sans-serif; margin:0}
+.mySlides {display: none}
+img {vertical-align: middle;}
 
 /* Slideshow container */
 .slideshow-container {
