@@ -88,7 +88,7 @@ background-color: black;
 top: 0;
 bottom: 0;
 left: 50%;
-margin-left: 500px;
+margin-left: 250px;
 }
 
 /* Container around content */
