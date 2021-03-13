@@ -5,6 +5,8 @@ subtitle: ''
 gallery: []
 
 ---
+<h1> Gangplank, The Saltwater Scourge </h1>
+
 <div>
 <img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/gangplank.png?raw=true" width="200" height="300" style="float:right; margin-top: 5px">
 
@@ -52,9 +54,8 @@ gallery: []
 <br>
 <h4> Event Timeline </h4>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style>
-
-{
+<style> 
+*{
 box-sizing: border-box;
 }
 
