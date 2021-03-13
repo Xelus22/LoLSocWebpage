@@ -75,7 +75,7 @@ color: white;
 /* The actual timeline (the vertical ruler) */
 .timeline {
 position: relative;
-max-width: 900px;
+max-width: 780px;
 margin: 0 auto;
 }
 
@@ -88,7 +88,7 @@ background-color: black;
 top: 0;
 bottom: 0;
 left: 50%;
-margin-left: -3px;
+margin-left: 50px;
 }
 
 /* Container around content */
