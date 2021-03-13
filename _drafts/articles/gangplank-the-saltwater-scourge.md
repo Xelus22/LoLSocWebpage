@@ -73,12 +73,7 @@ font-family: Helvetica, sans-serif;
 color: white;
 }
 
-/* The actual timeline (the vertical ruler) */
-.timeline {
-position: relative;
-max-width: 780px;
-margin: 0 auto;
-}
+
 
 /* The actual timeline (the vertical ruler) */
 .timeline::after {
