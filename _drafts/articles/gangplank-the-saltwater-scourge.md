@@ -196,7 +196,6 @@ left: 31px;
   left: 0%;
 }
 
-}
 </style>
 
 <style>
