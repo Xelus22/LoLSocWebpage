@@ -5,8 +5,9 @@ subtitle: ''
 gallery: []
 
 ---
-<h1> Gangplank, The Saltwater Scourge </h1><div>
+<h1> Gangplank, The Saltwater Scourge </h1>
 
+<div>
 <img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/gangplank.png?raw=true" width="200" height="300" style="float:right; margin-top: 5px">
 
 <p> <strong><em>Real Name</em></strong>: Gangplank </p>
@@ -55,9 +56,9 @@ gallery: []
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
 
-* {
-  box-sizing: border-box;
-  }
+{
+box-sizing: border-box;
+}
 
 p {
 margin: 10px 0;
@@ -68,7 +69,7 @@ color:black;
 font-family: Helvetica, sans-serif;
 }
 
-\#para1 {
+#para1 {
 color: white;
 }
 
@@ -164,47 +165,47 @@ position: relative;
 border-radius: 6px;
 }
 
-/* Media queries - Responsive timeline on screens less than 600px wide _/
+/* Media queries - Responsive timeline on screens less than 600px wide /
 @media screen and (max-width: 600px) {
-/_ Place the timelime to the left */
+/ Place the timelime to the left */
 .timeline::after {
 left: 31px;
 }
 
-    /* Full-width containers */
-    .cont {
-      width: 100%;
-      padding-left: 70px;
-      padding-right: 25px;
-    }
-    
-    /* Make sure that all arrows are pointing leftwards */
-    .cont::before {
-      left: 60px;
-      border: medium solid white;
-      border-width: 10px 10px 10px 0;
-      border-color: transparent white transparent transparent;
-    }
-    
-    /* Make sure all circles are at the same spot */
-    .left::after, .right::after {
-      left: 15px;
-    }
-    
-    /* Make all right containers behave like the left ones */
-    .right {
-      left: 0%;
-    }
+/* Full-width containers */
+.cont {
+  width: 100%;
+  padding-left: 70px;
+  padding-right: 25px;
+}
+
+/* Make sure that all arrows are pointing leftwards */
+.cont::before {
+  left: 60px;
+  border: medium solid white;
+  border-width: 10px 10px 10px 0;
+  border-color: transparent white transparent transparent;
+}
+
+/* Make sure all circles are at the same spot */
+.left::after, .right::after {
+  left: 15px;
+}
+
+/* Make all right containers behave like the left ones */
+.right {
+  left: 0%;
+}
 
 }
 </style>
 
 <style>
 
-* {box-sizing: border-box}
-  body {font-family: Verdana, sans-serif; margin:0}
-  .mySlides {display: none}
-  img {vertical-align: middle;}
+{box-sizing: border-box}
+body {font-family: Verdana, sans-serif; margin:0}
+.mySlides {display: none}
+img {vertical-align: middle;}
 
 /* Slideshow container */
 .slideshow-container {
@@ -276,7 +277,13 @@ transition: background-color 0.6s ease;
 background-color: #717171;
 }
 
-
+/* Fading animation */
+.fade {
+-webkit-animation-name: fade;
+-webkit-animation-duration: 1.5s;
+animation-name: fade;
+animation-duration: 1.5s;
+}
 
 @-webkit-keyframes fade {
 from {opacity: .4}
@@ -394,7 +401,7 @@ to {opacity: 1}
 
 <div class="mySlides">
 <div class="numbertext">7 / 7</div>
-<img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/gangplank-before-_left_-and-after-_right_-being-shot-by-miss-fortune.jpg?raw=true" style="width:100%">
+<img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/gangplank-before-left-and-after-right-being-shot-by-miss-fortune.jpg?raw=true" style="width:100%">
 <div class="text">Gangplank before (left) and after (right) being shot by Miss Fortune</div>
 </div>
 
@@ -428,15 +435,12 @@ function showSlides(n) {
 var i;
 var slides = document.getElementsByClassName("mySlides");
 var dots = document.getElementsByClassName("dot");
-if (n > slides.length) {slideIndex = 1}  
-if (n < 1) {slideIndex = slides.length}
+if (n > slides.length) {slideIndex = 1}if (n < 1) {slideIndex = slides.length}
 for (i = 0; i < slides.length; i++) {
-slides\[i\].style.display = "none";  
-}
+slides[i].style.display = "none";}
 for (i = 0; i < dots.length; i++) {
-dots\[i\].className = dots\[i\].className.replace(" active", "");
+dots[i].className = dots[i].className.replace(" active", "");
 }
-slides\[slideIndex-1\].style.display = "block";  
-dots\[slideIndex-1\].className += " active";
+slides[slideIndex-1].style.display = "block";dots[slideIndex-1].className += " active";
 }
 </script>
