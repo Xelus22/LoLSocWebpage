@@ -6,7 +6,7 @@ gallery: []
 
 ---
 <div>
-<img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/gangplank.png?raw=true" width="200" height="300" style="float:right; margin-top: 5px">
+<img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/gangplank.png?raw=true" width="200" height="300" style="float:right">
 
 <p> <strong><em>Real Name</em></strong>: Gangplank </p>
 <p><strong><em>Alias:</em></strong></p>
