@@ -200,10 +200,7 @@ left: 31px;
 
 <style>
 
-{box-sizing: border-box}
-body {font-family: Verdana, sans-serif; margin:0}
-.mySlides {display: none}
-img {vertical-align: middle;}
+
 
 /* Slideshow container */
 .slideshow-container {
