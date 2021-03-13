@@ -277,7 +277,6 @@ background-color: #717171;
 }
 
 /* Fading animation */
-
 .fade {
   -webkit-animation-name: fade;
   -webkit-animation-duration: 1.5s;
