@@ -5,8 +5,6 @@ subtitle: ''
 gallery: []
 
 ---
-
-
 <div>
 <img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/gangplank.png?raw=true" width="200" height="300" style="float:right; margin-top: 5px">
 
@@ -73,7 +71,12 @@ font-family: Helvetica, sans-serif;
 color: white;
 }
 
-
+/* The actual timeline (the vertical ruler) */
+.timeline {
+position: relative;
+max-width: 780px;
+margin: 0 auto;
+}
 
 /* The actual timeline (the vertical ruler) */
 .timeline::after {
