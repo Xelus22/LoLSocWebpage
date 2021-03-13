@@ -276,13 +276,7 @@ transition: background-color 0.6s ease;
 background-color: #717171;
 }
 
-/* Fading animation */
-.fade {
-  -webkit-animation-name: fade;
-  -webkit-animation-duration: 1.5s;
-  animation-name: fade;
-  animation-duration: 1.5s;
-}
+
 
 @-webkit-keyframes fade {
 from {opacity: .4}
