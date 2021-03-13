@@ -7,7 +7,6 @@ gallery: []
 ---
 <h1> Gangplank, The Saltwater Scourge </h1><div>
 
-
 <img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/gangplank.png?raw=true" width="200" height="300" style="float:right; margin-top: 5px">
 
 <p> <strong><em>Real Name</em></strong>: Gangplank </p>
@@ -278,11 +277,12 @@ background-color: #717171;
 }
 
 /* Fading animation */
+
 .fade {
-\-webkit-animation-name: fade;
-\-webkit-animation-duration: 1.5s;
-animation-name: fade;
-animation-duration: 1.5s;
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
 }
 
 @-webkit-keyframes fade {
