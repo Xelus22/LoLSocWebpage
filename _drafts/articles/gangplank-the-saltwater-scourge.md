@@ -166,7 +166,7 @@ gallery: []
     @media screen and (max-width: 600px) {
       /* Place the timelime to the left */
       .timeline::after {
-        left: 30px;
+        left: 10px;
       }
       
       .timeline::after {
