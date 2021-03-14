@@ -188,11 +188,14 @@ gallery: []
       /* Make sure all circles are at the same spot */
       .left::after, .right::after {
         left: 15px;
-        left: 10px;
+        
       }
   
       /* Make all right containers behave like the left ones */
       .right {
+        left: 0%;
+      }
+       .left {
         left: 0%;
       }
     }
