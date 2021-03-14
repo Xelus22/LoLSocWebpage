@@ -170,7 +170,7 @@ gallery: []
       }
       
       .timeline::after {
-        left: 15px;
+        right: 15px;
       }
   
       /* Full-width containers */
