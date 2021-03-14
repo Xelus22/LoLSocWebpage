@@ -187,7 +187,8 @@ gallery: []
   
       /* Make sure all circles are at the same spot */
       .left::after, .right::after {
-        left: 13px;
+        left: 15px;
+        right: 15px;
 
       }
   
