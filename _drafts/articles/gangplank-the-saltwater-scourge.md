@@ -168,6 +168,10 @@ gallery: []
       .timeline::after {
         left: 31px;
       }
+      
+      .timeline::after {
+        left: 31px;
+      }
   
       /* Full-width containers */
       .cont {
