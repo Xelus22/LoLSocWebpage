@@ -5,6 +5,7 @@ subtitle: ''
 gallery: []
 
 ---
+<html>
 <h4> Written by Aidan "Ultráman Neos" Wang </h4>
   <img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/gangplank.png?raw=true" width="200" height="300" style="float:right">
   
@@ -447,4 +448,4 @@ gallery: []
     dots[slideIndex-1].className += " active";
   }
   </script>
-  
+  </html>
