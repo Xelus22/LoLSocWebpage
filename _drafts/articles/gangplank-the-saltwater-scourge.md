@@ -47,7 +47,7 @@ gallery: []
   
   <p> <strong><em>Friendly Champions</em></strong>: Literally none </p>
   
-  <p> <strong><em>Rival Champions</em></strong>: Miss Fortune, Graves, Twisted Fate, Swain, Zed </p>
+  <p> <strong><em>Rival Champions</em></strong>: Miss Fortune, Graves, Twisted Fate, Swain and Zed </p>
   </div>
   <br>
   <h4> Event Timeline </h4>
