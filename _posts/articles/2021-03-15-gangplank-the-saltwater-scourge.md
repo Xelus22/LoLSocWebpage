@@ -23,9 +23,9 @@ gallery: []
   
   <p> <strong><em>Historical Era</em></strong>: Modern</p>
   
-  <p> <strong><em>Personality</em></strong>: Ruthless, Cruel, Merciless to an extreme degree </p>
+  <p> <strong><em>Personality</em></strong>:  Ruthless, cruel and merciless to an extreme degree </p>
   
-  <p><strong><em> Current Status</em></strong>: Alive, but gone underground and planning to retake bilgewater back into his hands </p>
+  <p><strong><em> Current Status</em></strong>: Alive, Gangplank remains hidden underground and plans to retake bilgewater back into his own hands</p>
   
   <p> <strong><em>Hobbies</em></strong>: Randomly raiding ships, Killing people who gives him the slightest inconvenience, Bone carving, Eating oranges? </p>
   
