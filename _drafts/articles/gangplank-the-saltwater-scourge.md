@@ -19,7 +19,7 @@ gallery: []
   
   <p> <strong><em>Faction</em></strong>: Jagged Hooks (Pirate Gang) </p>
   
-  <p> <strong><em>Class</em></strong>: Expert Pirate, Captain of multiple warships, Leader of the Jagged Hooks </p>
+  <p> <strong><em>Class</em></strong>: Expert Pirate, captain of multiple warships and the leader of the Jagged Hooks </p>
   
   <p> <strong><em>Historical Era</em></strong>: Modern</p>
   
@@ -27,7 +27,7 @@ gallery: []
   
   <p><strong><em> Current Status</em></strong>: Gangplank remains hidden underground and plans to retake bilgewater back into his own hands </p>
   
-  <p> <strong><em>Hobbies</em></strong>: Randomly raiding ships, killing people inconvenience him in the slightest, carving bones and eating oranges? </p>
+  <p> <strong><em>Hobbies</em></strong>: Randomly raiding ships, killing people who inconvenience him in the slightest, carving bones and eating oranges? </p>
   
   <p> <strong><em>Current Weapon</em></strong>: </p>
   <ul>
