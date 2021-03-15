@@ -23,11 +23,11 @@ gallery: []
   
   <p> <strong><em>Historical Era</em></strong>: Modern</p>
   
-  <p> <strong><em>Personality</em></strong>: Ruthless, Cruel, Merciless to an extreme degree </p>
+  <p> <strong><em>Personality</em></strong>: Ruthless cruel and merciless to an extreme degree </p>
   
-  <p><strong><em> Current Status</em></strong>: Alive, but gone underground and planning to retake bilgewater back into his hands </p>
+  <p><strong><em> Current Status</em></strong>: Gangplank remains hidden underground and plans to retake bilgewater back into his own hands </p>
   
-  <p> <strong><em>Hobbies</em></strong>: Randomly raiding ships, Killing people who gives him the slightest inconvenience, Bone carving, Eating oranges? </p>
+  <p> <strong><em>Hobbies</em></strong>: Randomly raiding ships, killing people inconvenience him in the slightest, carving bones and eating oranges? </p>
   
   <p> <strong><em>Current Weapon</em></strong>: </p>
   <ul>
@@ -41,7 +41,7 @@ gallery: []
   
   <p> <strong><em>Unique Power</em></strong>: Expert pirate methodologist and strategist. Strong and terrifying dictator.</p>
   
-  <p> <strong><em>Interesting Fact</em></strong>: Swain personally sworn to destroy Gangplank and tear him apart after Gangplank stole his ship.</p>
+  <p> <strong><em>Interesting Fact</em></strong>: Swain personally swore to destroy Gangplank and tear him apart after Gangplank had stolen his ship.</p>
   
   <p> <strong><em>Famous Quote</em></strong>: “I was cutting throats and sinking Noxian war galleys when you were still pissing your britches, boy. You don’t want to take me on.”</p>
   
