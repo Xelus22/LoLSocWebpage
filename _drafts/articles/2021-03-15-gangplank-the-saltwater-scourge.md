@@ -5,6 +5,7 @@ subtitle: ''
 gallery: []
 
 ---
+<h4> eofjkewlakfjeaol </h4>
 <div>
   <img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/gangplank.png?raw=true" width="200" height="300" style="float:right">
   
@@ -448,6 +449,3 @@ gallery: []
   }
   </script>
   
-  <p align="right">
-    <i>- Written by Aidan "Ultráman Neos" Wang</i>
-  </p>
