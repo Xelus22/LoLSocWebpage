@@ -452,5 +452,5 @@ dots\[slideIndex-1\].className += " active";
 </script>
 
 <p align="right">
-<i></i>
+<i>- Written by Aidan "Ultráman Neos" Wang</i>
 </p>
