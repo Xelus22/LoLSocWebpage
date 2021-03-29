@@ -2,7 +2,8 @@
 layout: post
 title: Illaoi - The TERROR of the Top Lane
 subtitle: ''
-gallery: []
+gallery:
+- https://unswlolsoc.github.io/LoLSocWebpage/illaoi_edit.png
 
 ---
 #### Written by Quinn "Bob57" Quinn Jones
