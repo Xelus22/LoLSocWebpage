@@ -28,8 +28,6 @@ But I fought on, and when the teamfight had come, I was ready...
 
 No tentacles would hit me now, my soul wouldn’t be grabbed from 70 metres away. No, I had my trusty crossbow and that was all I needed.
 
-\[object HTMLLIElement\]
-
 However, in the teamfight all she needed to do was press R, and as more and more tentacles began to spawn the skies darkened and our team despaired. Is it right for this monstrosity to exist? Do the Riot devs understand the horror they have unleashed? Are we but the playpen for God’s undesirable creatures? The rejects tossed away to be broken in the darkness?
 
 From that point on, Illaoi was a perma-ban for me. I flirted for a while with the idea of banning Darius, yet another Illaoi experience sealed my fate.
