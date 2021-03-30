@@ -5,7 +5,7 @@ subtitle: ''
 gallery: []
 
 ---
-#### Written by Quinn "Bob57" Quinn Jones
+#### Written by Quinn "Bob57" Jones
 
 ## Why I HATE Illaoi
 
@@ -37,9 +37,9 @@ To you folks, I hear you. However, my hatred for her stems from both a visceral,
 
 **WEAPONS DIFF**
 
-We are simple folk in the top lane, Quinn with her Crossbow, simple Mordekaiser with his mace, innocent Darius with his axe and Teemo with his poison darts. Each fight between us is a carefully crafted piece of artwork, dripping with wasted flashes and missed autos. Yet what does Illaoi bring to this fight? While I bring my crossbow to a fight, she brings a God. The God of the serpent Isles, Nagakabouros to be exact. Yes, surely hitting a god with an axe will work right? What about a poison dart 2cm in length?   
-Surely?   
-No?   
+We are simple folk in the top lane, Quinn with her Crossbow, simple Mordekaiser with his mace, innocent Darius with his axe and Teemo with his poison darts. Each fight between us is a carefully crafted piece of artwork, dripping with wasted flashes and missed autos. Yet what does Illaoi bring to this fight? While I bring my crossbow to a fight, she brings a God. The God of the serpent Isles, Nagakabouros to be exact. Yes, surely hitting a god with an axe will work right? What about a poison dart 2cm in length?  
+Surely?  
+No?  
 What a pity....
 
 **TENTACLES..... TENTACLES EVERYWHERE**
