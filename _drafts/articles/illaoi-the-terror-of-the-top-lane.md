@@ -2,25 +2,24 @@
 layout: post
 title: Illaoi - The TERROR of the Top Lane
 subtitle: ''
-gallery:
-- https://unswlolsoc.github.io/LoLSocWebpage/illaoi_edit.png
+gallery: []
 
 ---
 #### Written by Quinn "Bob57" Quinn Jones
 
 ## Why I HATE Illaoi
 
-When I queue up to play League of Legends, there isn’t a single champion I hate to face more than Illaoi. This champ is the worst type of enemy to go against. One who will not only beat you up in lane with her tentacles, but will press R, 30 minutes into the game and get a pentakill.
+When I queue up to play League of Legends, there isn’t a single champion I hate to face more than Illaoi. This champ is the worst type of enemy to go against. One who will not only beat you up in lane with her tentacles, but will press R late game and get a pentakill.
 
 _(Yes my 0/5 adc, maybe we SHOULDN’T have grouped up, what a good observation!)_
 
-Now, let me walk you through my first, traumatic experience playing against Illaoi, and you will begin to understand the truth I speak.
+Now, let me walk you through my first, traumatic experience playing against Illaoi, and you shall understand the truth I speak.
 
 My first time playing against Illaoi I must’ve been a doey-eyed, naive level 20 player. With my heart full of joy and wonder. I locked in the simple woodswoman Quinn, and set out on my journey to the top lane. With my best friend, and companion Valor by my side. It was there I discovered a monster... a Kraken priestess from the dangerous port city of Bilgewater who would go on to haunt me forever.
 
 On my first death, I was shocked, “Surely...” I wondered, “Surely she is just a strong early game champion?” By my fifth death, as she pulled my spirit under her tower, I was considering a peaceful exit from the rift, a disconnect would surely be the happiest alternative right?
 
-But my friends urged me to keep on playing, “JuSt DodgE HeR E” they would say “MaKe SurE tO kIlL HeR TnTacLeS!”
+But my friends urged me to keep on playing, “JuSt DodgE HeR E” they would say “MaKe SurE tO kIlL HeR TEnTacLeS!”
 
 Such helpful advice failed to reach me.
 
@@ -38,7 +37,10 @@ To you folks, I hear you. However, my hatred for her stems from both a visceral,
 
 **WEAPONS DIFF**
 
-We are simple folk in the top lane, Quinn with her Crossbow, simple Mordekaiser with his mace, innocent Darius with his axe and Teemo with his poison darts. Each fight between us is a carefully crafted piece of artwork, dripping with wasted flashes and missed autos. Yet what does Illaoi bring to this fight? While I bring my crossbow to a fight, she brings a God. The God of the serpent Isles, Nagakabouros to be exact. Yes, surely hitting a god with an axe will work right? What about a poison dart 2cm in length? Surely? No? What a pity.
+We are simple folk in the top lane, Quinn with her Crossbow, simple Mordekaiser with his mace, innocent Darius with his axe and Teemo with his poison darts. Each fight between us is a carefully crafted piece of artwork, dripping with wasted flashes and missed autos. Yet what does Illaoi bring to this fight? While I bring my crossbow to a fight, she brings a God. The God of the serpent Isles, Nagakabouros to be exact. Yes, surely hitting a god with an axe will work right? What about a poison dart 2cm in length?   
+Surely?   
+No?   
+What a pity....
 
 **TENTACLES..... TENTACLES EVERYWHERE**
 
