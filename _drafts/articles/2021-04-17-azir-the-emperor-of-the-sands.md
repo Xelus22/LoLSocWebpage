@@ -1,5 +1,5 @@
 ---
-layout: Article
+layout: post
 title: Azir, The Emperor of the Sands
 subtitle: ''
 gallery: []
