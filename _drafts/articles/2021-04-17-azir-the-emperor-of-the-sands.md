@@ -372,7 +372,7 @@ gallery: []
     <div class="mySlides">
       <div class="numbertext">2 / 7</div>
       <img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/azir%20developmental%20concepts.jpg?raw=true" style="width:100%">
-      <div class="text">Azir developmental concepts</div>
+      <div class="text">Azir's developmental concepts</div>
     </div>
   
     <div class="mySlides">
