@@ -5,10 +5,8 @@ subtitle: ''
 gallery: []
 
 ---
-
-
+#### Written by Aidan "Ultráman Neos" Wang
 <html>
-  <h3>Written by Aidan "Ultráman Neos" Wang </h3>
   <img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/azir%20portrait%20new.jpg?raw=true" width="200" height="300" style="float:right">
   
   <p> <strong><em>Real Name</em></strong>: Omah Azir </p>
