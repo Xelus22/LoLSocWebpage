@@ -29,7 +29,7 @@ gallery: []
   
   <p><strong><em> Current Status</em></strong>: Resurrected, The Sun Disk was lifted once more by Azir's resurrection</p>
   
-  <p> <strong><em>Hobbies</em></strong>: Reading books, Conquering new territories and bring back Shurima </p>
+  <p> <strong><em>Hobbies</em></strong>: Reading books, Conquering new territories and bringing back Shurima </p>
   
   <p> <strong><em>Current Weapon</em></strong>: </p>
   <ul>
