@@ -313,47 +313,47 @@ gallery: []
     </div>
     <div class="cont left">
       <div class="content">
-        <p>Xereth saved Azir from an assasination attempt on Shuriman princes, Azir was the only one who survived</p>
+        <p>Xereth saved Azir from an assasination attempt on Shuriman princes, Azir was the only one who survived.</p>
       </div>
     </div>
     <div class="cont right">
       <div class="content">
-        <p>Murder of the Shuriman King by Xereth, Azir ascended to the King of Shurima</p>
+        <p>Murder of the Shuriman King by Xereth, Azir ascended to the King of Shurima.</p>
       </div>
     </div>
     <div class="cont left">
       <div class="content">
-        <p>Xereth became the chief strategist of Shurima, Azir promised to abolish slavery</p>
+        <p>Xereth became the chief strategist of Shurima, Azir promised to abolish slavery.</p>
       </div>
     </div>
     <div class="cont right">
       <div class="content">
-        <p>Xereth grew impatient of waiting for Azir to abolish slavery after all these years </p>
+        <p>Xereth grew impatient of waiting for Azir to abolish slavery after all these years. </p>
       </div>
     </div>
     <div class="cont left">
       <div class="content">
-        <p>Xereth secretly planned a revenge against Azir for his broken promises </p>
+        <p>Xereth secretly planned a revenge against Azir for his broken promises. </p>
       </div>
     </div>
     <div class="cont right">
       <div class="content">
-        <p>Xereth recommended Azir to become one of the Ascended </p>
+        <p>Xereth recommended Azir to become one of the Ascended. </p>
       </div>
     </div>
     <div class="cont left">
       <div class="content">
-        <p>Azir announced the abolition of slavery and named Xereth "the eternal brother" as the sun priests began the ritual </p>
+        <p>Azir announced the abolition of slavery and named Xereth "the eternal brother" as the sun priests began the ritual. </p>
       </div>
     </div>
     <div class="cont right">
         <div class="content">
-          <p>Azir was pushed off the dais by Xereth and perished in the holy flame followed by the destruction of the Shuriman Empire </p>
+          <p>Azir was pushed off the dais by Xereth and perished in the holy flame followed by the destruction of the Shuriman Empire. </p>
         </div>
       </div>
     <div class="cont left">
       <div class="content">
-        <p>Azir's resurrection through Sivir's blood</p>
+        <p>Azir's resurrection through Sivir's blood.</p>
       </div>
     </div>
   </div>
