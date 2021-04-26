@@ -20,15 +20,15 @@ gallery: []
   
   <p> <strong><em>Faction</em></strong>: Ascended </p>
   
-  <p> <strong><em>Class</em></strong>: King of the great old empire of Shurima, Genius Strategist, Politician, great reformer and an ambitious dictator </p>
+  <p> <strong><em>Class</em></strong>: King of the great old empire of Shurima, Genius Strategist, Politician, great reformer and an ambitious dictator. </p>
   
   <p> <strong><em>Historical Era</em></strong>: Ancient Mythological Era --> Modern </p>
   
-  <p> <strong><em>Personality</em></strong>:  Secretive, Ambitious, Knowledgable, determined and a little bit narcissistic </p>
+  <p> <strong><em>Personality</em></strong>:  Secretive, Ambitious, Knowledgable, determined and a little bit narcissistic. </p>
   
-  <p><strong><em> Current Status</em></strong>: Resurrected, The Sun Disk was lifted once more by Azir's resurrection</p>
+  <p><strong><em> Current Status</em></strong>: Resurrected, The Sun Disk was lifted once more by Azir's resurrection. </p>
   
-  <p> <strong><em>Hobbies</em></strong>: Reading books, Conquering new territories and bringing back Shurima </p>
+  <p> <strong><em>Hobbies</em></strong>: Reading books, Conquering new territories and bringing back Shurima. </p>
   
   <p> <strong><em>Current Weapon</em></strong>: </p>
   <ul>
@@ -38,15 +38,15 @@ gallery: []
   <li>Sand Magic</li>
   </ul>
   
-  <p> <strong><em>Unique Power</em></strong>: Expert war strategiest, Expert politician, Royal Shuriman Bloodline and extremely knowledgable </p>
+  <p> <strong><em>Unique Power</em></strong>: Expert war strategiest, Expert politician, Royal Shuriman Bloodline and extremely knowledgable. </p>
   
-  <p> <strong><em>Interesting Fact</em></strong>: Azir named Xereth, which means in shuriman:"Somone who knows how to share"</p>
+  <p> <strong><em>Interesting Fact</em></strong>: Azir named Xereth, which means in shuriman:"Someone who knows how to share".</p>
   
   <p> <strong><em>Famous Quote</em></strong>: “I will reclaim my lands and take back what was mine!”</p>
   
-  <p> <strong><em>Friendly Champions</em></strong>: Sivir, Nasus and possibly Renekton</p>
+  <p> <strong><em>Friendly Champions</em></strong>: Sivir, Nasus and possibly Renekton.</p>
   
-  <p> <strong><em>Rival Champions</em></strong>: Xereth, Aatrox, Varus and Rhaast </p>
+  <p> <strong><em>Rival Champions</em></strong>: Xereth, Aatrox, Varus and Rhaast. </p>
  
   <br>
   <h4> Event Timeline </h4>
@@ -333,12 +333,12 @@ gallery: []
     </div>
     <div class="cont left">
       <div class="content">
-        <p>Xereth secretly plans a revenge against Azir for his broken promises </p>
+        <p>Xereth secretly planned a revenge against Azir for his broken promises </p>
       </div>
     </div>
     <div class="cont right">
       <div class="content">
-        <p>Xereth recommend Azir to become one of the Ascended </p>
+        <p>Xereth recommended Azir to become one of the Ascended </p>
       </div>
     </div>
     <div class="cont left">
