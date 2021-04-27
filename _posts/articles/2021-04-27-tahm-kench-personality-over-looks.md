@@ -73,7 +73,7 @@ src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/13348634292
 
 <p><strong>Answer</strong>
 
-<p>The licky licky ritual
+<p>The licky licky ritual.
 
 <p>
 
