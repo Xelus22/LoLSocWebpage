@@ -6,6 +6,9 @@ gallery: []
 
 ---
 #### Written by Aidan "Ultráman Neos" Wang
+
+
+
 <html>
   <img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/azir%20portrait%20new.jpg?raw=true" width="200" height="300" style="float:right">
   
