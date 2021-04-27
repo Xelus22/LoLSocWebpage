@@ -5,18 +5,18 @@ subtitle: ''
 gallery: []
 
 ---
-#### Written by Stanley "
+#### Written by Stanley "Daleyx" Tang
 
 <html>  
 <img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/tahmkench_0.jpg?raw=true" width="1200" height="400" style="float:middle" >
 
 <p> As we all know, winter is approaching at a faster rate than most of us would like (unless you’re one of those few people who can stand the cold). This means that cuffing season is once again coming up and oh boy, ONE of you reading this article right now may just end up with the HAPPIEST winter you have EVER experienced.
 
-<p> introducing....  
+<p> Introducing....  
 <p style="font-size:40px;"><strong> Tahm Kench, the River King </strong>  
 <p> <em> _"Call me king, call me demon - water forgets the names of the drowned." </em>_
 
-<p> Tahm Kench... the king of everyone's dreams.   
+<p> Tahm Kench... the king of everyone's dreams.  
 <p> The demonic chef with a charming persona, holding the Guinness World Record for the longest and thickest tongue. He may not be the most attractive guy out there (comes down to <strong>PERSONAL PREFERENCE</strong> or is an acquired taste... as he likes to believe >w<) but he sure does make up for it in personality. And if that somehow doesn’t persuade you, you will certainly fall in love with him on an abyssal voyage. So now that you’re interested, here is some very normal and helpful background information about him.
 
 <p>
@@ -50,7 +50,7 @@ src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/ee19c5c66ce
 
 <p> - Go to buffets
 
-<p> - Go fine dining 
+<p> - Go fine dining
 
 <p> - Devour some more food
 
@@ -93,6 +93,6 @@ src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/13348634292
 
 <p><strong>An insignificant final note</strong>
 
-<p> No one knows what dating Tahm is “actually” like. All of his ex’s have vanished after their first date night with him. 
+<p> No one knows what dating Tahm is “actually” like. All of his ex’s have vanished after their first date night with him.
 
 <p> So what are you waiting for?! Come and line up right now for this beautiful, breathtaking amphibian.
