@@ -15,16 +15,12 @@ Ugh, there goes Mum again shouting at Renekton for, let me guess, getting into a
 
 _“Again?! You went out to fight again?? Don’t you understand that you can get yourself killed one of these days?”_
 
-  
 _“Mum, I’m fine! Look! See? Perfectly healthy.”_
 
-  
 _“All I see are bruises, cuts, and scars. One more fight and I won’t even recognise your face anymore!”_
 
-  
 _“I know how to fight Mum, there’s nothing to worry about! It’s for fun!”_
 
-  
 _“Fun? You call this FUN?? Your body is a sacred gift from the sun-god, and you desecrate it like this? Do you understand the SHAME you bring to our family everytime they see you walk home like this? Your father doesn’t work his ass off everyday, just for you to tear all that reputation down!”_
 
 _“Well maybe if he spent more time at home, I’d care more!”_
@@ -43,7 +39,6 @@ Until then, I’ll have another couple of hundred volumes to keep me busy. Oh, y
 
 Signing out for now,
 
-* Nasus
+  -Nasus
 
-  
 P.S. There’s going to be a _looooot_ of ladies at the Collegium. Don’t hate me if I miss a few days of writing!
