@@ -5,7 +5,7 @@ subtitle: ''
 gallery: []
 
 ---
-#### Written by Aidan "Ultráman Neos" Wang
+<h4> Written by Aidan “Ultráman Neos” Wang </h4>
 
 
 <html>
