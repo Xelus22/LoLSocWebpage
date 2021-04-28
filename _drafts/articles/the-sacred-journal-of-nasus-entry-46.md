@@ -39,6 +39,6 @@ Until then, I’ll have another couple of hundred volumes to keep me busy. Oh, y
 
 Signing out for now,
 
-  -Nasus
+\-Nasus
 
 P.S. There’s going to be a _looooot_ of ladies at the Collegium. Don’t hate me if I miss a few days of writing!
