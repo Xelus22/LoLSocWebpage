@@ -1,5 +1,5 @@
 ---
-layout: 'post '
+layout: post
 title: Veigar, The Tiny Master of Evil
 subtitle: ''
 gallery: []
