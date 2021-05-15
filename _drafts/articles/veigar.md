@@ -14,7 +14,7 @@ gallery: []
   <p><strong><em>Alias:</em></strong></p>
   <ul>
   <li>The Tiny Master of Evil</li>
-  
+    <li> "Most wicked villain in the universe" </li>
   </ul>
   
   <p> <strong><em>Race</em></strong>: Yordle </p>
