@@ -1,6 +1,6 @@
 ---
 layout: 'post '
-title: 'Veigar, '
+title: Veigar, The Tiny Master of Evil
 subtitle: ''
 gallery: []
 
