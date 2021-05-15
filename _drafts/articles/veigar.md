@@ -8,13 +8,13 @@ gallery: []
 #### Written by Aidan "Ultráman Neos" Wang
 
 <html>
-  <img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/gangplank.png?raw=true" width="200" height="300" style="float:right">
+  <img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/old%20veigar%20splash.jpg?raw=true" width="500" height="300" style="float:right">
   
   <p> <strong><em>Real Name</em></strong>: Veigar </p>
   <p><strong><em>Alias:</em></strong></p>
   <ul>
   <li>The Tiny Master of Evil</li>
-    <li> "Most wicked villain in the universe" </li>
+  <li> Most Wicked Villain in the Universe</li>
   </ul>
   
   <p> <strong><em>Race</em></strong>: Yordle </p>
@@ -364,32 +364,32 @@ gallery: []
   <div class="slideshow-container">
     <div class="mySlides">
       <div class="numbertext">1 / 5</div>
-      <img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/young-gangplank-saved-by-illaoi.png?raw=true" style="width:100%">
-      <div class="text">Young Gangplank saved by Illaoi</div>
+      <img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/Veigar%20new%20splash.jpg?raw=true" style="width:100%">
+      <div class="text">Veigar deleting your power.</div>
     </div>
   
     <div class="mySlides">
       <div class="numbertext">2 / 5</div>
-      <img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/gangplank-shotting-miss-fortune-and-her-parents.jpg?raw=true" style="width:100%">
-      <div class="text">Gangplank shooting Miss Fortune and her parents</div>
+      <img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/Veigar%20in%20his%20most%20evil%20form.jpg?raw=true" style="width:100%">
+      <div class="text">Veigar in his most evil form --> The Final Boss. </div>
     </div>
   
     <div class="mySlides">
       <div class="numbertext">3 / 5</div>
-      <img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/the-dreadway.png?raw=true" style="width:100%">
-      <div class="text">The Dreadway Warship</div>
+      <img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/Veigar%20morde%20interaction.png?raw=true" style="width:100%">
+      <div class="text">Mordekaiser and Veigar interaction about Veigar's torture. </div>
     </div>
   
     <div class="mySlides">
       <div class="numbertext">4 / 5</div>
-      <img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/the-leviathan.png?raw=true" style="width:100%">
-      <div class="text">The Leviathan Warship</div>
+      <img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/Veigar%20farmer.jpg?raw=true" style="width:100%">
+      <div class="text">Veigar terrorising the farmers of Boleham. </div>
     </div>
   
     <div class="mySlides">
       <div class="numbertext">5 / 5</div>
-      <img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/gangplank_and_his_jagged_hooks.jpg?raw=true" style="width:100%">
-      <div class="text">Gangplank and his Jagged Hooks</div>
+      <img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/Veigar%20in%20development.png?raw=true" style="width:100%">
+      <div class="text">Veigar in development.</div>
     </div>
   
  
