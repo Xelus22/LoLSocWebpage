@@ -8,7 +8,7 @@ gallery: []
 #### Written by Aidan "Ultráman Neos" Wang
 
 <html>
-  <img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/old%20veigar%20splash.jpg?raw=true" width="500" height="300" style="float:right">
+  <img src="https://github.com/UNSWLoLSoc/LoLSocWebpage/blob/master/uploads/old%20veigar%20splash.jpg?raw=true" width="400" height="300" style="float:right">
   
   <p> <strong><em>Real Name</em></strong>: Veigar </p>
   <p><strong><em>Alias:</em></strong></p>
