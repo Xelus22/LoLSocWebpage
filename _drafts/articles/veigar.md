@@ -344,7 +344,7 @@ gallery: []
     </div>
     <div class="cont left">
       <div class="content">
-        <p>Quest to become the world's most wicket villian. </p>
+        <p>Quest to become the world's most wicked villian. </p>
       </div>
     </div>
     <div class="cont right">
