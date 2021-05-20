@@ -330,7 +330,7 @@ img {vertical-align: middle;}
 </div>
 <div class="cont right">
 <div class="content">
-<p>Tortured by Mordekaiser,performed evil magic for Mordekaiser,isolated, helpless and lost his purpose</p>
+<p>Tortured by Mordekaiser,performed evil magic for Mordekaiser,isolated, helpless and lost his purpose.</p>
 </div>
 </div>
 <div class="cont left">
