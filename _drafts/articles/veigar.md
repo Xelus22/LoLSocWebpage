@@ -18,17 +18,17 @@ gallery: []
 
 <p> <strong><em>Race</em></strong>: Yordle </p>
 
-<p> <strong><em>Faction</em></strong>: individual </p>
+<p> <strong><em>Faction</em></strong>: Individual </p>
 
 <p> <strong><em>Class</em></strong>: Expert Yordle Celestial Magician, Phenomenal Evil Wizard, Most evil being on Runeterra.</p>
 
 <p> <strong><em>Historical Era/Period</em></strong>: Great Darkin War --> Modern  </p>
 
-<p> <strong><em>Personality</em></strong>:  Thinks he's evil but secretly cute, Insane , Lowkey craves for attention, Loves to study magic.</p>
+<p> <strong><em>Personality</em></strong>:  Thinks he's evil but secretly cute, insane , lowkey craves for attention, loves to study magic.</p>
 
-<p><strong><em> Current Status</em></strong>: Alive, trying to prove that he is the most evil being in the universe.</p>
+<p><strong><em> Current Status</em></strong>: Alive; trying to prove that he is the most evil being in the universe.</p>
 
-<p> <strong><em>Hobbies</em></strong>: Trying to prove he is the most evil being, Injecting fear into Runeterra, Manipulating Celestial Power, Harvesting other evil mages' power.  </p>
+<p> <strong><em>Hobbies</em></strong>: Trying to prove he is the most evil being, injecting fear into Runeterra, manipulating celestial power, harvesting other evil mages' power.  </p>
 
 <p> <strong><em>Current Weapon</em></strong>: </p>
 <ul>
@@ -37,7 +37,7 @@ gallery: []
 
 </ul>
 
-<p> <strong><em>Unique Power</em></strong>: Celestial Magic, Evil Power. </p>
+<p> <strong><em>Unique Power</em></strong>: Celestial Magic and phenomenal evil Power. </p>
 
 <p> <strong><em>Interesting Fact</em></strong>: He wants others to think he is the most powerful evil being in the universe but secretly he is just a regular mage.</p>
 
