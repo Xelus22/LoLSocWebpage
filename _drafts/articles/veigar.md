@@ -41,7 +41,8 @@ gallery: []
 
 <p> <strong><em>Interesting Fact</em></strong>: He wants others to think he is the most powerful evil being in the universe but secretly he is just a regular mage.</p>
 
-<p> <strong><em>Famous Quote</em></strong>: “I can see the fear in your hearts! You dare march here to challenge my dread rule? I, Veigar, who has yoked the magic of the universe to my will? Veigar, Great Master of Evil, who has defeated countless arcane foes in my quest for ever greater -- (he gets interrupted by a regular Noxian farmer).”</p>
+<p> <strong><em>Famous Quote</em></strong>: “I can see the fear in your hearts! You dare march here to challenge my dread rule? I, Veigar, who has yoked the magic of the universe to my will? Veigar, Great Master of Evil, who has defeated countless arcane foes in my quest for ever greater --”</p>
+  <p> (proceeds to get interrupted by a bunch of regular Noxian farmers) </p>
 
 <p> <strong><em>Friendly Champions</em></strong>: Literally none, possibly other Yordles but not evident.</p>
 
