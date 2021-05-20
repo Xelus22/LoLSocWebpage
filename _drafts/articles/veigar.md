@@ -330,7 +330,7 @@ img {vertical-align: middle;}
 </div>
 <div class="cont right">
 <div class="content">
-<p>Tortured by Mordekaiser, performed evil magic for Mordekaiser, Isolated, helpless and lost his purpose</p>
+<p>Tortured by Mordekaiser,performed evil magic for Mordekaiser,isolated, helpless and lost his purpose</p>
 </div>
 </div>
 <div class="cont left">
@@ -345,17 +345,17 @@ img {vertical-align: middle;}
 </div>
 <div class="cont left">
 <div class="content">
-<p>Quest to become the world's most wicket villian. </p>
+<p>Quest to become the world's most wicked villian. </p>
 </div>
 </div>
 <div class="cont right">
 <div class="content">
-<p>Terrorised bunch of farmers in Boleham .</p>
+<p>Terrorised bunch of farmers in Boleham.</p>
 </div>
 </div>
 <div class="cont left">
 <div class="content">
-<p>Got talked out of killing the farmers because noone took him seriously and now he is on his path to kill other evil mages and claim their power.</p>
+<p>Got talked out of killing the farmers because no one took him seriously and now is on his path to kill other evil mages and claim their power.</p>
 </div>
 </div>
 </div>
